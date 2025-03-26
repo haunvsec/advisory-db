@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-apache-tomcat-security-advisory-av25-127",
+    "title": "Apache Tomcat security advisory (AV25-127)",
+    "public_time": "2025-03-11T15:37:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-apache-tomcat-security-advisory-av25-127",
+    "type": "advisory",
+    "description": "On March 10, 2025, Apache published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Apache Tomcat   versions 11.0.0-M1 to 11.0.2",
+        "Apache Tomcat   versions 10.1.0-M1 to 10.1.34",
+        "Apache Tomcat   versions 9.0.0.M1 to 9.0.98"
+    ],
+    "cves": [
+        "CVE-2025-24813"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://lists.apache.org/thread/j5fkjv2k477os90nczf2v9l61fb0kkgq"
+    ],
+    "advisory_id": "AV25-127"
+}
