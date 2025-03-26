@@ -1,0 +1,25 @@
+{
+    "id": "fortinet-security-advisory-av25-129",
+    "title": "Fortinet security advisory (AV25-129)",
+    "public_time": "2025-03-11T17:00:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-129",
+    "type": "advisory",
+    "description": "On March 11, 2025, Fortinet published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "FortiADC   multiple versions",
+        "FortiIsolator 2.4   versions 2.4.0 to 2.4.5",
+        "FortiSandbox   multiple versions",
+        "FortiSIEM   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-23-117",
+        "https://www.fortiguard.com/psirt/FG-IR-24-178",
+        "https://www.fortiguard.com/psirt/FG-IR-23-216",
+        "https://www.fortiguard.com/psirt/FG-IR-24-306",
+        "https://www.fortiguard.com/psirt/FG-IR-24-327",
+        "https://www.fortiguard.com/psirt"
+    ],
+    "advisory_id": "AV25-129"
+}
