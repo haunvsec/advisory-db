@@ -1,0 +1,17 @@
+{
+    "id": "cisco-security-advisory-av25-140",
+    "title": "Cisco security advisory (AV25-140)",
+    "public_time": "2025-03-13T18:39:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-140",
+    "type": "advisory",
+    "description": "On March 12, 2025, Cisco published security advisories to address vulnerabilities in multiple products. Included were updates for the following product:",
+    "products": [
+        "Cisco IOS XR  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    ],
+    "advisory_id": "AV25-140"
+}
