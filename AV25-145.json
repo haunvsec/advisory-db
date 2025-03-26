@@ -1,0 +1,22 @@
+{
+    "id": "ubuntu-security-advisory-av25-145",
+    "title": "Ubuntu security advisory (AV25-145)",
+    "public_time": "2025-03-17T14:28:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-145",
+    "type": "advisory",
+    "description": "Between March 10 and 16, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 14.04 ESM",
+        "Ubuntu 16.04 ESM",
+        "Ubuntu 18.04 ESM",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices"
+    ],
+    "advisory_id": "AV25-145"
+}
