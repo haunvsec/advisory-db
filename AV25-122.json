@@ -1,0 +1,26 @@
+{
+    "id": "control-systems-moxa-security-advisory-av25-122",
+    "title": "[Control Systems] Moxa security advisory (AV25-122)",
+    "public_time": "2025-03-10T18:54:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av25-122",
+    "type": "advisory",
+    "description": "On March 6, 2025, Moxa published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "PT-508 Series   firmware version 3.8 and prior",
+        "PT-510 Series   firmware version 3.8 and prior",
+        "PT-7528 Series   firmware version 5.0 and prior",
+        "PT-7728 Series   firmware version 3.9 and prior",
+        "PT-7828 Series   firmware version 4.0 and prior",
+        "PT-G503 Series   firmware version 5.3 and prior",
+        "PT-G510 Series   firmware version 6.5 and prior",
+        "PT-G7728 Series   firmware version 6.5 and prior",
+        "PT-G7828 Series   firmware version 6.5 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-241408-cve-2024-12297-frontend-authorization-logic-disclosure-vulnerability-identified-in-pt-switches",
+        "https://www.moxa.com/en/support/product-support/security-advisory"
+    ],
+    "advisory_id": "AV25-122"
+}
