@@ -1,0 +1,29 @@
+{
+    "id": "ibm-security-advisory-av25-143",
+    "title": "IBM security advisory (AV25-143)",
+    "public_time": "2025-03-17T13:12:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-143",
+    "type": "advisory",
+    "description": "Between March 10 and 16, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM API Connect  versions V10.0.5.0 to V10.0.5.8 and V10.0.8.0 to 10.0.8.1",
+        "IBM App Connect Enterprise Certified Containers Operands  CD: 12.0.7.0-r4 to 12.0.12.5-r1, 13.0.1.0-r1 to 13.0.2.0-r1",
+        "IBM App Connect Enterprise Certified Containers Operands  12.0 LTS: 12.0.12-r1 to 12.0.12-r7",
+        "IBM App Connect Operator  CD: 7.2.0-11.6.0, 12.1.0 to 12.7.0",
+        "IBM App Connect Operator  12.0 LTS: 12.0.0 to 12.0.7",
+        "IBM DataStage on Cloud Pak for Data  version 4.8.4",
+        "IBM Jazz Foundation  version 7.0.2",
+        "IBM Netcool Operations Insight  versions 1.4 to 1.4.12, 1.5 to 1.5.0.1 and 1.6 to 1.6.13",
+        "IBM Observability with Instana (OnPrem)  versions 1.0.287 to 1.0.290",
+        "IBM Qiskit SDK  versions 0.18.0 to 1.4.1",
+        "IBM Total Storage Service Console (TSSC) / TS4500 IMC  versions 9.4.14, 9.4.21, 9.4.26, 9.4.31, 9.5.8, 9.6.10 and 9.6.15",
+        "IBM watsonx Assistant Cartridge  versions 4.0 to 5.1.0",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge - Assistant Builder Component  versions 5.0 to 5.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ],
+    "advisory_id": "AV25-143"
+}
