@@ -1,0 +1,27 @@
+{
+    "id": "hpe-security-advisory-av25-138",
+    "title": "HPE security advisory (AV25-138)",
+    "public_time": "2025-03-13T14:42:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-138",
+    "type": "advisory",
+    "description": "On March 12, 2025, HPE published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "HPE Cray EX235a Accelerator Blade  versions prior to v2.1.0 (HFP 25.1.2)",
+        "HPE Cray EX235n Server  versions prior to v1.5.1 (HFP 24.10.1)",
+        "HPE Cray EX255a Accelerator Blade  versions prior to v1.4.0 (HFP 25.1.2)",
+        "HPE Cray EX425 Compute Blade  versions prior to v1.7.6 (HFP 24.10.1)",
+        "HPE Cray EX4252 Compute Blade  versions prior to v2.0.1 (HFP 25.1.2)",
+        "HPE ProLiant XL225n Gen10 Plus 1U Node  versions prior to v3.60_01-16-2025",
+        "HPE ProLiant XL645d Gen10 Plus Server  versions prior to v3.40_10-04-2024 (HFP 24.11.0)",
+        "HPE ProLiant XL675d Gen10 Plus Server  versions prior to v3.40_10-04-2024 (HFP 24.11.0)",
+        "HPE Cray XD665  versions prior to v1.50 On the Portal HPE Cray SC XD665 Firmware Pack 2024.09.00",
+        "HPE Cray XD675  versions prior to v3.1.5 (HPE Cray SC XD665 Firmware Pack 2024.09.00)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04827en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ],
+    "advisory_id": "AV25-138"
+}
