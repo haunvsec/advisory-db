@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av25-155",
+    "title": "Dell security advisory (AV25-155)",
+    "public_time": "2025-03-24T14:13:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-155",
+    "type": "advisory",
+    "description": "Between March 17 and 23, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.01.02.00",
+        "Dell Chassis Management Controller (CMC) for Dell PowerEdge FX2  versions prior to 2.40.200.202101130302",
+        "Dell Chassis Management Controller (CMC) for PowerEdge VRTX  versions prior to 3.41.200.202209300499",
+        "Dell Data Protection Central  versions 19.9.0 to 19.11.0-2",
+        "Dell ECS  versions prior to 3.8.1.4",
+        "Dell SmartFabric Manager  versions 1.0.0 and 1.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ],
+    "advisory_id": "AV25-155"
+}
