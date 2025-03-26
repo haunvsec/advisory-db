@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-153",
+    "title": "HPE security advisory (AV25-153)",
+    "public_time": "2025-03-21T14:54:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-153",
+    "type": "advisory",
+    "description": "On March 21, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Service Activator   versions prior to 10.1.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04833en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ],
+    "advisory_id": "AV25-153"
+}
