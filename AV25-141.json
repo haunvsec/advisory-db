@@ -1,0 +1,18 @@
+{
+    "id": "vmware-security-advisory-av25-141",
+    "title": "VMware security advisory (AV25-141)",
+    "public_time": "2025-03-14T14:05:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-141",
+    "type": "advisory",
+    "description": "On March 13, 2025, VMware released a security advisory to address vulnerabilities in multiple products. Included was a critical update for the following product:",
+    "products": [
+        "VMware Tanzu GemFire  versions prior to 10.0.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25506",
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VC"
+    ],
+    "advisory_id": "AV25-141"
+}
