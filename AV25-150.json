@@ -1,0 +1,18 @@
+{
+    "id": "veeam-security-advisory-av25-150",
+    "title": "Veeam security advisory (AV25-150)",
+    "public_time": "2025-03-19T19:56:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av25-150",
+    "type": "advisory",
+    "description": "On March 19, 2025, Veeam published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Veeam Backup & Replication  all versions 12 prior to build 12.3.1.1139"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4724",
+        "https://www.veeam.com/knowledge-base.html"
+    ],
+    "advisory_id": "AV25-150"
+}
