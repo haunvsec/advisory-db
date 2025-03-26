@@ -1,0 +1,17 @@
+{
+    "id": "nextjs-security-advisory-av25-162",
+    "title": "Next.js security advisory (AV25-162)",
+    "public_time": "2025-03-25T15:52:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nextjs-security-advisory-av25-162",
+    "type": "advisory",
+    "reference": [
+        "https://nextjs.org/blog/cve-2025-29927"
+    ],
+    "description": "On March 22, 2025, Next.js published a security advisory to address a critical vulnerability in the following product:",
+    "affected_note": "Next.js  15.x versions prior to 15.2.3\nNext.js  14.x versions prior to 14.2.25\nNext.js  13.x versions prior to 13.5.9\nNext.js  12.x versions prior to 12.3.5",
+    "cves": [
+        "CVE-2025-29927"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "advisory_id": "AV25-162"
+}
