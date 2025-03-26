@@ -4,15 +4,15 @@
     "public_time": "2025-03-25T17:37:42Z",
     "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-163",
     "type": "advisory",
-    "reference": [
-        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25518",
-        "https://support.broadcom.com/web/ecx/security-advisory?segment=VC"
-    ],
     "description": "On March 25, 2025, VMware published a Security Advisory to address a vulnerability in the following product:",
-    "affected_note": "VMware Tools  versions 11.x.x and 12.x.x prior to 12.5.1 for Windows",
+    "products": "VMware Tools  versions 11.x.x and 12.x.x prior to 12.5.1 for Windows",
     "cves": [
         "CVE-2025-22230"
     ],
     "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25518",
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VC"
+    ],
     "advisory_id": "AV25-163"
 }
