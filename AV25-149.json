@@ -1,0 +1,20 @@
+{
+    "id": "jenkins-security-advisory-av25-149",
+    "title": "Jenkins security advisory (AV25-149)",
+    "public_time": "2025-03-19T19:34:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-149",
+    "type": "advisory",
+    "description": "On March 19, 2025, Jenkins published a security advisory to address vulnerabilities in the following products::",
+    "products": [
+        "AnchorChain Plugin  version 1.0 and prior",
+        "EDDSA API Plugin  version 3.0-13.v7cb_69ed68f00 and prior",
+        "Zoho QEngine Plugin  version 0.29.vfa_cc23396502 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-03-19/",
+        "https://www.jenkins.io/security/advisories/"
+    ],
+    "advisory_id": "AV25-149"
+}
