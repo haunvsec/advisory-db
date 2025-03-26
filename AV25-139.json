@@ -1,0 +1,19 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-139",
+    "title": "[Control systems] Siemens security advisory (AV25-139)",
+    "public_time": "2025-03-13T14:47:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-139",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Simcenter Femap V2401  versions prior to V2401.0003",
+        "Simcenter Femap V2406  versions prior to V2406.0002"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-920092.html?ste_sid=53dc3f3a47a35738e8b0527554f65fce",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ],
+    "advisory_id": "AV25-139"
+}
