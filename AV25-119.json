@@ -1,0 +1,24 @@
+{
+    "id": "ibm-security-advisory-av25-119",
+    "title": "IBM security advisory (AV25-119)",
+    "public_time": "2025-03-10T15:47:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-119",
+    "type": "advisory",
+    "description": "Between March 3 and 9, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "GSDC Platform On-prem   version 3.6.2",
+        "IBM Aspera Shares   versions 1.9.9 to 1.10.0 PL7",
+        "IBM Engineering Requirements Management DOORS Next   versions 7.0.2, 7.0.3 and 7.1",
+        "IBM Instana Observability   build 1.0.287",
+        "ICP - Discovery   versions 4.0.0 to 4.8.7 and versions 5.0.0 to 5.1.0",
+        "SPSS Collaboration and Deployment Services   version 8.5",
+        "Watson Studio on Cloud Pak for Data   versions 4.0.0 to 4.8.6 and versions 5.0.0 to 5.0.3",
+        "watsonx.data   version 2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ],
+    "advisory_id": "AV25-119"
+}
