@@ -1,0 +1,20 @@
+{
+    "id": "ivanti-security-advisory-av25-128",
+    "title": "Ivanti security advisory (AV25-128)",
+    "public_time": "2025-03-11T16:53:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-128",
+    "type": "advisory",
+    "description": "On March 11, 2025, Ivanti published security advisories to address vulnerabilities in multiple products. Included was an update for the following product:",
+    "products": [
+        "Ivanti Secure Access Client (ISAC)   version 22.7R3 and prior"
+    ],
+    "cves": [
+        "CVE-2025-22454"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/March-Security-Advisory-Ivanti-Secure-Access-Client-ISAC-CVE-2025-22454?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#t=All&sort=date%20descending&f:@sfkbknowledgearticletypec=[Security%20Advisory]"
+    ],
+    "advisory_id": "AV25-128"
+}
