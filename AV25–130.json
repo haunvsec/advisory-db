@@ -1,0 +1,31 @@
+{
+    "id": "microsoft-security-advisory-march-2025-monthly-rollup-av25-130",
+    "title": "Microsoft security advisory \u2013 March 2025 monthly rollup (AV25\u2013130)",
+    "public_time": "2025-03-11T18:20:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2025-monthly-rollup-av25-130",
+    "advisory_id": "AV25\u2013130",
+    "type": "advisory",
+    "description": "On March 11, 2025, Microsoft published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Microsoft 365 Apps   multiple versions and platforms",
+        "Microsoft Office   multiple versions and platforms",
+        "Remote Desktop client for Windows Desktop",
+        "Windows 10   multiple versions and platforms",
+        "Windows 11   multiple versions and platforms",
+        "Windows App Client for Windows Desktop",
+        "Windows Server   multiple versions and platforms"
+    ],
+    "cves": [
+        "CVE-2025-24983",
+        "CVE-2025-24984",
+        "CVE-2025-24985",
+        "CVE-2025-24991",
+        "CVE-2025-24993",
+        "CVE-2025-26633"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2025-Mar",
+        "https://msrc.microsoft.com/update\u2013guide/en\u2013us"
+    ]
+}
