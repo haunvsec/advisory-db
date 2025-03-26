@@ -1,0 +1,37 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-123",
+    "title": "[Control systems] Siemens security advisory (AV25-123)",
+    "public_time": "2025-03-11T13:00:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-123",
+    "type": "advisory",
+    "description": "On March 11, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Industrial Edge for Machine Tools   all versions",
+        "SCALANCE LPE9403   versions prior to V4.0",
+        "SCALANCE M-800 family   multiple platforms, versions prior to V8.2.1",
+        "SCALANCE SC-600 family   all versions",
+        "SIMATIC BRAUMAT   versions V8.0 SP1 to versions prior to V8.1",
+        "SIMATIC Energy Manager PRO   multiple versions",
+        "SIMATIC Field PG   all versions",
+        "SIMATIC IPC family   multiple versions",
+        "SIMATIC IPC DiagMonitor   all versions",
+        "SIMATIC ITP1000   all versions",
+        "SIMATIC S7-1500 TM MFP - BIOS   all versions",
+        "SIMATIC SISTAR   versions V8.0 SP1 to versions prior to V8.1",
+        "SIMATIC WinCC V8.0   versions prior to V8.0 Update 3",
+        "SIMIT V11   all versions",
+        "SINAMICS S200   multiple versions",
+        "SINEMA Remote Connect Server   versions prior to V3.2 SP3",
+        "SINEMA Remote Connect Client   versions prior to V3.2 AP3",
+        "SiPass integrated AC5102 and ACC-AP   versions prior to 6.4.8",
+        "Teamcenter Visualization   multiple versions",
+        "Tecnomatic Plant Simulation   multiple versions",
+        "Totally Integrated Automation Portal   versions V18 and V19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ],
+    "advisory_id": "AV25-123"
+}
