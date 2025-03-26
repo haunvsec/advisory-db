@@ -1,0 +1,20 @@
+{
+    "id": "github-security-advisory-av25-148",
+    "title": "GitHub security advisory (AV25-148)",
+    "public_time": "2025-03-19T13:07:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av25-148",
+    "type": "advisory",
+    "description": "On March 15, 2025, GitHub published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "tj-actions/changed-files GitHub Actions  versions 45.07 and prior"
+    ],
+    "cves": [
+        "CVE-2025-30066"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/advisories/GHSA-mrrh-fwg8-r2c3",
+        "https://www.cisa.gov/news-events/alerts/2025/03/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    ],
+    "advisory_id": "AV25-148"
+}
