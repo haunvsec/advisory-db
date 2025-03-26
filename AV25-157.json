@@ -1,0 +1,24 @@
+{
+    "id": "ibm-security-advisory-av25-157",
+    "title": "IBM security advisory (AV25-157)",
+    "public_time": "2025-03-24T14:29:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-157",
+    "type": "advisory",
+    "description": "Between March 17 and 23, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "AIX   versions 7.2 and 7.3",
+        "DataStage on Cloud Pak for Data   version 4.8.2 to 4.8.4",
+        "FileNet Content Manager   versions 5.5.12.0, 5.5.8.0 and 5.6.0.0",
+        "IBM CP4MCM   version 2.3 to 2.3 FP9",
+        "IBM Maximo Application Suite IoT Component   versions 8.7, 8.8 and 9.0",
+        "IBM Rapid Infrastructure Automation   version 1.1.4",
+        "IBM watsonx Assistant Cartridge   version 4.0 to 5.1.0",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge - Assistant Builder Component   version 5.0 to 5.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin "
+    ],
+    "advisory_id": "AV25-157"
+}
