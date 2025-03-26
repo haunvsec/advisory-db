@@ -1,0 +1,23 @@
+{
+    "id": "dell-security-advisory-av25-147",
+    "title": "Dell security advisory (AV25-147)",
+    "public_time": "2025-03-17T17:58:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-147",
+    "type": "advisory",
+    "description": "Between March 10 and 16, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.01.02.00",
+        "Dell Cloud Tiering Appliance CTA and CTA-HA  versions prior to 13.2.0.2.33",
+        "Dell Cloud Tiering Appliance CTA/VE and CTA-HA/VE  versions prior to 13.2.0.2.33",
+        "Dell Connectrix B-Series and SANnav  multiple models and versions",
+        "Dell Integrated System for Microsoft Azure Stack HCI  multiple models and versions",
+        "Dell Networking OS10  version 10.5.5.x and 10.5.6.x",
+        "Dell VxRail Appliance  multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ],
+    "advisory_id": "AV25-147"
+}
