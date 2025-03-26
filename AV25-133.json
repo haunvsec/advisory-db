@@ -1,0 +1,24 @@
+{
+    "id": "apple-security-advisory-av25-133",
+    "title": "Apple security advisory (AV25-133)",
+    "public_time": "2025-03-12T15:59:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-133",
+    "type": "advisory",
+    "description": "On March 11, 2025, Apple published security updates to address a vulnerability in the following products:",
+    "products": [
+        "iOS and iPadOS  versions prior to 18.3.2",
+        "macOS Sequoia  versions prior to 15.3.2",
+        "Safari  versions prior to 18.3.1"
+    ],
+    "cves": [
+        "CVE-2025-24201"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/122281",
+        "https://support.apple.com/en-us/122283",
+        "https://support.apple.com/en-us/122285",
+        "https://support.apple.com/en-us/100100"
+    ],
+    "advisory_id": "AV25-133"
+}
