@@ -1,0 +1,20 @@
+{
+    "id": "microsoft-edge-security-advisory-av25-134",
+    "title": "Microsoft Edge security advisory (AV25-134)",
+    "public_time": "2025-03-12T19:42:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-134",
+    "type": "advisory",
+    "description": "On March 11 and 12, 2025, Microsoft published security updates to address vulnerabilities in the following product::",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 134.0.3124.66"
+    ],
+    "cves": [
+        "CVE-2025-24201"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-11-2025",
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-12-2025"
+    ],
+    "advisory_id": "AV25-134"
+}
