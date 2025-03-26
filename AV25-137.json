@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av25-137",
+    "title": "GitLab security advisory (AV25-137)",
+    "public_time": "2025-03-13T14:15:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-137",
+    "type": "advisory",
+    "description": "On March 12, 2025, GitLab published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitLab Community Edition (CE)  versions prior to 17.9.2, 17.8.5 and 17.7.7",
+        "GitLab Enterprise Edition (EE)  versions prior to 17.9.2, 17.8.5 and 17.7.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/",
+        "https://about.gitlab.com/releases/categories/releases/"
+    ],
+    "advisory_id": "AV25-137"
+}
