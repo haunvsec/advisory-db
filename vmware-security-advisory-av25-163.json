@@ -5,7 +5,9 @@
     "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-163",
     "type": "advisory",
     "description": "On March 25, 2025, VMware published a Security Advisory to address a vulnerability in the following product:",
-    "products": "VMware Tools  versions 11.x.x and 12.x.x prior to 12.5.1 for Windows",
+    "products": [
+        "VMware Tools  versions 11.x.x and 12.x.x prior to 12.5.1 for Windows"
+    ],
     "cves": [
         "CVE-2025-22230"
     ],
