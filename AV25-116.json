@@ -1,0 +1,18 @@
+{
+    "id": "google-chrome-security-advisory-av25-116",
+    "title": "Google Chrome security advisory (AV25-116)",
+    "public_time": "2025-03-05T13:49:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-116",
+    "type": "advisory",
+    "description": "On March 4, 2025, Google published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Stable Channel Chrome for Desktop   versions prior to 134.0.6998.35/36 (Windows), 134.0.6998.44/45 (Mac) and 134.0.6998.35 (Linux)",
+        "Extended Stable Channel   versions prior to 134.0.6998.36 (Windows) and 134.0.6998.45 (Mac)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+    ],
+    "advisory_id": "AV25-116"
+}
