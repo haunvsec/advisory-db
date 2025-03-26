@@ -1,0 +1,18 @@
+{
+    "id": "palo-alto-networks-security-advisory-av25-136",
+    "title": "Palo Alto Networks security advisory (AV25-136)",
+    "public_time": "2025-03-12T20:12:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av25-136",
+    "type": "advisory",
+    "description": "On March 12, 2025, Palo Alto Networks published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Prisma Access Browser  versions prior to 133.16.4.99"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/PAN-SA-2025-0007",
+        "https://security.paloaltonetworks.com/"
+    ],
+    "advisory_id": "AV25-136"
+}
