@@ -1,0 +1,16 @@
+{
+    "id": "hpe-security-advisory-av25-160",
+    "title": "HPE security advisory (AV25-160)",
+    "public_time": "2025-03-24T18:18:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-160",
+    "type": "advisory",
+    "description": "Serial number: AV25-160Date: March 24, 2025",
+    "products": "HPE SANnav Management Software   versions prior to v2.3.1b and v2.4.0",
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbst04817en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbst04817en_us&docLocale=en_US"
+    ],
+    "advisory_id": "AV25-160"
+}
