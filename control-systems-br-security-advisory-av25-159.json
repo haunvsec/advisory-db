@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-br-security-advisory-av25-159",
+    "title": "[Control systems] B&R security advisory (AV25-159)",
+    "public_time": "2025-03-24T18:13:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av25-159",
+    "type": "advisory",
+    "reference": [
+        "https://www.br-automation.com/fileadmin/SA24P015-77573c08.pdf",
+        "https://www.br-automation.com/en/service/cyber-security/"
+    ],
+    "description": "Serial number: AV25-159Date: March 24, 2025",
+    "affected_note": "B&R APROL   versions prior to R 4.4-00P1 and versions prior to R 4.4-00P5",
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "advisory_id": "AV25-159"
+}
