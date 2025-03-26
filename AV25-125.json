@@ -1,0 +1,19 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av25-125",
+    "title": "[Control systems] Schneider Electric security advisory (AV25-125)",
+    "public_time": "2025-03-11T14:28:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av25-125",
+    "type": "advisory",
+    "description": "On March 11, 2025, Schneider Electric published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "EcoStruxure Panel Server   version v2.0 and prior",
+        "EcoStruxure Power Automation System User Interface (EPAS-UI) - Secured Versions   versions v2.1 to v2.9",
+        "WebHMI   version v4.1.0.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ],
+    "advisory_id": "AV25-125"
+}
