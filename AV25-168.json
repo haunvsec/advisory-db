@@ -1,0 +1,18 @@
+{
+    "id": "splunk-security-advisory-av25-168",
+    "title": "Splunk security advisory (AV25-168)",
+    "public_time": "2025-03-27T15:13:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-168",
+    "advisory_id": "AV25-168",
+    "type": "advisory",
+    "description": "On March 26, 2025, Splunk published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Splunk Enterprise  versions prior to 9.4.0, 9.3.3, 9.2.5 and 9.1.8",
+        "Splunk Cloud Platform  versions prior to 9.3.2408.104, 9.2.2406.108, 9.2.2403.114 and 9.1.2312.208"
+    ],
+    "cves": [
+        "CVE-2025-20229"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
