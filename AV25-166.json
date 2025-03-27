@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av25-166",
+    "title": "GitLab security advisory (AV25-166)",
+    "public_time": "2025-03-26T17:34:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-166",
+    "advisory_id": "AV25-166",
+    "type": "advisory",
+    "description": "On March 26, 2025, GitLab published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitLab Community Edition (CE)  versions prior to 17.10.1, 17.9.3 and 17.8.6",
+        "GitLab Enterprise Edition (EE)  versions prior to 17.10.1, 17.9.3 and 17.8.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://about.gitlab.com/releases/2025/03/26/patch-release-gitlab-17-10-1-released/",
+        "https://about.gitlab.com/releases/categories/releases/"
+    ]
+}
