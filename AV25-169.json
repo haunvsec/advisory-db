@@ -1,0 +1,27 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-169",
+    "title": "[Control systems] ABB security advisory (AV25-169)",
+    "public_time": "2025-03-27T17:47:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-169",
+    "advisory_id": "AV25-169",
+    "type": "advisory",
+    "description": "On March 27, 2025, ABB published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "ACS880 Primary Control Program  version AINLX prior to 3.47 and version YINLX prior to 1.30",
+        "ACS880 IGBT Supply Control Program  multiple versions",
+        "ACS880 Position Control Program  version APCLX 1.04.0.5 and prior.",
+        "ACS880 Test Bench Control Program  version ATBLX 3.44.0.0 and prior",
+        "DCT880 memory unit incl. ABB Drive Application Builder license (IEC 61131-3)  version 3ADT786242R0101",
+        "DCT880 memory unit incl. Power Optimizer  version 3ADT786242R0201",
+        "DCS880 memory unit incl. ABB Drive Application Builder license (IEC 61131-3)  version 3ADT786251R0101",
+        "DCS880 memory unit incl. DEMag  version 3ADT786251R0201",
+        "DCS880 memory unit incl. DCC  version 3ADT786251R0401"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A9491&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A9494&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
