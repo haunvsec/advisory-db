@@ -1,0 +1,20 @@
+{
+    "id": "esri-security-advisory-av25-171",
+    "title": "Esri security advisory (AV25-171)",
+    "public_time": "2025-03-28T17:57:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/esri-security-advisory-av25-171",
+    "advisory_id": "AV25-171",
+    "type": "advisory",
+    "description": "On March 13, 2025, Esri published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Portal for ArcGIS   versions 11.4, 11.3, 11.2, 11.1, and 10.9.1"
+    ],
+    "cves": [
+        "CVE-2025-2538"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2025-update-1-patch",
+        "https://support.esri.com/en-us/search?s=Relevance&cardtype=support_patches_updates"
+    ]
+}
