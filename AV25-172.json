@@ -1,0 +1,32 @@
+{
+    "id": "dell-security-advisory-av25-172",
+    "title": "Dell security advisory (AV25-172)",
+    "public_time": "2025-03-31T15:03:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-172",
+    "advisory_id": "AV25-172",
+    "type": "advisory",
+    "description": "Between March 24 and 30, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell Enterprise SONiC Distribution   versions prior to 4.4.2",
+        "Dell ObjectScale   versions prior to ObjectScale 4.0",
+        "Dell Storage Monitoring and Reporting   versions prior to 5.0.2.2",
+        "Dell Storage Monitoring and Reporting   versions prior to 5.0.2.2",
+        "Dell Storage Resource Manager   versions prior to 5.0.2.2",
+        "Dell Unity   versions prior to 5.5.0.0.5.259",
+        "PowerStore 1000T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 1200T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 3000T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 3200T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 5000T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 500T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 5200T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 7000T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 9000T   versions prior to 3.6.1.5-2456810",
+        "PowerStore 9200T   versions prior to 3.6.1.5-2456810"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
