@@ -1,0 +1,25 @@
+{
+    "id": "ibm-security-advisory-av25-173",
+    "title": "IBM security advisory (AV25-173)",
+    "public_time": "2025-03-31T15:10:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-173",
+    "advisory_id": "AV25-173",
+    "type": "advisory",
+    "description": "Between March 24 and 30, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM Automation Decision Services   version 24.0.0",
+        "IBM Cloud Pak for AIOps   version 4.1.0 to 4.8.1",
+        "IBM Data Virtualization on Cloud Pak for Data   multiple versions",
+        "IBM Maximo Application Suite - AI Broker Component   versions 9.0.5",
+        "IBM Maximo Application Suite - AI Broker   version 9.0.4",
+        "IBM Planning Analytics Cartridge for IBM Cloud Pak for Data   version 4.8.0 to 4.8.8",
+        "IBM Planning Analytics Cartridge   version 5.0.0 to 5.1.0",
+        "IBM Watson Query on Cloud Pak for Data   multiple versions",
+        "IBM Db2 on Cloud Pak for Data and Db2 Warehouse on Cloud Pak for Data   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin "
+    ]
+}
