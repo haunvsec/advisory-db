@@ -1,0 +1,27 @@
+{
+    "id": "apple-security-advisory-av25-177",
+    "title": "Apple security advisory (AV25-177)",
+    "public_time": "2025-03-31T19:24:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-177",
+    "advisory_id": "AV25-177",
+    "type": "advisory",
+    "description": "On March 31, 2025, Apple published security updates to address vulnerabilities in the following products:",
+    "products": [
+        "iOS and iPadOS   versions prior to 18.4",
+        "iPadOS   versions prior to 17.7.6",
+        "iOS and iPadOS   versions prior to 16.7.11",
+        "iOS and iPadOS   versions prior to 15.8.4",
+        "macOS Sequoia   versions prior to 15.4",
+        "macOS Sonoma   versions prior to 14.7.5",
+        "macOS Ventura   versions prior to 13.7.5"
+    ],
+    "cves": [
+        "CVE-2025-24085",
+        "CVE-2025-24200",
+        "CVE-2025-24201"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/100100"
+    ]
+}
