@@ -1,0 +1,20 @@
+{
+    "id": "red-hat-security-advisory-av25-176",
+    "title": "Red Hat security advisory (AV25-176)",
+    "public_time": "2025-03-31T17:27:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-176",
+    "advisory_id": "AV25-176",
+    "type": "advisory",
+    "description": "Between March 24 and 30, 2025, Red Hat published security advisories to address vulnerabilities in multiple products. Included were updates to address vulnerabilities in the Linux kernel for the following products:",
+    "products": [
+        "Red Hat Enterprise Linux   multiple versions and platforms",
+        "Red Hat Enterprise Linux Server   multiple versions and platforms",
+        "Red Hat Enterprise Linux for Real Time   multiple versions and platforms",
+        "Red Hat CodeReady Linux Builder   multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://access.redhat.com/security/security-updates/security-advisories\u2003"
+    ]
+}
