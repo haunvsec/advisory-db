@@ -1,0 +1,25 @@
+{
+    "id": "jenkins-security-advisory-av25-183",
+    "title": "Jenkins security advisory (AV25-183)",
+    "public_time": "2025-04-02T18:59:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-183",
+    "advisory_id": "AV25-183",
+    "type": "advisory",
+    "description": "On April 2, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Jenkins weekly   version 2.503 and prior",
+        "Jenkins LTS   version 2.492.2 and prior",
+        "AsakusaSatellite Plugin   version 0.1.1 and prior",
+        "Cadence vManager Plugin   version 4.0.0-282.v5096a_c2db_275 and prior",
+        "monitor-remote-job Plugin   version 1.0 and prior",
+        "Simple Queue Plugin   version 1.4.6 and prior",
+        "Stack Hammer Plugin   version 1.0.6 and prior",
+        "Templating Engine Plugin   version 2.5.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-04-02/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
