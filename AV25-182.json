@@ -1,0 +1,20 @@
+{
+    "id": "cisco-security-advisory-av25-182",
+    "title": "Cisco security advisory (AV25-182)",
+    "public_time": "2025-04-02T18:52:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-182",
+    "advisory_id": "AV25-182",
+    "type": "advisory",
+    "description": "On April 2, 2025, Cisco published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Cisco Enterprise Chat and Email (ECE)  versions prior to 12.6 ES 10",
+        "Cisco Meraki MX and Cisco Meraki Z Series  firmware versions 16.2, 17, 18.1, 18.2 and 19.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ece-dos-tC6m9GZ8",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-meraki-mx-vpn-dos-vNRpDvfb",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
