@@ -1,0 +1,24 @@
+{
+    "id": "ivanti-security-advisory-av25-184",
+    "title": "Ivanti security advisory (AV25-184)",
+    "public_time": "2025-04-03T16:03:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-184",
+    "advisory_id": "AV25-184",
+    "type": "advisory",
+    "description": "On April 3, 2025, Ivanti published a security advisory to address a vulnerability in multiple products. Included was a critical update for the following:",
+    "products": [
+        "Ivanti Connect Secure  version 22.7R2.5 and prior",
+        "Pulse Connect Secure (EoS)  version 9.1R18.9 and prior",
+        "Ivanti Policy Secure  version 22.7R1.3 and prior",
+        "ZTA Gateways  version 22.8R2 and prior"
+    ],
+    "cves": [
+        "CVE-2025-22457",
+        "CVE-2025-22457"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/April-Security-Advisory-Ivanti-Connect-Secure-Policy-Secure-ZTA-Gateways-CVE-2025-22457?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#t=All&sort=date%20descending&f:@sfkbknowledgearticletypec=[Security%20Advisory]"
+    ]
+}
