@@ -1,0 +1,21 @@
+{
+    "id": "apache-security-advisory-av25-185",
+    "title": "Apache security advisory (AV25-185)",
+    "public_time": "2025-04-04T17:32:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av25-185",
+    "advisory_id": "AV25-185",
+    "type": "advisory",
+    "description": "On March 17, 2025, Apache published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Apache Parquet  version 1.15.0 and prior"
+    ],
+    "cves": [
+        "CVE-2025-30065"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://lists.apache.org/thread/okzqb3kn479gqzxm21gg5vqr35om9gw5",
+        "https://cwiki.apache.org/confluence/display/WW/Security+Bulletins",
+        "https://www.cve.org/CVERecord?id=CVE-2025-30065"
+    ]
+}
