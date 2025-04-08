@@ -1,0 +1,21 @@
+{
+    "id": "ibm-security-advisory-av25-189",
+    "title": "IBM security advisory (AV25-189)",
+    "public_time": "2025-04-07T18:23:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-189",
+    "advisory_id": "AV25-189",
+    "type": "advisory",
+    "description": "Between March 31 and April 6, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Business Automation Manager Open Editions  versions 9.0.0 to 9.1.1",
+        "IBM API Connect  versions V10.0.0.5.0 to V10.0.5.8 and versions V10.0.8.0 to 10.0.8.2",
+        "IBM App Connect Enterprise  versions 13.0.1.0 to 13.0.2.2 and versions 12.0.1.0 to 12.0.12.11",
+        "IBM Watson Speech Services Cartridge  versions 4.0.0 to 5.1.1",
+        "InfoSphere Information Server  version 11.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
