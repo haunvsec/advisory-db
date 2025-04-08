@@ -1,0 +1,28 @@
+{
+    "id": "dell-security-advisory-av25-188",
+    "title": "Dell security advisory (AV25-188)",
+    "public_time": "2025-04-07T16:27:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-188",
+    "advisory_id": "AV25-188",
+    "type": "advisory",
+    "description": "Between March 31 and April 6, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell Avamar Data Store Gen5a  version ADS Gen5A",
+        "Dell PowerMax EEM 10.1.0.7  version 10.1.0.5.10551 and prior",
+        "Dell PowerMax EEM 10.2.0.1  version 10.2.0.0",
+        "Dell PowerMax EEM 5978  version 5978.714.714.10632 and prior",
+        "Dell PowerMax OS 10.1.0.7  version 10.1.0.5.10551 and prior",
+        "Dell PowerMax OS 10.2.0.1  version 10.2.0.0",
+        "Dell PowerMax OS 5978  version 5978.714.714.10632 and prior",
+        "PowerFlex Custom Node  multiple versions and platforms",
+        "Solutions Enabler Virtual Appliance  versions prior to 9.2.4.9",
+        "Unisphere 360  versions prior to 9.2.4.35",
+        "Unisphere for PowerMax  multiple versions",
+        "VxFlex Ready Node  multiple platforms, versions prior to 2.22.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
