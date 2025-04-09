@@ -1,0 +1,35 @@
+{
+    "id": "adobe-security-advisory-av25-199",
+    "title": "Adobe security advisory (AV25\u2013199)",
+    "public_time": "2025-04-08T19:13:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-199",
+    "advisory_id": "AV25\u2013199",
+    "type": "advisory",
+    "description": "On April 8, 2025, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Adobe After Effects   version 24.6.4 and prior and version 25.1 and prior",
+        "Adobe Animate 2024   version 24.0.7 and prior",
+        "Adobe Animate 2023   version 23.0.10 and prior",
+        "Adobe Bridge   version 14.1.5 and prior and version 15.0.2 and prior",
+        "Adobe Commerce   multiple versions",
+        "Adobe Commerce B2B   multiple versions",
+        "Adobe Experience Manager Forms on JEE   version 6.5.22.0 (AEMForms-6.5.0-0093) and prior",
+        "Adobe Experience Manager Screens   version AEM 6.5 Screens FP11.3 and prior",
+        "Adobe FrameMaker   version 2022 Release Update 5 and prior",
+        "Adobe FrameMaker   version 2020 Release Update 7 and prior",
+        "Adobe Media Encoder   version 24.6.4 and prior and version 25.1 and prior",
+        "Adobe Premiere Pro   version 25.1 and prior and version 24.6.4 and prior",
+        "Adobe XMP-Toolkit-SDK   version 2023.12 and prior",
+        "ColdFusion 2025   version build 331385",
+        "ColdFusion 2023   version Update 12 and prior",
+        "ColdFusion 2021   version Update 18 and prior",
+        "Magento Open Source   multiple versions",
+        "Photoshop 2025   version 26.4.1 and prior",
+        "Photoshop 2024   version 25.12.1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
