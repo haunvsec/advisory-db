@@ -1,0 +1,43 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-194",
+    "title": "[Control systems] Siemens security advisory (AV25-194)",
+    "public_time": "2025-04-08T17:34:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-194",
+    "advisory_id": "AV25-194",
+    "type": "advisory",
+    "description": "On April 8, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Industrial Edge Device Kit - arm64 and x86-64  multiple versions",
+        "Industrial Edge Own Device  versions prior to V1.21.1-1-a",
+        "Industrial Edge Virtual Device  versions prior to V1.21.1-1-a",
+        "Insights Hub Private Cloud  all versions",
+        "Mendix Runtime V8  all versions",
+        "Mendix Runtime V9  versions prior to V9.24.34",
+        "Mendix Runtime V10  versions prior to V10.21.0",
+        "Mendix Runtime V10.6, V10.12 and V10.18  all versions",
+        "SCALANCE LPE9413  all versions",
+        "SENTRON 7KT PAC1260 Data Manager  all versions",
+        "SIDIS Prime  versions prior to V4.0.700",
+        "SIDOOR  multiple versions and models",
+        "Siemens License Server  versions prior to V4.3",
+        "SIMATIC CFU  multiple versions and models",
+        "SIMATIC ET  multiple versions and models",
+        "SIMATIC IPC Industrial Edge Device  multiple versions and models",
+        "SIMATIC PN/PN Coupler  all versions",
+        "SIMATIC Power Line Booster Base Module and Modem Module ST  all versions",
+        "SIMATIC S7  multiple versions and models",
+        "SIMATIC TDC CP51M1 and CPU555  all versions",
+        "SIMOCODE pro V Ethernet/IP and PROFINET  all versions",
+        "SINUMERIK 840D sl  all versions",
+        "SIPLUS HCS4200 and HCS4300  all versions",
+        "SIPLUS NET PN/PN Coupler  all versions",
+        "SIWAREX  multiple versions and models",
+        "Solid Edge SE2024  versions prior to V224.0 Update 12",
+        "Solid Edge SE2025  versions prior to V225.0 Update 3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
