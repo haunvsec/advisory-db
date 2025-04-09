@@ -1,0 +1,23 @@
+{
+    "id": "sap-security-advisory-april-2025-monthly-rollup-av25-192",
+    "title": "SAP security advisory \u2013 April 2025 monthly rollup (AV25-192)",
+    "public_time": "2025-04-08T16:10:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2025-monthly-rollup-av25-192",
+    "advisory_id": "AV25-192",
+    "type": "advisory",
+    "description": "On April 8, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP Capital Yield Tax Management  versions CYTERP 420_700, CYT 800, IBS 7.0 and CYT4HANA 100",
+        "SAP Commerce Cloud  versions HY_COM 2205 and COM_CLOUD 2211",
+        "SAP Financial Consolidation  version 1010",
+        "SAP Landscape Transformation DMIS  versions 2011_1_700, 2011_1_710, 2011_1_730 and 2011_1_731",
+        "SAP NetWeaver and ABAP Platform (Service Data Collection)  versions ST-PI 2008_1_700, 2008_1_710 and 740",
+        "SAP NetWeaver Application Server ABAP  versions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 7.22EXT, 7.53, KERNEL 7.22, 7.53, 7.54, 7.77, 7.89 and 7.93",
+        "SAP S/4HANA S4CORE  versions 102, 103, 104, 105, 106, 107 and 108"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/april-2025.html"
+    ]
+}
