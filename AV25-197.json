@@ -1,0 +1,24 @@
+{
+    "id": "fortinet-security-advisory-av25-197",
+    "title": "Fortinet security advisory (AV25-197)",
+    "public_time": "2025-04-08T18:57:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-197",
+    "advisory_id": "AV25-197",
+    "type": "advisory",
+    "description": "On April 8, 2025, Fortinet published security advisories to address vulnerabilities in multiple products. Included was a critical update for the following:",
+    "products": [
+        "FortiSwitch 7.6  version 7.6.0",
+        "FortiSwitch 7.4  versions 7.4.0 to 7.4.4",
+        "FortiSwitch 7.2  versions 7.2.0 to 7.2.8",
+        "FortiSwitch 7.0  versions 7.0.0 to 7.0.10",
+        "FortiSwitch 6.4  versions 6.4.0 to 6.4.14"
+    ],
+    "cves": [
+        "CVE-2024-48887"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-24-435",
+        "https://www.fortiguard.com/psirt"
+    ]
+}
