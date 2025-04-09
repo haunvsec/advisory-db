@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av25-193",
+    "title": "[Control systems] Schneider Electric security advisory (AV25-193)",
+    "public_time": "2025-04-08T16:17:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av25-193",
+    "advisory_id": "AV25-193",
+    "type": "advisory",
+    "description": "On April 8, 2025, Schneider Electric published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "ConneXium Network Manager  all versions",
+        "Trio Q Licensed Data Radio  versions prior to v2.7.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-098-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-098-01.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-098-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-098-02.pdf",
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
