@@ -1,0 +1,24 @@
+{
+    "id": "microsoft-security-advisory-april-2025-monthly-rollup-av25-201",
+    "title": "Microsoft security advisory - April 2025 monthly rollup (AV25-201)",
+    "public_time": "2025-04-08T19:33:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2025-monthly-rollup-av25-201",
+    "advisory_id": "AV25-201",
+    "type": "advisory",
+    "description": "On April 8, 2025, Microsoft published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Microsoft 365 Apps - multiple versions and platforms",
+        "Microsoft Office - multiple versions and platforms",
+        "Windows 10 - multiple versions and platforms",
+        "Windows 11 - multiple versions and platforms",
+        "Windows Server - multiple versions and platforms"
+    ],
+    "cves": [
+        "CVE-2025-29824"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2025-Apr",
+        "https://msrc.microsoft.com/update-guide/en-us"
+    ]
+}
