@@ -1,0 +1,24 @@
+{
+    "id": "juniper-networks-security-advisory-av25-202",
+    "title": "Juniper Networks security advisory (AV25-202)",
+    "public_time": "2025-04-09T18:52:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-202",
+    "advisory_id": "AV25-202",
+    "type": "advisory",
+    "description": "On April 9, 2025, Juniper Networks published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "CTP View   versions prior to 9.2R1",
+        "Junos OS   multiple versions",
+        "Junos OS Evolved   multiple versions",
+        "Junos OS on EX and QFX5k Series   multiple versions",
+        "Junos OS on MX Series   multiple versions",
+        "Juno OS on SRX Series   multiple versions",
+        "Junos Space   versions prior to 24.1R3",
+        "Junos Space Security Director   versions prior to 24.1R3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/global-search/%40uri?language=en_US#sort=%40sfcec_community_publish_date_formula__c%20descending"
+    ]
+}
