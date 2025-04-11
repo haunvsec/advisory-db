@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-205",
+    "title": "HPE security advisory (AV25-205)",
+    "public_time": "2025-04-10T17:44:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-205",
+    "advisory_id": "AV25-205",
+    "type": "advisory",
+    "description": "On April 9, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Cray XD670   versions prior to BMC v1.19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04848en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
