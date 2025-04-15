@@ -1,0 +1,23 @@
+{
+    "id": "dell-security-advisory-av25-208",
+    "title": "Dell security advisory (AV25-208)",
+    "public_time": "2025-04-14T16:11:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-208",
+    "advisory_id": "AV25-208",
+    "type": "advisory",
+    "description": "Between April 7 and 13, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell Avamar Data Store Gen5a  version ADS Gen5A",
+        "Dell Integrated System for Microsoft Azure Stack HCI  multiple versions and models",
+        "Dell Integrated System for Microsoft Azure Stack Hub 16G  versions prior to 2502",
+        "Dell iDRAC9  versions prior to 7.00.00.181 and 7.20.30.50",
+        "Dell NetWorker Management Console  versions prior to 19.11.04 and 19.12.0.1",
+        "Dell PowerProtect Cyber Recovery Software  versions prior to 19.18.0.2",
+        "Dell PowerProtect Data Manager DM5500 Appliance Software  versions prior to 5.19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
