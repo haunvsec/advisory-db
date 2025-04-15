@@ -1,0 +1,29 @@
+{
+    "id": "ibm-security-advisory-av25-209",
+    "title": "IBM security advisory (AV25-209)",
+    "public_time": "2025-04-14T16:15:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-209",
+    "advisory_id": "AV25-209",
+    "type": "advisory",
+    "description": "Between April 7 and 13, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM Business Automation Manager Open Editions  versions 8.0.0 to 8.0.6",
+        "IBM Guardium Data Protection  version 11.4, 12.0 and 12.1",
+        "IBM Integration Bus for z/OS  versions 10.1.0.0 to 10.1.0.5",
+        "IBM PCOMM  versions v14.x and v15.x",
+        "IBM Process Mining  versions 2.0.0 IF001 and 2.0.0",
+        "IBM Storage Protect Plus  versions 10.1.0. to 10.1.16",
+        "IBM Storage Protect Server  version 8.1",
+        "IBM Storage Scale  versions 5.1.7.0 to 5.1.9.8 and 5.2.0.0 to 5.2.2.0",
+        "IBM Security Verify Governance  version ISVG 10.02",
+        "IBM Security Verify Governance, Identity Manager Software Stack  version ISVG 10.02",
+        "IBM Security Verify Governance, Identity Manager Virtual Appliance  version ISVG 10.02",
+        "IBM Security Verify Governance Identity Manager Container  version ISVG 10.02",
+        "IBM watsonx Code Assistant IDE Extensions  version 0.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
