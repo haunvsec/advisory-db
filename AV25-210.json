@@ -1,0 +1,20 @@
+{
+    "id": "red-hat-security-advisory-av25-210",
+    "title": "Red Hat security advisory (AV25-210)",
+    "public_time": "2025-04-14T16:20:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-210",
+    "advisory_id": "AV25-210",
+    "type": "advisory",
+    "description": "Between April 7 and 13, 2025, Red Hat published security advisories to address vulnerabilities in multiple products. Included were updates to address vulnerabilities in the Linux kernel for the following products:",
+    "products": [
+        "Red Hat Enterprise Linux  multiple versions and platforms",
+        "Red Hat Enterprise Linux Server for Power LE  multiple versions and platforms",
+        "Red Hat Enterprise Linux Server  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://access.redhat.com/errata/RHSA-2025:3832",
+        "https://access.redhat.com/security/security-updates/security-advisories"
+    ]
+}
