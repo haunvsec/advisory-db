@@ -1,0 +1,21 @@
+{
+    "id": "apache-security-advisory-av25-213",
+    "title": "Apache security advisory (AV25-213)",
+    "public_time": "2025-04-15T17:18:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av25-213",
+    "advisory_id": "AV25-213",
+    "type": "advisory",
+    "description": "On April 11, 2025, Apache published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Apache Roller   versions prior to 6.1.5"
+    ],
+    "cves": [
+        "CVE-2025-24859"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://lists.apache.org/thread/vxv52vdr8nhtjlj6v02w43fdvo0cxw23",
+        "https://lists.apache.org/thread/4j906k16v21kdx8hk87gl7663sw7lg7f",
+        "https://nvd.nist.gov/vuln/detail/CVE-2025-24859"
+    ]
+}
