@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-215",
+    "title": "[Control systems] Siemens security advisory (AV25-215)",
+    "public_time": "2025-04-16T14:30:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-215",
+    "advisory_id": "AV25-215",
+    "type": "advisory",
+    "description": "On April 16, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included was an update for the following:",
+    "products": [
+        "TeleControl Server Basic   versions prior to V3.1.2.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-443402.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
