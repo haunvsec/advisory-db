@@ -1,0 +1,18 @@
+{
+    "id": "cisco-security-advisory-av25-219",
+    "title": "Cisco security advisory (AV25-219)",
+    "public_time": "2025-04-17T15:41:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-219",
+    "advisory_id": "AV25-219",
+    "type": "advisory",
+    "description": "On April 16, 2025, Cisco published security advisories to address vulnerabilities in multiple products. Included was an update for the following:",
+    "products": [
+        "Cisco Webex App  versions 44.6 and 44.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-app-client-rce-ufyMMYLC",
+        "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    ]
+}
