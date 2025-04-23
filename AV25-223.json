@@ -1,0 +1,22 @@
+{
+    "id": "ibm-security-advisory-av25-223",
+    "title": "IBM security advisory (AV25-223)",
+    "public_time": "2025-04-22T18:40:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-223",
+    "advisory_id": "AV25-223",
+    "type": "advisory",
+    "description": "Between April 14 and 20, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM App Connect Enterprise  versions 12.0.1.0 to 12.0.12.12 and 13.0.1.0 to 13.0.2.2",
+        "IBM CICS TX Standard  version 11.1",
+        "IBM Cloud Pak for Security  version 1.10.0.0 to 1.10.11.0",
+        "IBM Maximo Application Suite  multiple versions",
+        "PowerVC  versions 2.1.1.2, 2.2.0, 2.2.1, 2.2.1.1 and 2.3.0",
+        "QRadar Suite Software  version 1.10.12.0 to 1.11.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
