@@ -1,0 +1,27 @@
+{
+    "id": "dell-security-advisory-av25-224",
+    "title": "Dell security advisory (AV25-224)",
+    "public_time": "2025-04-22T18:42:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-224",
+    "advisory_id": "AV25-224",
+    "type": "advisory",
+    "description": "Between April 14 and 20, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Dell Data Lakehouse  versions prior to 1.4.0.0",
+        "Dell Storage Resource Manager  versions prior to 5.1.0.0",
+        "Dell Storage Monitoring and Reporting  versions prior to 5.1.0.0",
+        "PowerStore 1000X  versions prior to 3.2.1.6-2476179",
+        "PowerStore 3000X  versions prior to 3.2.1.6-2476179",
+        "PowerStore 5000X  versions prior to 3.2.1.6-2476179",
+        "PowerStore 7000X  versions prior to 3.2.1.6-2476179",
+        "PowerStore 9000X  versions prior to 3.2.1.6-2476179"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000309323/dsa-2025-165-dell-storage-resource-manager-srm-and-dell-storage-monitoring-and-reporting-smr-security-update-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000308870/dsa-2025-182-dell-powerstore-x-security-update-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000308929/dsa-2025-184-security-update-for-dell-data-lakehouse-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
