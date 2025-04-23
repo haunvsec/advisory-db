@@ -1,0 +1,21 @@
+{
+    "id": "hpe-security-advisory-av25-226",
+    "title": "HPE security advisory (AV25-226)",
+    "public_time": "2025-04-22T19:19:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-226",
+    "advisory_id": "AV25-226",
+    "type": "advisory",
+    "description": "Between April 15 and 22, 2025, HPE published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "HPE Brocade Fabric OS - versions prior to v9.1.1d7 and v9.2.0",
+        "HPE Compute Scale-up Server 3200 - versions prior to v1.55.98",
+        "HPE Performance Cluster Manager HPCM 1.12 and prior",
+        "HPE Superdome Flex 280 Server - versions prior to v2.00.12",
+        "HPE Telco Unified OSS Console - versions prior to v3.1.15"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
