@@ -1,0 +1,23 @@
+{
+    "id": "cisco-security-advisory-av25-229",
+    "title": "Cisco security advisory (AV25-229)",
+    "public_time": "2025-04-24T14:48:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-229",
+    "advisory_id": "AV25-229",
+    "type": "advisory",
+    "description": "On April 23, 2025, Cisco published a security advisory to address a critical vulnerability in the following products::",
+    "products": [
+        "ConfD",
+        "ConfD Basic",
+        "Intelligent Node Manager",
+        "Network Services Orchestrator (NSO)",
+        "Smart PHY",
+        "Ultra Cloud Core - Subscriber Microservices Infrastructure"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-erlang-otp-ssh-xyZZy",
+        "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    ]
+}
