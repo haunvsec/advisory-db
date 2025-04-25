@@ -1,0 +1,21 @@
+{
+    "id": "erlang-security-advisory-av25-232",
+    "title": "Erlang security advisory (AV25-232)",
+    "public_time": "2025-04-24T16:03:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av25-232",
+    "advisory_id": "AV25-232",
+    "type": "advisory",
+    "description": "On April 16, 2025, Erlang published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "OTP  versions OTP-27.3.2 and prior",
+        "OTP  versions OTP-26.2.5.10 and prior",
+        "OTP  versions OTP-25.3.2.19 and prior"
+    ],
+    "cves": [
+        "CVE-2025-32433"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/erlang/otp/security/advisories/GHSA-37cp-fgq5-7wc2"
+    ]
+}
