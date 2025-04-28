@@ -1,0 +1,21 @@
+{
+    "id": "ibm-security-advisory-av25-236",
+    "title": "IBM security advisory (AV25-236)",
+    "public_time": "2025-04-28T14:39:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-236",
+    "advisory_id": "AV25-236",
+    "type": "advisory",
+    "description": "Between April 21 and 27, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM Power HMC V10.2.1030.0  version V10.2.1030.0",
+        "IBM Power HMC V10.3.1050.0  version V10.3.1050.0",
+        "IBM QRadar SIEM  version 7.5 to 7.5.0 UP11 IF03",
+        "IBM webMethods B2B (on-prem)  versions 10.11, 10.15 and 11.1",
+        "IBM webMethods Integration (on prem)  versions 10.11, 10.15 and 11.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
