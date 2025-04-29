@@ -1,0 +1,21 @@
+{
+    "id": "apache-tomcat-security-advisory-av25-239",
+    "title": "Apache Tomcat security advisory (AV25-239)",
+    "public_time": "2025-04-29T14:20:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-tomcat-security-advisory-av25-239",
+    "advisory_id": "AV25-239",
+    "type": "advisory",
+    "description": "On April 28, 2025, Apache published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Apache Tomcat  versions 11.0.0-M1 to 11.0.5",
+        "Apache Tomcat  versions 10.1.0-M1 to 10.1.39",
+        "Apache Tomcat  versions 9.0.0.M1 to 9.0.102"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.104",
+        "https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.40",
+        "https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.6"
+    ]
+}
