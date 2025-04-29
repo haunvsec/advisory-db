@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-241",
+    "title": "[Control systems] ABB security advisory (AV25-241)",
+    "public_time": "2025-04-29T15:56:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-241",
+    "advisory_id": "AV25-241",
+    "type": "advisory",
+    "description": "On April 29, 2025, ABB published security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Ekip Com IEC61850  versions prior to 3.08"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=2CRT000007&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
