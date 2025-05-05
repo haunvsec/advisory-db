@@ -1,0 +1,17 @@
+{
+    "id": "android-security-advisory-may-2025-monthly-rollup-av25-250",
+    "title": "Android security advisory \u2013 May 2025 monthly rollup (AV25-250)",
+    "public_time": "2025-05-05T19:53:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-may-2025-monthly-rollup-av25-250",
+    "advisory_id": "AV25-250",
+    "type": "advisory",
+    "description": "On May 5, 2025, Android published a security bulletin to address vulnerabilities affecting Android devices.",
+    "products": [
+        "Android Security Bulletin"
+    ],
+    "cves": [
+        "CVE-2025-27363"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
