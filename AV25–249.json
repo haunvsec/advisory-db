@@ -1,0 +1,21 @@
+{
+    "id": "commvault-security-advisory-av25-249",
+    "title": "Commvault security advisory (AV25\u2013249)",
+    "public_time": "2025-05-05T19:51:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av25-249",
+    "advisory_id": "AV25\u2013249",
+    "type": "advisory",
+    "description": "On April 11, 2025, Commvault published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Commvault  versions 11.38.0 to 11.38.19"
+    ],
+    "cves": [
+        "CVE-2025-34028"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.cisa.gov/news-events/alerts/2025/05/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+        "https://documentation.commvault.com/securityadvisories/CV_2025_04_1.html",
+        "https://documentation.commvault.com/securityadvisories/"
+    ]
+}
