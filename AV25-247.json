@@ -1,0 +1,24 @@
+{
+    "id": "ibm-security-advisory-av25-247",
+    "title": "IBM security advisory (AV25-247)",
+    "public_time": "2025-05-05T16:12:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-247",
+    "advisory_id": "AV25-247",
+    "type": "advisory",
+    "description": "Between April 28 and May 4, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "CP4NA  version 2.7.7",
+        "GDSC Platform On-prem  version 3.7.1",
+        "IBM Cloud Pak for Business Automation  versions V24.0.1 to V24.0.1-IF001 and versions 24.0.0 to 24.0.0-IF004",
+        "IBM Cloud Pak System  version 2.3.4.0 (Intel)",
+        "IBM Planning Analytics Cartridge  versions 5.0.0 to 5.1.0",
+        "IBM Planning Analytics Cartridge for IBM Cloud Pak for Data  versions 4.8.0 to 4.8.8",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge  versions 4.8.4 to 4.8.5 and versions 5.0.0 to 5.1.1",
+        "IBM Watson Speech Services Cartridge  versions 4.0.0 to 5.1.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
