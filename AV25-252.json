@@ -1,0 +1,24 @@
+{
+    "id": "f5-security-advisory-av25-252",
+    "title": "F5 security advisory (AV25-252)",
+    "public_time": "2025-05-07T17:16:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av25-252",
+    "advisory_id": "AV25-252",
+    "type": "advisory",
+    "description": "On May 7, 2025, F5 published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "BIG-IP (all modules)  versions 17.1.0 to 17.1.2, versions 16.1.0 to 16.1.5, and versions 15.1.0 to 15.1.10",
+        "BIG-IP (APM)  versions 17.1.0 to 17.1.2, versions 16.1.0 to 16.1.5, and versions 15.1.0 to 15.1.10",
+        "BIG-IP (PEM)  versions 17.1.0 to 17.1.2, versions 16.1.0 to 16.1.5, and versions 15.1.0 to 15.1.10",
+        "BIG-IP Next (all modules)  versions 20.2.0 to 20.2.1",
+        "BIG-IP Next SPK  versions 1.8.0 to 1.9.2 and versions 1.7.0 to 1.9.2",
+        "BIG-IP Next CNF  versions 1.1.0 to 1.4.1",
+        "F5OS-A  versions 1.5.1 to 1.5.3",
+        "F5OS-C  versions 1.6.0 to 1.6.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://my.f5.com/manage/s/article/K000151008"
+    ]
+}
