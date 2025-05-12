@@ -1,0 +1,25 @@
+{
+    "id": "dell-security-advisory-av25-261",
+    "title": "Dell security advisory (AV25-261)",
+    "public_time": "2025-05-12T14:37:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-261",
+    "advisory_id": "AV25-261",
+    "type": "advisory",
+    "description": "Between May 5 and 11, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell Connectrix SANnav  versions prior to 2.3.1a",
+        "Dell Edge Gateway  multiple models and versions prior to 2.00.10",
+        "Dell EMC Networking VEP1425/VEP1445/VEP1485  versions prior to 2.6",
+        "Dell Networking VEP4600  multiple models and versions prior to 4.3",
+        "Dell PowerFlex rack  versions prior to 3.7.7.0",
+        "Dell PowerFlex rack  versions prior to 3.8.2.0",
+        "Dell PowerSwitch  multiple models and versions",
+        "Dell SD-WAN Edge 600  versions prior to 2.6",
+        "Dell Storage Manager DSM  versions prior to 2020 R1.21"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
