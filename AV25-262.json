@@ -1,0 +1,42 @@
+{
+    "id": "ibm-security-advisory-av25-262",
+    "title": "IBM security advisory (AV25-262)",
+    "public_time": "2025-05-12T15:43:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-262",
+    "advisory_id": "AV25-262",
+    "type": "advisory",
+    "description": "Between May 5 and 11, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM App Connect Operator  multiple versions",
+        "IBM App Connect Enterprise Certified Containers Operands  multiple versions",
+        "IBM Application Modernization Accelerator  versions 4.0.0 to 4.1.0",
+        "IBM Business Automation Insights  versions 24.0.0 and 24.0.1",
+        "IBM CICS TX Advanced  versions 10.1 and 11.1",
+        "IBM Cloud Pak for Business Automation  multiple versions",
+        "IBM Cloud Pak for Data System 1.0  versions 1.0.0.0 to 1.0.8.4",
+        "IBM Cloud Transformation Advisor  versions 2.0.1 to 4.1.0",
+        "IBM Cognos Dashboards on Cloud Pak for Data  versions 4.8.0 to 4.8.8 and versions 5.0.0 to 5.1.2",
+        "IBM Content Collector for Email  version 4.0.1",
+        "IBM Content Collector for File Systems  version 4.0.1",
+        "IBM Content Collector for Microsoft  version 4.0.1",
+        "IBM Maximo AI Service  version 9.0.5",
+        "IBM Maximo Application Suite  versions 8.8, 8.9 and 9.0",
+        "IBM Maximo Application Suite - Location Service for Esri Component  version 9.0",
+        "IBM Operational Decision Manager  multiple versions",
+        "IBM Planning Analytics Local  IBM Planning Analytics Workspace   versions 2.0 and 2.1",
+        "IBM Storage Scale  versions 1.7.0 to 5.1.9.8 and 5.2.2.0 to 5.2.2.1",
+        "IBM Storage Virtualize vSphere Remote Plug-in  multiple versions",
+        "IBM TXSeries for Multiplatforms  multiple versions",
+        "IBM Watson Knowledge Catalog on-prem  versions 4.5.2, 4.6.6 to 4.8.6 and versions 5.0 to 5.0.3",
+        "IBM Watson Machine Learning Accelerator on Cloud Pak for Data  versions 4.8.2 to 4.8.6 and versions 5.0 to 5.0.2",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge  versions 4.8.4 to 4.8.5",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge  versions 5.0.0 to 5.1.2",
+        "IBM watsonx.data  version 2.1.2",
+        "Red Hat OpenShift on IBM Cloud  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
