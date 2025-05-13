@@ -1,0 +1,22 @@
+{
+    "id": "apple-security-advisory-av25-264",
+    "title": "Apple security advisory (AV25-264)",
+    "public_time": "2025-05-13T13:54:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-264",
+    "advisory_id": "AV25-264",
+    "type": "advisory",
+    "description": "On May 12, 2025, Apple published security updates to address vulnerabilities in the following products:",
+    "products": [
+        "iOS and iPadOS  versions prior to 18.5",
+        "iPadOS  versions prior to 17.7.7",
+        "macOS Sequoia  versions prior to 15.5",
+        "macOS Sonoma  versions prior to 14.7.6",
+        "macOS Ventura  versions prior to 13.7.6",
+        "Safari  versions prior to 18.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/100100"
+    ]
+}
