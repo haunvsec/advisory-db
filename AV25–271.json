@@ -1,0 +1,36 @@
+{
+    "id": "adobe-security-advisory-av25-271",
+    "title": "Adobe security advisory (AV25\u2013271)",
+    "public_time": "2025-05-14T15:37:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-271",
+    "advisory_id": "AV25\u2013271",
+    "type": "advisory",
+    "description": "On May 13, 2025, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Adobe Animate 2023  version 23.0.11 and prior",
+        "Adobe Animate 2024  version 24.0.8 and prior",
+        "Adobe Bridge  version 14.1.6 and prior",
+        "Adobe Bridge  version 15.0.3 and prior",
+        "Adobe ColdFusion 2021  version Update 19 and prior",
+        "Adobe ColdFusion 2023  version Update 13 and prior",
+        "Adobe ColdFusion 2025  version Update 1 and prior",
+        "Adobe Connect  version 12.8 and prior",
+        "Adobe Dimension  version 4.1.1 and prior",
+        "Adobe Dreamweaver  version 21.4 and prior",
+        "Adobe Illustrator 2024  version 28.7.5 and prior",
+        "Adobe Illustrator 2025  version 29.3 and prior",
+        "Adobe InDesign  version ID19.5.2 and prior",
+        "Adobe InDesign  version ID20.2 and prior",
+        "Adobe Lightroom  version 8.2 and prior",
+        "Adobe Substance 3D Modeler  version 1.21.0 and prior",
+        "Adobe Substance 3D Stager  version 3.1.1 and prior",
+        "Photoshop 2024  version 25.12.2 and prior",
+        "Photoshop 2025  version 26.5 and prior",
+        "Adobe Substance 3D Painter  version 11.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
