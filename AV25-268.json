@@ -1,0 +1,15 @@
+{
+    "id": "intel-security-advisory-av25-268",
+    "title": "Intel security advisory (AV25-268)",
+    "public_time": "2025-05-13T18:24:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av25-268",
+    "advisory_id": "AV25-268",
+    "type": "advisory",
+    "description": "On May 12 and 13, 2025, Intel published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Intel Product Security Center Advisories"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
