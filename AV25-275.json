@@ -1,0 +1,21 @@
+{
+    "id": "juniper-networks-security-advisory-av25-275",
+    "title": "Juniper Networks security advisory (AV25-275)",
+    "public_time": "2025-05-14T19:30:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-275",
+    "advisory_id": "AV25-275",
+    "type": "advisory",
+    "description": "On May 9 and 13, 2025, Juniper Networks published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Juniper Secure Analytics  versions 7.5.0 to versions prior to 7.5.0 UP11 IF02",
+        "Junos OS  versions 19.4R1 and later",
+        "Junos OS Evolved  versions 22.3R1 and later"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH?language=en_US",
+        "https://supportportal.juniper.net/s/article/On-Demand-JSA-Series-Multiple-vulnerabilities-resolved-in-Juniper-Secure-Analytics-in-7-5-0-UP11-IF03?language=en_US",
+        "https://supportportal.juniper.net/s/global-search/%40uri?language=en_US"
+    ]
+}
