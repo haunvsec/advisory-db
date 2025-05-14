@@ -1,0 +1,22 @@
+{
+    "id": "jenkins-security-advisory-av25-276",
+    "title": "Jenkins security advisory (AV25-276)",
+    "public_time": "2025-05-14T19:45:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-276",
+    "advisory_id": "AV25-276",
+    "type": "advisory",
+    "description": "On May 14, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Cadence vManager Plugin  version 4.0.1-286.v9e25a_740b_a_48 and prior",
+        "DingTalk Plugin  version 2.7.3 and prior",
+        "Health Advisor by CloudBees Plugin  version 374.v194b_d4f0c8c8 and prior",
+        "OpenID Connect Provider Plugin  version 96.vee8ed882ec4d and prior",
+        "WSO2 Oauth Plugin  version 1.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-05-14/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
