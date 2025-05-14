@@ -1,0 +1,26 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av25-277",
+    "title": "[Control systems] Schneider Electric security advisory (AV25-277)",
+    "public_time": "2025-05-14T20:04:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av25-277",
+    "advisory_id": "AV25-277",
+    "type": "advisory",
+    "description": "On May 13, 2025, Schneider Electric published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Galaxy VS, VL and VXL   all versions",
+        "Modicon Controllers M241 / M251  versions prior to v5.3.12.48",
+        "Modicon Controllers M258 / LMC058   all versions",
+        "PrismaSeT Active - Wireless Panel Server   all versions",
+        "Wiser AvatarOn 6K Freelocate   all versions",
+        "Wiser Cuadro H 5P Socket   all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-133-05&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-133-05.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-133-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-133-01.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-133-04&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-133-04.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-133-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-133-02.pdf",
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
