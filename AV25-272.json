@@ -1,0 +1,31 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-272",
+    "title": "[Control systems] Siemens security advisory (AV25-272)",
+    "public_time": "2025-05-14T15:59:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-272",
+    "advisory_id": "AV25-272",
+    "type": "advisory",
+    "description": "On May 13, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Desigo CC  all versions",
+        "INTRALOG WMS  versions prior to V5",
+        "OZW672  multiple models and versions",
+        "RUGGEDCOM ROX II family  multiple models and versions",
+        "SCALANCE LPE9403(6GK5998-3GS00-2AC2)  all versions",
+        "SIMATIC IPC RS-828A  all versions",
+        "SIMATIC PCS neo  versions V4.1 and V5.0",
+        "SINEC NMS  versions prior to V2.15.1.1",
+        "SINEMA Remote Connect  versions prior to UMC V2.15.1.1",
+        "SIRIUS 3RK3 Modular Safety System (MSS)  all versions",
+        "SIRIUS Safety Relays 3SK2  all versions",
+        "Teamcenter Visualization  multiple models and versions",
+        "Totally Integrated Automation Portal (TIA Portal)  versions prior to UMCV2.15.1.1",
+        "User Management Component (UMC)  versions prior to UMC V2.15.1.1",
+        "VersiCharge AC Series  multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
