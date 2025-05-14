@@ -1,0 +1,23 @@
+{
+    "id": "ivanti-security-advisory-av25-267",
+    "title": "Ivanti security advisory (AV25-267)",
+    "public_time": "2025-05-13T17:33:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-267",
+    "advisory_id": "AV25-267",
+    "type": "advisory",
+    "description": "On May 13, 2025, Ivanti published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Ivanti Cloud Services Application   version 5.0.4 and prior",
+        "Ivanti Neurons for ITSM (on-prem only)   versions 2023.4, 2024.2 and 2024.3"
+    ],
+    "cves": [
+        "CVE-2025-22460",
+        "CVE-2025-22462"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Cloud-Services-Application-CVE-2025-22460?language=en_US",
+        "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Neurons-for-ITSM-on-premises-only-CVE-2025-22462?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
