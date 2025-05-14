@@ -1,0 +1,21 @@
+{
+    "id": "sap-security-advisory-may-2025-monthly-rollup-av25-265",
+    "title": "SAP security advisory \u2013 May 2025 monthly rollup (AV25-265)",
+    "public_time": "2025-05-13T14:09:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-may-2025-monthly-rollup-av25-265",
+    "advisory_id": "AV25-265",
+    "type": "advisory",
+    "description": "On May 13, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP Business Objects Business Intelligence Platform (PMW)  versions ENTERPRISE 430, 2025 and 2027",
+        "SAP Landscape Transformation (PCL Basis)  versions DMIS 2011_1_700, 2011_1_710, 2011_1_730, 2011_1_731, 2018_1_752, 2020, S4CORE 102, 103, 104, 105, 106, 107 and 108",
+        "SAP NetWeaver (Visual Composer development server)  version VCFRAMEWORK 7.50",
+        "SAP Supplier Relationship Management (Live Auction Cockpit)  version SRM_SERVER 7.14",
+        "SAP S/4HANA S4CORE Cloud Private Edition or on Premise (SCM Master Data Layer (MDL))  versions S4CORE 102, 103, 104, 105, 106, 107, 108, SCM_BASIS 700, 701, 702, 712, 713 and 714"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html"
+    ]
+}
