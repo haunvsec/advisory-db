@@ -1,0 +1,22 @@
+{
+    "id": "atlassian-security-advisory-av25-284",
+    "title": "Atlassian security advisory (AV25-284)",
+    "public_time": "2025-05-20T19:22:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-284",
+    "advisory_id": "AV25-284",
+    "type": "advisory",
+    "description": "On May 20, 2025, Atlassian published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server  multiple versions",
+        "Confluence Data Center and Server  multiple versions",
+        "Fisheye/Crucible  version 4.9.0",
+        "Jira Data Center and Server  multiple versions",
+        "Jira Service Management Data Center and Server  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-may-20-2025-1561365992.html",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
