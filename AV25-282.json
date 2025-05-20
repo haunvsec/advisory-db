@@ -1,0 +1,33 @@
+{
+    "id": "dell-security-advisory-av25-282",
+    "title": "Dell security advisory (AV25-282)",
+    "public_time": "2025-05-20T16:35:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-282",
+    "advisory_id": "AV25-282",
+    "type": "advisory",
+    "description": "Between May 12 and 18, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.04.01.00",
+        "RecoverPoint for Virtual Machines  versions 6.0 SP1, 6.0 SP1 P1, 6.0 SP1 P2 and 6.0. SP2",
+        "Dell EMC Networking VEP1425/1445/1485  versions prior to 2.6",
+        "Dell SD-WAN EDGE620/640/680  versions prior to 3.50.0.9-21",
+        "Dell SD-WAN EDGE610/610-LTE  versions prior to 3.43.0.9-24",
+        "PowerFlex Appliance IC  versions prior to IC-38.367.01",
+        "PowerSwitch Z9664F-ON  versions prior to 3.54.5.1-9",
+        "PowerSwitch Z9432F-ON  versions prior to 3.51.5.1-21",
+        "PowerSwitch Z9264F-ON  versions prior to 3.42.5.1-21",
+        "PowerSwitch S5448F-ON  versions prior to 3.52.5.1-12",
+        "PowerSwitch E3200-ON Series  versions prior to 3.57.5.1-5",
+        "PowerSwitch N2200-ON Series  versions prior to 3.45.5.1-31",
+        "PowerSwitch N3200-ON Series  versions prior to 3.45.5.1-31"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-us/000321268/dsa-2025-209-security-update-for-dell-powerflex-appliance-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-us/000320811/dsa-2025-202-security-update-for-dell-recoverpoint-for-virtual-machines-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-us/000321646/dsa-2025-197-security-update-for-dell-networking-products-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-us/000321006/dsa-2025-196-security-update-for-dell-apex-cloud-platform-for-red-hat-openshift-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-us"
+    ]
+}
