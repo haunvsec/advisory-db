@@ -1,0 +1,23 @@
+{
+    "id": "ibm-security-advisory-av25-281",
+    "title": "IBM security advisory (AV25-281)",
+    "public_time": "2025-05-20T15:53:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-281",
+    "advisory_id": "AV25-281",
+    "type": "advisory",
+    "description": "Between May 12 and 18, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Astronomer with IBM  version 0.36.1",
+        "IBM ApplinX  version 11.1",
+        "IBM Business Automation Workflow Enterprise Service Bus  multiple versions",
+        "IBM Business Automation Workflow traditional  multiple versions",
+        "IBM Event Streams  version 11.3.0 to 11.6.1",
+        "IBM Storage Copy Data Management  version 2.2.0.0 to 2.2.25.0",
+        "IBM watsonx Assistant for IBM Cloud Pak for Data  version 4.0.0 to 4.8.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
