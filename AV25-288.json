@@ -1,0 +1,18 @@
+{
+    "id": "cisco-security-advisory-av25-288",
+    "title": "Cisco security advisory (AV25-288)",
+    "public_time": "2025-05-21T20:16:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-288",
+    "advisory_id": "AV25-288",
+    "type": "advisory",
+    "description": "On May 21, 2025, Cisco published security advisories to address vulnerabilities in multiple products. Included was an update for the following product:",
+    "products": [
+        "Cisco Identity Services Engine (ISE)  version 3.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-restart-ss-uf986G2Q",
+        "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    ]
+}
