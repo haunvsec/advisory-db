@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av25-289",
+    "title": "HPE security advisory (AV25-289)",
+    "public_time": "2025-05-22T14:23:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-289",
+    "advisory_id": "AV25-289",
+    "type": "advisory",
+    "description": "On May 22, 2025, HPE published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "HPE NonStop SSL (T0910)  multiple versions",
+        "HPE MR-WIN6530 (T0819)  multiple versions",
+        "HPE NonStop SSH Server (T0801)  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbns04859en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
