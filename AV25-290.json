@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-290",
+    "title": "[Control systems] ABB security advisory (AV25-290)",
+    "public_time": "2025-05-22T19:31:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-290",
+    "advisory_id": "AV25-290",
+    "type": "advisory",
+    "description": "On May 22, 2025, ABB published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "ASPECT-Enterprise ASP-ENT-x model  version 3.08.03 and prior",
+        "NEXUS Series NEX-2x and NEXUS-3-x model  version 3.08.03 and prior",
+        "MATRIX Series MAT-x model  version 3.08.03 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A0021&LanguageCode=en&DocumentPartId=pdf&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
