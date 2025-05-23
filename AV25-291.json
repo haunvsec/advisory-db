@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-291",
+    "title": "[Control systems] Siemens security advisory (AV25-291)",
+    "public_time": "2025-05-23T20:15:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-291",
+    "advisory_id": "AV25-291",
+    "type": "advisory",
+    "description": "On May 23, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included was an update for the following:",
+    "products": [
+        "SiPass integrated  versions prior to V2.95.3.18"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-041082.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
