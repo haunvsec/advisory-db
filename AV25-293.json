@@ -1,0 +1,23 @@
+{
+    "id": "ibm-security-advisory-av25-293",
+    "title": "IBM security advisory (AV25-293)",
+    "public_time": "2025-05-26T14:03:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-293",
+    "advisory_id": "AV25-293",
+    "type": "advisory",
+    "description": "Between May 19 and 25, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM Integrated Analytics System  versions 1.0.0.0 to 1.0.30.0",
+        "IBM Integration Bus  versions 10.1.0.0 to 10.1.0.5",
+        "IBM MANTA Automated Data Lineage for IBM Cloud Pak for Data  versions 5.0 to 5.1.2",
+        "IBM Maximo AI Service  version 9.0.5",
+        "IBM Security QRadar EDR  version 3.12",
+        "IBM watsonx Assistant Cartridge  versions 4.0 to 5.1.2",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge - Assistant Builder Component  versions 5.0 to 5.1.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
