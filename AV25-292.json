@@ -1,0 +1,20 @@
+{
+    "id": "dell-security-advisory-av25-292",
+    "title": "Dell security advisory (AV25-292)",
+    "public_time": "2025-05-26T13:52:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-292",
+    "advisory_id": "AV25-292",
+    "type": "advisory",
+    "description": "Between May 19 and 25, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell Networking OS10  versions prior to 10.5.6.9",
+        "CloudBoost Virtual Appliance  versions prior to 19.12.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-us/000322822/dsa-2025-175-security-update-for-dell-cloudboost-virtual-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-us/000322758/dsa-2025-160-security-update-for-dell-networking-os10-vulnerabilities",
+        "https://www.dell.com/support/security/en-us"
+    ]
+}
