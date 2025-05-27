@@ -1,0 +1,18 @@
+{
+    "id": "citrix-security-advisory-av25-298",
+    "title": "Citrix security advisory (AV25-298)",
+    "public_time": "2025-05-27T17:33:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av25-298",
+    "advisory_id": "AV25-298",
+    "type": "advisory",
+    "description": "On May 27, 2025, Citrix published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "XenServer VM Tools for Windows  versions prior to 9.4.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/s/article/CTX692748-xenserver-and-citrix-hypervisor-security-update-for-cve202527462-cve202527463-cve202527464?language=en_US",
+        "https://support.citrix.com/s/?language=en_US#/?ct=Security%20Bulletins&searchText=&sortBy=Created%20date&pageIndex=1"
+    ]
+}
