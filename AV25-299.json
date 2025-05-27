@@ -1,0 +1,17 @@
+{
+    "id": "google-chrome-security-advisory-av25-299",
+    "title": "Google Chrome security advisory (AV25-299)",
+    "public_time": "2025-05-27T20:09:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-299",
+    "advisory_id": "AV25-299",
+    "type": "advisory",
+    "description": "On May 27, 2025, Google published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Stable Channel Chrome for Desktop  versions prior to 137.0.7151.55/56 (Windows/Mac), and 137.0.7151.55 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_27.html"
+    ]
+}
