@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-303",
+    "title": "HPE security advisory (AV25-303)",
+    "public_time": "2025-05-30T15:00:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-303",
+    "advisory_id": "AV25-303",
+    "type": "advisory",
+    "description": "On May 30, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE OneView  versions prior to v10.00"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04853en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
