@@ -1,0 +1,18 @@
+{
+    "id": "connectwise-security-advisory-av25-301",
+    "title": "ConnectWise security advisory (AV25-301)",
+    "public_time": "2025-05-30T14:39:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av25-301",
+    "advisory_id": "AV25-301",
+    "type": "advisory",
+    "description": "On April 24, 2025, ConnectWise published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "ConnectWise ScreenConnect  version 25.2.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.connectwise.com/company/trust/security-bulletins/screenconnect-security-patch-2025.4",
+        "https://www.connectwise.com/company/trust/advisories"
+    ]
+}
