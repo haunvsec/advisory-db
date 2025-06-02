@@ -1,0 +1,24 @@
+{
+    "id": "dell-security-advisory-av25-306",
+    "title": "Dell security advisory (AV25-306)",
+    "public_time": "2025-06-02T15:38:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-306",
+    "advisory_id": "AV25-306",
+    "type": "advisory",
+    "description": "Between May 26 and June 1, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.03.01.00",
+        "Dell Avamar  multiple versions and products",
+        "Dell Connectrix SANnav  versions prior to 2.3.1a",
+        "Dell NetWorker Runtime Environment (NRE)  version 8.0.24",
+        "Dell NetWorker Virtual Edition (NVE)  multiple versions",
+        "Dell PowerProtect DP Series Appliance (IDPA)  versions prior to 2.7.8",
+        "Dell ThinOS  multiple versions",
+        "Dell VxRail Appliance  versions 7.0.000 to 7.0.541"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
