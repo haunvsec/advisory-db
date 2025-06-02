@@ -1,0 +1,20 @@
+{
+    "id": "roundcube-security-advisory-av25-309",
+    "title": "Roundcube security advisory (AV25-309)",
+    "public_time": "2025-06-02T18:26:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av25-309",
+    "advisory_id": "AV25-309",
+    "type": "advisory",
+    "description": "On June 1, 2025, Roundcube published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Webmail   versions prior to 1.5.10",
+        "Webmail   versions prior to 1.6.11"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://roundcube.net/news/2025/06/01/security-updates-1.6.11-and-1.5.10",
+        "https://github.com/roundcube/roundcubemail/releases/tag/1.6.11",
+        "https://github.com/roundcube/roundcubemail/releases/tag/1.5.10 "
+    ]
+}
