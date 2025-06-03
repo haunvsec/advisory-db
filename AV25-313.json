@@ -1,0 +1,22 @@
+{
+    "id": "splunk-security-advisory-av25-313",
+    "title": "Splunk security advisory (AV25-313)",
+    "public_time": "2025-06-03T15:14:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-313",
+    "advisory_id": "AV25-313",
+    "type": "advisory",
+    "description": "On June 2, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk Enterprise  versions prior to 9.4.2, 9.3.4, 9.2.6 and 9.1.9",
+        "Splunk Universal Forwarder  versions prior to 9.4.2, 9.3.4, 9.2.6 and 9.1.9",
+        "Splunk Universal Forwarder for Windows  versions prior to 9.4.2, 9.3.4, 9.2.6 and 9.1.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2025-0602",
+        "https://advisory.splunk.com/advisories/SVD-2025-0603",
+        "https://advisory.splunk.com/advisories/SVD-2025-0604",
+        "https://advisory.splunk.com/advisories"
+    ]
+}
