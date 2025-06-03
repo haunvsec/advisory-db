@@ -1,0 +1,20 @@
+{
+    "id": "solarwinds-security-advisory-av25-312",
+    "title": "SolarWinds security advisory (AV25-312)",
+    "public_time": "2025-06-03T14:58:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av25-312",
+    "advisory_id": "AV25-312",
+    "type": "advisory",
+    "description": "On June 2, 2025, SolarWinds published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SolarWinds Platform  version 12.3.1.20 and prior"
+    ],
+    "cves": [
+        "CVE-2025-26396"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2025-26396",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
