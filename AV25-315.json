@@ -1,0 +1,19 @@
+{
+    "id": "qualcomm-security-advisory-june-2025-monthly-rollup-av25-315",
+    "title": "Qualcomm security advisory \u2013 June 2025 monthly rollup (AV25-315)",
+    "public_time": "2025-06-03T19:46:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-june-2025-monthly-rollup-av25-315",
+    "advisory_id": "AV25-315",
+    "type": "advisory",
+    "description": "On June 2, 2025, Qualcomm published a security bulletin to address vulnerabilities affecting Qualcomm products.",
+    "products": [
+        "Qualcomm Security Bulletin  June"
+    ],
+    "cves": [
+        "CVE-2025-21479",
+        "CVE-2025-21480",
+        "CVE-2025-27038"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
