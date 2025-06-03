@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-311",
+    "title": "[Control systems] ABB security advisory (AV25-311)",
+    "public_time": "2025-06-03T14:22:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-311",
+    "advisory_id": "AV25-311",
+    "type": "advisory",
+    "description": "On June 2, 2025, ABB published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "Welcome IP-Gateway  version 6.20 and prior",
+        "Welcome IP-Gateway (Welcome M)  version 6.20 and prior",
+        "Welcome IP-Gateway MDRC  version 6.20 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8948&LanguageCode=en&DocumentPartId=&Action=Launch&_gl=1*womjy7*_gcl_au*NTQ3NzU3MjAzLjE3NDU5Mzc0MzM.*_ga*MTcwODEzMTk2MC4xNzIwMDkyNDk2*_ga_46ZFBRSZNM*czE3NDg4OTQzMTckbzUzJGcwJHQxNzQ4ODk0MzE3JGo2MCRsMCRoMA..",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
