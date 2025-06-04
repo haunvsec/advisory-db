@@ -1,0 +1,19 @@
+{
+    "id": "microsoft-edge-security-advisory-av25-317",
+    "title": "Microsoft Edge security advisory (AV25-317)",
+    "public_time": "2025-06-04T17:23:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-317",
+    "advisory_id": "AV25-317",
+    "type": "advisory",
+    "description": "On June 3, 2025, Microsoft published a security update to address a vulnerability in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 137.0.3296.62"
+    ],
+    "cves": [
+        "CVE-2025-5419"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-3-2025"
+    ]
+}
