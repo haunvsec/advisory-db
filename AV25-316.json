@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-316",
+    "title": "HPE security advisory (AV25-316)",
+    "public_time": "2025-06-04T14:39:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-316",
+    "advisory_id": "AV25-316",
+    "type": "advisory",
+    "description": "On June 3, 2025, HPE published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Service Orchestrator  versions prior to v5.3.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04872en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US#sort=%40hpescuniversaldate%20descending&layout=table&numberOfResults=25&f:@kmdoclanguagecode=[cv1871440]&hpe=1"
+    ]
+}
