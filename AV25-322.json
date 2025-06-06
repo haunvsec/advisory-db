@@ -1,0 +1,15 @@
+{
+    "id": "android-security-advisory-june-2025-monthly-rollup-av25-322",
+    "title": "Android security advisory \u2013 June 2025 monthly rollup (AV25-322)",
+    "public_time": "2025-06-06T18:11:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-june-2025-monthly-rollup-av25-322",
+    "advisory_id": "AV25-322",
+    "type": "advisory",
+    "description": "On June 2, 2025, Android published a security bulletin to address vulnerabilities affecting Android devices.",
+    "products": [
+        "Android Security Bulletin"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
