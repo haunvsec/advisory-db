@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-320",
+    "title": "HPE security advisory (AV25-320)",
+    "public_time": "2025-06-06T14:53:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-320",
+    "advisory_id": "AV25-320",
+    "type": "advisory",
+    "description": "On June 4, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Insight Remote Support  versions prior to 7.15.0.646"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04878en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US#sort=%40hpescuniversaldate%20descending&layout=table&numberOfResults=25&f:@kmdoclanguagecode=[cv1871440]&hpe=1"
+    ]
+}
