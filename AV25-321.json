@@ -1,0 +1,18 @@
+{
+    "id": "jenkins-security-advisory-av25-321",
+    "title": "Jenkins security advisory (AV25-321)",
+    "public_time": "2025-06-06T15:03:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-321",
+    "advisory_id": "AV25-321",
+    "type": "advisory",
+    "description": "On June 6, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Gatling Plugin  version 136.vb_9009b_3d33a_e and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-06-06/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
