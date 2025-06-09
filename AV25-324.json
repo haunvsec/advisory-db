@@ -1,0 +1,23 @@
+{
+    "id": "ibm-security-advisory-av25-324",
+    "title": "IBM security advisory (AV25-324)",
+    "public_time": "2025-06-09T14:07:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-324",
+    "advisory_id": "AV25-324",
+    "type": "advisory",
+    "description": "Between June 2 and 8, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "GDSC Platform On-prem  version 3.7.1",
+        "IBM Concert Software  versions 1.0.0 to 1.0.5",
+        "IBM Cloud Pak for Security  versions 1.10.0.0 to 1.10.11.0",
+        "IBM Security Verify Governance  version 10.0.2",
+        "IBM Security Verify Governance - Identity Manager Virtual Appliance  version 10.0.2",
+        "Maximo AI Service  version 9.0.5",
+        "QRadar Suite Software  versions 1.10.12.0 to 1.11.2.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
