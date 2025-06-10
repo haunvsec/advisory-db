@@ -1,0 +1,26 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-327",
+    "title": "[Control systems] Siemens security advisory (AV25-327)",
+    "public_time": "2025-06-10T16:09:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-327",
+    "advisory_id": "AV25-327",
+    "type": "advisory",
+    "description": "On June 10, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Energy Services",
+        "RUGGEDCOM APE1808",
+        "RUGGEDCOM RST2428P (6GK6242-6PA00)   versions prior to V3.2",
+        "SCALANCE XC-300 products   versions prior to V3.2",
+        "SCALANE XC-400 products   versions prior to V3.2",
+        "SCALANCE XCM-/XRM-/XCH-/XRH-300 products   versions prior to V3.2",
+        "SCALANCE XM-400/XR-500 products   versions prior to V3.2",
+        "SCALANCE XR-300 (6GK5334-xTSxx) products   versions prior to V3.2",
+        "SIMATIC S7-1500 CPU products   version V3.1.5 and later",
+        "Technomatix Plant Simulation V2404   versions prior to V2404.0013"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
