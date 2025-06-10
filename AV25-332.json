@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av25-332",
+    "title": "Mozilla security advisory (AV25-332)",
+    "public_time": "2025-06-10T18:20:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-332",
+    "advisory_id": "AV25-332",
+    "type": "advisory",
+    "description": "On June 10, 2025, Mozilla published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Firefox  versions prior to 139.0.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-47/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
