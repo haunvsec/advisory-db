@@ -1,0 +1,22 @@
+{
+    "id": "ivanti-security-advisory-av25-329",
+    "title": "Ivanti security advisory (AV25-329)",
+    "public_time": "2025-06-10T17:15:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-329",
+    "advisory_id": "AV25-329",
+    "type": "advisory",
+    "description": "On June 10, 2025, Ivanti published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Ivanti Workspace Control (IWC)  version 10.19.0.0 and prior"
+    ],
+    "cves": [
+        "CVE-2025-5353",
+        "CVE-2025-22463",
+        "CVE-2025-22455"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Workspace-Control-CVE-2025-5353-CVE-CVE-2025-22463-CVE-2025-22455?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
