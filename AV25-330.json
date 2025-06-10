@@ -1,0 +1,22 @@
+{
+    "id": "sap-security-advisory-june-2025-monthly-rollup-av25-330",
+    "title": "SAP security advisory \u2013 June 2025 monthly rollup (AV25-330)",
+    "public_time": "2025-06-10T17:36:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2025-monthly-rollup-av25-330",
+    "advisory_id": "AV25-330",
+    "type": "advisory",
+    "description": "On June 10, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP NetWeaver Application Server for ABAP  versions KERNEL 7.89, 7.93, 9.14 and 9.15",
+        "SAP GRC (AC Plugin)  versions GRCPINW V1100_700 and V1100_731",
+        "SAP Business Warehouse and SAP Plug-In Basis  versions PI_BASIS 2006_1_700, 701, 702, 731, 740, SAP_BW 750, 751, 752, 753, 754, 755, 756, 757, 758, 914 and 915",
+        "SAP BusinessObjects Business Intelligence (BI Workspace)  versions ENTERPRISE 430, 2025 and 2027",
+        "SAP NetWeaver Visual Composer  version VCBASE 7.50",
+        "SAP MDM Server  versions MDM_SERVER 710.750"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/june-2025.html"
+    ]
+}
