@@ -1,0 +1,35 @@
+{
+    "id": "microsoft-security-advisory-june-2025-monthly-rollup-av25-333",
+    "title": "Microsoft security advisory \u2013 June 2025 monthly rollup (AV25-333)",
+    "public_time": "2025-06-10T19:07:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-june-2025-monthly-rollup-av25-333",
+    "advisory_id": "AV25-333",
+    "type": "advisory",
+    "description": "On June 10, 2025, Microsoft published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        ".NET 8.0 and 9.0   versions 8.0.17 and 9.0.6, multiple platforms",
+        "Microsoft 365 Apps   multiple versions and platforms",
+        "Microsoft AutoUpdate for Mac",
+        "Microsoft Excel 2016",
+        "Microsoft Office   multiple versions and platforms",
+        "Microsoft Outlook 2016",
+        "Microsoft PowerPoint 2016",
+        "Microsoft Sharepoint Server   multiple versions and platforms",
+        "Microsoft Visual Studio 2022   versions 17.12.9, 17.8.22, 17.10.16, and 17.14.5",
+        "Microsoft Word 2016",
+        "Nuance Digital Engagement Platform",
+        "Remote Desktop client for Windows Desktop",
+        "Windows 10   multiple versions and platforms",
+        "Windows 11   multiple versions and platforms",
+        "Windows App Client for Windows Desktop",
+        "Windows Server   multiple versions and platforms"
+    ],
+    "cves": [
+        "CVE-2025-33053"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2025-Jun ",
+        "https://msrc.microsoft.com/update-guide/en-us"
+    ]
+}
