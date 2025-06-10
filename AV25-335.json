@@ -1,0 +1,28 @@
+{
+    "id": "adobe-security-advisory-av25-335",
+    "title": "Adobe security advisory (AV25-335)",
+    "public_time": "2025-06-10T19:38:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-335",
+    "advisory_id": "AV25-335",
+    "type": "advisory",
+    "description": "On June 10, 2025, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Acrobat DC   version 25.001.20521 and prior",
+        "Acrobat Reader DC   version 25.001.20521 and prior",
+        "Acrobat 2024   version 24.001.30235 and prior",
+        "Acrobat 2020   version 20.005.30763 and prior",
+        "Acrobat Reader 2020   version 20.005.30763 and prior",
+        "Adobe Commerce and Commerce B2B   multiple versions",
+        "Adobe Experience Manager (AEM)   version 6.5.22 and prior",
+        "Adobe InCopy   version 20.2 and prior, and version 19.53 and prior",
+        "Adobe InDesign   version ID20.2 and prior, and version ID19.5.3 and prior",
+        "Adobe Substance 3D Painter   version 11.0.1 and prior",
+        "Adobe Substance 3D Sampler   version 5.0 and prior",
+        "Magento Open Source   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
