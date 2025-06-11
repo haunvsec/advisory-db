@@ -1,0 +1,19 @@
+{
+    "id": "apache-activemq-security-advisory-av25-340",
+    "title": "Apache ActiveMQ security advisory (AV25-340)",
+    "public_time": "2025-06-11T19:37:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-activemq-security-advisory-av25-340",
+    "advisory_id": "AV25-340",
+    "type": "advisory",
+    "description": "On April 18, 2025, Apache published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Apache ActiveMQ NMS OpenWire Client  versions prior to 2.1."
+    ],
+    "cves": [
+        "CVE-2025-29953"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://lists.apache.org/thread/vc1sj9y3056d3kkhcvrs9fyw5w8kpmlx"
+    ]
+}
