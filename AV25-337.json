@@ -1,0 +1,18 @@
+{
+    "id": "mitel-security-advisory-av25-337",
+    "title": "Mitel security advisory (AV25-337)",
+    "public_time": "2025-06-11T15:21:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av25-337",
+    "advisory_id": "AV25-337",
+    "type": "advisory",
+    "description": "On June 11, 2025, Mitel published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "MiCollab  version 9.8 SP2 (9.8.2.12) and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitel.com/support/mitel-product-security-advisory-misa-2025-0007",
+        "https://www.mitel.com/support/security-advisories"
+    ]
+}
