@@ -1,0 +1,34 @@
+{
+    "id": "palo-alto-networks-security-advisory-av25-338",
+    "title": "Palo Alto Networks security advisory (AV25-338)",
+    "public_time": "2025-06-11T19:29:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av25-338",
+    "advisory_id": "AV25-338",
+    "type": "advisory",
+    "description": "On June 11, 2025, Palo Alto Networks published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "GlobalProtect App 6.3 macOS  versions prior to 6.3.3",
+        "GlobalProtect App 6.2 macOS  versions prior to 6.2.8-h2",
+        "GlobalProtect App 6.1 macOS  all versions",
+        "GlobalProtect App 6.0 macOS  all versions",
+        "PAN-OS 11.2  versions prior to 11.2.6",
+        "PAN-OS 11.1  versions prior to 11.1.10",
+        "PAN-OS 11.0  versions prior to 11.0.3",
+        "PAN-OS 10.2  versions prior to 10.2.14",
+        "PAN-OS 10.1  all versions",
+        "Prisma Access Browser  versions prior to 136.24.1.93"
+    ],
+    "cves": [
+        "CVE-2025-4232",
+        "CVE-2025-4231",
+        "CVE-2025-4230"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/CVE-2025-4232",
+        "https://security.paloaltonetworks.com/CVE-2025-4231",
+        "https://security.paloaltonetworks.com/CVE-2025-4230",
+        "https://security.paloaltonetworks.com/PAN-SA-2025-0011",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
