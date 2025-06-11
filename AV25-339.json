@@ -1,0 +1,17 @@
+{
+    "id": "apache-cloudstack-security-advisory-av25-339",
+    "title": "Apache CloudStack security advisory (AV25-339)",
+    "public_time": "2025-06-11T19:54:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-cloudstack-security-advisory-av25-339",
+    "advisory_id": "AV25-339",
+    "type": "advisory",
+    "description": "On June 10, 2025, Apache published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "Apache CloudStack  versions 4.0.0 to 4.20.0.0 and versions 4.0.0 to 4.19.2.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cloudstack.apache.org/blog/cve-advisories-4.19.3.0-4.20.1.0/"
+    ]
+}
