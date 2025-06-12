@@ -1,0 +1,24 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-341",
+    "title": "[Control systems] Siemens security advisory (AV25-341)",
+    "public_time": "2025-06-12T14:37:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-341",
+    "advisory_id": "AV25-341",
+    "type": "advisory",
+    "description": "On June 12, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Mendix Studio Pro 8  versions prior to V8.18.35",
+        "Mendix Studio Pro 9  versions prior to V9.24.35",
+        "Mendix Studio Pro 10  versions prior to V10.23.0",
+        "Mendix Studio Pro 10.6  versions prior to V10.6.24",
+        "Mendix Studio Pro 10.12  versions prior to V10.12.17",
+        "Mendix Studio Pro 10.18  versions prior to V10.18.7",
+        "Mendix Studio Pro 11  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-627195.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
