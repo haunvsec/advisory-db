@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av25-342",
+    "title": "GitLab security advisory (AV25-342)",
+    "public_time": "2025-06-12T14:55:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-342",
+    "advisory_id": "AV25-342",
+    "type": "advisory",
+    "description": "On June 11, 2025, GitLab published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitLab Community Edition (CE)  versions prior to 18.0.2, 17.11.4, and 17.10.8",
+        "GitLab Enterprise Edition (EE)  versions prior to 18.0.2, 17.11.4, and 17.10.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released/",
+        "https://about.gitlab.com/releases/categories/releases/"
+    ]
+}
