@@ -1,0 +1,26 @@
+{
+    "id": "trend-micro-security-advisory-av25-343",
+    "title": "Trend Micro security advisory (AV25-343)",
+    "public_time": "2025-06-13T19:39:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av25-343",
+    "advisory_id": "AV25-343",
+    "type": "advisory",
+    "description": "On June 9 and 10, 2025, Trend Micro published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Apex Central  version 2019 (On-prem)",
+        "Apex Central as a Service",
+        "Apex One  version 2019 (On-prem)",
+        "Apex One as a Service",
+        "Trend Micro Endpoint Encryption (TMEE) PolicyServer  versions prior to 6.0.0.4013",
+        "Trend Micro Internet Security  version 17.8",
+        "Trend Micro Maximum Security  version 17.8",
+        "Worry-Free Business Security (WFBS)  version 10.0 SP1",
+        "Worry-Free Business Security Services (WFBSS)  version 6.7 (SaaS)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpcenter.trendmicro.com/en-us/vulnerability/?utm_source=producthelp",
+        "https://success.trendmicro.com/en-US/vulnerability-response/"
+    ]
+}
