@@ -1,0 +1,18 @@
+{
+    "id": "dell-security-advisory-av25-347",
+    "title": "Dell security advisory (AV25-347)",
+    "public_time": "2025-06-16T16:47:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-347",
+    "advisory_id": "AV25-347",
+    "type": "advisory",
+    "description": "Between June 9 and 15, 2025, Dell published security advisories to address a vulnerability in the following product:",
+    "products": [
+        "Dell iDRAC Tools  versions prior to 11.3.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-us/000323242/dsa-2025-169-security-update-for-dell-idrac-tools-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
