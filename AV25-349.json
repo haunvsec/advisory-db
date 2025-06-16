@@ -1,0 +1,17 @@
+{
+    "id": "grafana-security-advisory-av25-349",
+    "title": "Grafana security advisory (AV25-349)",
+    "public_time": "2025-06-16T20:18:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av25-349",
+    "advisory_id": "AV25-349",
+    "type": "advisory",
+    "description": "On May 21, 2025, Grafana published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Grafana  versions prior to 11.2, 11.3, 11.4, 11.5, 11.6 and 12.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://grafana.com/blog/2025/05/21/grafana-security-release-high-severity-security-fix-for-cve-2025-4123/"
+    ]
+}
