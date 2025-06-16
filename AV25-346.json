@@ -1,0 +1,26 @@
+{
+    "id": "ibm-security-advisory-av25-346",
+    "title": "IBM security advisory (AV25-346)",
+    "public_time": "2025-06-16T16:38:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-346",
+    "advisory_id": "AV25-346",
+    "type": "advisory",
+    "description": "Between June 9 and 15, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following product:",
+    "products": [
+        "API Connect  version V10.0.5.0 to V10.0.5.9",
+        "API Connect  version V10.0.8.0 to V10.0.8.2-iFix1",
+        "IBM DataPower Gateway 10.6CD  versions 10.6.1.0 to 10.6.3.0",
+        "IBM Db2 on Cloud Pak for Data and Db2 Warehouse on Cloud Pak for Data  multiple versions",
+        "IBM MQ Operator  multiple versions",
+        "IBM Robotic Process Automation  version 21.0.0 to 21.0.7.20 and version 23.0.0 to 23.0.20.1",
+        "IBM Robotic Process Automation for Cloud Pak  version 21.0.0 to 21.0.7.20 and version 23.0.0 to 23.0.20.1",
+        "IBM Security QRadar EDR  version 3.12",
+        "IBM supplied MQ Advanced container images  multiple versions",
+        "PowerVC  version 2.2.0, 2.2.1, 2.2.1.1, 2.2.1.2 and 2.3.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
