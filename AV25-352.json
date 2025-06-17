@@ -1,0 +1,19 @@
+{
+    "id": "veeam-security-advisory-av25-352",
+    "title": "Veeam security advisory (AV25-352)",
+    "public_time": "2025-06-17T17:52:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av25-352",
+    "advisory_id": "AV25-352",
+    "type": "advisory",
+    "description": "On June 17, 2025, Veeam published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Veeam Backup & Replication  version 12.3.1.1139 and prior",
+        "Veeam Agent for Microsoft Windows  version 6.3.1.1074 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4743",
+        "https://www.veeam.com/knowledge-base.html"
+    ]
+}
