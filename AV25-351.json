@@ -1,0 +1,19 @@
+{
+    "id": "beyondtrust-security-advisory-av25-351",
+    "title": "BeyondTrust security advisory (AV25-351)",
+    "public_time": "2025-06-17T17:37:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av25-351",
+    "advisory_id": "AV25-351",
+    "type": "advisory",
+    "description": "On June 16, 2025, BeyondTrust published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Remote Support  version 24.2.2 to 24.2.4, 24.3.1 to 24.3.3, and 25.1.1",
+        "Privileged Remote Access  version 24.2.2 to 24.2.4, 24.3.1 to 24.3.3, and 25.1.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.beyondtrust.com/trust-center/security-advisories/bt25-04",
+        "https://www.beyondtrust.com/trust-center/security-advisories"
+    ]
+}
