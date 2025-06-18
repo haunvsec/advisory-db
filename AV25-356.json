@@ -1,0 +1,23 @@
+{
+    "id": "cisco-security-advisory-av25-356",
+    "title": "Cisco security advisory (AV25-356)",
+    "public_time": "2025-06-18T18:16:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-356",
+    "advisory_id": "AV25-356",
+    "type": "advisory",
+    "description": "On June 18, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco AnyConnect VPN server of Cisco Meraki MX and Cisco Meraki Z Series Teleworker Gateway  multiple models",
+        "Secure Endpoint Connector for Linux  versions prior to 1.26.1",
+        "Secure Endpoint Connector for Mac  versions prior to 1.26.1",
+        "Secure Endpoint Connector for Windows  versions prior to 7.5.21 and 8.4.5",
+        "Secure Endpoint Private Cloud  versions prior to 4.2.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-udf-hmwd9nDy",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-meraki-mx-vpn-dos-sM5GCfm7",
+        "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    ]
+}
