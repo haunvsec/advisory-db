@@ -1,0 +1,21 @@
+{
+    "id": "apache-tomcat-security-advisory-av25-354",
+    "title": "Apache Tomcat security advisory (AV25-354)",
+    "public_time": "2025-06-18T11:55:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-tomcat-security-advisory-av25-354",
+    "advisory_id": "AV25-354",
+    "type": "advisory",
+    "description": "On June 16, 2025, Apache published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Apache Tomcat  versions 11.0.0-M1 to 11.0.7",
+        "Apache Tomcat  versions 10.1.0-M1 to 10.1.41",
+        "Apache Tomcat  versions 9.0.0.M1 to 9.0.105"
+    ],
+    "cves": [
+        "CVE-2025-48988"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://lists.apache.org/thread/nzkqsok8t42qofgqfmck536mtyzygp18"
+    ]
+}
