@@ -1,0 +1,20 @@
+{
+    "id": "ubuntu-security-advisory-av25-361",
+    "title": "Ubuntu security advisory (AV25-361)",
+    "public_time": "2025-06-23T17:01:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-361",
+    "advisory_id": "AV25-361",
+    "type": "advisory",
+    "description": "Between June 16 and 22, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 18.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-7585-1",
+        "https://ubuntu.com/security/notices/USN-7585-2",
+        "https://ubuntu.com/security/notices"
+    ]
+}
