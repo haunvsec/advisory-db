@@ -1,0 +1,33 @@
+{
+    "id": "dell-security-advisory-av25-359",
+    "title": "Dell security advisory (AV25-359)",
+    "public_time": "2025-06-23T16:27:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-359",
+    "advisory_id": "AV25-359",
+    "type": "advisory",
+    "description": "Between June 16 and 22, 2025, Dell published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Dell Connectrix B-Series  versions 9.0.0 to 9.2.2",
+        "Dell Connectrix B-Series  versions prior to 2.4.0",
+        "Dell Connectrix B-Series  versions prior to 9.2.2",
+        "Dell Container Storage Modules  versions prior to 1.14",
+        "Dell EMC XC Core XC7525  versions prior to 2.14.1",
+        "Dell Policy Manager for Secure Connect Gateway  versions prior to 5.28.00.14",
+        "Dell PowerEdge C6525  versions prior to 2.14.1",
+        "Dell PowerEdge R6515  versions prior to 2.14.1",
+        "Dell PowerEdge R6525  versions prior to 2.14.1",
+        "Dell PowerEdge R7515  versions prior to 2.14.1",
+        "Dell PowerEdge R7525  versions prior to 2.14.1",
+        "Dell PowerEdge XE8545  versions prior to 2.14.1",
+        "Dell PowerFlex Custom Node  versions prior to 1.11.2",
+        "Dell PowerFlex Custom Node  versions prior to 1.16.2",
+        "Dell PowerFlex Custom Node  versions prior to 2.18.1",
+        "Dell PowerFlex Custom Node  versions prior to 2.5.4",
+        "Dell VxFlex Ready Node  versions prior to 2.23.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
