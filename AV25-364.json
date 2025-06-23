@@ -1,0 +1,24 @@
+{
+    "id": "mattermost-security-advisory-av25-364",
+    "title": "Mattermost security advisory (AV25-364)",
+    "public_time": "2025-06-23T17:59:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av25-364",
+    "advisory_id": "AV25-364",
+    "type": "advisory",
+    "description": "On May 21, 2025, Mattermost published security advisories to address vulnerabilities in multiple products. Included was a critical update for the following:",
+    "products": [
+        "Mattermost Server (9.11.x)  versions 9.11.15 and prior",
+        "Mattermost Server (10.5.x)  versions 10.5.5 and prior",
+        "Mattermost Server (10.6.x)  versions 10.6.5 and prior",
+        "Mattermost Server (10.7.x)  versions 10.7.2 and prior",
+        "Mattermost Server (10.8.x)  versions 10.8.0 and prior"
+    ],
+    "cves": [
+        "CVE-2025-4981"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://nvd.nist.gov/vuln/detail/CVE-2025-4981",
+        "https://mattermost.com/security-updates/"
+    ]
+}
