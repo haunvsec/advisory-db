@@ -1,0 +1,39 @@
+{
+    "id": "ibm-security-advisory-av25-360",
+    "title": "IBM security advisory (AV25-360)",
+    "public_time": "2025-06-23T16:47:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-360",
+    "advisory_id": "AV25-360",
+    "type": "advisory",
+    "description": "Between June 16 and 22, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "IBM Cloud Pak for Data  versions 3.5 and 4.5",
+        "IBM Cloud Pak for Data  versions 4.8.0 to 4.8.9, 5.0.0 to 5.0.3 and 5.1.0 to 5.1.3",
+        "IBM Cloudera Data Platform Private Cloud Base with IBM (CDP)  versions 7.1.7 SP3 and 7.1.9 SP1",
+        "IBM Cloudera Data Platform Private Cloud Data Services with IBM  versions 1.5.3 and 1.5.4",
+        "IBM Cloudera Data Platform Streaming with IBM  versions 7.1.7 SP3 and 7.1.9 SP1",
+        "IBM Cloudera Data Platform Streams Messaging Base with IBM Version  versions 7.1.7 SP3 and 7.1.9 SP1",
+        "IBM Data Virtualization on Cloud Pak for Data  versions 3.1.0 to 3.1.2",
+        "IBM Data Virtualization on Cloud Pak for Data  versions 1.7.0 to 1.7.8",
+        "IBM Data Virtualization on Cloud Pak for Data  versions 1.8.0 to 1.8.3",
+        "IBM Data Virtualization on Cloud Pak for Data  versions 3.0.0 to 3.0.3",
+        "IBM Edge Data Collector  version 9.0.9",
+        "IBM Event Processing  versions 1.0.0 to 1.3.2",
+        "IBM Fusion HCI for watsonx  versions 2.8.2 to 2.9.0",
+        "IBM Fusion HCI  versions 2.2.0 to 2.9.0",
+        "IBM Fusion  versions 2.2.0 to 2.9.1",
+        "IBM QRadar SIEM  versions 7.5 to 7.5.0 UP12 IF01",
+        "IBM Storage Fusion Data Foundation  version 4.18.4",
+        "IBM Watson Query on Cloud Pak for Data  versions 2.0.0 to 2.0.4",
+        "IBM Watson Query on Cloud Pak for Data  versions 2.1.0 to 2.1.3",
+        "IBM Watson Query on Cloud Pak for Data  versions 2.2.0 to 2.2.8",
+        "IBM Watson Speech Services Cartridge  versions 4.0.0 to 5.1.3",
+        "IBM watsonx Code Assistant On Prem  versions 5.0 to 5.1.2",
+        "IBM watsonx.data  version 2.1.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin"
+    ]
+}
