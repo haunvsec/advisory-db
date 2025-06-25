@@ -1,0 +1,18 @@
+{
+    "id": "vmware-security-advisory-av25-375",
+    "title": "VMware security advisory (AV25-375)",
+    "public_time": "2025-06-25T18:05:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-375",
+    "advisory_id": "AV25-375",
+    "type": "advisory",
+    "description": "On June 24, 2025, VMware published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "VMware Tanzu for Valkey  versions 8.0.2, 7.2.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35857",
+        "https://support.broadcom.com/web/ecx/security-advisory"
+    ]
+}
