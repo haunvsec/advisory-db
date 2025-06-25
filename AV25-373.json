@@ -1,0 +1,18 @@
+{
+    "id": "trend-micro-security-advisory-av25-373",
+    "title": "Trend Micro security advisory (AV25-373)",
+    "public_time": "2025-06-25T15:21:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av25-373",
+    "advisory_id": "AV25-373",
+    "type": "advisory",
+    "description": "On June 20, 2025, Trend Micro published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Trend Micro Password Manager   versions prior to 5.8.0.1327"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpcenter.trendmicro.com/en-us/article/tmka-12946",
+        "https://success.trendmicro.com/en-US/vulnerability-response/"
+    ]
+}
