@@ -1,0 +1,30 @@
+{
+    "id": "splunk-security-advisory-av25-371",
+    "title": "Splunk security advisory (AV25-371)",
+    "public_time": "2025-06-25T15:06:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-371",
+    "advisory_id": "AV25-371",
+    "type": "advisory",
+    "description": "On June 23, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "splunk/splunk   version 9.4.1",
+        "splunk/splunk   versions 9.3.0 to 9.3.3",
+        "splunk/splunk   versions 9.2.0 to 9.2.5",
+        "splunk/splunk   versions 9.1.0 to 9.1.8",
+        "splunk/universalforwarder   version 9.4.1",
+        "splunk/universalforwarder   versions 9.3.0 to 9.3.3",
+        "splunk/universalforwarder   versions 9.2.0 to 9.2.5",
+        "splunk/universalforwarder   versions 9.1.0 to 9.1.8",
+        "Splunk Operator for Kubernetes   versions prior to 2.8.0",
+        "Splunk AppDynamics Smart Agent   versions prior to 25.5.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2025-0607",
+        "https://advisory.splunk.com/advisories/SVD-2025-0608",
+        "https://advisory.splunk.com/advisories/SVD-2025-0609 ",
+        "https://advisory.splunk.com/advisories/SVD-2025-0610 ",
+        "https://advisory.splunk.com/"
+    ]
+}
