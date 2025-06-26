@@ -1,0 +1,20 @@
+{
+    "id": "vmware-security-advisory-av25-377",
+    "title": "VMware security advisory (AV25-377)",
+    "public_time": "2025-06-26T12:51:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-377",
+    "advisory_id": "AV25-377",
+    "type": "advisory",
+    "description": "On June 25, 2025, VMware published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "VMware Tanzu for Postgres  versions 17.4.0, 16.8.0, 15.12.0, 14.17.0, 13.20.0",
+        "VMware Tanzu for Postgres  versions 17.5.0, 16.9.0, 15.13.0, 14.18.0, 13.21.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35866",
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35867",
+        "https://support.broadcom.com/web/ecx/security-advisory"
+    ]
+}
