@@ -1,0 +1,20 @@
+{
+    "id": "ubuntu-security-advisory-av25-382",
+    "title": "Ubuntu security advisory (AV25-382)",
+    "public_time": "2025-06-30T17:50:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-382",
+    "advisory_id": "AV25-382",
+    "type": "advisory",
+    "description": "Between June 23 and 29, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 25.04",
+        "Ubuntu 24.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 20.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices"
+    ]
+}
