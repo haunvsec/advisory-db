@@ -1,0 +1,30 @@
+{
+    "id": "dell-security-advisory-av25-384",
+    "title": "Dell security advisory (AV25-384)",
+    "public_time": "2025-06-30T18:12:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-384",
+    "advisory_id": "AV25-384",
+    "type": "advisory",
+    "description": "Between June 23 and 29, 2025, Dell published security advisories to address vulnerabilities for the following products:",
+    "products": [
+        "iDRAC10  versions prior to 1.20.50.50",
+        "NetWorker  versions 19.12 to 19.12.0.1 and versions prior to 19.11.0.5",
+        "Dell Open Manage Network Integration  versions prior to 3.7",
+        "Dell PowerMax EEM 5978  versions prior to 5978.714.714.10730",
+        "Dell PowerMax EEM 10.2.0.1  versions prior to 10.2.01 Patch 10732",
+        "Dell PowerMaxOS 5978  versions prior to 5978.714.714.10730",
+        "Dell PowerMax OS 10.2.0.1  versions prior to 10.2.0.1 Patch 10732",
+        "PowerProtect Cyber Recovery  versions prior to 19.20",
+        "Dell Secure Connect Gateway - Appliance   versions prior to 5.30.0.14",
+        "Solutions Enabler  versions prior to 9.2.4.11 and versions prior to 10.2.0.5",
+        "Dell Storage Monitoring and Reporting  versions prior to 5.1.1.0",
+        "Dell Storage Resource Manager (SRM)  versions prior to 5.1.1.0",
+        "Unisphere for PowerMax  versions prior to 9.2.4.17 and versions prior to 10.2.0.12",
+        "Unisphere 360  versions prior to 9.2.4.37"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
