@@ -1,0 +1,25 @@
+{
+    "id": "cisco-security-advisory-av25-388",
+    "title": "Cisco security advisory (AV25-388)",
+    "public_time": "2025-07-02T18:08:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-388",
+    "advisory_id": "AV25-388",
+    "type": "advisory",
+    "description": "On July 2, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco BroadWorks Application Delivery Platform  versions prior to RI.2025.05",
+        "Cisco Enterprise Chat and Email  version 11 and versions prior to 12.6(1)_ES11",
+        "Cisco Spaces Connector  versions prior to Connector 3-Jun 2025",
+        "Cisco Unified Communications Manager  versions 15.0.1.13010-1 to 15.0.1.13017-1",
+        "Cisco Unified Communications Manager Session Management Edition Engineering Special (ES)  versions 15.0.1.13010-1 to 15.0.1.13017-1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-broadworks-xss-O696ymRA",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ece-xss-CbtKtEYc",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-spaces-conn-privesc-kgD2CcDU",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssh-m4UBdpE7",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
