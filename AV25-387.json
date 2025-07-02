@@ -1,0 +1,18 @@
+{
+    "id": "citrix-security-advisory-av25-387",
+    "title": "Citrix security advisory (AV25-387)",
+    "public_time": "2025-07-02T17:30:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av25-387",
+    "advisory_id": "AV25-387",
+    "type": "advisory",
+    "description": "On July 2, 2025, Citrix published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "XenServer 8.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX694780&articleURL=XenServer_Security_Update_for_CVE_2025_27465",
+        "https://support.citrix.com/knowledge-center#/?ct=Security%20Bulletins&searchText=&sortBy=Created%20date&pageIndex=1"
+    ]
+}
