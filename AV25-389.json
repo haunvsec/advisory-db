@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av25-389",
+    "title": "Drupal security advisory (AV25-389)",
+    "public_time": "2025-07-03T14:35:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-389",
+    "advisory_id": "AV25-389",
+    "type": "advisory",
+    "description": "On July 2, 2025, Drupal published security advisories to address vulnerabilities in the following products :",
+    "products": [
+        "Config Pages Viewer  versions prior to 1.0.4",
+        "Two-factor Authentication (TFA)  versions prior to 1.11.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-086",
+        "https://www.drupal.org/sa-contrib-2025-085",
+        "https://www.drupal.org/security"
+    ]
+}
