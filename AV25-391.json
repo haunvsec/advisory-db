@@ -1,0 +1,19 @@
+{
+    "id": "wing-ftp-security-advisory-av25-391",
+    "title": "Wing FTP security advisory (AV25-391)",
+    "public_time": "2025-07-03T15:27:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/wing-ftp-security-advisory-av25-391",
+    "advisory_id": "AV25-391",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Wing FTP Server  version v7.4.3 and prior"
+    ],
+    "cves": [
+        "CVE-2025-47812"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.wftpserver.com/serverhistory.htm"
+    ]
+}
