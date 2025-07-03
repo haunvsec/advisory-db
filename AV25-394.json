@@ -1,0 +1,18 @@
+{
+    "id": "grafana-security-advisory-av25-394",
+    "title": "Grafana security advisory (AV25-394)",
+    "public_time": "2025-07-03T20:05:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av25-394",
+    "advisory_id": "AV25-394",
+    "type": "advisory",
+    "description": "On July 2, 2025, Grafana published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "Grafana Image Renderer  versions prior to 3.12.9",
+        "Synthetic Monitoring Agent  versions prior to 0.38.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://grafana.com/blog/2025/07/02/grafana-security-update-critical-severity-security-release-for-cve-2025-5959-cve-2025-6554-cve-2025-6191-and-cve-2025-6192-in-grafana-image-renderer-plugin-and-synthetic-monitoring-agent/"
+    ]
+}
