@@ -1,0 +1,29 @@
+{
+    "id": "brother-security-advisory-av25-392",
+    "title": "Brother security advisory (AV25-392)",
+    "public_time": "2025-07-03T18:17:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/brother-security-advisory-av25-392",
+    "advisory_id": "AV25-392",
+    "type": "advisory",
+    "description": "On June 19 and 25, 2025, Brother, Toshiba, Ricoh, Fujifilm and Konica Minolta released security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Brother FAQs and Troubleshooting - Addressing Security Vulnerabilities",
+        "Toshiba - Response to vulnerability in some Toshiba Tec's digital multi-function peripherals",
+        "Ricoh - Specific Ricoh MFP and Printer Products - Multiple vulnerabilities (CVE-2017-9765, CVE-2024-2169, CVE-2024-51977, CVE-2024-51979, CVE-2024-51980, CVE-2024-51981, CVE-2024-51982, CVE-2024-51983, CVE-2024-51984)",
+        "Notice on Vulnerabilities in FUJIFILM Multifunction Devices and Printers",
+        "Konica Minolta - Multiple vulnerabilities in B/W small multifunction and single-function printers"
+    ],
+    "cves": [
+        "CVE-2017-9765",
+        "CVE-2024-2169",
+        "CVE-2024-51977",
+        "CVE-2024-51979",
+        "CVE-2024-51980",
+        "CVE-2024-51981",
+        "CVE-2024-51982",
+        "CVE-2024-51983",
+        "CVE-2024-51984"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
