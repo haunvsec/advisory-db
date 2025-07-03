@@ -1,0 +1,19 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-393",
+    "title": "[Control systems] ABB security advisory (AV25-393)",
+    "public_time": "2025-07-03T18:35:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-393",
+    "advisory_id": "AV25-393",
+    "type": "advisory",
+    "description": "On July 3, 2025, ABB published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "RMC-100  versions 2105457-043 to 2105457-045",
+        "RMC-100 LITE  versions 2106229-015 to 2106229-016"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3623&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
