@@ -1,0 +1,32 @@
+{
+    "id": "splunk-security-advisory-av25-401",
+    "title": "Splunk security advisory (AV25-401)",
+    "public_time": "2025-07-07T19:23:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-401",
+    "advisory_id": "AV25-401",
+    "type": "advisory",
+    "description": "On July 7, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk Cloud Platform  versions prior to 9.3.2411.103",
+        "Splunk Cloud Platform  versions prior to 9.3.2408.113",
+        "Splunk Cloud Platform  versions prior to 9.2.2406.119",
+        "Splunk DB Connect  versions prior to 4.0.0",
+        "Splunk Enterprise  versions 9.4.0 to 9.4.2",
+        "Splunk Enterprise  versions 9.3.0 to 9.3.4",
+        "Splunk Enterprise  versions 9.2.0 to 9.2.6",
+        "Splunk Enterprise  versions 9.1.0 to 9.1.9",
+        "Splunk Enterprise Cloud  versions prior to 9.3.2411.107",
+        "Splunk Enterprise Cloud  versions prior to 9.3.2408.117",
+        "Splunk Enterprise Cloud  versions prior to 9.2.2406.121",
+        "splunk/universalforwarder  versions 9.4.0 to 9.4.2",
+        "splunk/universalforwarder  versions 9.3.0 to 9.3.4",
+        "splunk/universalforwarder  versions 9.2.0 to 9.2.6",
+        "splunk/universalforwarder  versions 9.1.0 to 9.1.9",
+        "Splunk SOAR  versions prior to 6.4.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories"
+    ]
+}
