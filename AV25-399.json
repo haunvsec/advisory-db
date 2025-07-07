@@ -1,0 +1,27 @@
+{
+    "id": "dell-security-advisory-av25-399",
+    "title": "Dell security advisory (AV25-399)",
+    "public_time": "2025-07-07T17:46:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-399",
+    "advisory_id": "AV25-399",
+    "type": "advisory",
+    "description": "Between June 30 and July 6, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Apex Cloud Platform for Red Hat Openshift  versions prior to 03.01.03.00",
+        "Dell Enterprise SONiC Distribution  versions prior to 4.5.0",
+        "Dell Integrated System for Microsoft Azure Stack Hub 14G  versions prior to 2504",
+        "Dell Integrated System for Microsoft Azure Stack Hub 16G  versions prior to 2504",
+        "Dell ObjectScale 4.0.0.1  versions prior to 4.0.0.1",
+        "Dell Protection Advisor  versions 19.9 to 19.12"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000339112/dsa-2025-243-security-update-for-dell-objectscale-4-0-0-1-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000339094/dsa-2025-265-security-update-for-dell-apex-cloud-platform-for-red-hat-openshift-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000340393/dsa-2025-270-security-update-for-dell-integrated-system-for-microsoft-azure-stack-hub-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000340083/dsa-2025-275-security-update-for-dell-enterprise-sonic-distribution-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000340538/dsa-2025-276-security-update-for-data-protection-advisor-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/security/fr-ca?lwp=rt"
+    ]
+}
