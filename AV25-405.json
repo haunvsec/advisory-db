@@ -1,0 +1,29 @@
+{
+    "id": "ivanti-security-advisory-av25-405",
+    "title": "Ivanti security advisory (AV25-405)",
+    "public_time": "2025-07-08T16:36:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-405",
+    "advisory_id": "AV25-405",
+    "type": "advisory",
+    "description": "On July 8, 2025, Ivanti published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Ivanti Connect Secure (ICS)  version 22.7R2.7 and prior",
+        "Ivanti Endpoint Manager  version 2022 SU8 and prior",
+        "Ivanti Endpoint Manager  version 2024 SU2 and prior",
+        "Ivanti Endpoint Manager Mobile  version 12.5.0.1 and prior",
+        "Ivanti Endpoint Manager Mobile  version 12.4.0.2 and prior",
+        "Ivanti Endpoint Manager Mobile  version 12.3.0.2 and prior",
+        "Ivanti Policy Secure (IPS)  version 22.7R1.4 and prior"
+    ],
+    "cves": [
+        "CVE-2025-6770",
+        "CVE-2025-6771"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-CVE-2025-6770-CVE-2025-6771?language=en_US",
+        "https://forums.ivanti.com/s/article/Security-Advisory-July-2025-for-Ivanti-EPM-2024-SU2-and-EPM-2022-SU8?language=en_US",
+        "https://forums.ivanti.com/s/article/July-Security-Advisory-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Multiple-CVEs?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
