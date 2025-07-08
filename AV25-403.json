@@ -1,0 +1,23 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av25-403",
+    "title": "[Control systems] Schneider Electric security advisory (AV25-403)",
+    "public_time": "2025-07-08T14:48:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av25-403",
+    "advisory_id": "AV25-403",
+    "type": "advisory",
+    "description": "On July 8, 2025, Schneider Electric published advisories to address vulnerabilities in the following products:",
+    "products": [
+        "EcoStruxure IT Data Center Expert  version 8.3 and prior",
+        "EcoStruxure Power Monitoring Expert (PME)  multiple versions",
+        "EcoStruxure Power Operation (EPO) 2022  versions CU6 and prior",
+        "EcoStruxure Power Operation (EPO) 2024  versions CU1 and prior",
+        "EcoStruxure Power Operation (EPO) Advanced Reporting and Dashboards Module  version 2022 with Advanced Reporting Module and version 2024 with Advanced Reporting Module",
+        "System Monitor application in Harmony Industrial PC HMIBMO/HMIBMI/ HMIPSO/HMIBMP/ HMIBMU/HMIPSP/HMIPEP series  all versions",
+        "System Monitor application in Pro-face Industrial PC PS5000 series  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
