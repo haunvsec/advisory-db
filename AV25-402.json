@@ -1,0 +1,28 @@
+{
+    "id": "sap-security-advisory-july-2025-monthly-rollup-av25-402",
+    "title": "SAP security advisory \u2013 July 2025 monthly rollup (AV25-402)",
+    "public_time": "2025-07-08T14:46:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-july-2025-monthly-rollup-av25-402",
+    "advisory_id": "AV25-402",
+    "type": "advisory",
+    "description": "On July 8, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP NetWeaver ABAP Server and ABAP  multiple versions",
+        "SAP NetWeaver ABAP Server and ABAP Platform  multiple versions",
+        "SAP NetWeaver Application Server for ABAP  multiple versions",
+        "SAP NetWeaver Visual Composer  version VCBASE 7.50",
+        "SAP Business Objects Business Intelligence Platform (CMC)  version ENTERPRISE 430, 2025",
+        "SAP Business Warehouse and SAP Plug-In Basis  multiple versions",
+        "SAP NetWeaver Enterprise Portal Federated Portal Administration  version EP-RUNTIME 7.50",
+        "SAP NetWeaver Enterprise Portal Federated Portal Network  version EP-RUNTIME 7.50",
+        "SAP NetWeaver SAP NetWeaver Application Server for Java (Log Viewer)  version LMNWABASICAPPS 7.50",
+        "SAP NetWeaver (XML Data Archiving Service)  version J2EE-APPS 7.50",
+        "SAP Supplier Relationship Management (Live Auction Cockpit)  version SRM_SERVER 7.14",
+        "SAP S/4HANA and SAP SCM (Characteristic Propagation)  versions SCMAPO 713, 714, S4CORE 102, 103, 104, S4COREOP 105, 106, 107, 108, SCM 700, 701, 702 and 712"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/july-2025.html"
+    ]
+}
