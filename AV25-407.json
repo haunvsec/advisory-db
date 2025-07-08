@@ -1,0 +1,37 @@
+{
+    "id": "microsoft-security-advisory-july-2025-monthly-rollup-av25-407",
+    "title": "Microsoft security advisory \u2013 July 2025 monthly rollup (AV25-407)",
+    "public_time": "2025-07-08T19:47:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2025-monthly-rollup-av25-407",
+    "advisory_id": "AV25-407",
+    "type": "advisory",
+    "description": "On July 8, 2025, Microsoft published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Microsoft 365 Apps  multiple versions and platforms",
+        "Microsoft Office 2016  multiple platforms",
+        "Microsoft Office 2019  multiple platforms",
+        "Microsoft Office for Android",
+        "Microsoft Office LTSC 2021  multiple platforms",
+        "Microsoft Office LTSC 2024  multiple platforms",
+        "Microsoft Office LTSC for Mac 2021",
+        "Microsoft Office LTSC for Mac 2024",
+        "Microsoft SharePoint Enterprise Server 2016",
+        "Microsoft SharePoint Server 2019",
+        "Microsoft Word 2016  multiple platforms",
+        "Windows 10  multiple versions and platforms",
+        "Windows 11  multiple versions and platforms",
+        "Windows Server 2008  multiple platforms",
+        "Windows Server 2012  multiple platforms",
+        "Windows Server 2016  multiple platforms",
+        "Windows Server 2019  multiple platforms",
+        "Windows Server 2022  multiple platforms",
+        "Windows Server 2025  multiple platforms",
+        "Microsoft SQL Server  multiple platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2025-Jul",
+        "https://msrc.microsoft.com/update-guide/en-us"
+    ]
+}
