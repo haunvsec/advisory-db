@@ -1,0 +1,35 @@
+{
+    "id": "adobe-security-advisory-av25-408",
+    "title": "Adobe security advisory (AV25-408)",
+    "public_time": "2025-07-08T20:06:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-408",
+    "advisory_id": "AV25-408",
+    "type": "advisory",
+    "description": "On July 8, 2025, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Adobe After Effects  version 24.6.6 and prior",
+        "Adobe After Effects  version 245.2 and prior",
+        "Adobe Audition  version 24.6.3 and prior",
+        "Adobe Audition  version 25.2 and prior",
+        "Adobe ColdFusion  multiple versions",
+        "Adobe Connect Windows App  version 24 and prior",
+        "Adobe Dimension  version 4.1.2 and prior",
+        "Adobe Experience Manager (AEM) Forms on JEE  version 6.5.23.0 and prior",
+        "Adobe Experience Manager (AEM) Screens  version AEM 6.5.22 Screens FP11.4",
+        "Adobe FrameMaker  version FrameMaker 2020 Update 8 and prior",
+        "Adobe FrameMaker  version FrameMaker 2022 Update 6 and prior",
+        "Adobe Illustrator 2024  version 28.7.6 and prior",
+        "Adobe Illustrator 2025  version 29.5.1 and prior",
+        "Adobe InCopy  version 19.5.3 and prior",
+        "Adobe InCopy  version 20.3 and prior",
+        "Adobe InDesign  version ID20.3 and prior",
+        "Adobe InDesign  version ID19.5.3 and prior",
+        "Adobe Substance 3D Stager  version 3.1.2 and prior",
+        "Adobe Substance 3D Viewer  version 0.22 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
