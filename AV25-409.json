@@ -1,0 +1,30 @@
+{
+    "id": "hpe-security-advisory-av25-409",
+    "title": "HPE security advisory (AV25-409)",
+    "public_time": "2025-07-09T15:58:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-409",
+    "advisory_id": "AV25-409",
+    "type": "advisory",
+    "description": "Between July 7 and 8, 2025, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Brocade 32Gb Fibre Channel SAN Switch for HPE Synergy  versions 9.1.0 to 9.2.2",
+        "HPE B-series Fibre Channel Switch  multiple versions and models",
+        "HPE Compute Scale-up Server 3200  versions prior to v1.60.88",
+        "HPE Networking Instant On Access Point  version 3.2.0.1 and prior",
+        "HPE ProLiant Cray Servers **  multiple versions and models",
+        "HPE SANnav Management Software SANnav base OS (OVA deployment)  versions prior to 2.4.0a",
+        "HPE SN6750B 64Gb 48/128 48-port 64Gb Short Wave SFP56 Port Side Intake Integrated FC Switch   versions 9.1.0 to 9.2.2",
+        "HPE SN8600B 4-slot SAN Director Switch  versions 9.1.0 to 9.2.2",
+        "HPE SN8600B 8-slot SAN Director Switch  versions 9.1.0 to 9.2.2",
+        "HPE SN8700B 4-slot SAN Director Switch  versions 9.1.0 to 9.2.2",
+        "HPE SN8700B 8-slot SAN Director Switch  versions 9.1.0 to 9.2.2",
+        "HPE Storage Fibre Channel Switch B-series SN3700B  version 22",
+        "HPE Superdome Flex 280 Server  versions prior to v2.00.12",
+        "HPE Superdome Flex Server  versions prior to v4.10.18"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
