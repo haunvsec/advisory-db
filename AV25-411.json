@@ -1,0 +1,19 @@
+{
+    "id": "citrix-security-advisory-av25-411",
+    "title": "Citrix security advisory (AV25-411)",
+    "public_time": "2025-07-09T18:06:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av25-411",
+    "advisory_id": "AV25-411",
+    "type": "advisory",
+    "description": "On July 8, 2025, Citrix published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Current Release (CR): Citrix Virtual Apps and Desktops  versions prior to 2503",
+        "Long Term Service Release (LTSR): Citrix Virtual Apps and Desktops  versions 2402 LTSR CU2 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX694820&articleURL=Windows_Virtual_Delivery_Agent_for_CVAD_and_Citrix_DaaS_Security_Bulletin_CVE_2025_6759",
+        "https://support.citrix.com/knowledge-center#/?ct=Security%20Bulletins&searchText=&sortBy=Created%20date&pageIndex=1"
+    ]
+}
