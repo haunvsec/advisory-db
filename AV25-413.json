@@ -1,0 +1,37 @@
+{
+    "id": "jenkins-security-advisory-av25-413",
+    "title": "Jenkins security advisory (AV25-413)",
+    "public_time": "2025-07-09T18:14:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-413",
+    "advisory_id": "AV25-413",
+    "type": "advisory",
+    "description": "On July 9, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Apica Loadtest Plugin  version 1.10 and prior",
+        "Applitools Eyes Plugin  version 1.16.5 and prior",
+        "Aqua Security Scanner Plugin  version 3.2.8 and prior",
+        "Credentials Binding Plugin  version 687.v619cb_15e923f and prior",
+        "Dead Man's Snitch Plugin  version 0.1 and prior",
+        "Git Parameter Plugin  version 439.vb_0e46ca_14534 and prior",
+        "HTML Publisher Plugin  version 425 and prior",
+        "IBM Cloud DevOps Plugin  version 2.0.16 and prior",
+        "IFTTT Build Notifier Plugin  version 1.2 and prior",
+        "Kryptowire Plugin  version 0.2 and prior",
+        "Nouvola DiveCloud Plugin  version 1.08 and prior",
+        "QMetry Test Management Plugin  version 1.13 and prior",
+        "ReadyAPI Functional Testing Plugin  version 1.11 and prior",
+        "Sensedia Api Platform tools Plugin  version 1.0 and prior",
+        "Statistics Gatherer Plugin  version 2.0.3 and prior",
+        "Testsigma Test Plan run Plugin  version 1.6 and prior",
+        "User1st uTester Plugin  version 1.1 and prior",
+        "VAddy Plugin  version 1.2.8 and prior",
+        "Warrior Framework Plugin  version 1.2 and prior",
+        "Xooa Plugin  version 0.0.7 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-07-09/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
