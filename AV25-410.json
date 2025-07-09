@@ -1,0 +1,20 @@
+{
+    "id": "servicenow-security-advisory-av25-410",
+    "title": "ServiceNow security advisory (AV25-410)",
+    "public_time": "2025-07-09T17:52:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av25-410",
+    "advisory_id": "AV25-410",
+    "type": "advisory",
+    "description": "On July 8, 2025, ServiceNow published a Security Advisory to address a vulnerability in the following product:",
+    "products": [
+        "ServiceNow Now Platform  multiple versions"
+    ],
+    "cves": [
+        "CVE-2025-3648"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2139567",
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057"
+    ]
+}
