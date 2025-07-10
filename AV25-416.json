@@ -1,0 +1,21 @@
+{
+    "id": "drupal-security-advisory-av25-416",
+    "title": "Drupal security advisory (AV25-416)",
+    "public_time": "2025-07-10T15:17:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-416",
+    "advisory_id": "AV25-416",
+    "type": "advisory",
+    "description": "On July 9, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cookies Addons  versions prior to 1.2.4",
+        "Mail_login 3.x  versions prior to 3.2.0",
+        "Mail_login 4.x  versions prior to 4.2.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-087",
+        "https://www.drupal.org/sa-contrib-2025-088",
+        "https://www.drupal.org/security"
+    ]
+}
