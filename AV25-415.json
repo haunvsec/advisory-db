@@ -1,0 +1,15 @@
+{
+    "id": "juniper-networks-security-advisory-av25-415",
+    "title": "Juniper Networks security advisory (AV25-415)",
+    "public_time": "2025-07-10T14:52:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-415",
+    "advisory_id": "AV25-415",
+    "type": "advisory",
+    "description": "On July 9 and 10, 2025, Juniper Networks published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Juniper Networks Security Advisories"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
