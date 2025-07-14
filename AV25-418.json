@@ -1,0 +1,20 @@
+{
+    "id": "dell-security-advisory-av25-418",
+    "title": "Dell security advisory (AV25-418)",
+    "public_time": "2025-07-14T14:48:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-418",
+    "advisory_id": "AV25-418",
+    "type": "advisory",
+    "description": "Between July 7 and 13, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell PowerFlex Manager   version 4.6.2 and prior",
+        "Dell UCC Edge   versions prior to 3.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000342158/dsa-2025-279-security-update-for-dell-powerflex-manager-platform-pfmp-proprietary-code-vulnerability",
+        "https://www.dell.com/support/kbdoc/en-ca/000343468/dsa-2025-180-security-update-for-dell-ucc-edge-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
