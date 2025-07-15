@@ -1,0 +1,42 @@
+{
+    "id": "zyxel-security-advisory-av25-423",
+    "title": "Zyxel security advisory (AV25-423)",
+    "public_time": "2025-07-15T17:57:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av25-423",
+    "advisory_id": "AV25-423",
+    "type": "advisory",
+    "description": "On July 15, 2025, Zyxel published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "NWA50AX  versions prior to 7.10(ABYW.1)",
+        "NWA50AX PRO  versions prior to 7.10(ACGE.2)",
+        "NWA55AXE  versions prior to 7.10(ABZL.1)",
+        "NWA90AX  versions prior to 7.10(ACCV.1)",
+        "NWA90AX PRO  versions prior to 7.10(ACGF.2)",
+        "NWA110AX  versions prior to 7.10(ABTG.1)",
+        "NWA130BE  versions prior to 7.10(ACIL.2)",
+        "NWA210AX  versions prior to 7.10(ABTD.1)",
+        "NWA220AX-6E  versions prior to 7.10(ACCO.1)",
+        "NWA1123AC PRO  versions prior to 6.28(ABHD.3)",
+        "WAC500H  versions prior to 6.70(ABWA.6)",
+        "WAC5302D-Sv2  versions prior to 6.25(ABVZ.9)",
+        "WAC6103D-I  versions prior to 6.28(AAXH.3)",
+        "WAX300H  versions prior to 7.10(ACHF.1)",
+        "WAX510D  versions prior to 7.10(ABTF.1)",
+        "WAX610D  versions prior to 7.10(ABTE.1)",
+        "WAX620D-6E  versions prior to 7.10(ACCN.1)",
+        "WAX630S  versions prior to 7.10(ABZD.1)",
+        "WAX640S-6E  versions prior to 7.10(ACCM.1)",
+        "WAX650S  versions prior to 7.10(ABRM.1)",
+        "WAX655E  versions prior to 7.10(ACDO.1)",
+        "WBE530  versions prior to 7.10(ACLE.2)",
+        "WBE660S  versions prior to 7.10(ACGG.2)"
+    ],
+    "cves": [
+        "CVE-2025-6265"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-path-traversal-vulnerability-in-aps-07-15-2025",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
