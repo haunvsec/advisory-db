@@ -1,0 +1,15 @@
+{
+    "id": "oracle-security-advisory-july-2025-quarterly-rollup-av25-425",
+    "title": "Oracle security advisory \u2013 July 2025 quarterly rollup (AV25-425)",
+    "public_time": "2025-07-16T13:35:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2025-quarterly-rollup-av25-425",
+    "advisory_id": "AV25-425",
+    "type": "advisory",
+    "description": "On July 15, 2025, Oracle published a security advisory to address vulnerabilities in multiple products.",
+    "products": [
+        "Oracle Critical Patch Update Advisory  July 2025"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
