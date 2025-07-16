@@ -1,0 +1,26 @@
+{
+    "id": "cisco-security-advisory-av25-428",
+    "title": "Cisco security advisory (AV25-428)",
+    "public_time": "2025-07-16T19:53:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-428",
+    "advisory_id": "AV25-428",
+    "type": "advisory",
+    "description": "On July 16, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Unified Intelligence Center  versions 12.5, 12.6 and 15",
+        "Cisco Unified CCX  versions prior to 12.5(1)SU3",
+        "Cisco Identity Services Engine (ISE)  versions prior to 3.2, versions 3.3 and 3.4",
+        "Cisco ISE Passive Identity Connector (ISE-PIC)  versions prior to 3.2, versions 3.3 and 3.4",
+        "Cisco Evolved Programmable Network Manager (EPNM)  versions prior to 7.1, versions 8.0 and 8.1",
+        "Cisco Prime Infrastructure  versions prior to 3.9 and version 3.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuis-file-upload-UhNEtStm",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-3VpsXOxO",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-piepnm-bsi-25JJqsbb",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuis-ssrf-JSuDjeV",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
