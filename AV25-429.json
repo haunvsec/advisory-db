@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av25-429",
+    "title": "HPE security advisory (AV25-429)",
+    "public_time": "2025-07-17T13:18:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-429",
+    "advisory_id": "AV25-429",
+    "type": "advisory",
+    "description": "On July 16, 2025, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE Telco Service Orchestrator  versions prior to v4.2.4",
+        "HPE AutoPass License Server  versions prior to 9.18"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04900en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04877en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
