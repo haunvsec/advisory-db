@@ -1,0 +1,21 @@
+{
+    "id": "nodejs-security-advisory-av25-431",
+    "title": "Nodejs security advisory (AV25-431)",
+    "public_time": "2025-07-18T14:54:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av25-431",
+    "advisory_id": "AV25-431",
+    "type": "advisory",
+    "description": "On July 15, 2025, Nodejs published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Node.js 20  versions prior to v20.19.4",
+        "Node.js 22  versions prior to v22.17.1",
+        "Node.js 24  versions prior to v24.4.1"
+    ],
+    "cves": [
+        "CVE-2025-27210"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://nodejs.org/en/blog/vulnerability/july-2025-security-releases"
+    ]
+}
