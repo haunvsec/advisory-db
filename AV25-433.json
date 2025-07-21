@@ -1,0 +1,27 @@
+{
+    "id": "microsoft-security-advisory-av25-433",
+    "title": "Microsoft security advisory (AV25-433)",
+    "public_time": "2025-07-21T15:35:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av25-433",
+    "advisory_id": "AV25-433",
+    "type": "advisory",
+    "description": "On July 19, 2025, Microsoft published a security advisory to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Microsoft SharePoint Server Subscription Edition  versions prior to KB5002768",
+        "Microsoft SharePoint Server 2016 (No update available yet)",
+        "Microsoft SharePoint Server 2019  versions prior to KB5002754"
+    ],
+    "cves": [
+        "CVE-2025-53770",
+        "CVE-2025-53770",
+        "CVE-2025-53771"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/blog/2025/07/customer-guidance-for-sharepoint-vulnerability-cve-2025-53770/",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53770",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53771",
+        "https://www.microsoft.com/en-us/download/details.aspx?id=108285",
+        "https://www.microsoft.com/en-us/download/details.aspx?id=108286"
+    ]
+}
