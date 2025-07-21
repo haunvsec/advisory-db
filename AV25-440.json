@@ -1,0 +1,26 @@
+{
+    "id": "isc-bind-security-advisory-av25-440",
+    "title": "ISC BIND security advisory (AV25-440)",
+    "public_time": "2025-07-21T19:05:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av25-440",
+    "advisory_id": "AV25-440",
+    "type": "advisory",
+    "description": "On July 16, 2025, ISC published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "ISC BIND 9  versions 9.11.3-S1 to 9.16.50-S1",
+        "ISC BIND 9  versions 9.18.11-S1 to 9.18.37-S1",
+        "ISC BIND 9  versions 9.20.9-S1 to 9.20.10-S1",
+        "ISC BIND 9  versions 9.20.0 to 9.20.10",
+        "ISC BIND 9  versions 9.21.0 to 9.21.9"
+    ],
+    "cves": [
+        "CVE-2025-40776",
+        "CVE-2025-40777"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://kb.isc.org/docs/cve-2025-40776",
+        "https://kb.isc.org/docs/cve-2025-40777",
+        "https://kb.isc.org/docs/aa-00913"
+    ]
+}
