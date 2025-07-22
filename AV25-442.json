@@ -1,0 +1,26 @@
+{
+    "id": "mozilla-security-advisory-av25-442",
+    "title": "Mozilla security advisory (AV25-442)",
+    "public_time": "2025-07-22T14:32:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-442",
+    "advisory_id": "AV25-442",
+    "type": "advisory",
+    "description": "On July 22, 2025, Mozilla published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Firefox for iOS  versions prior to 141",
+        "Firefox ESR  versions prior to 140.1",
+        "Firefox ESR  versions prior to 128.13",
+        "Firefox ESR  versions prior to 115.26",
+        "Firefox  versions prior to 141"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-60/ ",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-59/ ",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-58/ ",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-57/ ",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-56/ ",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
