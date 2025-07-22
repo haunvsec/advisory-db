@@ -1,0 +1,25 @@
+{
+    "id": "sophos-security-advisory-av25-443",
+    "title": "Sophos security advisory (AV25-443)",
+    "public_time": "2025-07-22T15:37:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av25-443",
+    "advisory_id": "AV25-443",
+    "type": "advisory",
+    "description": "On July 21, 2025, Sophos published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Sophos Firewall  version v21.0 GA (21.0.0) and prior",
+        "Sophos Firewall  version v21.5 GA (21.5.0) and prior"
+    ],
+    "cves": [
+        "CVE-2025-6704",
+        "CVE-2025-7624",
+        "CVE-2025-7382",
+        "CVE-2024-13974",
+        "CVE-2024-13973"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.sophos.com/en-us/security-advisories/sophos-sa-20250721-sfos-rce",
+        "https://www.sophos.com/en-us/security-advisories"
+    ]
+}
