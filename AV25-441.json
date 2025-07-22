@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-441",
+    "title": "[Control systems] ABB security advisory (AV25-441)",
+    "public_time": "2025-07-22T13:16:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-441",
+    "advisory_id": "AV25-441",
+    "type": "advisory",
+    "description": "On July 21, 2025, ABB published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "ABB Switch Actuator 4 DU  all versions",
+        "ABB Switch actuator, door/light 4 DU  all versions"
+    ],
+    "cves": [
+        "CVE-2025-7705"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A4556&LanguageCode=en&DocumentPartId=pdf&Action=Launch&_gl=1*2jivkz*_gcl_au*NTAyODI0Njc3LjE3NTA3ODkyNjQ.*_ga*NzkzNjIwNDAuMTcwMTg5MDYxMw..*_ga_46ZFBRSZNM*czE3NTMxODE5NDIkbzYwMyRnMSR0MTc1MzE4MzA2NiRqNjAkbDAkaDA",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
