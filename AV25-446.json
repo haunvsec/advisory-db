@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-446",
+    "title": "HPE security advisory (AV25-446)",
+    "public_time": "2025-07-23T13:28:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-446",
+    "advisory_id": "AV25-446",
+    "type": "advisory",
+    "description": "On July 23, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HP-UX 11i Secure Shell Software  versions prior to A.09.30.010"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbux04903en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
