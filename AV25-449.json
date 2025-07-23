@@ -1,0 +1,20 @@
+{
+    "id": "mitel-security-advisory-av25-449",
+    "title": "Mitel security advisory (AV25-449)",
+    "public_time": "2025-07-23T17:43:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av25-449",
+    "advisory_id": "AV25-449",
+    "type": "advisory",
+    "description": "On July 23, 2025, Mitel published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "MiVoice MX-ONE  versions 3 (7.3.0.0.50) to 7.8 SP1 (7.8.1.0.14)",
+        "MiCollab  versions 10.0 (10.0.0.26) to 10.0 SP1 FP1 (10.0.1.101) and version 9.8 SP3 (9.8.3.1) and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2025-0009",
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2025-0008",
+        "https://www.mitel.com/support/security-advisories"
+    ]
+}
