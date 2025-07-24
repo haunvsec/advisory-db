@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av25-452",
+    "title": "HPE security advisory (AV25-452)",
+    "public_time": "2025-07-24T19:03:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-452",
+    "advisory_id": "AV25-452",
+    "type": "advisory",
+    "description": "On July 24, 2025, HPE published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Service Orchestrator  versions prior to v5.0.2",
+        "HPE Telco Service Orchestrator  versions prior to v4.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04901en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04902en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
