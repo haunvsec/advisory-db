@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-450",
+    "title": "[Control systems] ABB security advisory (AV25-450)",
+    "public_time": "2025-07-24T15:22:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-450",
+    "advisory_id": "AV25-450",
+    "type": "advisory",
+    "description": "On July 23, 2025, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "AC500 V2 PLCs  firmware versions 2.5.2 and prior"
+    ],
+    "cves": [
+        "CVE-2025-7745"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=3ADR011432&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
