@@ -1,0 +1,19 @@
+{
+    "id": "beyondtrust-security-advisory-av25-461",
+    "title": "BeyondTrust security advisory (AV25-461)",
+    "public_time": "2025-07-28T19:45:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av25-461",
+    "advisory_id": "AV25-461",
+    "type": "advisory",
+    "description": "On July 28, 2025, BeyondTrust published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Privilege Management for Windows  versions prior to 25.4.270.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.beyondtrust.com/trust-center/security-advisories/bt25-05",
+        "https://www.beyondtrust.com/trust-center/security-advisories/bt25-06",
+        "https://www.beyondtrust.com/trust-center/security-advisories"
+    ]
+}
