@@ -1,0 +1,17 @@
+{
+    "id": "github-security-advisory-av25-460",
+    "title": "GitHub security advisory (AV25-460)",
+    "public_time": "2025-07-28T17:17:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av25-460",
+    "advisory_id": "AV25-460",
+    "type": "advisory",
+    "description": "On July 25, 2025, GitHub published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "tj-actions/branch-names  versions prior to 8.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/tj-actions/branch-names/security/advisories/GHSA-gq52-6phf-x2r6"
+    ]
+}
