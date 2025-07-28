@@ -1,0 +1,17 @@
+{
+    "id": "microsoft-edge-security-advisory-av25-458",
+    "title": "Microsoft Edge security advisory (AV25-458)",
+    "public_time": "2025-07-28T15:45:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-458",
+    "advisory_id": "AV25-458",
+    "type": "advisory",
+    "description": "On July 25, 2025, Microsoft published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 138.0.3351.109"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-25-2025"
+    ]
+}
