@@ -1,0 +1,24 @@
+{
+    "id": "apple-security-advisory-av25-464",
+    "title": "Apple security advisory (AV25-464)",
+    "public_time": "2025-07-29T18:45:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-464",
+    "advisory_id": "AV25-464",
+    "type": "advisory",
+    "description": "On July 29, 2025, Apple published security updates to address vulnerabilities in the following products:",
+    "products": [
+        "iOS and iPadOS  versions prior to 18.6",
+        "iPadOS  versions prior to 17.7.9",
+        "macOS Sequoia  versions prior to 15.6",
+        "macOS Sonoma  versions prior to 14.7.7",
+        "macOS Ventura  versions prior to 13.7.7",
+        "tvOS  versions prior to 18.6",
+        "visionOS  versions prior to 2.6",
+        "watchOS  versions prior to 11.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/100100"
+    ]
+}
