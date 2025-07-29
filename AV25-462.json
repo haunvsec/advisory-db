@@ -1,0 +1,20 @@
+{
+    "id": "solarwinds-security-advisory-av25-462",
+    "title": "SolarWinds security advisory (AV25-462)",
+    "public_time": "2025-07-29T12:22:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av25-462",
+    "advisory_id": "AV25-462",
+    "type": "advisory",
+    "description": "On July 24, 2025, SolarWinds published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SolarWinds Observability Self-Hosted  version SWOSH 2025.2 and prior"
+    ],
+    "cves": [
+        "CVE-2025-26397"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2025-26397",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
