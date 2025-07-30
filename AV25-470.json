@@ -1,0 +1,22 @@
+{
+    "id": "splunk-security-advisory-av25-470",
+    "title": "Splunk security advisory (AV25-470)",
+    "public_time": "2025-07-30T19:47:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-470",
+    "advisory_id": "AV25-470",
+    "type": "advisory",
+    "description": "On July 30, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk User Behavior Analytics (UBA)  versions prior to 5.4.3",
+        "Enterprise Security  versions prior to 7.3.4",
+        "Enterprise Security  versions prior to 8.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2025-0713",
+        "https://advisory.splunk.com/advisories/SVD-2025-0714",
+        "https://advisory.splunk.com/advisories/SVD-2025-0715",
+        "https://advisory.splunk.com/advisories"
+    ]
+}
