@@ -1,0 +1,19 @@
+{
+    "id": "sonicwall-security-advisory-av25-466",
+    "title": "SonicWall security advisory (AV25-466)",
+    "public_time": "2025-07-30T12:46:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-466",
+    "advisory_id": "AV25-466",
+    "type": "advisory",
+    "description": "On July 29, 2025, SonicWall published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Gen7 hardware Firewalls  version 7.2.0-7015 and prior",
+        "Gen7 virtual Firewalls (NSv)  version 7.2.0-7015 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0013",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
