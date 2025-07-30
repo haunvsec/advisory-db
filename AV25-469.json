@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av25-469",
+    "title": "Drupal security advisory (AV25-469)",
+    "public_time": "2025-07-30T18:55:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-469",
+    "advisory_id": "AV25-469",
+    "type": "advisory",
+    "description": "On July 30, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Config Pages  versions prior to 2.18.0",
+        "GoogleTag Manager  versions prior to 1.10.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-093",
+        "https://www.drupal.org/sa-contrib-2025-094",
+        "https://www.drupal.org/security"
+    ]
+}
