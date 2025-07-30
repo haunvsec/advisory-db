@@ -1,0 +1,22 @@
+{
+    "id": "palo-alto-networks-security-advisory-av25-467",
+    "title": "Palo Alto Networks security advisory (AV25-467)",
+    "public_time": "2025-07-30T14:20:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av25-467",
+    "advisory_id": "AV25-467",
+    "type": "advisory",
+    "description": "On July 28, 2025, Palo Alto Networks published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "GlobalProtect App 6.2 Linux  versions prior to 6.2.9",
+        "GlobalProtect App 6.1 Linux  all versions",
+        "GlobalProtect App 6.0 Linux  all versions"
+    ],
+    "cves": [
+        "CVE-2025-2179"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/CVE-2025-2179",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
