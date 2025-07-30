@@ -1,0 +1,17 @@
+{
+    "id": "node-saml-security-advisory-av25-471",
+    "title": "Node-SAML security advisory (AV25-471)",
+    "public_time": "2025-07-30T19:59:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/node-saml-security-advisory-av25-471",
+    "advisory_id": "AV25-471",
+    "type": "advisory",
+    "description": "On July 28, 2025, Node-SAML published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Node-SAML  version 5.0.1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/node-saml/node-saml/security/advisories/GHSA-4mxg-3p6v-xgq3"
+    ]
+}
