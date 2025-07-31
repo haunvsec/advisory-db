@@ -1,0 +1,21 @@
+{
+    "id": "suse-linux-security-advisory-av25-474",
+    "title": "SUSE Linux security advisory (AV25-474)",
+    "public_time": "2025-07-31T18:05:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av25-474",
+    "advisory_id": "AV25-474",
+    "type": "advisory",
+    "description": "On July 8, 2025, SUSE Linux published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "SUSE Linux Enterprise Micro 5.5",
+        "SUSE Linux Enterprise Server 15 SP6",
+        "SUSE Manager Proxy 5.0 Extension",
+        "SUSE Manager Retail Branch Server 5.0 Extension",
+        "SUSE Manager Server 5.0 Extensions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.suse.com/support/update/announcement/2025/suse-su-202502478-1/"
+    ]
+}
