@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-475",
+    "title": "HPE security advisory (AV25-475)",
+    "public_time": "2025-08-01T13:07:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-475",
+    "advisory_id": "AV25-475",
+    "type": "advisory",
+    "description": "On July 30, 2025, HPE published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Service Activator  versions prior to 10.3.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04887en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
