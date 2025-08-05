@@ -1,0 +1,26 @@
+{
+    "id": "dell-security-advisory-av25-479",
+    "title": "Dell security advisory (AV25-479)",
+    "public_time": "2025-08-05T15:52:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-479",
+    "advisory_id": "AV25-479",
+    "type": "advisory",
+    "description": "Between July 28 and August 3, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.02.05.00",
+        "Dell Avamar Data Store Gen4T, Gen5A  versions 19.10, 19.10-SP1, 19.12, 19.7, 19.8 and 19.9",
+        "Dell Avamar Network Data Management Protocol (NDMP) Accelerator  versions 19.10, 19.10-SP1, 19.12, 19.7, 19.8 and 19.9",
+        "Dell Avamar VMware Image Backup Proxy  versions 19.10, 19.10-SP1, 19.12, 19.7, 19.8 and 19.9",
+        "Dell Avamar Virtual Edition  versions 19.10, 19.10-SP1, 19.12, 19.7, 19.8 and 19.9",
+        "Dell Networker Virtual Edition (NVE)  versions 19.5, 19.6, 19.7, 19.8, 19.9, 19.10, 19.11 and 19.12",
+        "Dell Networking OS10  versions prior to 10.5.5.15",
+        "Dell PowerProtect DP Series Appliance (IDPA)  versions prior to 2.7.8",
+        "Dell PowerStore 1000X, 3000X, 5000X, 7000X, 9000X  versions prior to ESXi70U3w-24784741",
+        "Dell Unity Operating Environment (OE)  versions prior to 5.5.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
