@@ -1,0 +1,21 @@
+{
+    "id": "adobe-security-advisory-av25-485",
+    "title": "Adobe security advisory (AV25-485)",
+    "public_time": "2025-08-06T12:06:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-485",
+    "advisory_id": "AV25-485",
+    "type": "advisory",
+    "description": "On August 5, 2025, Adobe published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "Adobe Experience Manager (AEM) Forms on JEE   version 6.5.23.0 and prior"
+    ],
+    "cves": [
+        "CVE-2025-54253",
+        "CVE-2025-54254"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security/products/aem-forms/apsb25-82.html ",
+        "https://helpx.adobe.com/security.html"
+    ]
+}
