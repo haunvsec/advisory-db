@@ -1,0 +1,18 @@
+{
+    "id": "trend-micro-security-advisory-av25-487",
+    "title": "Trend Micro security advisory (AV25-487)",
+    "public_time": "2025-08-06T15:42:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av25-487",
+    "advisory_id": "AV25-487",
+    "type": "advisory",
+    "description": "On August 5, 2025, Trend Micro published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Trend Micro Apex One (on-prem) Management Server  version 14039 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://success.trendmicro.com/en-US/solution/KA-0020652",
+        "https://success.trendmicro.com/en-US/vulnerability-response/"
+    ]
+}
