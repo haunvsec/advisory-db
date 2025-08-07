@@ -1,0 +1,23 @@
+{
+    "id": "microsoft-exchange-security-advisory-av25-490",
+    "title": "Microsoft Exchange security advisory (AV25-490)",
+    "public_time": "2025-08-07T12:58:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-exchange-security-advisory-av25-490",
+    "advisory_id": "AV25-490",
+    "type": "advisory",
+    "description": "On August 6, 2025, Microsoft published a security update to address a vulnerability in the following products:",
+    "products": [
+        "Exchange Server 2016 CU23  (KB5050674)",
+        "Exchange Server 2019 CU14  (KB5050673)",
+        "Exchange Server 2019 CU15  (KB5050672)",
+        "Exchange Server Subscription Edition RTM  (KB5047155)"
+    ],
+    "cves": [
+        "CVE-2025-53786"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-53786",
+        "https://www.cisa.gov/news-events/alerts/2025/08/06/microsoft-releases-guidance-high-severity-vulnerability-cve-2025-53786-hybrid-exchange-deployments"
+    ]
+}
