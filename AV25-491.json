@@ -1,0 +1,18 @@
+{
+    "id": "juniper-networks-security-advisory-av25-491",
+    "title": "Juniper Networks security advisory (AV25-491)",
+    "public_time": "2025-08-08T12:58:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av25-491",
+    "advisory_id": "AV25-491",
+    "type": "advisory",
+    "description": "On August 7, 2025, Juniper Networks published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Juniper Secure Analytics (JSA)  versions 7.5.0 to versions prior to 7.5.0 UP12 IF03"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/article/On-Demand-JSA-Series-Multiple-vulnerabilities-resolved-in-Juniper-Secure-Analytics-in-7-5-0-U12-IF03?language=en_US",
+        "https://kb.juniper.net/InfoCenter/index?page=content&channel=SECURITY_ADVISORIES"
+    ]
+}
