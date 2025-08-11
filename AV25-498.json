@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-498",
+    "title": "[Control systems] ABB security advisory (AV25-498)",
+    "public_time": "2025-08-11T19:38:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-498",
+    "advisory_id": "AV25-498",
+    "type": "advisory",
+    "description": "On August 11, 2025, ABB published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "ASPECT-Enterprise  firmware versions prior to 3.08.04-s01",
+        "NEXUS Series  firmware versions prior to 3.08.04-s01",
+        "MATRIX Series  firmware versions prior to 3.08.04-s01"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A4462&LanguageCode=en&DocumentPartId=pdf&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
