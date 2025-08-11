@@ -1,0 +1,17 @@
+{
+    "id": "winrar-security-advisory-av25-499",
+    "title": "WinRAR security advisory (AV25-499)",
+    "public_time": "2025-08-11T20:00:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/winrar-security-advisory-av25-499",
+    "advisory_id": "AV25-499",
+    "type": "advisory",
+    "description": "On July 30, 2025, WinRAR published a security update to address a vulnerability in the following product:",
+    "products": [
+        "WinRAR  versions prior to 7.13"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=283&cHash=a64b4a8f662d3639dec8d65f47bc93c5"
+    ]
+}
