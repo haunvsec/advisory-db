@@ -1,0 +1,30 @@
+{
+    "id": "sap-security-advisory-august-2025-monthly-rollup-av25-500",
+    "title": "SAP security advisory \u2013 August 2025 monthly rollup (AV25-500)",
+    "public_time": "2025-08-12T13:52:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2025-monthly-rollup-av25-500",
+    "advisory_id": "AV25-500",
+    "type": "advisory",
+    "description": "On August 12, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP S/4HANA (Private Cloud or On-Premise)  versions S4CORE 102, 103, 104, 105, 106, 107 and 108",
+        "SAP Landscape Transformation (Analysis Platform)  versions DMIS 2011_1_700, 2011_1_710, 2011_1_730, 2011_1_731 and 2011_1_752, 2020",
+        "SAP Business One (SLD)  versions B1_ON_HANA 10.0 and SAP-M-BO 10.0",
+        "SAP S/4HANA (Bank Communication Management)  versions SAP_APPL 606, SAP_FIN 617, 618, 720, 730, S4CORE 102, 103, 104, 105, 106, 107 and 108",
+        "SAP NetWeaver Application Server for ABAP  multiple versions and platforms",
+        "SAP NetWeaver ABAP Platform  versions S4CRM 100, 200, 204, 205, 206, S4CEXT 107, 108, 109, BBPCRM 713 and 714",
+        "SAP NetWeaver Enterprise Portal (OBN component)  version EP-RUNTIME 7.50",
+        "ABAP Platform  versions SAP_BASIS 758, SAP_BASIS 816 and SAP_BASIS 916",
+        "SAP GUI for Windows  version BC-FES-GUI 8.00",
+        "SAP S/4HANA (Supplier invoice)  versions S4CORE 102, 103, 104, 105, 106, 107, 108 and 109",
+        "SAP NetWeaver  versions SAP_ABA 700, 701, 702, 731, 740, 750, 751, 752, 75C, 75D, 75E, 75F, 75G, 75H and 75I",
+        "SAP NetWeaver AS for ABAP and ABAP Platform (Internet Communication Manager)  versions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 7.22EXT, 7.53, KERNEL 7.22, 7.53, 7.54, 7.77, 7.89, 7.93, 9.14, 9.15 and 9.16",
+        "SAP Cloud Connector  version SAP_CLOUD_CONNECTOR 2.0",
+        "SAP Fiori (Launchpad)  version SAP_UI 754"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/august-2025.html"
+    ]
+}
