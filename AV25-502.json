@@ -1,0 +1,15 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-502",
+    "title": "[Control systems] Siemens security advisory (AV25-502)",
+    "public_time": "2025-08-12T20:13:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-502",
+    "advisory_id": "AV25-502",
+    "type": "advisory",
+    "description": "Between August 12, 2025, Siemens published advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Siemens Security Advisories"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
