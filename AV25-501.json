@@ -1,0 +1,29 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av25-501",
+    "title": "[Control systems] Schneider Electric security advisory (AV25-501)",
+    "public_time": "2025-08-12T20:07:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av25-501",
+    "advisory_id": "AV25-501",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "BMXNGD0100: M580 Global Data module  all versions",
+        "BMXNOC0401: Modicon M340 X80 Ethernet Communication modules  all versions",
+        "BMXNOE0100: Modbus/TCP Ethernet Modicon M340 module  multiple versions and models",
+        "BMXNOR0200H: Ethernet / Serial RTU Module  all versions",
+        "EcoStruxure Building Operation Enterprise Server and Central  versions prior to 7.0.1",
+        "EcoStruxure Enterprise Server  versions prior to 7.0.1",
+        "EcoStruxure Power Monitoring Expert (PME)  versions 2022, 2023, 2024 and 2024 R2",
+        "EcoStruxure Power Operation (EPO) Advanced Reporting and Dashboards Module  versions 2022 w/ Advanced Reporting Module and 2024 w/ Advanced Reporting Module",
+        "EcoStruxure Workstation  versions prior to 7.0.1",
+        "Modicon Controller  multiple versions and models",
+        "Modicon M580 communication modules  multiple versions and models",
+        "SESU  versions prior to v3.0.12",
+        "Saitel DR RTU  version 11.06.29 and prior, version 11.06.34 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
