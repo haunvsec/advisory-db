@@ -1,0 +1,15 @@
+{
+    "id": "hpe-security-advisory-av25-508",
+    "title": "HPE security advisory (AV25-508)",
+    "public_time": "2025-08-13T19:34:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-508",
+    "advisory_id": "AV25-508",
+    "type": "advisory",
+    "description": "Between August 6 and 13, 2025, HPE published security advisories to address vulnerabilities in the multiple products.",
+    "products": [
+        "HPE Security Bulletin Library"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
