@@ -1,0 +1,53 @@
+{
+    "id": "microsoft-security-advisory-august-2025-monthly-rollup-av25-504",
+    "title": "Microsoft security advisory \u2013 August 2025 monthly rollup (AV25-504)",
+    "public_time": "2025-08-13T14:00:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2025-monthly-rollup-av25-504",
+    "advisory_id": "AV25-504",
+    "type": "advisory",
+    "description": "On August 12, 2025, Microsoft published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Azure File Sync",
+        "Azure Open AI",
+        "Azure Portal",
+        "Azure Stack Hub",
+        "DCadsv5-series Azure VM",
+        "DCasv5-series Azure VM",
+        "DCesv5-series - Azure VM",
+        "DCesv6-series Azure VM",
+        "ECadsv5-series Azure VM",
+        "ECedsv5-series Azure VM",
+        "Ecesv6-series Azure VM",
+        "Microsoft 365",
+        "Microsoft Dynamics 365",
+        "Microsoft Edge",
+        "Microsoft Excel 2016",
+        "Microsoft Exchange Server",
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Microsoft SQL Server",
+        "Microsoft SharePoint",
+        "Microsoft Teams",
+        "Microsoft Visual Studio 2022 version 17.14",
+        "Microsoft Word 2016",
+        "NCCadsH100v5-series Azure VM",
+        "Office Online Server",
+        "Teams Panels",
+        "Teams Phones",
+        "Web Deploy 4.0",
+        "Windows 10",
+        "Windows 11",
+        "Windows Security App",
+        "Windows Server",
+        "Windows Subsystem for Linux"
+    ],
+    "cves": [
+        "CVE-2025-53779",
+        "CVE-2025-49719"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2025-Aug",
+        "https://msrc.microsoft.com/update-guide/en-us"
+    ]
+}
