@@ -1,0 +1,20 @@
+{
+    "id": "foxit-security-advisory-av25-510",
+    "title": "Foxit security advisory (AV25-510)",
+    "public_time": "2025-08-13T20:20:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av25-510",
+    "advisory_id": "AV25-510",
+    "type": "advisory",
+    "description": "On August 13, 2025, Foxit published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Foxit PDF Editor (Windows)  multiple versions",
+        "Foxit PDF Editor for Mac  multiple versions",
+        "Foxit PDF Reader (Windows)  version 2025.1.0.27937 and prior",
+        "Foxit PDF Reader for Mac  version 2025.1.0.66692 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.foxit.com/support/security-bulletins.html"
+    ]
+}
