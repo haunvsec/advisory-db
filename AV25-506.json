@@ -1,0 +1,18 @@
+{
+    "id": "fortinet-security-advisory-av25-506",
+    "title": "Fortinet security advisory (AV25-506)",
+    "public_time": "2025-08-13T16:42:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-506",
+    "advisory_id": "AV25-506",
+    "type": "advisory",
+    "description": "On August 12, 2025, Fortinet published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Remote unauthenticated command injection in FortiSIEM",
+        "Fortinet PSIRT Advisories"
+    ],
+    "cves": [
+        "CVE-2025-25256"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
