@@ -1,0 +1,23 @@
+{
+    "id": "servicenow-security-advisory-av25-516",
+    "title": "ServiceNow security advisory (AV25-516)",
+    "public_time": "2025-08-14T19:05:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av25-516",
+    "advisory_id": "AV25-516",
+    "type": "advisory",
+    "description": "On August 12, 2025, ServiceNow published a Security Advisory to address a vulnerability in the following products:",
+    "products": [
+        "ServiceNow Washington  multiple versions",
+        "ServiceNow Xanadu  multiple versions",
+        "ServiceNow Yokohama  multiple versions",
+        "ServiceNow Zurich  multiple versions"
+    ],
+    "cves": [
+        "CVE-2025-3089"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2264930",
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057"
+    ]
+}
