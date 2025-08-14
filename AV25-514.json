@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av25-514",
+    "title": "Drupal security advisory (AV25-514)",
+    "public_time": "2025-08-14T15:32:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-514",
+    "advisory_id": "AV25-514",
+    "type": "advisory",
+    "description": "On August 13, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Authenticator Login (Alogin)  versions prior to 2.1.4",
+        "Layout Builder Advanced Permissions  version 2.2.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-096",
+        "https://www.drupal.org/sa-contrib-2025-097",
+        "https://www.drupal.org/security"
+    ]
+}
