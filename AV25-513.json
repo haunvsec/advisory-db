@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-513",
+    "title": "[Control systems] ABB security advisory (AV25-513)",
+    "public_time": "2025-08-14T15:17:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-513",
+    "advisory_id": "AV25-513",
+    "type": "advisory",
+    "description": "On August 12, 2025, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "ABB Ability zenon  versions 7.50, 7.60, 8.00, 8.20, 11, 12 and 14"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=2NGA002743&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
