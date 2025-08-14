@@ -1,0 +1,19 @@
+{
+    "id": "n-able-security-advisory-av25-517",
+    "title": "N-able security advisory (AV25-517)",
+    "public_time": "2025-08-14T20:44:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av25-517",
+    "advisory_id": "AV25-517",
+    "type": "advisory",
+    "description": "On August 14, 2025, N-able published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "N-central  versions prior to 2025.3.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+        "https://status.n-able.com/2025/08/13/announcing-the-ga-of-n-central-2025-3-1/",
+        "https://status.n-able.com/"
+    ]
+}
