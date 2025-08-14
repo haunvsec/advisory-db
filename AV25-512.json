@@ -1,0 +1,20 @@
+{
+    "id": "solarwinds-security-advisory-av25-512",
+    "title": "SolarWinds security advisory (AV25-512)",
+    "public_time": "2025-08-14T15:04:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av25-512",
+    "advisory_id": "AV25-512",
+    "type": "advisory",
+    "description": "On August 12, 2025, SolarWinds published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SolarWinds Database Performance Analyzer  version 2025.2 and prior"
+    ],
+    "cves": [
+        "CVE-2025-26398"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2025-26398",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
