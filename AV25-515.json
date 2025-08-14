@@ -1,0 +1,27 @@
+{
+    "id": "palo-alto-networks-security-advisory-av25-515",
+    "title": "Palo Alto Networks security advisory (AV25-515)",
+    "public_time": "2025-08-14T17:18:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av25-515",
+    "advisory_id": "AV25-515",
+    "type": "advisory",
+    "description": "On August 13, 2025, Palo Alto Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Checkov by Prisma Cloud 3.2.0  versions prior to 3.2.449",
+        "Cortex XDR Broker VM 28.0.0  versions prior to 28.0.52",
+        "GlobalProtect App 6.3 Linux  versions prior to 6.3.3",
+        "GlobalProtect App 6.3 Windows  versions prior to 6.3.3-h2 (6.3.3-c676)",
+        "GlobalProtect App 6.2 Linux  all versions",
+        "GlobalProtect App 6.2 Windows  versions prior to 6.2.8-h3 (6.2.8-c263)",
+        "GlobalProtect App 6.1 Linux/Windows  all versions",
+        "GlobalProtect App 6.0 Linux/Windows  all versions",
+        "PAN-OS 11.2 (On PA-7500)  versions prior to 11.2.8",
+        "PAN-OS 11.1 (On PA-7500)  versions prior to 11.1.10",
+        "Prisma Access Browser  versions prior to 138.69.4.184"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/"
+    ]
+}
