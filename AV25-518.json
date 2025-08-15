@@ -1,0 +1,23 @@
+{
+    "id": "cyber-control-systems-siemens-security-advisory-av25-518",
+    "title": "Cyber | [Control systems] Siemens security advisory (AV25-518)",
+    "public_time": "2025-08-15T15:44:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cyber-control-systems-siemens-security-advisory-av25-518",
+    "advisory_id": "AV25-518",
+    "type": "advisory",
+    "description": "On August 14, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Mendix SAML (Mendix 9.24 compatible)  versions prior to V3.6.21",
+        "Mendix SAML (Mendix 10.12 compatible)  versions prior to V4.0.3",
+        "Mendix SAML (Mendix 10.21 compatible)  versions prior to V4.1.2",
+        "Desigo CC family  all versions",
+        "SENTRON Powermanager  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-395458.html",
+        "https://cert-portal.siemens.com/productcert/html/ssa-201595.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
