@@ -1,0 +1,15 @@
+{
+    "id": "cisco-security-advisory-av25-519",
+    "title": "Cisco security advisory (AV25-519)",
+    "public_time": "2025-08-15T16:01:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-519",
+    "advisory_id": "AV25-519",
+    "type": "advisory",
+    "description": "On August 14, 2025, Cisco published security advisories to address vulnerabilities in the multiple products.",
+    "products": [
+        "Cisco Security Advisories"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
