@@ -1,0 +1,15 @@
+{
+    "id": "ibm-security-advisory-av25-525",
+    "title": "IBM security advisory (AV25-525)",
+    "public_time": "2025-08-18T18:28:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-525",
+    "advisory_id": "AV25-525",
+    "type": "advisory",
+    "description": "Between August 11 and 17, 2025, IBM published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "IBM Product Security Incident Response"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
