@@ -1,0 +1,27 @@
+{
+    "id": "commvault-security-advisory-av25-531",
+    "title": "Commvault security advisory (AV25-531)",
+    "public_time": "2025-08-20T14:12:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av25-531",
+    "advisory_id": "AV25-531",
+    "type": "advisory",
+    "description": "On August 19, 2025, Commvault published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Commvault - versions 11.32.0 to 11.32.101",
+        "Commvault - versions 11.36.0 to 11.36.59"
+    ],
+    "cves": [
+        "CVE-2025-57788",
+        "CVE-2025-57789",
+        "CVE-2025-57790",
+        "CVE-2025-57791"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://documentation.commvault.com/securityadvisories/CV_2025_08_1.html",
+        "https://documentation.commvault.com/securityadvisories/CV_2025_08_2.html",
+        "https://documentation.commvault.com/securityadvisories/CV_2025_08_3.html",
+        "https://documentation.commvault.com/securityadvisories/CV_2025_08_4.html",
+        "https://documentation.commvault.com/securityadvisories/"
+    ]
+}
