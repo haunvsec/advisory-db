@@ -1,0 +1,23 @@
+{
+    "id": "cisco-security-advisory-av25-532",
+    "title": "Cisco security advisory (AV25-532)",
+    "public_time": "2025-08-20T19:07:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-532",
+    "advisory_id": "AV25-532",
+    "type": "advisory",
+    "description": "On August 20, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Duo Authentication Proxy  version 5.8.2 and prior and version 6.5.1 and prior",
+        "Cisco Evolved Programmable Network Manager (EPNM)  version 7.1 and prior, versions 8.0 and 8.1",
+        "Cisco Prime Infrastructure  version 3.9 and prior and version 3.10",
+        "Cisco Identity Services Engine (ISE)  version 3.1 and prior, versions 3.2 and 3.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-authproxlog-SxczXQ63",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-pi-epnm-TET4GxBX",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-file-upload-qksX6C8g",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
