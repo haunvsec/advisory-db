@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-534",
+    "title": "HPE security advisory (AV25-534)",
+    "public_time": "2025-08-20T19:42:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-534",
+    "advisory_id": "AV25-534",
+    "type": "advisory",
+    "description": "On August 20, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Unified OSS Console  version 3.1.16"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04941en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
