@@ -1,0 +1,23 @@
+{
+    "id": "ubuntu-security-advisory-av25-536",
+    "title": "Ubuntu security advisory (AV25-536)",
+    "public_time": "2025-08-25T15:31:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-536",
+    "advisory_id": "AV25-536",
+    "type": "advisory",
+    "description": "Between August 18 and 24, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 14.04 LTS",
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS",
+        "Ubuntu 25.04"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices"
+    ]
+}
