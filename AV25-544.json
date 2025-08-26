@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-544",
+    "title": "HPE security advisory (AV25-544)",
+    "public_time": "2025-08-26T17:20:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-544",
+    "advisory_id": "AV25-544",
+    "type": "advisory",
+    "description": "On August 26, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Compute Scale-up Server 3200  versions prior to v1.60.88"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04911en_us&docLocale=en_US#hpesbhf04911-rev-1-hpe-compute-scale-up-server-320-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
