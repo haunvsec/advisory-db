@@ -1,0 +1,19 @@
+{
+    "id": "teamviewer-security-advisory-av25-542",
+    "title": "TeamViewer security advisory (AV25-542)",
+    "public_time": "2025-08-26T15:16:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av25-542",
+    "advisory_id": "AV25-542",
+    "type": "advisory",
+    "description": "On August 26, 2025, TeamViewer released a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "TeamViewer Remote Full Client (Windows)  versions prior to 15.69",
+        "TeamViewer Remote Host (Windows)  versions prior to 15.69"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/tv-2025-1003/",
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/"
+    ]
+}
