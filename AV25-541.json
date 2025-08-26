@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-541",
+    "title": "HPE security advisory (AV25-541)",
+    "public_time": "2025-08-26T12:16:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-541",
+    "advisory_id": "AV25-541",
+    "type": "advisory",
+    "description": "On August 25, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HP-UX 11i v3 PAM RADIUS  versions prior to A.03.00.00"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbux04931en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
