@@ -1,0 +1,19 @@
+{
+    "id": "docker-security-advisory-av25-546",
+    "title": "Docker security advisory (AV25\u2013546)",
+    "public_time": "2025-08-27T15:25:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av25-546",
+    "advisory_id": "AV25\u2013546",
+    "type": "advisory",
+    "description": "On August 20, 2025, Docker published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Docker Desktop  versions prior to 4.44.3"
+    ],
+    "cves": [
+        "CVE-2025-9074"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.docker.com/desktop/release-notes/#4443"
+    ]
+}
