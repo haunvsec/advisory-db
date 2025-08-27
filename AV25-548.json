@@ -1,0 +1,22 @@
+{
+    "id": "drupal-security-advisory-av25-548",
+    "title": "Drupal security advisory (AV25-548)",
+    "public_time": "2025-08-27T19:56:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-548",
+    "advisory_id": "AV25-548",
+    "type": "advisory",
+    "description": "On August 27, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "API Key manager  all versions",
+        "Authenticator Login  versions prior to 2.1.8",
+        "Facets  versions prior to 2.0.10, version 3.0.0 to versions prior to 3.0.1",
+        "Owl Carousel 2  all versions",
+        "Protected Pages  version 1.8.0",
+        "Synchronize composer.json with Contrib Modules  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/security"
+    ]
+}
