@@ -1,0 +1,24 @@
+{
+    "id": "sangoma-freepbx-security-advisory-av25-550",
+    "title": "Sangoma FreePBX security advisory (AV25\u2013550)",
+    "public_time": "2025-08-29T14:06:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sangoma-freepbx-security-advisory-av25-550",
+    "advisory_id": "AV25\u2013550",
+    "type": "advisory",
+    "description": "On August 28, 2025, Sangoma FreePBX published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "FreePBX  versions 15 prior to 15.0.66",
+        "FreePBX  versions 16 prior to 16.0.89",
+        "FreePBX  versions 17 prior to 17.0.3"
+    ],
+    "cves": [
+        "CVE-2025-57819"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-m42g-xg4c-5f3h",
+        "https://community.freepbx.org/t/security-advisory-please-lock-down-your-administrator-access/107203",
+        "https://community.freepbx.org/t/endpointmanager-aug-2025-zero-day/107215",
+        "https://gist.github.com/jfinstrom/60011630ed586a79f5b9c78313e0d708#file-freepbx-vulnerability-aug-2026-md"
+    ]
+}
