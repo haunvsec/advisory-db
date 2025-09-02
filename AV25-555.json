@@ -1,0 +1,18 @@
+{
+    "id": "hashicorp-security-advisory-av25-555",
+    "title": "HashiCorp security advisory (AV25-555)",
+    "public_time": "2025-09-02T15:22:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av25-555",
+    "advisory_id": "AV25-555",
+    "type": "advisory",
+    "description": "On August 28, 2025, HashiCorp published a security bulletin to address vulnerabilities in the following products:",
+    "products": [
+        "Vault Community  versions 1.15.0 to 1.20.2, 1.19.8, 1.18.13 and 1.16.24",
+        "Vault Enterprise  versions 1.15.0 to 1.20.2, 1.19.8, 1.18.13 and 1.16.24"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.hashicorp.com/t/hcsec-2025-24-vault-denial-of-service-though-complex-json-payloads/76393"
+    ]
+}
