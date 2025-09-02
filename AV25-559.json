@@ -1,0 +1,21 @@
+{
+    "id": "whatsapp-security-advisory-av25-559",
+    "title": "WhatsApp security advisory (AV25-559)",
+    "public_time": "2025-09-02T17:18:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/whatsapp-security-advisory-av25-559",
+    "advisory_id": "AV25-559",
+    "type": "advisory",
+    "description": "On August 29, 2025, WhatsApp published a security bulletin to address a vulnerability in the following products:",
+    "products": [
+        "WhatsApp for IoS  versions prior to v2.25.21.73",
+        "WhatsApp Business for IoS  versions prior to v2.25.21.78",
+        "WhatsApp for MAC  versions prior to v2.25.21.78"
+    ],
+    "cves": [
+        "CVE-2025-43300"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.whatsapp.com/security/advisories/2025/"
+    ]
+}
