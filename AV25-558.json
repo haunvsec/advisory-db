@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av25-558",
+    "title": "Dell security advisory (AV25-558)",
+    "public_time": "2025-09-02T15:41:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-558",
+    "advisory_id": "AV25-558",
+    "type": "advisory",
+    "description": "Between August 25 and 31, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Avamar Data Store Ge5A  versions prior to 2.24.0",
+        "Dell Avamar Data Store Ge5A  versions prior to 7.00.00.181",
+        "Dell ObjectScale  versions prior to 4.1.0.0",
+        "Dell Networking Products  multiple models and versions",
+        "Dell NetWorker Runtime Environment (NRE)  versions prior to 17.0.2",
+        "Dell Private Cloud VMWare  versions prior to 01.01.00.00"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
