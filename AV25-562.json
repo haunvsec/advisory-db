@@ -1,0 +1,26 @@
+{
+    "id": "cisco-security-advisory-av25-562",
+    "title": "Cisco security advisory (AV25-562)",
+    "public_time": "2025-09-03T19:13:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-562",
+    "advisory_id": "AV25-562",
+    "type": "advisory",
+    "description": "On September 3, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Desk Phone 9800 Series",
+        "Cisco EPNM",
+        "Cisco IP Phone 7800 Series",
+        "Cisco IP Phone 8800 Series",
+        "Cisco Prime Infrastructure",
+        "Cisco Unified CM IM&P",
+        "Cisco Unified CM SME",
+        "Cisco Unified CM",
+        "Cisco Video Phone 8875",
+        "Cisco Webex Meetings"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    ]
+}
