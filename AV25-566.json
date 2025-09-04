@@ -1,0 +1,20 @@
+{
+    "id": "atlassian-security-advisory-av25-566",
+    "title": "Atlassian security advisory (AV25-566)",
+    "public_time": "2025-09-04T14:22:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-566",
+    "advisory_id": "AV25-566",
+    "type": "advisory",
+    "description": "On August 19, 2025, Atlassian published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server  multiple versions",
+        "Bitbucket Data Center and Server  multiple versions",
+        "Crowd Data Center and Server  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-august-19-2025-1621491738.html",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
