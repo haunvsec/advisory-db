@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-567",
+    "title": "HPE security advisory (AV25-567)",
+    "public_time": "2025-09-04T15:26:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-567",
+    "advisory_id": "AV25-567",
+    "type": "advisory",
+    "description": "On September 3, 2025, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE M-Series Switches Using NVIDIA Cumulus  versions prior to 5.9.2 and 5.11.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=hpesbst04945en_us#hpesbst04945-rev-1-hpe-m-series-switches-using-nvi-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
