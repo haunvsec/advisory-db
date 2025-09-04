@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av25-563",
+    "title": "Drupal security advisory (AV25-563)",
+    "public_time": "2025-09-04T12:58:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-563",
+    "advisory_id": "AV25-563",
+    "type": "advisory",
+    "description": "On September 3, 2025, Drupal published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Acquia DAM  versions prior to 1.1.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-105",
+        "https://www.drupal.org/security"
+    ]
+}
