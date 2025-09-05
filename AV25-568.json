@@ -1,0 +1,20 @@
+{
+    "id": "sitecore-security-advisory-av25-568",
+    "title": "Sitecore security advisory (AV25-568)",
+    "public_time": "2025-09-05T13:11:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sitecore-security-advisory-av25-568",
+    "advisory_id": "AV25-568",
+    "type": "advisory",
+    "description": "On September 3, 2025, Sitecore published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Sitecore Experience Manager (XM)  version 9.0 and prior",
+        "Sitecore Experience Platform (XP)  version 9.0 and prior",
+        "Sitecore Experience Commerce (XC)  version 9.0 and prior",
+        "Sitecore Managed Cloud  version 9.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1003865"
+    ]
+}
