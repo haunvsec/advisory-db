@@ -1,0 +1,28 @@
+{
+    "id": "dell-security-advisory-av25-570",
+    "title": "Dell security advisory (AV25-570)",
+    "public_time": "2025-09-08T14:26:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-570",
+    "advisory_id": "AV25-570",
+    "type": "advisory",
+    "description": "Between September 1 and 7, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Enterprise SONiC Distribution  versions prior to 4.4.3",
+        "Dell Inspiron 14 5441 and 14 7441  versions prior to 31.0.114.0",
+        "Dell Latitude 5455 and 7455  versions prior to 31.0.114.0",
+        "Dell PowerEdge Server  multiple versions and models",
+        "Dell PowerStore T  multiple versions and models",
+        "Dell ThinOS  multiple versions and models",
+        "Dell XPS 13 9345  versions prior to 31.0.114.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000363985/dsa-2025-280-security-update-for-dell-client-platform-for-qualcomm-adreno-gpu-display-driver-vulnerability",
+        "https://www.dell.com/support/kbdoc/en-ca/000364434/dsa-2025-341",
+        "https://www.dell.com/support/kbdoc/en-ca/000364547/dsa-2025-342-dell-powerstore-t-security-update-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000364903/dsa-2025-337-security-update-for-dell-enterprise-sonic-distribution-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000364913/dsa-2025-297-security-update-for-dell-poweredge-server-for-intel-2025-security-advisories-2025-3-ipu",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
