@@ -1,0 +1,15 @@
+{
+    "id": "vmware-security-advisory-av25-575",
+    "title": "VMware security advisory (AV25-575)",
+    "public_time": "2025-09-08T19:39:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-575",
+    "advisory_id": "AV25-575",
+    "type": "advisory",
+    "description": "Between September 3 and 4, 2025, VMware published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Security Advisories - VMware Cloud Foundation"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
