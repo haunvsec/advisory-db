@@ -1,0 +1,24 @@
+{
+    "id": "ivanti-security-advisory-av25-581",
+    "title": "Ivanti security advisory (AV25-581)",
+    "public_time": "2025-09-09T19:09:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-581",
+    "advisory_id": "AV25-581",
+    "type": "advisory",
+    "description": "On September 9, 2025, Ivanti published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Ivanti Endpoint Manager  version 2022 SU8 Security Update 1 and prior",
+        "Ivanti Endpoint Manager  version 2024 SU3 and prior",
+        "Ivanti Connect Secure  version 22.7R2.8 and prior",
+        "Ivanti Policy Secure  version 22.7R1.4 and prior",
+        "ZTA Gateways  version 22.8R2.2",
+        "Neurons for Secure Access  version 22.8R1.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/kA1UL0000006Har0AE",
+        "https://forums.ivanti.com/s/article/kA1UL0000006G8X0AU",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
