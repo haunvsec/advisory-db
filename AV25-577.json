@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av25-577",
+    "title": "HPE security advisory (AV25-577)",
+    "public_time": "2025-09-09T14:15:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-577",
+    "advisory_id": "AV25-577",
+    "type": "advisory",
+    "description": "On September 8, 2025, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE Telco Intelligent Assurance FAS and PDO  versions prior to 4.2.8",
+        "HPE Intelligent Assurance Telco INT-A FAS and PDO  versions prior to v4.2.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04832en_us&docLocale=en_US#hpesbnw04832-rev-1-hpe-telco-intelligent-assurance-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04767en_us&docLocale=en_US#hpesbnw04767-rev-1-hpe-intelligent-assurance-using-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
