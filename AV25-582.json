@@ -1,0 +1,42 @@
+{
+    "id": "microsoft-security-advisory-september-2025-monthly-rollup-av25-582",
+    "title": "Microsoft security advisory \u2013 September 2025 monthly rollup (AV25-582)",
+    "public_time": "2025-09-09T20:31:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2025-monthly-rollup-av25-582",
+    "advisory_id": "AV25-582",
+    "type": "advisory",
+    "description": "On September 9, 2025, Microsoft published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following products:",
+    "products": [
+        "Azure Bot Service",
+        "Azure Connected Machine Agent",
+        "Azure Networking",
+        "Dynamics 365",
+        "Microsoft 365",
+        "Microsoft AutoUpdate for Mac",
+        "Microsoft Entra ID",
+        "Microsoft Excel 2016",
+        "Microsoft HPC",
+        "Microsoft Office",
+        "Microsoft OfficePLUS",
+        "Microsoft PowerPoint",
+        "Microsoft SQL Server",
+        "Microsoft SharePoint",
+        "Microsoft Word 2016",
+        "Office Online Server",
+        "Windows 10",
+        "Windows 11",
+        "Windows Server 2008",
+        "Windows Server 2012",
+        "Windows Server 2016",
+        "Windows Server 2019",
+        "Windows Server 2022",
+        "Windows Server 2",
+        "025"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/releaseNote/2025-Sep",
+        "https://msrc.microsoft.com/update-guide/en-us"
+    ]
+}
