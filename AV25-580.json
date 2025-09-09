@@ -1,0 +1,24 @@
+{
+    "id": "fortinet-security-advisory-av25-580",
+    "title": "Fortinet security advisory (AV25-580)",
+    "public_time": "2025-09-09T18:28:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-580",
+    "advisory_id": "AV25-580",
+    "type": "advisory",
+    "description": "On September 9, 2025, Fortinet published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "FortiWeb 7.6  versions 7.6.0 to 7.6.4",
+        "FortiWeb 7.4  versions 7.4.0 to 7.4.8",
+        "FortiWeb 7.2  versions 7.2.0 to 7.2.11",
+        "FortiWeb 7.0  versions 7.0.2 to 7.0.11",
+        "FortiDDoS-F 7.0  versions 7.0.0 to 7.0.2",
+        "FortiDDoS-F 6.1, 6.2, 6.3, 6.4, 6.5, 6.6  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-25-512",
+        "https://www.fortiguard.com/psirt/FG-IR-24-344",
+        "https://www.fortiguard.com/psirt"
+    ]
+}
