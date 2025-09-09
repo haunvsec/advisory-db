@@ -1,0 +1,45 @@
+{
+    "id": "sap-security-advisory-september-2025-monthly-rollup-av25-576",
+    "title": "SAP security advisory \u2013 September 2025 monthly rollup (AV25-576)",
+    "public_time": "2025-09-09T13:59:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2025-monthly-rollup-av25-576",
+    "advisory_id": "AV25-576",
+    "type": "advisory",
+    "description": "On September 9, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP NetWeaver (RMI-P4)  version SERVERCORE 7.50",
+        "SAP NetWeaver AS Java (Deploy Web Service)  version J2EE-APPS 7.50",
+        "SAP NetWeaver AS for ABAP and ABAP Platform  versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756 and 757",
+        "SAP NetWeaver  versions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 7.22EXT, 7.53, KERNEL 7.22, 7.53 and 7.54",
+        "SAP Business One (SLD)  versions B1_ON_HANA 10.0 and SAP-M-BO 10.0",
+        "SAP Landscape Transformation Replication Server  versions DMIS 2011_1_620, 2011_1_640, 2011_1_700, 2011_1_710, 2011_1_730, 2011_1_731 and 2011_1_752, 2020",
+        "SAP S/4HANA (Private Cloud or On-Premise)  versions S4CORE 102, 103, 104, 105, 106, 107 and 108",
+        "SAP NetWeaver and ABAP Platform (Service Data Collection)  versions ST-PI 2008_1_700, 2008_1_710 et 740",
+        "SAP Commerce Cloud and SAP Datahub  versions HY_COM 2205, HY_DHUB 2205, COM_CLOUD 2211 and DHUB_CLOUD 2211",
+        "SAP Business Planning and Consolidation  versions BPC4HANA 200, 300, SAP_BW 750, 751, 752, 753, 754, 755, 756, 757, 758, 816, 914 and CPMBPC 810",
+        "SAP HCM (My Timesheet Fiori 2.0 application)  version GBX01HR5 605",
+        "SAP HCM (Approve Timesheets Fiori 2.0 application)  version GBX01HR5 605",
+        "SAP BusinessObjects Business Intelligence Platform  versions ENTERPRISE 430, 2025 and 2027",
+        "SAP Supplier Relationship Management  versions SRM_SERVER 700, 701, 702, 713 and 714",
+        "SAP NetWeaver ABAP Platform  versions S4CRM 100, 200, 204, 205, 206, S4CEXT 109, BBPCRM 713 and 714",
+        "Fiori app (Manage Payment Blocks)  versions S4CORE 107 and 108",
+        "SAP NetWeaver Application Server Java  version WD-RUNTIME 7.50",
+        "SAP NetWeaver (Service Data Download)  multiple versions and platforms",
+        "SAP NetWeaver Application Server for ABAP  multiple versions and platforms",
+        "SAP NetWeaver AS Java (IIOP Service)  version SERVERCORE 7.50",
+        "SAP Fiori App (F4044 Manage Work Center Groups)  versions UIS4HOP1 600, 700, 800 and 900",
+        "SAP NetWeaver Application Server for ABAP (Background Processing)  multiple versions and platforms",
+        "SAP Fiori (Launchpad)  version SAP_UI 754",
+        "SAP NetWeaver AS Java (Adobe Document Service)  version ADSSAP 7.50",
+        "SAP Commerce Cloud  versions HY_COM 2205 and COM_CLOUD 2211"
+    ],
+    "cves": [
+        "CVE-2025-42957",
+        "CVE-2025-42957"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://nvd.nist.gov/vuln/detail/CVE-2025-42957",
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/september-2025.html"
+    ]
+}
