@@ -1,0 +1,30 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-579",
+    "title": "[Control systems] Siemens security advisory (AV25-579)",
+    "public_time": "2025-09-09T14:51:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-579",
+    "advisory_id": "AV25-579",
+    "type": "advisory",
+    "description": "On September 9, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "APOGEE PXC Series (BACnet)  all versions",
+        "APOGEE PXC Series (P2 Ethernet)  all versions",
+        "Industrial Edge Management OS (IEM-OS)  all versions",
+        "SIMATIC Technology Package TPCamGen (6ES7823-0FE30-1AA0)  all versions",
+        "SIMATIC Virtualization as a Service (SIVaaS)  all versions",
+        "SIMOTION OA MIIF (6AU1820-3DA20-0AB0)  all versions",
+        "SIMOTION OACAMGEN (6AU1820-3EA20-0AB0)  all versions",
+        "SIMOTION OALECO (6AU1820-3HA20-0AB0)  all versions",
+        "SIMOTION OAVIBX (6AU1820-3CA20-0AB0)  all versions",
+        "SINAMICS G220 V6.4  all versions",
+        "SINAMICS S200 V6.4  all versions",
+        "SINAMICS S210 V6.4 - all versions",
+        "TALON TC Series (BACnet)  all versions",
+        "User Management Component (UMC)  versions prior to V2.15.1.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
