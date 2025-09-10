@@ -1,0 +1,13 @@
+{
+    "id": "adobe-security-advisory-av25-583",
+    "title": "Adobe security advisory (AV25-583)",
+    "public_time": "2025-09-10T15:59:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-583",
+    "advisory_id": "AV25-583",
+    "type": "advisory",
+    "description": "",
+    "products": "",
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
