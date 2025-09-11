@@ -1,0 +1,26 @@
+{
+    "id": "palo-alto-networks-security-advisory-av25-587",
+    "title": "Palo Alto Networks security advisory (AV25-587)",
+    "public_time": "2025-09-11T13:16:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av25-587",
+    "advisory_id": "AV25-587",
+    "type": "advisory",
+    "description": "On September 10, 2025, Palo Alto Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cortex XDR Microsoft 365 Defender Pack 4.6.0 windows  versions prior to 4.6.5",
+        "User-ID Credential Agent 11.0.0 Windows  versions prior to 11.0.2-133",
+        "User-ID Credential Agent 11.0.0 Windows  versions prior to 11.0.3",
+        "Prisma Access Browser  version prior to 139.12.4.128"
+    ],
+    "cves": [
+        "CVE-2025-4234",
+        "CVE-2025-4235"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/CVE-2025-4234",
+        "https://security.paloaltonetworks.com/CVE-2025-4235",
+        "https://security.paloaltonetworks.com/PAN-SA-2025-0015",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
