@@ -1,0 +1,35 @@
+{
+    "id": "cisco-security-advisory-av25-585",
+    "title": "Cisco security advisory (AV25-585)",
+    "public_time": "2025-09-11T12:50:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-585",
+    "advisory_id": "AV25-585",
+    "type": "advisory",
+    "description": "On September 10, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco IOS XR Software  version 7.10 and prior",
+        "Cisco IOS XR Software  version 7.11, 24.2, 24.3, 24.4 and 25.1",
+        "Cisco IOS XR ARP  version 7.11 and prior",
+        "Cisco IOS XR ARP  version 24.1, 24.2, 24.3, 24.4, 25.1 and 25.2",
+        "Cisco 8000 Series Routers  all versions",
+        "Cisco ASR 9000 Series Aggregation Services Routers  version 24.1.1 and prior",
+        "Cisco IOS XR White box (IOSXRWBD)  version 7.9.1 and prior",
+        "Cisco OS XRd vRouters  all version",
+        "Cisco IOS XRv 9000 Routers  version 24.1.1 and prior",
+        "Cisco Network Convergence Series (NCS) 540 Series Routers (NCS540-iosxr base image)  version 7.9.1 and prior",
+        "Cisco NCS 540 Series Routers (NCS540L-iosxr base image)  all versions",
+        "Cisco NCS 560 Series Routers  version 24.2.1 and prior",
+        "Cisco NCS 1010 Platforms  all versions",
+        "Cisco NCS 1014 Platforms  all versions",
+        "Cisco NCS 5500 Series Routers  version 7.9.1 and prior",
+        "Cisco NCS 5700 Series Routers  version NCS5700 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-acl-packetio-Swjhhbtz",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-arp-storm-EjUU55yM",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xrsig-UY4zRUCG",
+        " https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
