@@ -1,0 +1,26 @@
+{
+    "id": "dell-security-advisory-av25-590",
+    "title": "Dell security advisory (AV25-590)",
+    "public_time": "2025-09-15T15:34:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-590",
+    "advisory_id": "AV25-590",
+    "type": "advisory",
+    "description": "Between September 8 and 14, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Latitude 12 Rugged Extreme 7214   versions prior to 1.52.0",
+        "Dell Latitude 5420 Rugged   versions prior to 1.40.0",
+        "Dell Latitude 5424 Rugged   versions prior to 1.40.0",
+        "Dell Latitude 7212 Rugged Extreme Tablet   versions prior to 1.58.0",
+        "Dell Latitude 7424 Rugged Extreme   versions prior to 1.40.0",
+        "Dell PowerProtect Data Manager   versions prior to 19.21",
+        "Dell PowerProtect Data Protection Hardware   versions prior to 2.7.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000367347/dsa-2025-295-security-update-for-dell-client-platform-for-an-ami-bios-vulnerability",
+        "https://www.dell.com/support/kbdoc/en-ca/000367456/dsa-2025-326-security-update-for-dell-powerprotect-data-manager-multiple-security-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000368282/dsa-2025-300-security-update-for-dell-powerprotect-dp-series-appliance-idpa-multiple-third-party-component-vulnerabilities ",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
