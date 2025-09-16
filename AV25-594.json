@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av25-594",
+    "title": "Mozilla security advisory (AV25-594)",
+    "public_time": "2025-09-16T15:25:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-594",
+    "advisory_id": "AV25-594",
+    "type": "advisory",
+    "description": "On September 16, 2025, Mozilla published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Focus for iOS  versions prior to 143.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-76/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
