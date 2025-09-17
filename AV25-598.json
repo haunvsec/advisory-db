@@ -1,0 +1,19 @@
+{
+    "id": "jenkins-security-advisory-av25-598",
+    "title": "Jenkins security advisory (AV25-598)",
+    "public_time": "2025-09-17T16:00:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-598",
+    "advisory_id": "AV25-598",
+    "type": "advisory",
+    "description": "On September 17, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Jenkins weekly  version 2.528 and prior",
+        "Jenkins LTS  version 2.516.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-09-17/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
