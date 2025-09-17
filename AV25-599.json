@@ -1,0 +1,17 @@
+{
+    "id": "microsoft-edge-security-advisory-av25-599",
+    "title": "Microsoft Edge security advisory (AV25-599)",
+    "public_time": "2025-09-17T16:09:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-599",
+    "advisory_id": "AV25-599",
+    "type": "advisory",
+    "description": "On September 16, 2025, Microsoft published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 140.0.3485.71"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-16-2025"
+    ]
+}
