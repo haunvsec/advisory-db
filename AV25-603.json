@@ -1,0 +1,18 @@
+{
+    "id": "sonicwall-security-advisory-av25-603",
+    "title": "SonicWall security advisory (AV25-603)",
+    "public_time": "2025-09-18T19:53:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-603",
+    "advisory_id": "AV25-603",
+    "type": "advisory",
+    "description": "On September 17, 2025, SonicWall published a security incident report describing suspicious activity targeting their cloud backup service for firewalls. Customer firewall preference files stored in the cloud were accessed by threat actors. These files contain information that could make the exploitation of customer firewalls significantly easier.",
+    "products": [
+        "SonicWall Firewalls with preference files backed up in MySonicWall.com"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.sonicwall.com/support/knowledge-base/mysonicwall-cloud-backup-file-incident/250915160910330",
+        "https://www.sonicwall.com/support/knowledge-base/essential-credential-reset/250909151701590"
+    ]
+}
