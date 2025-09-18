@@ -1,0 +1,22 @@
+{
+    "id": "nokia-security-advisory-av25-602",
+    "title": "Nokia security advisory (AV25-602)",
+    "public_time": "2025-09-18T17:11:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nokia-security-advisory-av25-602",
+    "advisory_id": "AV25-602",
+    "type": "advisory",
+    "description": "On September 18, 2025, Nokia published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "CloudBand Infrastructure Software (CBIS)  version CBIS 22",
+        "Nokia Container Service (NCS)  versions NCS 22.12 and NCS 23.10"
+    ],
+    "cves": [
+        "CVE-2025-49564",
+        "CVE-2023-49565"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/CVE-2023-49564/",
+        "https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/CVE-2023-49565/"
+    ]
+}
