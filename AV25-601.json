@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-601",
+    "title": "HPE security advisory (AV25-601)",
+    "public_time": "2025-09-18T13:56:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-601",
+    "advisory_id": "AV25-601",
+    "type": "advisory",
+    "description": "On September 17, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Intelligent Assurance  version 5.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04940en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
