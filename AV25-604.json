@@ -1,0 +1,19 @@
+{
+    "id": "fortra-security-advisory-av25-604",
+    "title": "Fortra security advisory (AV25-604)",
+    "public_time": "2025-09-19T17:18:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av25-604",
+    "advisory_id": "AV25-604",
+    "type": "advisory",
+    "description": "On September 18, 2025, Fortra published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "GoAnywhere MFT  versions prior to 7.8.4",
+        "GoAnywhere MFT  versions prior to Sustain Release 7.6.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortra.com/security/advisories/product-security/fi-2025-012",
+        "https://www.fortra.com/security/advisories/product-security"
+    ]
+}
