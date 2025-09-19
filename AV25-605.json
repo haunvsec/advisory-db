@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-605",
+    "title": "[Control systems] ABB security advisory (AV25-605)",
+    "public_time": "2025-09-19T17:39:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-605",
+    "advisory_id": "AV25-605",
+    "type": "advisory",
+    "description": "On August 18, 2025, ABB published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "ABB FLXeon Controllers  multiple models and version 9.3.5 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A7121&LanguageCode=en&DocumentPartId=pdf&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
