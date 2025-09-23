@@ -1,0 +1,19 @@
+{
+    "id": "sonicwall-security-advisory-av25-612",
+    "title": "SonicWall security advisory (AV25-612)",
+    "public_time": "2025-09-23T12:58:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-612",
+    "advisory_id": "AV25-612",
+    "type": "advisory",
+    "description": "On September 22, 2025, SonicWall published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "SMA 100 Series (SMA 210, 410, 500v)  version 10.2.1.15-81sv and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0015",
+        "https://www.sonicwall.com/support/notices/urgent-advisory-for-addressing-rootkits-and-other-critical-vulnerabilities-in-sonicwall-sma-100-series-appliances/250730071322160",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
