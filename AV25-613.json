@@ -1,0 +1,20 @@
+{
+    "id": "solarwinds-security-advisory-av25-613",
+    "title": "SolarWinds security advisory (AV25-613)",
+    "public_time": "2025-09-23T14:29:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av25-613",
+    "advisory_id": "AV25-613",
+    "type": "advisory",
+    "description": "On September 17, 2025, SolarWinds published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "SolarWinds Web Help Desk  version 12.8.7 and prior"
+    ],
+    "cves": [
+        "CVE-2025-26399"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2025-26399",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
