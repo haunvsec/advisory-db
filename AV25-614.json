@@ -1,0 +1,18 @@
+{
+    "id": "citrix-security-advisory-av25-614",
+    "title": "Citrix security advisory (AV25-614)",
+    "public_time": "2025-09-23T19:29:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av25-614",
+    "advisory_id": "AV25-614",
+    "type": "advisory",
+    "description": "On September 9, 2025, Citrix published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "XenServer  version 8.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX695195&&articleURL=XenServer_Security_Update_for_CVE_2025_27466_CVE_2025_58142_CVE_2025_58143_and_CVE_2025_58146",
+        "https://support.citrix.com/knowledge-center"
+    ]
+}
