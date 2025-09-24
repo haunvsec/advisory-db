@@ -1,0 +1,22 @@
+{
+    "id": "drupal-security-advisory-av25-617",
+    "title": "Drupal security advisory (AV25-617)",
+    "public_time": "2025-09-24T19:02:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-617",
+    "advisory_id": "AV25-617",
+    "type": "advisory",
+    "description": "On September 24, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "JSON Field  versions prior to 1.5",
+        "Plausible tracking  versions prior to 1.0.2",
+        "Access code  versions prior to 2.0.5",
+        "Umami Analytics  version prior to 1.0.1",
+        "Currency  versions prior to 3.5.0",
+        "Reverse Proxy Header  version prior to 1.1.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/security"
+    ]
+}
