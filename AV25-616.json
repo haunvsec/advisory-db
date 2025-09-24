@@ -1,0 +1,28 @@
+{
+    "id": "cisco-security-advisory-av25-616",
+    "title": "Cisco security advisory (AV25-616)",
+    "public_time": "2025-09-24T18:57:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-616",
+    "advisory_id": "AV25-616",
+    "type": "advisory",
+    "description": "On September 24, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Access Point Software  multiple versions and platforms",
+        "Cisco Catalyst 9500X and 9600X Series Switches  multiple versions",
+        "Cisco IOS XE Software for Catalyst 9XXX Series Switches  multiple versions and platforms",
+        "Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers for Cloud  multiple versions and platforms",
+        "Cisco IOS and IOS XE Software  multiple versions and platforms",
+        "Cisco Industrial Ethernet (IE) Series Switches  multiple versions and platforms",
+        "Cisco SD-WAN vEdge Routers  multiple versions and platforms",
+        "Cisco SD-WAN vEdge Software Release  versions prior to 20.8, 20.9 and 20.10",
+        "Cisco Wireless Access Point (AP) Software  multiple versions and platforms",
+        "Cisco Wireless LAN Controller (WLC) IOS XE Software  multiple versions and platforms"
+    ],
+    "cves": [
+        "CVE-2025-20352"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
