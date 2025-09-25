@@ -1,0 +1,35 @@
+{
+    "id": "cisco-security-advisory-av25-619",
+    "title": "Cisco security advisory (AV25-619)",
+    "public_time": "2025-09-25T16:40:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-619",
+    "advisory_id": "AV25-619",
+    "type": "advisory",
+    "description": "On September 25, 2025, Cisco published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Cisco ASA software release 9.12  versions prior to 9.12.4.72",
+        "Cisco ASA software release 9.14  versions prior to 9.14.4.28",
+        "Cisco ASA software release 9.16  versions prior to 9.16.4.85",
+        "Cisco ASA software release 9.17  versions prior to 9.17.1.45",
+        "Cisco ASA software release 9.18  versions prior to 9.18.4.67",
+        "Cisco ASA software release 9.19  versions prior to 9.19.1.42",
+        "Cisco ASA software release 9.20  versions prior to 9.20.4.10",
+        "Cisco ASA software release 9.22  versions prior to 9.22.2.14",
+        "Cisco ASA software release 9.23  versions prior to 9.23.1.19",
+        "Cisco FTD software release 7.0  versions prior to 7.0.8.1",
+        "Cisco FTD software release 7.1  all versions",
+        "Cisco FTD software release 7.2  versions prior to 7.2.10.2",
+        "Cisco FTD software release 7.3  all versions",
+        "Cisco FTD software release 7.4  versions prior to 7.4.2.4",
+        "Cisco FTD software release 7.6  versions prior to 7.6.2.1",
+        "Cisco FTD software release 7.7  versions prior to 7.7.10.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-webvpn-z5xP8EUB ",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-http-code-exec-WmfP3h3O ",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-webvpn-YROOTUW",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
