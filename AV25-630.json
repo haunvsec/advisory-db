@@ -1,0 +1,22 @@
+{
+    "id": "apple-security-advisory-av25-629",
+    "title": "Apple security advisory (AV25-630)",
+    "public_time": "2025-09-29T20:22:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-629",
+    "advisory_id": "AV25-630",
+    "type": "advisory",
+    "description": "On September 29, 2025, Apple published security updates to address a vulnerability in the following products:",
+    "products": [
+        "iOS and iPadOS  versions prior to 26.0.1",
+        "iOS 18.7.1 and iPadOS 18.7.1  versions prior to iOS 18.7.1",
+        "macOS Tahoe  versions prior to 26.0.1",
+        "macOS Sequoia  versions prior to 15.7.1",
+        "macOS Sonoma  versions prior to 14.8.1",
+        "visionOS  versions prior to 26.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/100100"
+    ]
+}
