@@ -1,0 +1,31 @@
+{
+    "id": "dell-security-advisory-av25-625",
+    "title": "Dell security advisory (AV25-625)",
+    "public_time": "2025-09-29T15:28:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-625",
+    "advisory_id": "AV25-625",
+    "type": "advisory",
+    "description": "Between September 22 and 28, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Cloud Disaster Recovery  versions prior to 19.20",
+        "Dell Data Protection Central  version 19.8 to 19.12 with Data Protection Central OS Update prior to dpc-osupdate-1.1.24-1",
+        "Dell Latitude 5350, 5450, 5550, 7350, 7450 and 7650  versions prior to 3.2.0.22",
+        "Dell Latitude 7030 Rugged Extreme Tablet  versions prior to 3.2.0.22",
+        "Dell Latitude 7350 Detachable  versions prior to 3.2.0.22",
+        "Dell Latitude 9450 2-in-1  versions prior to 3.2.0.22",
+        "Dell Mobile Precision 3591  versions prior to 3.2.0.22",
+        "Dell PowerEdge Server  multiple versions and platforms",
+        "Dell Precision 3490 and 3590  versions prior to 3.2.0.22",
+        "Dell Pro Rugged 13 RA13250 and RB14250  versions prior to 3.2.0.22",
+        "Dell SmartFabric Manager  versions prior to 1.4.1",
+        "Dell VMware ESXi  versions prior to 9.0.0.0100",
+        "Dell VMware ESXi  versions prior to ESXi 8.0 Update 3f",
+        "Dell iDRAC9  multiple versions and platforms",
+        "PowerProtect DP Series (Integrated Data Protection Appliance (IDPA) Appliance)  version 2.7.9 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
