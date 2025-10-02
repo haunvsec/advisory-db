@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-632",
+    "title": "[Control systems] ABB security advisory (AV25-632)",
+    "public_time": "2025-10-02T15:17:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-632",
+    "advisory_id": "AV25-632",
+    "type": "advisory",
+    "description": "On September 28, 2025, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Terra AC wallbox (JP)  version 1.8.33 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A8107&&LanguageCode=en&&DocumentPartId=&&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
