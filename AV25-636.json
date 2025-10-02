@@ -1,0 +1,24 @@
+{
+    "id": "control-systems-ssl-security-advisory-av25-636",
+    "title": "[Control systems] SSL security advisory (AV25-636)",
+    "public_time": "2025-10-02T18:30:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-ssl-security-advisory-av25-636",
+    "advisory_id": "AV25-636",
+    "type": "advisory",
+    "description": "On September 30, 2025, OpenSSL published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "OpenSSL  multiple versions"
+    ],
+    "cves": [
+        "CVE-2025-9230",
+        "CVE-2025-9231",
+        "CVE-2025-9232"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://openssl-library.org/news/vulnerabilities/index.html#CVE-2025-9230",
+        "https://openssl-library.org/news/vulnerabilities/index.html#CVE-2025-9231",
+        "https://openssl-library.org/news/vulnerabilities/index.html#CVE-2025-9232",
+        "https://openssl-library.org/news/vulnerabilities/index.html"
+    ]
+}
