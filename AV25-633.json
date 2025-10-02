@@ -1,0 +1,20 @@
+{
+    "id": "cisco-security-advisory-av25-633",
+    "title": "Cisco security advisory (AV25-633)",
+    "public_time": "2025-10-02T16:21:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-633",
+    "advisory_id": "AV25-633",
+    "type": "advisory",
+    "description": "On October 1, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Cyber Vision Center  versions 5.1 and 5.2 and prior",
+        "Cisco Unified CM, Unified CM SME  versions 12.5, 14 and versions prior to 15SU3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cv-xss-rwRAKAJ9",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-stored-xss-Fnj66YLy",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
