@@ -1,0 +1,18 @@
+{
+    "id": "splunk-security-advisory-av25-637",
+    "title": "Splunk security advisory (AV25-637)",
+    "public_time": "2025-10-02T18:32:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-637",
+    "advisory_id": "AV25-637",
+    "type": "advisory",
+    "description": "On October 1, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk Enterprise  multiple versions and platforms",
+        "Splunk Cloud Platform  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/"
+    ]
+}
