@@ -1,0 +1,21 @@
+{
+    "id": "oracle-security-advisory-av25-640",
+    "title": "Oracle security advisory (AV25-640)",
+    "public_time": "2025-10-06T12:44:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av25-640",
+    "advisory_id": "AV25-640",
+    "type": "advisory",
+    "description": "On October 4, 2025, Oracle published an out-of-band security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Oracle E-Business Suite  versions 12.2.3 to 12.2.14"
+    ],
+    "cves": [
+        "CVE-2025-61882",
+        "CVE-2025-61882"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.oracle.com/security-alerts/alert-cve-2025-61882.html",
+        "https://nvd.nist.gov/vuln/detail/CVE-2025-61882"
+    ]
+}
