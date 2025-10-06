@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av25-642",
+    "title": "Dell security advisory (AV25-642)",
+    "public_time": "2025-10-06T13:16:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-642",
+    "advisory_id": "AV25-642",
+    "type": "advisory",
+    "description": "Between September 29 and October 5, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.05.00.00",
+        "Dell PowerProtect DP Series Appliance (Integrated Data Protection Appliance)  versions 2.7.9 and prior",
+        "Dell PowerProtect Data Domain  multiple versions",
+        "Dell PowerScale OneFS  multiple versions",
+        "Dell Repository Manager  version 3.4.7 and 3.4.8",
+        "Dell XtremIO X2  versions prior to 6.4.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
