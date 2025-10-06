@@ -1,0 +1,22 @@
+{
+    "id": "redis-security-advisory-av25-646",
+    "title": "Redis security advisory (AV25-646)",
+    "public_time": "2025-10-06T18:25:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/redis-security-advisory-av25-646",
+    "advisory_id": "AV25-646",
+    "type": "advisory",
+    "description": "On October 3, 2025, Redis published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Redis Software  multiple versions",
+        "Redis OSS/CE/Stack releases with Lua scripting  multiple versions"
+    ],
+    "cves": [
+        "CVE-2025-49844"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/redis/redis/releases/tag/8.2.2",
+        "https://redis.io/blog/security-advisory-cve-2025-49844/",
+        "https://redis.io/blog/"
+    ]
+}
