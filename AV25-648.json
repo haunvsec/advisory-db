@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-648",
+    "title": "[Control systems] ABB security advisory (AV25-648)",
+    "public_time": "2025-10-07T14:07:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-648",
+    "advisory_id": "AV25-648",
+    "type": "advisory",
+    "description": "On October 7, 2025, ABB published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "EIBPORT V3 KNX  versions prior to 3.9.2",
+        "EIBPORT V3 KNX GSM  versions prior to 3.9.2"
+    ],
+    "cves": [
+        "CVE-2021-22291"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A7808&LanguageCode=en&DocumentPartId=pdf&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
