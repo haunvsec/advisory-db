@@ -1,0 +1,25 @@
+{
+    "id": "servicenow-security-advisory-av25-655",
+    "title": "ServiceNow security advisory (AV25-655)",
+    "public_time": "2025-10-10T15:01:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av25-655",
+    "advisory_id": "AV25-655",
+    "type": "advisory",
+    "description": "On October 9, 2025, ServiceNow published a Security Advisory to address vulnerabilities in the following products:",
+    "products": [
+        "ServiceNow Washington DC  multiple versions",
+        "ServiceNow Xanadu  multiple versions",
+        "ServiceNow Yokohama  multiple versions",
+        "ServiceNow Zurich  multiple versions",
+        "ServiceNow Australia  multiple versions"
+    ],
+    "cves": [
+        "CVE-2025-11449",
+        "CVE-2025-11450"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2552817",
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057"
+    ]
+}
