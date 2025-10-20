@@ -1,0 +1,18 @@
+{
+    "id": "watchguard-security-advisory-av25-677",
+    "title": "WatchGuard security advisory (AV25-677)",
+    "public_time": "2025-10-16T20:36:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av25-677",
+    "advisory_id": "AV25-677",
+    "type": "advisory",
+    "description": "On September 17, 2025, WatchGuard published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Fireware OS  version 11.10.2 to 11.12.4_Update1, version 12.0 to 12.11.3, and version 2025.1."
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2025-00015",
+        "https://www.watchguard.com/wgrd-psirt/advisories"
+    ]
+}
