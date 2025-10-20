@@ -1,0 +1,19 @@
+{
+    "id": "hpe-security-advisory-av25-663",
+    "title": "HPE security advisory (AV25-663)",
+    "public_time": "2025-10-14T17:32:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-663",
+    "advisory_id": "AV25-663",
+    "type": "advisory",
+    "description": "On October 13, 2025, HPE published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "HPE Compute Scale-up Server 3200  versions prior to v1.65.60",
+        "HPE Superdome Flex 280 Server - versions prior to v2.05.12"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04954en_us&docLocale=en_US#hpesbhf04954-rev-1-hpe-compute-scale-up-server-320-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
