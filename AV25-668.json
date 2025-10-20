@@ -1,0 +1,15 @@
+{
+    "id": "fortinet-security-advisory-av25-668",
+    "title": "Fortinet security advisory (AV25-668)",
+    "public_time": "2025-10-15T13:26:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-668",
+    "advisory_id": "AV25-668",
+    "type": "advisory",
+    "description": "On October 14, 2025, Fortinet published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Fortinet PSIRT Advisories"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
