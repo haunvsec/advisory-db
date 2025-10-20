@@ -1,0 +1,17 @@
+{
+    "id": "zimbra-security-advisory-av25-678",
+    "title": "Zimbra security advisory (AV25-678)",
+    "public_time": "2025-10-17T15:57:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av25-678",
+    "advisory_id": "AV25-678",
+    "type": "advisory",
+    "description": "On October 16, 2025, Zimbra published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Zimbra Daffodil  versions prior to v10.1.12"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://wiki.zimbra.com/wiki/Zimbra_Releases/10.1.12#Zimbra_Daffodil_(v10.1.12)_Patch_Release"
+    ]
+}
