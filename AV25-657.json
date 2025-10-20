@@ -1,0 +1,19 @@
+{
+    "id": "dell-security-advisory-av25-657",
+    "title": "Dell security advisory (AV25-657)",
+    "public_time": "2025-10-14T13:11:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-657",
+    "advisory_id": "AV25-657",
+    "type": "advisory",
+    "description": "Between October 6 and 12, 2025, Dell published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "SupportAssist for Home PCs  version prior to 4.8.2.29006",
+        "SupportAssist for Business PCs  version prior to 4.5.3.25254"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000378367/dsa-2025-362-security-update-for-dell-supportassist-for-home-pcs-and-dell-supportassist-for-business-pcs-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
