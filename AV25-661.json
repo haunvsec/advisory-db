@@ -1,0 +1,23 @@
+{
+    "id": "ivanti-security-advisory-av25-661",
+    "title": "Ivanti security advisory (AV25-661)",
+    "public_time": "2025-10-14T15:11:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-661",
+    "advisory_id": "AV25-661",
+    "type": "advisory",
+    "description": "Between October 13 and 14, 2025, Ivanti published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Ivanti Endpoint Manager  version 2024 SU3 SR1 and prior",
+        "Ivanti Endpoint Manager  version 2022 SU8 SR2 and prior",
+        "Ivanti Endpoint Manager Mobile  versions 12.6.0.1, 12.5.0.2 and 12.4.0.3",
+        "Ivanti Neurons for MDM  version R118 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-EPM-October-2025?language=en_US",
+        "https://forums.ivanti.com/s/article/October-2025-Security-Advisory-Ivanti-Neurons-for-MDM?language=en_US",
+        "https://forums.ivanti.com/s/article/Security-Advisory-Endpoint-Manager-Mobile-EPMM-10-2025-Multiple-CVEs?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
