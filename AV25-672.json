@@ -1,0 +1,27 @@
+{
+    "id": "cisco-security-advisory-av25-672",
+    "title": "Cisco security advisory (AV25-672)",
+    "public_time": "2025-10-15T20:10:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-672",
+    "advisory_id": "AV25-672",
+    "type": "advisory",
+    "description": "On October 15, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco TelePresence CE on-premises  versions 9, 10 and versions prior to 11.32.2.1",
+        "Cisco RoomOS Release on-premises  versions 9, 10 and versions prior to 11.32.2.1",
+        "Cisco RoomOS Release cloud-aware  versions prior to July 2025",
+        "Cisco Open Source Snort 3  versions prior to 3.9.3.0",
+        "Cisco Desk Phone 9800 Series  versions prior to 3.3(1)",
+        "Cisco IP Phone 7800 and 8800 Series  versions prior to 14.4(1)",
+        "Cisco IP Phone 8821  versions prior to 11.0(6)SR7",
+        "Cisco Video Phone 8875  versions prior to 3.3(1)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-roomos-inf-disc-qGgsbxAm",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort3-mime-vulns-tTL8PgVH#fs",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-phone-dos-FPyjLV7A",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
