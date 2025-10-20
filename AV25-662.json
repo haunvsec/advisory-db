@@ -1,0 +1,29 @@
+{
+    "id": "sap-security-advisory-october-2025-monthly-rollup-av25-662",
+    "title": "SAP security advisory \u2013 October 2025 monthly rollup (AV25-662)",
+    "public_time": "2025-10-14T15:29:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2025-monthly-rollup-av25-662",
+    "advisory_id": "AV25-662",
+    "type": "advisory",
+    "description": "On October 14, 2025, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP NetWeaver AS Java  version SERVERCORE 7.50",
+        "SAP Print Service  versions SAPSPRINT 8.00 and 8.10",
+        "SAP Supplier Relationship Management  versions SRMNXP01 100 and 150",
+        "SAP Commerce Cloud  versions HY_COM 2205, COM_CLOUD 2211 and 2211-JDK21",
+        "SAP Data Hub Integration Suite  versions CX_DATAHUB_INT_PACK 2205",
+        "SAP Application Server for ABAP  versions SAP_BASIS 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, 758 and 816",
+        "SAP NetWeaver Application Server for ABAP  versions KRNL64UC 7.53, KERNEL 7.53, 7.54, 7.77, 7.89, 7.93 and 9.16",
+        "SAP Commerce Cloud  version COM_CLOUD 2211",
+        "SAP NetWeaver AS ABAP and ABAP Platform  versions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 7.22EXT, 7.53, KERNEL 7.22, 7.53, 7.54, 7.77, 7.89, 7.93, 9.14, 9.15 and 9.16",
+        "SAP S/4HANA  versions S4CORE 104, 105, 106, 107, 108 and 109",
+        "SAP Financial Service Claims Management  versions INSURANCE 803, 804, 805, 806, S4CEXT 107, 108 and 109",
+        "SAP BusinessObjects  versions ENTERPRISE 430, 2025 and 2027",
+        "SAP Cloud Appliance Library Appliances  version TITANIUM_WEBAPP 4.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/october-2025.html"
+    ]
+}
