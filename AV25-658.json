@@ -1,0 +1,27 @@
+{
+    "id": "ubuntu-security-advisory-av25-658",
+    "title": "Ubuntu security advisory (AV25-658)",
+    "public_time": "2025-10-14T13:14:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-658",
+    "advisory_id": "AV25-658",
+    "type": "advisory",
+    "description": "Between October 6 and 12, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 14.04 LTS",
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS",
+        "Ubuntu 25.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-7795-3",
+        "https://ubuntu.com/security/notices/USN-7811-1",
+        "https://ubuntu.com/security/notices/USN-7809-1",
+        "https://ubuntu.com/security/notices/USN-7789-2",
+        "https://ubuntu.com/security/notices"
+    ]
+}
