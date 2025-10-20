@@ -1,0 +1,18 @@
+{
+    "id": "vmware-security-advisory-av25-665",
+    "title": "VMware security advisory (AV25-665)",
+    "public_time": "2025-10-14T18:39:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-665",
+    "advisory_id": "AV25-665",
+    "type": "advisory",
+    "description": "On October 10, 2025, VMware published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "VMware Tanzu for MySQL on Kubernetes  versions prior to 2.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36208",
+        "https://support.broadcom.com/web/ecx/security-advisory"
+    ]
+}
