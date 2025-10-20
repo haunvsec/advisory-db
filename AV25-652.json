@@ -1,0 +1,18 @@
+{
+    "id": "esri-security-advisory-av25-652",
+    "title": "Esri security advisory (AV25-652)",
+    "public_time": "2025-10-09T19:50:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/esri-security-advisory-av25-652",
+    "advisory_id": "AV25-652",
+    "type": "advisory",
+    "description": "On October 6, 2025, Esri published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "ArcGIS Server  versions 11.3, 11.4 and 11.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/arcgis-server-feature-services-security-patch",
+        "https://support.esri.com/en-us/search?s=Newest&cardtype=support_patches_updates"
+    ]
+}
