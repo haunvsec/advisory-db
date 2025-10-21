@@ -1,0 +1,18 @@
+{
+    "id": "connectwise-security-advisory-av25-685",
+    "title": "ConnectWise security advisory (AV25-685)",
+    "public_time": "2025-10-20T16:26:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av25-685",
+    "advisory_id": "AV25-685",
+    "type": "advisory",
+    "description": "On October 16, 2025, ConnectWise published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "ConnectWise Automate  versions prior to 2025.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.connectwise.com/company/trust/security-bulletins/connectwise-automate-2025.9-security-fix",
+        "https://www.connectwise.com/company/trust/advisories"
+    ]
+}
