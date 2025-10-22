@@ -1,0 +1,20 @@
+{
+    "id": "zyxel-security-advisory-av25-686",
+    "title": "Zyxel security advisory (AV25-686)",
+    "public_time": "2025-10-21T17:54:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av25-686",
+    "advisory_id": "AV25-686",
+    "type": "advisory",
+    "description": "On October 21, 2025, Zyxel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "ATP  versions ZLD V4.32 to V5.40",
+        "USG FLEX  versions ZLD V4.50 to V5.40",
+        "USG FLEX 50(W)/ USG20(W)-VPN  versions ZLD V4.16 to V5.40"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-post-authentication-command-injection-and-missing-authorization-vulnerabilities-in-zld-firewalls-10-21-2025",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
