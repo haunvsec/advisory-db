@@ -1,0 +1,25 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-687",
+    "title": "[Control systems] ABB security advisory (AV25-687)",
+    "public_time": "2025-10-21T19:51:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-687",
+    "advisory_id": "AV25-687",
+    "type": "advisory",
+    "description": "On October 20, 2025, ABB published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Terra AC wallbox (UL40/80A)  versions 1.8.32 and prior",
+        "Terra AC wallbox (UL32A)  versions 1.8.2 and prior",
+        "Terra AC wallbox (CE)  multiple versions and platforms",
+        "Terra AC wallbox (JP)  versions 1.8.2 and prior",
+        "ALS-mini-S4/S8 IP  all versions"
+    ],
+    "cves": [
+        "CVE-2025-5517"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A8948&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://search.abb.com/library/Download.aspx?DocumentID=4TZ00000006007&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
