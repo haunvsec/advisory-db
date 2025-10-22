@@ -1,0 +1,15 @@
+{
+    "id": "oracle-security-advisory-october-2025-quarterly-rollup-av25-688",
+    "title": "Oracle security advisory \u2013 October 2025 quarterly rollup (AV25-688)",
+    "public_time": "2025-10-22T12:50:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-october-2025-quarterly-rollup-av25-688",
+    "advisory_id": "AV25-688",
+    "type": "advisory",
+    "description": "On October 21, 2025, Oracle published a security advisory to address vulnerabilities in multiple products.",
+    "products": [
+        "Oracle Critical Patch Update Advisory  October 2025"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
