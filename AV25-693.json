@@ -1,0 +1,30 @@
+{
+    "id": "isc-bind-security-advisory-av25-693",
+    "title": "ISC BIND security advisory (AV25-693)",
+    "public_time": "2025-10-22T19:06:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av25-693",
+    "advisory_id": "AV25-693",
+    "type": "advisory",
+    "description": "On October 22, 2025, ISC published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "ISC BIND 9  versions 9.11.3-S1 to 9.16.50-S1",
+        "ISC BIND 9  versions 9.18.11-S1 to 9.18.39-S1",
+        "ISC BIND 9  versions 9.20.9-S1 to 9.20.13-S1",
+        "ISC BIND 9  versions 9.11.0 to 9.16.50",
+        "ISC BIND 9  versions 9.18.0 to 9.18.39",
+        "ISC BIND 9  versions 9.20.0 to 9.20.13",
+        "ISC BIND 9  versions 9.21.0 to 9.21.12"
+    ],
+    "cves": [
+        "CVE-2025-8677",
+        "CVE-2025-40778",
+        "CVE-2025-40780"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://kb.isc.org/docs/cve-2025-8677",
+        "https://kb.isc.org/docs/cve-2025-40778",
+        "https://kb.isc.org/docs/cve-2025-40780",
+        "https://kb.isc.org/docs/aa-00913"
+    ]
+}
