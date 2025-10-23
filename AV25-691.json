@@ -1,0 +1,23 @@
+{
+    "id": "ericsson-security-advisory-av25-691",
+    "title": "Ericsson security advisory (AV25-691)",
+    "public_time": "2025-10-22T16:16:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ericsson-security-advisory-av25-691",
+    "advisory_id": "AV25-691",
+    "type": "advisory",
+    "description": "Between September 25 and October 13, 2025, Ericsson published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Ericsson Indoor Connect 8855  versions prior to 2025.Q2",
+        "Ericcson Network Manager  versions prior to 25.1 and 25.2",
+        "RAN Compute (all BB versions)  versions prior to 24.Q1.C5",
+        "Site Controller 6610  versions prior to S24.Q2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ericsson.com/en/about-us/security/psirt/e2025-09-25",
+        "https://www.ericsson.com/en/about-us/security/psirt/cve-2025-0636",
+        "https://www.ericsson.com/en/about-us/security/psirt/security-bulletin-enm-october-2025",
+        "https://www.ericsson.com/en/about-us/security/security-bulletins"
+    ]
+}
