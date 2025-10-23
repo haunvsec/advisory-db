@@ -1,0 +1,19 @@
+{
+    "id": "drupal-security-advisory-av25-694",
+    "title": "Drupal security advisory (AV25-694)",
+    "public_time": "2025-10-22T19:13:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-694",
+    "advisory_id": "AV25-694",
+    "type": "advisory",
+    "description": "On October 22, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "CivicTheme Design System  version prior to 1.12.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-112",
+        "https://www.drupal.org/sa-contrib-2025-113",
+        "https://www.drupal.org/security"
+    ]
+}
