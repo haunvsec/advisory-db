@@ -1,0 +1,20 @@
+{
+    "id": "solarwinds-security-advisory-av25-690",
+    "title": "SolarWinds security advisory (AV25-690)",
+    "public_time": "2025-10-22T15:57:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av25-690",
+    "advisory_id": "AV25-690",
+    "type": "advisory",
+    "description": "On October 21, 2025, SolarWinds published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SolarWinds Observability Self-Hoste  version 2025.2.1 and prior"
+    ],
+    "cves": [
+        "CVE-2025-26392"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2025-26392",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
