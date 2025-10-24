@@ -1,0 +1,21 @@
+{
+    "id": "atlassian-security-advisory-av25-695",
+    "title": "Atlassian security advisory (AV25-695)",
+    "public_time": "2025-10-23T16:10:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-695",
+    "advisory_id": "AV25-695",
+    "type": "advisory",
+    "description": "On October 21, 2025, Atlassian published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server  multiple versions",
+        "Fisheye/Crucible  versions 4.9.0 to 4.9.2 and 4.8.14 to 4.8.16",
+        "Jira Data Center and Server  multiple versions",
+        "Jira Service Management Data Center and Server  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-october-21-2025-1652920034.html",
+        "#https://www.atlassian.com/trust/security/advisories"
+    ]
+}
