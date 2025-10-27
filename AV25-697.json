@@ -1,0 +1,18 @@
+{
+    "id": "dell-security-advisory-av25-697",
+    "title": "Dell security advisory (AV25-697)",
+    "public_time": "2025-10-27T12:36:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-697",
+    "advisory_id": "AV25-697",
+    "type": "advisory",
+    "description": "Between October 20 and 26, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Storage Manager  versions prior to 2020 R1.22"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000382899/dsa-2025-393-security-update-for-storage-center---dell-storage-manager-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
