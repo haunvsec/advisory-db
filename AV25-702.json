@@ -1,0 +1,24 @@
+{
+    "id": "apache-tomcat-security-advisory-av25-702",
+    "title": "Apache Tomcat security advisory (AV25-702)",
+    "public_time": "2025-10-28T12:59:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-tomcat-security-advisory-av25-702",
+    "advisory_id": "AV25-702",
+    "type": "advisory",
+    "description": "On October 27, 2025, Apache published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Apache Tomcat  versions 11.0.0-M1 to 11.0.10",
+        "Apache Tomcat  versions 10.1.0-M1 to 10.1.44",
+        "Apache Tomcat  versions 9.0.0.M11 to 9.0.108",
+        "Apache Tomcat  versions 9.0.0.40 to 9.0.108"
+    ],
+    "cves": [
+        "CVE-2025-55754",
+        "CVE-2025-55752"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://lists.apache.org/thread/j7w54hqbkfcn0xb9xy0wnx8w5nymcbqd",
+        "https://lists.apache.org/thread/n05kjcwyj1s45ovs8ll1qrrojhfb1tog"
+    ]
+}
