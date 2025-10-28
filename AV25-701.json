@@ -1,0 +1,19 @@
+{
+    "id": "hashicorp-security-advisory-av25-701",
+    "title": "HashiCorp security advisory (AV25-701)",
+    "public_time": "2025-10-27T19:13:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av25-701",
+    "advisory_id": "AV25-701",
+    "type": "advisory",
+    "description": "On October 23, 2025, HashiCorp published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Vault Community  version 1.21.0",
+        "Vault Enterprise  versions prior to 1.21.0, 1.20.5, 1.19.11 and 1.16.27"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.hashicorp.com/t/hcsec-2025-31-vault-vulnerable-to-denial-of-service-due-to-rate-limit-regression/76710",
+        "https://discuss.hashicorp.com/t/hcsec-2025-30-vault-aws-auth-method-authentication-bypass-through-mishandling-of-cache-entries/76709"
+    ]
+}
