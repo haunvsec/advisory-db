@@ -1,0 +1,18 @@
+{
+    "id": "veeam-security-advisory-av25-703",
+    "title": "Veeam security advisory (AV25-703)",
+    "public_time": "2025-10-28T17:04:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av25-703",
+    "advisory_id": "AV25-703",
+    "type": "advisory",
+    "description": "On October 14, 2025, Veeam published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Veeam Backup & Replication  version 12.3.2.3617 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4771",
+        "https://www.veeam.com/knowledge-base.html"
+    ]
+}
