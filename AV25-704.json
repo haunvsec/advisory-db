@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av25-704",
+    "title": "Mozilla security advisory (AV25-704)",
+    "public_time": "2025-10-28T19:22:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-704",
+    "advisory_id": "AV25-704",
+    "type": "advisory",
+    "description": "On October 28, 2025, Mozilla published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Firefox  versions prior to 144.0.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-86/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
