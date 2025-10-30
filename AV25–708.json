@@ -1,0 +1,19 @@
+{
+    "id": "docker-security-advisory-av25-708",
+    "title": "Docker security advisory (AV25\u2013708)",
+    "public_time": "2025-10-29T18:32:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av25-708",
+    "advisory_id": "AV25\u2013708",
+    "type": "advisory",
+    "description": "On October 27, 2025, Docker published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Docker Compose  versions prior to v2.40.2"
+    ],
+    "cves": [
+        "CVE-2025-62725"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/docker/compose/security/advisories/GHSA-gv8h-7v7w-r22q"
+    ]
+}
