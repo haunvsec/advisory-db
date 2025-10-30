@@ -1,0 +1,24 @@
+{
+    "id": "splunk-security-advisory-av25-710",
+    "title": "Splunk security advisory (AV25-710)",
+    "public_time": "2025-10-30T14:19:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-710",
+    "advisory_id": "AV25-710",
+    "type": "advisory",
+    "description": "On October 29, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk AppDynamics Machine Agent  versions prior to 25.7.0",
+        "Splunk AppDynamics Private Synthetic Agent  versions prior to 25.7.0",
+        "Splunk AppDynamics Analytics Agent  versions prior to 25.7.0",
+        "Splunk Operator for Kubernetes Add-on  versions prior to 3.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2025-1008",
+        "https://advisory.splunk.com/advisories/SVD-2025-1009",
+        "https://advisory.splunk.com/advisories/SVD-2025-1010",
+        "https://advisory.splunk.com/advisories/SVD-2025-1011",
+        "https://advisory.splunk.com/"
+    ]
+}
