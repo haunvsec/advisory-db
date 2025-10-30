@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av25-709",
+    "title": "Drupal security advisory (AV25-709)",
+    "public_time": "2025-10-30T13:21:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-709",
+    "advisory_id": "AV25-709",
+    "type": "advisory",
+    "description": "On October 29, 2025, Drupal published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Simple OAuth (OAuth2) & OpenID Connect  versions 6.0.0 to versions prior to 6.0.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-114",
+        "https://www.drupal.org/security"
+    ]
+}
