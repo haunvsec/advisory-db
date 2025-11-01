@@ -1,0 +1,24 @@
+{
+    "id": "progress-security-advisory-av25-712",
+    "title": "Progress security advisory (AV25-712)",
+    "public_time": "2025-10-31T18:59:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av25-712",
+    "advisory_id": "AV25-712",
+    "type": "advisory",
+    "description": "On October 29, 2025, Progress published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "MOVEit Transfer  version 2025.0.2 (17.0.2) and prior",
+        "MOVEit Transfer  version 2024.1. 6 (16.1.6) and prior",
+        "MOVEit Transfer  version 2023.1.15 (15.1.15) and prior",
+        "MOVEit Transfer  version 2023.1.15 (15.1.15) and prior",
+        "MOVEit Transfer  version 2023.0 and prior",
+        "MOVEit Transfer  version 2024.0 and prior"
+    ],
+    "cves": [
+        "CVE-2025-10932"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.progress.com/s/article/MOVEit-Transfer-Vulnerability-CVE-2025-10932-October-29-2025"
+    ]
+}
