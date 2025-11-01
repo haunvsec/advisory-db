@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-713",
+    "title": "HPE security advisory (AV25-713)",
+    "public_time": "2025-10-31T19:41:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-713",
+    "advisory_id": "AV25-713",
+    "type": "advisory",
+    "description": "On October 30, 2025, HPE published a security advisory to address vulnerabilities in the following product. Included were critical updates for the following:",
+    "products": [
+        "HPE Private Cloud AI  versions prior to 1.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbpc04960en_us&docLocale=en_US#hpesbpc04960-rev-1-hpe-private-cloud-ai-multiple-v-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
