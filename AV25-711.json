@@ -1,0 +1,18 @@
+{
+    "id": "sonicwall-security-advisory-av25-711",
+    "title": "SonicWall security advisory (AV25-711)",
+    "public_time": "2025-10-31T16:01:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-711",
+    "advisory_id": "AV25-711",
+    "type": "advisory",
+    "description": "On October 30, 2025, SonicWall published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SMA 100 Series (SMA 210, 410, 500v)  version 10.2.2.2-92sv and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0017",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
