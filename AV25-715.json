@@ -1,0 +1,33 @@
+{
+    "id": "dell-security-advisory-av25-715",
+    "title": "Dell security advisory (AV25-715)",
+    "public_time": "2025-11-03T14:10:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-715",
+    "advisory_id": "AV25-715",
+    "type": "advisory",
+    "description": "Between October 27 and November 2, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Microsoft Azure   versions prior to 01.06.01.00",
+        "Dell Avamar Data Store Gen4T   versions 19.12, 19.10-SP1, 19.10, 19.9, 19.8 and 19.7",
+        "Dell Avamar Data Store Gen5A   versions 19.12, 19.10-SP1, 19.10, 19.9, 19.8 and 19.7",
+        "Dell Avamar Network Data Management Protocol (NDMP) Accelerator   versions 19.12, 19.10-SP1, 19.10, 19.9, 19.8 and 19.7",
+        "Dell Avamar VMware Image Backup Proxy   versions 19.12, 19.10-SP1, 19.10, 19.9, 19.8 and 19.7",
+        "Dell Avamar Virtual Edition   versions 19.12, 19.10-SP1, 19.10, 19.9, 19.8 and 19.7",
+        "Dell CloudLink   versions 8.0 to 8.1.2",
+        "Dell CloudLink   versions prior to 8.1.1",
+        "Dell CloudLink   versions prior to 8.2",
+        "Dell Networker Virtual Edition (NVE)   versions 19.5, 19.6, 19.7, 19.8, 19.9, 19.10, 19.11 and 19.12",
+        "Dell Policy Manager for Secure Connect Gateway   Appliance   versions prior to 5.32.00.18",
+        "Dell PowerProtect DP Series Appliance (IDPA)   versions prior to 2.7.9",
+        "Dell PowerSwitch Z9264F-ON   versions prior to 3.42.5.1-21",
+        "Dell Protection Advisor   versions 19.11 to 19.12 SP1",
+        "Dell Secure Connect Gateway-Appliance   versions 5.26.00 to 5.30.00",
+        "Dell Secure Connect Gateway-Application   versions 5.26.00 to 5.30.00",
+        "Dell Unity   versions prior to 5.5.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
