@@ -1,0 +1,22 @@
+{
+    "id": "ubuntu-security-advisory-av25-716",
+    "title": "Ubuntu security advisory (AV25-716)",
+    "public_time": "2025-11-03T14:14:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-716",
+    "advisory_id": "AV25-716",
+    "type": "advisory",
+    "description": "Between October 27 and November 2, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 14.04 LTS",
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices "
+    ]
+}
