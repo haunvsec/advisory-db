@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-719",
+    "title": "[Control systems] ABB security advisory (AV25-719)",
+    "public_time": "2025-11-03T15:23:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-719",
+    "advisory_id": "AV25-719",
+    "type": "advisory",
+    "description": "On November 3, 2025, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "ABB Protection and control IED manager PCM600  versions 1.5 to 2.13."
+    ],
+    "cves": [
+        "CVE-2018-1002208"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=2NGA002813&LanguageCode=en&DocumentPartId=pdf&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
