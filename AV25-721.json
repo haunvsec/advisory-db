@@ -1,0 +1,20 @@
+{
+    "id": "ubiquiti-security-advisory-av25-721",
+    "title": "Ubiquiti security advisory (AV25-721)",
+    "public_time": "2025-11-03T16:57:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av25-721",
+    "advisory_id": "AV25-721",
+    "type": "advisory",
+    "description": "On October 23, 2025, Ubiquiti published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "UniFi Access Application  version 3.3.22 to 3.4.31"
+    ],
+    "cves": [
+        "CVE-2025-52665"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.ui.com/releases/Security-Advisory-Bulletin-056-056/ce97352d-91cd-40a7-a2f4-2c73b3b30191",
+        "https://community.ui.com/releases/UniFi-Access-Application-4-0-21/f3b63db6-6e51-442e-b5a6-24b67fe82f44"
+    ]
+}
