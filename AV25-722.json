@@ -1,0 +1,25 @@
+{
+    "id": "apple-security-advisory-av25-722",
+    "title": "Apple security advisory (AV25-722)",
+    "public_time": "2025-11-04T14:20:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av25-722",
+    "advisory_id": "AV25-722",
+    "type": "advisory",
+    "description": "On November 3, 2025, Apple published security updates to address vulnerabilities in the following products:",
+    "products": [
+        "Safari  versions prior to 26.1",
+        "Xcode  versions prior to 26.1",
+        "iOS and iPadOS  versions prior to 26.1",
+        "macOS Sequoia  versions prior to 15.7.2",
+        "macOS Sonoma  versions prior to 14.8.2",
+        "macOS Tahoe  versions prior to 26.1",
+        "tvOS  versions prior to 26.1",
+        "visionOS  versions prior to 26.1",
+        "watchOS  versions prior to 26.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/100100"
+    ]
+}
