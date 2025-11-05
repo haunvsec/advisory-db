@@ -1,0 +1,20 @@
+{
+    "id": "tenable-security-advisory-av25-725",
+    "title": "Tenable security advisory (AV25-725)",
+    "public_time": "2025-11-04T18:27:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av25-725",
+    "advisory_id": "AV25-725",
+    "type": "advisory",
+    "description": "On November 3, 2025, Tenable published a security advisory to address vulnerabilities in the following product. Included were critical updates for the following:",
+    "products": [
+        "Tenable Identity Exposure - On-premises LTS  version prior to 3.77.14"
+    ],
+    "cves": [
+        "CVE-2025-55315"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2025-23",
+        "https://www.tenable.com/downloads/identity-exposure#tenable-identity-exposure-v3.77.14-on-premises-lts"
+    ]
+}
