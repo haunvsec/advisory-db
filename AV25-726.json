@@ -1,0 +1,25 @@
+{
+    "id": "cisco-security-advisory-av25-726",
+    "title": "Cisco security advisory (AV25-726)",
+    "public_time": "2025-11-05T19:51:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-726",
+    "advisory_id": "AV25-726",
+    "type": "advisory",
+    "description": "On November 5, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Identity Services Engine  multiple versions",
+        "Cisco Unified Contact Center Express  versions 12.5 SU3 and prior",
+        "Cisco Unified Contact Center Express  version 15.0",
+        "Cisco Unified Intelligence Center  versions 12.6 and prior",
+        "Cisco Unified Intelligence Center  version 15.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cc-unauth-rce-QeN8h7mQ",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-radsupress-dos-8YF3JThh",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multiple-vulns-O9BESWJH",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cc-mult-vuln-gK4TFXSn",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
