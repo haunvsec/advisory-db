@@ -1,0 +1,17 @@
+{
+    "id": "microsoft-edge-security-advisory-av25-730",
+    "title": "Microsoft Edge security advisory (AV25-730)",
+    "public_time": "2025-11-07T16:09:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-730",
+    "advisory_id": "AV25-730",
+    "type": "advisory",
+    "description": "On November 6, 2025, Microsoft published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 142.0.3595.65"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security"
+    ]
+}
