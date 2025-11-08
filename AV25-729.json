@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av25-729",
+    "title": "Drupal security advisory (AV25-729)",
+    "public_time": "2025-11-07T15:59:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-729",
+    "advisory_id": "AV25-729",
+    "type": "advisory",
+    "description": "On November 5, 2025, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Email TFA  versions prior to 2.0.6",
+        "Simple multi step form  versions prior to 2.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-115",
+        "https://www.drupal.org/sa-contrib-2025-116",
+        "https://www.drupal.org/security"
+    ]
+}
