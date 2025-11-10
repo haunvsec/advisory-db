@@ -1,0 +1,25 @@
+{
+    "id": "dell-security-advisory-av25-733",
+    "title": "Dell security advisory (AV25-733)",
+    "public_time": "2025-11-10T14:35:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-733",
+    "advisory_id": "AV25-733",
+    "type": "advisory",
+    "description": "Between November 3 and 9, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Red Hat OpenShift  versions prior to 03.04.02.00",
+        "Dell Enterprise SONiC Distribution  versions prior to 4.5.1",
+        "Dell NetWorker  versions prior to 19.12.0.3",
+        "Dell PowerSwitch S5448F-ON  versions prior to v3.52.5.1-12",
+        "Dell PowerSwitch Z9264F-ON  versions prior to 3.42.5.1-21",
+        "Dell PowerSwitch Z9432F-ON  versions prior to 3.51.5.1-21",
+        "Dell iDRAC10  versions prior to 1.20.25.00",
+        "Dell iDRAC9  versions 6.10.80.00 to 7.20.10.50",
+        "Dell iDRAC9  versions prior to 7.00.00.181"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
