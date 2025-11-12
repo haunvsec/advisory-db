@@ -1,0 +1,27 @@
+{
+    "id": "github-security-advisory-av25-737",
+    "title": "GitHub security advisory (AV25-737)",
+    "public_time": "2025-11-12T15:15:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av25-737",
+    "advisory_id": "AV25-737",
+    "type": "advisory",
+    "description": "On November 10, 2025, GitHub published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitHub Enterprise Server  versions 3.18.x prior to 3.18.1",
+        "GitHub Enterprise Server  versions 3.17.x prior to 3.17.7",
+        "GitHub Enterprise Server  versions 3.16.x prior to 3.16.10",
+        "GitHub Enterprise Server  versions 3.15.x prior to 3.15.14",
+        "GitHub Enterprise Server  versions 3.14.x prior to 3.14.19"
+    ],
+    "cves": [
+        "CVE-2025-11892"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.github.com/en/enterprise-server@3.14/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.15/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.16/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.17/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.18/admin/release-notes"
+    ]
+}
