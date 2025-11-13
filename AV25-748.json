@@ -1,0 +1,25 @@
+{
+    "id": "palo-alto-networks-security-advisory-av25-748",
+    "title": "Palo Alto Networks security advisory (AV25-748)",
+    "public_time": "2025-11-12T21:17:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av25-748",
+    "advisory_id": "AV25-748",
+    "type": "advisory",
+    "description": "On November 12, 2025, Palo Alto Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "PAN-OS 11.2  multiple versions",
+        "PAN-OS 11.1  multiple versions",
+        "PAN-OS 10.2  multiple versions",
+        "Prisma Access  multiple versions",
+        "Prisma Browser  version prior to 142.15.2.60"
+    ],
+    "cves": [
+        "CVE-2025-4619"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/CVE-2025-4619",
+        "https://security.paloaltonetworks.com/PAN-SA-2025-0018",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
