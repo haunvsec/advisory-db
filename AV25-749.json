@@ -1,0 +1,26 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-749",
+    "title": "[Control systems] Siemens security advisory (AV25-749)",
+    "public_time": "2025-11-12T21:36:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-749",
+    "advisory_id": "AV25-749",
+    "type": "advisory",
+    "description": "On November 11, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "SICAM P850 family  versions prior to V3.11",
+        "SICAM P855 family  versions prior to V3.11",
+        "LOGO! V8.4 BM  all versions",
+        "SIPLUS LOGO! V8.4 BM  all versions",
+        "Spectrum Power 4  versions prior to V4.70 SP12 Update 2",
+        "Siemens Software Center  versions prior to V3.5",
+        "Solid Edge SE2025  versions prior to V225.0 Update 10",
+        "Altair Grid Engine  versions prior to V2026.0.0",
+        "Solid Edge SE2025  versions prior to V225.0 Update 11",
+        "COMOS  versions prior to V10.4.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
