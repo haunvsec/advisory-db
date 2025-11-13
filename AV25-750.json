@@ -1,0 +1,21 @@
+{
+    "id": "drupal-security-advisory-av25-750",
+    "title": "Drupal security advisory (AV25-750)",
+    "public_time": "2025-11-13T14:16:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-750",
+    "advisory_id": "AV25-750",
+    "type": "advisory",
+    "description": "On November 12, 2025, Drupal published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Drupal core  version 8.0.0 to versions prior to 10.4.9, version 10.5.0 to versions prior to 10.5.6, version 11.0.0 to versions prior to 11.1.9 and version 11.2.0 to versions prior to 11.2.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-core-2025-008",
+        "https://www.drupal.org/sa-core-2025-005",
+        "https://www.drupal.org/sa-core-2025-006",
+        "https://www.drupal.org/sa-core-2025-007",
+        "https://www.drupal.org/security"
+    ]
+}
