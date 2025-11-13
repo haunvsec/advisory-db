@@ -1,0 +1,27 @@
+{
+    "id": "adobe-security-advisory-av25-741",
+    "title": "Adobe security advisory (AV25-741)",
+    "public_time": "2025-11-12T16:35:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-741",
+    "advisory_id": "AV25-741",
+    "type": "advisory",
+    "description": "On November 11, 2025, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Adobe Format Plugins  version 1.1.1 and prior",
+        "Adobe Illustrator on iPad  version 3.0.9 and prior",
+        "Adobe InCopy  version 19.5.5 and prior",
+        "Adobe InCopy  version 20.5 and prior",
+        "Adobe InDesign  version ID19.5.5 and prior",
+        "Adobe InDesign  version ID20.5 and prior",
+        "Adobe Pass Authentication Android SDK  version 3.7.3 and prior",
+        "Adobe Substance 3D Stager  version 3.1.5 and prior",
+        "Illustrator 2024  version 28.7.10 and prior",
+        "Illustrator 2025  version 29.8.2 and prior",
+        "Photoshop 2025  version 26.8.1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
