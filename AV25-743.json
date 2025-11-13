@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av25-743",
+    "title": "HPE security advisory (AV25-743)",
+    "public_time": "2025-11-12T17:02:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-743",
+    "advisory_id": "AV25-743",
+    "type": "advisory",
+    "description": "On November 11, 2025, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE ProLiant DL/XL servers  multiple versions and platforms",
+        "HPE ProLiant DL, and Synergy Servers  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04962en_us&docLocale=en_US#hpesbhf04962-rev-1-certain-hpe-proliant-dl-xl-serv-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04965en_us&docLocale=en_US#hpesbhf04965-rev-1-certain-hpe-proliant-dl-and-syn-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
