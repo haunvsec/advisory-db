@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-rockwell-automation-security-advisory-av25-753",
+    "title": "[Control systems] Rockwell Automation security advisory (AV25-753)",
+    "public_time": "2025-11-13T21:03:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av25-753",
+    "advisory_id": "AV25-753",
+    "type": "advisory",
+    "description": "On November 11, 2025, Rockwell Automation published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Verve Asset Manager  versions 1.33 to 1.41.3."
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1759.html",
+        "https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html"
+    ]
+}
