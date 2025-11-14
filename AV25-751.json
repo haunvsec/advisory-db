@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av25-751",
+    "title": "GitLab security advisory (AV25-751)",
+    "public_time": "2025-11-13T16:12:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av25-751",
+    "advisory_id": "AV25-751",
+    "type": "advisory",
+    "description": "On November 12, 2025, GitLab published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitLab Community Edition (CE)  versions prior to 18.5.2, 18.4.4 and 18.3.6",
+        "GitLab Enterprise Edition (EE)   versions prior to 18.5.2, 18.4.4 and 18.3.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released/",
+        "https://about.gitlab.com/releases/categories/releases/"
+    ]
+}
