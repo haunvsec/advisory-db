@@ -1,0 +1,18 @@
+{
+    "id": "cisco-security-advisory-av25-759",
+    "title": "Cisco security advisory (AV25-759)",
+    "public_time": "2025-11-14T20:27:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av25-759",
+    "advisory_id": "AV25-759",
+    "type": "advisory",
+    "description": "On November 13, 2025, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Catalyst Center Hardware Appliance  versions prior to 2.3.7.10",
+        "Cisco Catalyst Center Virtual Appliance  versions prior to 2.3.7.10-VA"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
