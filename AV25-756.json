@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-756",
+    "title": "HPE security advisory (AV25-756)",
+    "public_time": "2025-11-14T16:52:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-756",
+    "advisory_id": "AV25-756",
+    "type": "advisory",
+    "description": "On November 13, 2025, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE SimpliVity 325 Gen10 Plus  version prior to HPE SimpliVity Gen10 Support Pack (SVTSP) 2025_0630"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04963en_us&docLocale=en_US#hpesbhf04963-rev-1-certain-hpe-simplivity-servers-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
