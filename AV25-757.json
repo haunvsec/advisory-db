@@ -1,0 +1,19 @@
+{
+    "id": "samsung-mobile-security-advisory-av25-757",
+    "title": "Samsung mobile security advisory (AV25-757)",
+    "public_time": "2025-11-14T16:56:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/samsung-mobile-security-advisory-av25-757",
+    "advisory_id": "AV25-757",
+    "type": "advisory",
+    "description": "On September 12, 2025, Samsung published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Samsung mobile devices  versions prior to SMR-APR-2025"
+    ],
+    "cves": [
+        "CVE-2025-21042"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "http://security.samsungmobile.com/securityUpdate.smsb?year=2025&month=04"
+    ]
+}
