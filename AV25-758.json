@@ -1,0 +1,24 @@
+{
+    "id": "fortinet-security-advisory-av25-758",
+    "title": "Fortinet security advisory (AV25-758)",
+    "public_time": "2025-11-14T17:02:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-758",
+    "advisory_id": "AV25-758",
+    "type": "advisory",
+    "description": "On November 14, 2025, Fortinet published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "FortiWeb  versions 8.0.0 to 8.0.1",
+        "FortiWeb  versions 7.6.0 to 7.6.4",
+        "FortiWeb  versions 7.4.0 to 7.4.9",
+        "FortiWeb  versions 7.2.0 to 7.2.11",
+        "FortiWeb  versions 7.0.0 to 7.0.11"
+    ],
+    "cves": [
+        "CVE-2025-64446"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-25-910",
+        "https://www.fortiguard.com/psirt"
+    ]
+}
