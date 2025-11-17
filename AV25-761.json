@@ -1,0 +1,32 @@
+{
+    "id": "dell-security-advisory-av25-761",
+    "title": "Dell security advisory (AV25-761)",
+    "public_time": "2025-11-17T13:54:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-761",
+    "advisory_id": "AV25-761",
+    "type": "advisory",
+    "description": "Between November 10 and 16, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell AMD-based PowerEdge Server  multiple versions",
+        "Dell Alienware X16 R2  versions prior to 32.0.100.4239",
+        "Dell Data Lakehouse  versions prior to 1.6.0.0",
+        "Dell Inspiron 14 Plus 7440  versions prior to 32.0.100.4239",
+        "Dell Inspiron 16 7640 2-in-1  versions prior to 32.0.100.4239",
+        "Dell Inspiron 16 Plus 7640  versions prior to 32.0.100.4239",
+        "Dell Intel E810 Adapters and Intel E823 LOM  versions prior to 24.0.0",
+        "Dell NetWorker  versions prior to 19.12.0.3",
+        "Dell Networking OS10  versions prior to 10.6.1.0",
+        "Dell PowerFlex Appliance  versions prior to IC 48.378.00 and IC 48.383.00",
+        "Dell PowerFlex Software  versions prior to 4.8.0",
+        "Dell PowerFlex rack  versions prior to 3.7.7.0 and 3.8.2.0",
+        "Dell PowerScale OneFS  multiple versions",
+        "Dell Pro Max Slim FCS1250  versions prior to 32.0.100.4239",
+        "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250  versions prior to 32.0.100.4239",
+        "Dell Slim ECS1250  versions prior to 32.0.100.4239"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
