@@ -1,0 +1,22 @@
+{
+    "id": "zyxel-security-advisory-av25-767",
+    "title": "Zyxel security advisory (AV25-767)",
+    "public_time": "2025-11-18T14:47:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av25-767",
+    "advisory_id": "AV25-767",
+    "type": "advisory",
+    "description": "On November 18, 2025, Zyxel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "4G LTE/5G NR CPE  multiple versions and models",
+        "DSL/Ethernet CPE  multiple versions and models",
+        "Fiber ONTs  multiple versions and models",
+        "Security Routers  version 1.10(ACGN.3)C0 and prior",
+        "Wireless Extenders  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-uncontrolled-resource-consumption-and-command-injection-vulnerabilities-in-certain-4g-lte-5g-nr-cpe-dsl-ethernet-cpe-fiber-onts-security-routers-and-wireless-extenders-11-18-2025",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
