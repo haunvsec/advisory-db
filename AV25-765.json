@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-765",
+    "title": "[Control systems] Siemens security advisory (AV25-765)",
+    "public_time": "2025-11-17T18:43:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-765",
+    "advisory_id": "AV25-765",
+    "type": "advisory",
+    "description": "On November 17, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Mendix RichText  versions prior to V4.6.1",
+        "PS/IGES Parasolid Translator Component  versions prior to V29.0.258"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-190588.html",
+        "https://cert-portal.siemens.com/productcert/html/ssa-241605.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
