@@ -1,0 +1,19 @@
+{
+    "id": "fortinet-security-advisory-av25-769",
+    "title": "Fortinet security advisory (AV25-769)",
+    "public_time": "2025-11-18T21:22:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-769",
+    "advisory_id": "AV25-769",
+    "type": "advisory",
+    "description": "On November 18, 2025, Fortinet published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "PSIRT Advisory: FG-IR-25-513",
+        "Fortinet PSIRT Advisories"
+    ],
+    "cves": [
+        "CVE-2025-58034",
+        "CVE-2025-58034"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
