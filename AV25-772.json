@@ -1,0 +1,19 @@
+{
+    "id": "solarwinds-security-advisory-av25-772",
+    "title": "SolarWinds security advisory (AV25-772)",
+    "public_time": "2025-11-19T19:42:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av25-772",
+    "advisory_id": "AV25-772",
+    "type": "advisory",
+    "description": "On November 18, 2025, SolarWinds published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "SolarWinds Serv-U  version 15.5.2.2.102",
+        "SolarWinds Serv-U Broken Access Control  version 15.5.2.2.102",
+        "SolarWinds Observability Self-Hosted  version 2025.4 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
