@@ -1,0 +1,22 @@
+{
+    "id": "sonicwall-security-advisory-av25-774",
+    "title": "SonicWall security advisory (AV25-774)",
+    "public_time": "2025-11-20T13:40:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-774",
+    "advisory_id": "AV25-774",
+    "type": "advisory",
+    "description": "On November 19, 2025, SonicWall published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Email Security (multiple models)  version 10.0.33.8195 and prior",
+        "Gen7 hardware Firewalls (multiple models)  version 7.3.0-7012 and prior",
+        "Gen7 virtual Firewalls (NSv) (multiple models)  version 7.3.0-7012 and prior",
+        "Gen8 Firewalls (multiple models)  version 8.0.2-8011 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0018",
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0016",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
