@@ -1,0 +1,21 @@
+{
+    "id": "atlassian-security-advisory-av25-770",
+    "title": "Atlassian security advisory (AV25-770)",
+    "public_time": "2025-11-19T16:40:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-770",
+    "advisory_id": "AV25-770",
+    "type": "advisory",
+    "description": "On November 18, 2025, Atlassian published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Bitbucket Data Center and Server  multiple versions",
+        "Confluence Data Center and Server  multiple versions",
+        "Jira Data Center and Server  multiple versions",
+        "Jira Service Management Data Center and Server  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-november-18-2025-1671463469.html",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
