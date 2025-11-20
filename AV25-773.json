@@ -1,0 +1,21 @@
+{
+    "id": "vmware-security-advisory-av25-773",
+    "title": "VMware security advisory (AV25-773)",
+    "public_time": "2025-11-19T19:45:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-773",
+    "advisory_id": "AV25-773",
+    "type": "advisory",
+    "description": "Between November 18 and 19, 2025, VMware published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "VMware Tanzu GemFire  versions prior to 10.1.5",
+        "VMware Tanzu Greenplum  versions prior to 6.31.1",
+        "VMware Tanzu Greenplum  versions prior to 7.6.1",
+        "VMware Tanzu Data Flow on Tanzu Platform  versions prior to 2.0.1",
+        ".NET Core Buildpack  versions prior to 2.4.67"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/security-advisory"
+    ]
+}
