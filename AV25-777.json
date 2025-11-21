@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-777",
+    "title": "HPE security advisory (AV25-777)",
+    "public_time": "2025-11-21T15:08:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-777",
+    "advisory_id": "AV25-777",
+    "type": "advisory",
+    "description": "On November 20, 2025, HPE published a security advisory to address vulnerabilities in the following product :",
+    "products": [
+        "HPE Telco Service Activator  versions 10.3.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04973en_us&&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
