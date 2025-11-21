@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-776",
+    "title": "[Control systems] ABB security advisory (AV25-776)",
+    "public_time": "2025-11-21T14:32:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-776",
+    "advisory_id": "AV25-776",
+    "type": "advisory",
+    "description": "On November 20, 2025, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "ABB Ability Edgenius  versions 3.2.0.0 and 3.2.1.1"
+    ],
+    "cves": [
+        "CVE-2025-10571"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=7PAA022088&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
