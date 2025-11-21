@@ -1,0 +1,19 @@
+{
+    "id": "grafana-security-advisory-av25-778",
+    "title": "Grafana security advisory (AV25-778)",
+    "public_time": "2025-11-21T15:30:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av25-778",
+    "advisory_id": "AV25-778",
+    "type": "advisory",
+    "description": "On November 19, 2025, Grafana published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Grafana Enterprise  versions prior to 12.3.0, 12.2.1, 12.1.3 and 12.0.6"
+    ],
+    "cves": [
+        "CVE-2025-41115"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://grafana.com/blog/2025/11/19/grafana-enterprise-security-update-critical-severity-security-fix-for-cve-2025-41115/"
+    ]
+}
