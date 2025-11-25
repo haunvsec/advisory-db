@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av25-779",
+    "title": "Dell security advisory (AV25-779)",
+    "public_time": "2025-11-24T16:31:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-779",
+    "advisory_id": "AV25-779",
+    "type": "advisory",
+    "description": "Between November 17 and 23, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell ObjectScale  versions prior to 4.1.0.1",
+        "Dell PowerProtect Cyber Recovery  version 19.21.0.1 and prior",
+        "Dell PowerProtect Cyber Recovery SLES  versions prior to 15.4.0-10",
+        "Dell PowerProtect Data Manager  versions prior to 19.22",
+        "Dell Storage Monitoring and Reporting  versions prior to 5.1.1.1 and versions prior to 6.0.0.0",
+        "Dell Storage Resource Manager  versions prior to 5.1.1.1 and versions prior to 6.0.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca/"
+    ]
+}
