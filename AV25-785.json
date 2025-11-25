@@ -1,0 +1,17 @@
+{
+    "id": "hashicorp-security-advisory-av25-785",
+    "title": "HashiCorp security advisory (AV25-785)",
+    "public_time": "2025-11-25T13:02:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av25-785",
+    "advisory_id": "AV25-785",
+    "type": "advisory",
+    "description": "On November 21, 2025, HashiCorp published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Vault Terraform Provider   versions v4.2.0 to v5.4.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.hashicorp.com/t/hcsec-2025-33-vault-terraform-provider-applied-incorrect-defaults-for-ldap-auth-method/76822 "
+    ]
+}
