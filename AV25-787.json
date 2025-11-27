@@ -1,0 +1,20 @@
+{
+    "id": "splunk-security-advisory-av25-787",
+    "title": "Splunk security advisory (AV25-787)",
+    "public_time": "2025-11-26T19:06:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av25-787",
+    "advisory_id": "AV25-787",
+    "type": "advisory",
+    "description": "On November 26, 2025, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk SOAR   versions prior to 7.0.0",
+        "Splunk Add-on for Palo Alto Networks   versions prior to 2.0.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2025-1104 ",
+        "https://advisory.splunk.com/advisories/SVD-2025-1105 ",
+        "https://advisory.splunk.com/"
+    ]
+}
