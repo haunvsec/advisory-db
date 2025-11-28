@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av25-788",
+    "title": "[Control systems] ABB security advisory (AV25-788)",
+    "public_time": "2025-11-27T19:01:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av25-788",
+    "advisory_id": "AV25-788",
+    "type": "advisory",
+    "description": "On November 27, 2025, ABB published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "ABB Ability Camera Connect   version 1.5.0.14 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=4HZM000603&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
