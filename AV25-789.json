@@ -1,0 +1,22 @@
+{
+    "id": "geoserver-security-advisory-av25-789",
+    "title": "GeoServer security advisory (AV25-789)",
+    "public_time": "2025-11-28T17:25:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av25-789",
+    "advisory_id": "AV25-789",
+    "type": "advisory",
+    "description": "On November 25, 2025, GeoServer published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GeoServer  versions prior to 2.28.1",
+        "GeoTools  versions prior to 34.1",
+        "GeoWebCache  versions prior to 1.28"
+    ],
+    "cves": [
+        "CVE-2025-58360"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://geoserver.org/announcements/vulnerability/2025/11/25/geoserver-2-28-1-released.html",
+        "https://geoserver.org/"
+    ]
+}
