@@ -1,0 +1,23 @@
+{
+    "id": "ubuntu-security-advisory-av25-792",
+    "title": "Ubuntu security advisory (AV25-792)",
+    "public_time": "2025-12-01T16:23:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av25-792",
+    "advisory_id": "AV25-792",
+    "type": "advisory",
+    "description": "Between November 24 and 30, 2025, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-7889-1",
+        "https://ubuntu.com/security/notices/USN-7887-2",
+        "https://ubuntu.com/security/notices/USN-7889-3",
+        "https://ubuntu.com/security/notices/USN-7889-2",
+        "https://ubuntu.com/security/notices/USN-7879-3",
+        "https://ubuntu.com/security/notices"
+    ]
+}
