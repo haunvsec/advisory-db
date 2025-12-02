@@ -1,0 +1,20 @@
+{
+    "id": "red-hat-security-advisory-av25-795",
+    "title": "Red Hat security advisory (AV25-795)",
+    "public_time": "2025-12-01T18:27:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av25-795",
+    "advisory_id": "AV25-795",
+    "type": "advisory",
+    "description": "Between November 24 and 30, 2025, Red Hat published security advisories to address vulnerabilities in multiple products. Included were updates to address vulnerabilities in the Linux kernel for the following products:",
+    "products": [
+        "Red Hat CodeReady Linux Builder  multiple versions and platforms",
+        "Red Hat Enterprise Linux  multiple versions and platforms",
+        "Red Hat Enterprise Linux Server  multiple versions and platforms",
+        "Red Hat Enterprise Linux for Real Time  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://access.redhat.com/security/security-updates/security-advisories"
+    ]
+}
