@@ -1,0 +1,20 @@
+{
+    "id": "openvpn-security-advisory-av25-798",
+    "title": "OpenVPN security advisory (AV25-798)",
+    "public_time": "2025-12-02T13:33:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openvpn-security-advisory-av25-798",
+    "advisory_id": "AV25-798",
+    "type": "advisory",
+    "description": "On November 18, 2025, OpenVPN published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "OpenVPN  versions 2.7_alpha1 to 2.7_rc1"
+    ],
+    "cves": [
+        "CVE-2025-12106"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.openvpn.net/Security Announcements/CVE-2025-12106#cve-2025-12106-ipv6-address-parsing-fix-buffer-overread-on-invalid-input",
+        "https://www.mail-archive.com/openvpn-announce@lists.sourceforge.net/msg00152.html"
+    ]
+}
