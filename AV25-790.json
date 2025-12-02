@@ -1,0 +1,21 @@
+{
+    "id": "ibm-security-advisory-av25-790",
+    "title": "IBM security advisory (AV25-790)",
+    "public_time": "2025-12-01T16:00:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-790",
+    "advisory_id": "AV25-790",
+    "type": "advisory",
+    "description": "Between November 24 and 30, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Astronomer with IBM  versions 1.0.0 to 1.0.1",
+        "IBM QRadar Deployment Intelligence App  versions 1.0.0 to 3.0.18",
+        "IBM Spectrum Control  versions 5.4 to 5.4.13.1",
+        "IBM watsonx Orchestrate Developer Edition  versions 1.4.0 to 1.12.0",
+        "IBM watsonx Orchestrate Developer Edition  versions 1.4.0 to 1.14.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
