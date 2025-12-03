@@ -1,0 +1,22 @@
+{
+    "id": "hpe-security-advisory-av25-801",
+    "title": "HPE security advisory (AV25-801)",
+    "public_time": "2025-12-02T20:18:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-801",
+    "advisory_id": "AV25-801",
+    "type": "advisory",
+    "description": "On December 2, 2025, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE TeMIP  version 8.5.0",
+        "HPE Telco Unified OSS Console  versions prior to v3.1.17",
+        "HPE Telco Network Function Virtual Orchestrator  versions v7.4.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04976en_us&docLocale=en_US#hpesbnw04976-rev-1-hpe-virtualized-telecommunicati-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04974en_us&docLocale=en_US#hpesbnw04974-rev-1-hpe-unified-oss-console-assuran-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04972en_us&docLocale=en_US#hpesbnw04972-rev-1-hpe-telco-network-function-virt-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
