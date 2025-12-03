@@ -1,0 +1,20 @@
+{
+    "id": "apache-struts-security-advisory-av25-800",
+    "title": "Apache Struts security advisory (AV25-800)",
+    "public_time": "2025-12-02T18:31:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-struts-security-advisory-av25-800",
+    "advisory_id": "AV25-800",
+    "type": "advisory",
+    "description": "On November 11, 2025, Apache published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Apache Struts  versions Struts 2.0.0 to Struts 2.3.37 (EOL)",
+        "Apache Struts  versions Struts 2.5.0 to Struts 2.5.33 (EOL)",
+        "Apache Struts  versions Struts 6.0.0 to Struts 6.7.0",
+        "Apache Struts  versions Struts 7.0.0 to Struts 7.0.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cwiki.apache.org/confluence/display/WW/S2-068"
+    ]
+}
