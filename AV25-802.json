@@ -1,0 +1,17 @@
+{
+    "id": "google-chrome-security-advisory-av25-802",
+    "title": "Google Chrome security advisory (AV25-802)",
+    "public_time": "2025-12-03T15:21:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av25-802",
+    "advisory_id": "AV25-802",
+    "type": "advisory",
+    "description": "On December 2, 2025, Google published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Stable Channel Chrome for Desktop  versions prior to 143.0.7499.40/41 (Windows/Mac) and 143.0.7499.40 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html"
+    ]
+}
