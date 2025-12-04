@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-807",
+    "title": "HPE security advisory (AV25-807)",
+    "public_time": "2025-12-04T13:54:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-807",
+    "advisory_id": "AV25-807",
+    "type": "advisory",
+    "description": "On December 4, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HP-UX OpenSSL Software  versions prior to A.03.00.17.001"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbux04977en_us&docLocale=en_US#hpesbux04977-rev-1-hp-ux-using-openssl-memory-corr-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
