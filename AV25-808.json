@@ -1,0 +1,17 @@
+{
+    "id": "samsung-mobile-security-advisory-av25-808",
+    "title": "Samsung mobile security advisory (AV25-808)",
+    "public_time": "2025-12-04T20:53:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/samsung-mobile-security-advisory-av25-808",
+    "advisory_id": "AV25-808",
+    "type": "advisory",
+    "description": "On December 4, 2025, Samsung published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Samsung mobile devices  versions prior to SMR-DEC-2025"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.samsungmobile.com/securityUpdate.smsb?year=2025&month=12"
+    ]
+}
