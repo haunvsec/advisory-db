@@ -1,0 +1,20 @@
+{
+    "id": "react-security-advisories-av25-804",
+    "title": "React security advisory (AV25-804)",
+    "public_time": "2025-12-03T20:19:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/react-security-advisories-av25-804",
+    "advisory_id": "AV25-804",
+    "type": "advisory",
+    "description": "On December 3, 2025, React Foundation published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "CVE-2025-55182 affecting:\n\tReact-server-dom-webpack  versions 19.0.0, 19.1.0, 19.1.1 and 19.2.0\nReact-server-dom-parcel  versions 19.0.0, 19.1.0, 19.1.1 and 19.2.0\nReact-server-dom-turbopack  versions 19.0.0, 19.1.0, 19.1.1 and 19.2.0",
+        "React-server-dom-webpack  versions 19.0.0, 19.1.0, 19.1.1 and 19.2.0",
+        "React-server-dom-parcel  versions 19.0.0, 19.1.0, 19.1.1 and 19.2.0",
+        "React-server-dom-turbopack  versions 19.0.0, 19.1.0, 19.1.1 and 19.2.0"
+    ],
+    "cves": [
+        "CVE-2025-55182"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
