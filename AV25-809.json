@@ -1,0 +1,21 @@
+{
+    "id": "hpe-security-advisory-av25-809",
+    "title": "HPE security advisory (AV25-809)",
+    "public_time": "2025-12-05T14:24:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-809",
+    "advisory_id": "AV25-809",
+    "type": "advisory",
+    "description": "On December 5, 2025, HPE published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Cray XD670  versions prior to v2.06"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04979en_us&docLocale=en_US#hpesbcr04979-rev-1-hpe-cray-xd670-server-using-cer-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04980en_us&docLocale=en_US#hpesbcr04980-rev-1-hpe-cray-xd670-server-using-cer-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04981en_us&docLocale=en_US#hpesbcr04981-rev-1-hpe-cray-xd670-server-using-cer-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04982en_us&docLocale=en_US#hpesbcr04982-rev-1-hpe-cray-xd670-server-using-uef-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
