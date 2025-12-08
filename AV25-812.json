@@ -1,0 +1,27 @@
+{
+    "id": "dell-security-advisory-av25-812",
+    "title": "Dell security advisory (AV25-812)",
+    "public_time": "2025-12-08T14:47:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-812",
+    "advisory_id": "AV25-812",
+    "type": "advisory",
+    "description": "Between December 1 and 7, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell APEX Cloud Platform for Microsoft Azure   versions prior to 01.06.02.00",
+        "Dell APEX Cloud Platform for Red Hat OpenShift   versions prior to 03.02.06.00",
+        "Dell BSAFE SSL-J   versions prior to 7.4",
+        "Dell NetWorker   versions 19.13 to 19.13.0.1",
+        "Dell NetWorker   versions prior to 19.12.0.4",
+        "Dell Networking OS10   versions prior to 10.5.5.16",
+        "Dell Networking OS10   versions prior to 10.5.6.11",
+        "Dell PowerEdge XE9680/XE7740   versions prior to 1.21.0",
+        "Dell PowerFlex Custom Node   multiple versions and models",
+        "Dell PowerStore T Security   multiple versions and models",
+        "Dell VxFlex Ready Node   versions prior to 2.24.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
