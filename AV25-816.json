@@ -1,0 +1,20 @@
+{
+    "id": "watchguard-security-advisory-av25-816",
+    "title": "WatchGuard security advisory (AV25-816)",
+    "public_time": "2025-12-08T19:16:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av25-816",
+    "advisory_id": "AV25-816",
+    "type": "advisory",
+    "description": "On December 4, 2025, WatchGuard published security advisories to address vulnerability in the following product:",
+    "products": [
+        "Fireware OS 2025.1   versions prior to 2025.1.3",
+        "Fireware OS 12.x   versions prior to 12.11.5",
+        "Fireware OS 12.5.x   versions prior to 12.5.14",
+        "Fireware OS 11.x   end of life"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.watchguard.com/wgrd-psirt/advisories"
+    ]
+}
