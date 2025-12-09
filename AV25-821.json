@@ -1,0 +1,21 @@
+{
+    "id": "fortinet-security-advisory-av25-821",
+    "title": "Fortinet security advisory (AV25-821)",
+    "public_time": "2025-12-09T20:53:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av25-821",
+    "advisory_id": "AV25-821",
+    "type": "advisory",
+    "description": "On December 9, 2025, Fortinet published security advisories to address vulnerabilities in multiple products including one critical vulnerability.",
+    "products": [
+        "FortiCloud SSO Login Authentication Bypass affecting the following products: FortiOS, FortiWeb, FortiProxy and FortiSwitchManager.\n\t(CVE-2025-59718, CVE-2025-59719)"
+    ],
+    "cves": [
+        "CVE-2025-59718",
+        "CVE-2025-59719"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://fortiguard.fortinet.com/psirt/FG-IR-25-647",
+        "https://www.fortiguard.com/psirt"
+    ]
+}
