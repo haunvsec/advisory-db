@@ -1,0 +1,39 @@
+{
+    "id": "control-systems-siemens-security-advisory-av25-817",
+    "title": "[Control systems] Siemens security advisory (AV25-817)",
+    "public_time": "2025-12-09T20:28:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av25-817",
+    "advisory_id": "AV25-817",
+    "type": "advisory",
+    "description": "On December 9, 2025, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Building X - Security Manager Edge Controller (ACC-AP)   all versions",
+        "COMOS V10.6   all versions",
+        "COMOS   multiple versions",
+        "Energy Services G5DFR   versions prior to G5DFR to V1.2.3.13",
+        "Gridscale X Prepay   versions prior to V4.2.1",
+        "Interniche IP-Stack - multiple versions and platforms",
+        "JT Bi-Directional Translator for STEP   all versions",
+        "NX V2412   versions prior to V2412.8700",
+        "NX V2412   versions prior to V2506.6000",
+        "NX V2506   versions prior to V2506.6000",
+        "RUGGEDCOM ROS V5.X family   versions prior to V5.10.1",
+        "RUGGEDCOM ROX II family   versions prior to V2.17.0",
+        "SICAM T   versions prior to V3.0",
+        "SIMATIC CN 4100   versions prior to V4.0.1",
+        "SINEC Security Monitor   versions prior to V4.10.0",
+        "SINEMA Remote Connect Server   versions prior to V3.2 SP4",
+        "Simcenter 3D   versions prior to V2506.6000",
+        "Simcenter Femap   versions prior to V2506.0002",
+        "Simcenter Studio   all versions",
+        "Simcenter System Architect   all versions",
+        "Solid Edge SE2025   versions prior to V225.0 Update 10",
+        "Solid Edge SE2026   versions prior to V226.0 Update 1",
+        "Tecnomatix Plant Simulation   versions prior to V2504.0007"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
