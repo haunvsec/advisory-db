@@ -1,0 +1,22 @@
+{
+    "id": "jenkins-security-advisory-av25-826",
+    "title": "Jenkins security advisory (AV25-826)",
+    "public_time": "2025-12-10T18:49:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av25-826",
+    "advisory_id": "AV25-826",
+    "type": "advisory",
+    "description": "On December 10, 2025, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "BlazeMeter   version 4.27",
+        "Coverage   version 2.3054.ve1ff7b_a_a_123b_ and prior",
+        "Git client   version 6.4.0 and prior",
+        "HashiCorp Vault   version 371.v884a_4dd60fb_6 and prior",
+        "Redpen - Pipeline Reporter for Jira   version 1.054.v7b_9517b_6b_202 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2025-12-10/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
