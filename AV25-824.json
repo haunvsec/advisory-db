@@ -1,0 +1,18 @@
+{
+    "id": "ivanti-security-advisory-av25-824",
+    "title": "Ivanti security advisory (AV25-824)",
+    "public_time": "2025-12-10T14:25:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av25-824",
+    "advisory_id": "AV25-824",
+    "type": "advisory",
+    "description": "On December 9, 2025, Ivanti published a security advisory to address vulnerabilities in the following product. Included was a critical update for the following:",
+    "products": [
+        "Ivanti Endpoint Manager   version 2024 SU4 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/Security-Advisory-EPM-December-2025-for-EPM-2024?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
