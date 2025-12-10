@@ -1,0 +1,22 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av25-825",
+    "title": "[Control systems] Schneider Electric security advisory (AV25-825)",
+    "public_time": "2025-12-10T16:33:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av25-825",
+    "advisory_id": "AV25-825",
+    "type": "advisory",
+    "description": "On December 9, 2025, Schneider Electric published advisories to address vulnerabilities in the following products:",
+    "products": [
+        "EcoStruxure  Foxboro DCS   version EcoStruxure  Foxboro DCS and prior",
+        "V91 DCS Virtualization Server and H92 DCS Standard Workstation   version Intel Xeon W-2123 and prior",
+        "EcoStruxure  Foxboro DCS Advisor services with Windows Server Update Services application running on MS Server 2016   version Microsoft updates KB5066836",
+        "EcoStruxure  Foxboro DCS Advisor services with Windows Server Update Services application running on MS Server 2022   version Microsoft updates KB5066782"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-343-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-343-01.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2025-343-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-343-02.pdf",
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
