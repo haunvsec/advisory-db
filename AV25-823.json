@@ -1,0 +1,31 @@
+{
+    "id": "adobe-security-advisory-av25-823",
+    "title": "Adobe security advisory (AV25-823)",
+    "public_time": "2025-12-10T14:17:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av25-823",
+    "advisory_id": "AV25-823",
+    "type": "advisory",
+    "description": "On December 9, 2025, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "ColdFusion 2025   version Update 4 and prior",
+        "ColdFusion 2023   version Update 16 and prior",
+        "ColdFusion 2021   version Update 22 and prior",
+        "Adobe Experience Manager (AEM)   version AEM Cloud Service (CS)",
+        "Adobe Experience Manager (AEM)   version 6.5 LTS, version 6.5.23 and prior",
+        "Adobe DNG Software Development Kit (SDK)   version DNG SDK 1.7.0 and prior",
+        "Acrobat DC   version 25.001.20982 and prior",
+        "Acrobat Reader DC   version 25.001.20982 and prior",
+        "Acrobat 2024 (Windows)   version 24.001.30264 and prior",
+        "Acrobat 2024 (Mac)   version 24.001.30273 and prior",
+        "Acrobat 2020 (Windows)   version 20.005.30793 and prior",
+        "Acrobat 2020 (Mac)   version 20.005.30803 and prior",
+        "Acrobat Reader 2020 (Windows)   version 20.005.30793 and prior",
+        "Acrobat Reader 2020 (Mac)   version 20.005.30803 and prior",
+        "Creative Cloud Desktop Application   version 6.4.0.361 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
