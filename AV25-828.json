@@ -1,0 +1,19 @@
+{
+    "id": "drupal-security-advisory-av25-828",
+    "title": "Drupal security advisory (AV25-828)",
+    "public_time": "2025-12-11T15:16:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-828",
+    "advisory_id": "AV25-828",
+    "type": "advisory",
+    "description": "On December 10, 2025, Drupal published security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Acquia Content Hub   versions 3.6.x prior to 3.6.4",
+        "Acquia Content Hub   versions 3.7.x prior to 3.7.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-125",
+        "https://www.drupal.org/security"
+    ]
+}
