@@ -1,0 +1,24 @@
+{
+    "id": "atlassian-security-advisory-av25-830",
+    "title": "Atlassian security advisory (AV25-830)",
+    "public_time": "2025-12-12T14:08:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av25-830",
+    "advisory_id": "AV25-830",
+    "type": "advisory",
+    "description": "On December 11, 2025, Atlassian published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server   multiple versions",
+        "Bitbucket Data Center and Server   multiple versions",
+        "Confluence Data Center and Server   multiple versions",
+        "Crowd Data Center and Server   multiple versions",
+        "Fisheye/Crucible   versions 4.9.0 to 4.9.5, versions 4.8.14 to 4.8.16",
+        "Jira Data Center and Server   multiple versions",
+        "Jira Service Management Data Center and Server   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
