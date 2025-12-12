@@ -1,0 +1,18 @@
+{
+    "id": "freepbx-security-advisory-av25-831",
+    "title": "FreePBX security advisory (AV25\u2013831)",
+    "public_time": "2025-12-12T16:41:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av25-831",
+    "advisory_id": "AV25\u2013831",
+    "type": "advisory",
+    "description": "On December 9, 2025, FreePBX published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "FreePBX Security-Reporting framework (FreePBX 16/17)   versions 16.0.44 and prior",
+        "FreePBX Security-Reporting framework (FreePBX 16/17)   versions 17.0.23 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-9jvh-mv6x-w698"
+    ]
+}
