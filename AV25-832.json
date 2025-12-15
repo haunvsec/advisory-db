@@ -1,0 +1,19 @@
+{
+    "id": "microsoft-edge-security-advisory-av25-832",
+    "title": "Microsoft Edge security advisory (AV25-832)",
+    "public_time": "2025-12-15T16:42:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av25-832",
+    "advisory_id": "AV25-832",
+    "type": "advisory",
+    "description": "On December 11, 2025, Microsoft published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 143.0.3650.80"
+    ],
+    "cves": [
+        "CVE-2025-14174"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-11-2025"
+    ]
+}
