@@ -1,0 +1,18 @@
+{
+    "id": "connectwise-security-advisory-av25-840",
+    "title": "ConnectWise security advisory (AV25-840)",
+    "public_time": "2025-12-15T19:56:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av25-840",
+    "advisory_id": "AV25-840",
+    "type": "advisory",
+    "description": "On December 11, 2025, ConnectWise published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "ConnectWise ScreenConnect  versions prior to 25.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.connectwise.com/company/trust/security-bulletins/screenconnect-2025.8-security-patch",
+        "https://www.connectwise.com/company/trust/advisories"
+    ]
+}
