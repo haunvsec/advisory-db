@@ -1,0 +1,25 @@
+{
+    "id": "ibm-security-advisory-av25-835",
+    "title": "IBM security advisory (AV25-835)",
+    "public_time": "2025-12-15T17:25:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-835",
+    "advisory_id": "AV25-835",
+    "type": "advisory",
+    "description": "Between December 8 and 14, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Storage Defender - Resiliency Service  versions 2.0.0 to 2.0.18",
+        "IBM Guardium Data Protection  version 11.5",
+        "IBM Maximo Application Suite - Monitor Component  versions 9.1, 9.0, 8.11 and 8.10",
+        "IBM Edge Data Collector  versions 9.1, 9.0 and 8.11",
+        "IBM Observability with Instana (OnPrem)  versions Build 1.0.283 to 1.0.307",
+        "IBM OmniFind Text Search Server for DB2 for I  versions 1.7, 1.6 and 1.5",
+        "IBM Storage Defender - Data Protect  versions 2.0.0 to 2.0.18",
+        "IBM Business Automation Manager Open Editions  versions 9.0.0 to 9.3.0",
+        "IBM Storage Defender Copy Data Management  versions 2.2.0.0 to 2.2.27.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
