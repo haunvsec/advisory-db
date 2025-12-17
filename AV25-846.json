@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av25-846",
+    "title": "Mozilla security advisory (AV25-846)",
+    "public_time": "2025-12-17T17:18:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-846",
+    "advisory_id": "AV25-846",
+    "type": "advisory",
+    "description": "On December 15, 2025, Mozilla published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Firefox for iOS  versions prior to 144.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-97/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
