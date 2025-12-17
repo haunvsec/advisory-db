@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av25-844",
+    "title": "HPE security advisory (AV25-844)",
+    "public_time": "2025-12-17T15:39:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-844",
+    "advisory_id": "AV25-844",
+    "type": "advisory",
+    "description": "On December 16, 2025, HPE published security advisories to address vulnerabilities in the following products. Included was a critical update for the following :",
+    "products": [
+        "HPE OneView  versions prior to v11.00",
+        "HPE Telco Service Activator  version 10.3.2 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04985en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04986en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
