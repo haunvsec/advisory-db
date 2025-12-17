@@ -1,0 +1,19 @@
+{
+    "id": "sonicwall-security-advisory-av25-845",
+    "title": "SonicWall security advisory (AV25-845)",
+    "public_time": "2025-12-17T16:54:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av25-845",
+    "advisory_id": "AV25-845",
+    "type": "advisory",
+    "description": "On December 17, 2025, SonicWall published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SMA 100  versions 12.4.3-03093 (platform-hotfix) and prior",
+        "SMA 100  versions 12.5.0-02002 (platform-hotfix) and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0019",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
