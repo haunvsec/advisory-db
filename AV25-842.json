@@ -1,0 +1,18 @@
+{
+    "id": "tenable-security-advisory-av25-842",
+    "title": "Tenable security advisory (AV25-842)",
+    "public_time": "2025-12-17T14:34:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av25-842",
+    "advisory_id": "AV25-842",
+    "type": "advisory",
+    "description": "On December 15, 2025, Tenable published a security advisory to address vulnerabilities in the following product. Included were critical updates for the following:",
+    "products": [
+        "Tenable Nessus  versions prior to 10.9.6 and 10.11.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2025-24",
+        "https://www.tenable.com/security"
+    ]
+}
