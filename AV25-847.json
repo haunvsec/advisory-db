@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av25-847",
+    "title": "Drupal security advisory (AV25-847)",
+    "public_time": "2025-12-17T20:01:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av25-847",
+    "advisory_id": "AV25-847",
+    "type": "advisory",
+    "description": "On December 17, 2025, Drupal published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HTTP Client Manager  version 9.3.13",
+        "HTTP Client Manager  versions 10.0.x prior to 10.0.2",
+        "HTTP Client Manager  version 11.0.x prior to 11.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2025-126",
+        "https://www.drupal.org/security"
+    ]
+}
