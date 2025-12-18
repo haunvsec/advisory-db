@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av25-849",
+    "title": "Mozilla security advisory (AV25-849)",
+    "public_time": "2025-12-18T20:16:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av25-849",
+    "advisory_id": "AV25-849",
+    "type": "advisory",
+    "description": "On December 18, 2025, Mozilla published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Firefox  versions prior to 146.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2025-98/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
