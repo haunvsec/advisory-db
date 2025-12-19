@@ -1,0 +1,21 @@
+{
+    "id": "watchguard-security-advisory-av25-850",
+    "title": "WatchGuard security advisory (AV25-850)",
+    "public_time": "2025-12-19T15:21:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av25-850",
+    "advisory_id": "AV25-850",
+    "type": "advisory",
+    "description": "On December 18, 2025, WatchGuard published a security advisory to address a critical vulnerability in the following product. Included was an update for the following:",
+    "products": [
+        "Fireware OS  versions prior to 2025.1.4",
+        "Fireware OS  versions prior to 12.11.6",
+        "Fireware OS  versions prior to 12.5.15",
+        "Fireware OS  versions prior to 12.3.1_Update4 (FIPS) (B728352)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2025-00027",
+        "https://www.watchguard.com/wgrd-psirt/advisories"
+    ]
+}
