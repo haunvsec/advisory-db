@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av25-853",
+    "title": "HPE security advisory (AV25-853)",
+    "public_time": "2025-12-19T20:41:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av25-853",
+    "advisory_id": "AV25-853",
+    "type": "advisory",
+    "description": "On December 19, 2025, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Unified OSS Console Assurance Monitoring (UOCAM)  versions prior to UOCAM Version 3.1.19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04989en_us&docLocale=en_US#hpesbnw04989-rev-1-hpe-unified-oss-console-assuran-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
