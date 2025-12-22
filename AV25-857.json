@@ -1,0 +1,20 @@
+{
+    "id": "n8n-security-advisory-av25-857",
+    "title": "n8n security advisory (AV25-857)",
+    "public_time": "2025-12-22T18:17:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av25-857",
+    "advisory_id": "AV25-857",
+    "type": "advisory",
+    "description": "On December 19, 2025, n8n published a security update to address a critical vulnerability in the following product:",
+    "products": [
+        "n8n workflow automation  versions 0.211.0 to versions prior to 1.120.4"
+    ],
+    "cves": [
+        "CVE-2025-68613"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://n8n.io/",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-v98v-ff95-f3cp"
+    ]
+}
