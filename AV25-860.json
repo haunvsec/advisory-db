@@ -1,0 +1,20 @@
+{
+    "id": "vmware-security-advisory-av25-860",
+    "title": "VMware security advisory (AV25-860)",
+    "public_time": "2025-12-23T16:19:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-860",
+    "advisory_id": "AV25-860",
+    "type": "advisory",
+    "description": "Between December 15 and 21, 2025, VMware published security advisories to address vulnerabilities in multiple Tanzu products:",
+    "products": [
+        ".NET Core Tanzu Buildpack   version prior to 2.4.71 and 2.4.72",
+        "Cloud Native Buildpacks for VMware Tanzu Platform   versions prior to 0.6.1",
+        "Elastic Application Runtime for VMware Tanzu Platform   versions prior to 10.2.6+LTS-T, 10.3.2 and 6.0.23+LTS-T",
+        "Extended App Support for Tanzu Platform   version prior to 1.0.11"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VT"
+    ]
+}
