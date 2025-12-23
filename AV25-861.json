@@ -1,0 +1,23 @@
+{
+    "id": "teamviewer-security-advisory-av25-861",
+    "title": "TeamViewer security advisory (AV25-861)",
+    "public_time": "2025-12-23T18:56:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av25-861",
+    "advisory_id": "AV25-861",
+    "type": "advisory",
+    "description": "On December 11, 2025, TeamViewer published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "TeamViewer DEX Client   NomadBranch.exe   versions prior to 1E Client 25.11.0.29",
+        "TeamViewer DEX Client   NomadBranch.exe   versions prior to 1E Client 25.9.0.46 - HF-PLTPKG-524 (Hotfix)",
+        "TeamViewer DEX Client   NomadBranch.exe   versions prior to 1E Client 25.5.0.53 - HF-PLTPKG-526 (Hotfix)",
+        "TeamViewer DEX Client   NomadBranch.exe   versions prior to 1E Client 24.5.0.69 - HF-PLTPKG-525 (Hotfix)",
+        "TeamViewer DEX   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/tv-2025-1005/",
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/tv-2025-1006/",
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/"
+    ]
+}
