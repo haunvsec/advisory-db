@@ -1,0 +1,27 @@
+{
+    "id": "mongodb-security-advisory-av25-862",
+    "title": "MongoDB security advisory (AV25-862)",
+    "public_time": "2025-12-24T15:54:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av25-862",
+    "advisory_id": "AV25-862",
+    "type": "advisory",
+    "description": "On December 15, 2025, MongoDB published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "MongoDB  versions 8.2.0 to 8.2.3",
+        "MongoDB  versions 8.0.0 to 8.0.16",
+        "MongoDB  versions 7.0.0 to 7.0.26",
+        "MongoDB  versions 6.0.0 to 6.0.26",
+        "MongoDB  versions 5.0.0 to 5.0.31",
+        "MongoDB  versions 4.4.0 to 4.4.29",
+        "MongoDB Server v4.2  all versions",
+        "MongoDB Server v4.0  all versions",
+        "MongoDB Server v3.6  all versions"
+    ],
+    "cves": [
+        "CVE-2025-14847"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://jira.mongodb.org/browse/SERVER-115508"
+    ]
+}
