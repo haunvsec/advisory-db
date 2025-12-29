@@ -1,0 +1,29 @@
+{
+    "id": "vmware-security-advisory-av25-864",
+    "title": "VMware security advisory (AV25-864)",
+    "public_time": "2025-12-29T19:55:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av25-864",
+    "advisory_id": "AV25-864",
+    "type": "advisory",
+    "description": "Between December 22 and 28, 2025, VMware published security advisories to address critical vulnerabilities in multiple Tanzu products:",
+    "products": [
+        "AI Services for VMware Tanzu Platform  versions prior to 10.3.2",
+        "Application Services for VMware Tanzu Platform  versions prior to 3.3.13",
+        "Elastic Application Runtime Windows add-on for VMware Tanzu Platform  versions prior to 10.2.6+LTS-T, 10.3.2 and 6.0.23+LTS-T",
+        "Healthwatch  versions prior to 2.3.4",
+        "Isolation Segmentation for VMware Tanzu Platform  versions prior to 10.2.6+LTS-T, 10.3.2 and 6.0.23+LTS-T",
+        "Java Buildpack  versions prior to 4.86.0",
+        "Stemcells (Windows)  versions prior to 2019.93.x",
+        "Tanzu Hub  versions prior to 10.3.2",
+        "VMware Tanzu for Postgres on Tanzu Platform  versions prior to 10.2.2",
+        "VMware Tanzu GemFire on Tanzu Platform  versions prior to 2.2.1",
+        "VMware Tanzu Greenplum  versions prior to 7.7.0",
+        "VMware Tanzu Greenplum SQL Editor  versions prior to 1.2.1",
+        "VMware Tanzu RabbitMQ on Tanzu Platform  versions prior to 10.1.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VT"
+    ]
+}
