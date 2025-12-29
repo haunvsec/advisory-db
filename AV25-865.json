@@ -1,0 +1,19 @@
+{
+    "id": "dell-security-advisory-av25-865",
+    "title": "Dell security advisory (AV25-865)",
+    "public_time": "2025-12-29T20:34:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av25-865",
+    "advisory_id": "AV25-865",
+    "type": "advisory",
+    "description": "Between December 22 and 28, 2025, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Storage Resource Manager (SRM)  version prior to 6.0.0.1",
+        "Dell Storage Monitoring and Reporting (SMR)  version prior to 6.0.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000405611/dsa-2025-455-dell-storage-resource-manager-srm-and-dell-storage-monitoring-and-reporting-smr-security-update-for-multiple-third-party-component-vulnerabilities?lang=en",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
