@@ -1,0 +1,37 @@
+{
+    "id": "ibm-security-advisory-av25-863",
+    "title": "IBM security advisory (AV25-863)",
+    "public_time": "2025-12-29T19:42:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-863",
+    "advisory_id": "AV25-863",
+    "type": "advisory",
+    "description": "Between December 22 and 28, 2025, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM API Connect  versions 10.0.8.0 to 10.0.8.5 and V10.0.11.0",
+        "IBM API Connect Enterprise  versions 13.0.1.0 to 13.0.5.2 and 12.0.1.0 to 12.0.12.20",
+        "IBM Big SQL on IBM Cloud Pak for Data  multiple versions",
+        "IBM Business Automation Insights  versions 25.0.0, 24.0.1 and 24.0.0",
+        "IBM CICS TX Advanced  versions 10.1 and 11.1",
+        "IBM CICS TX Standard  version 11.1",
+        "IBM CICS Transaction Gateway Desktop Edition  versions 9.1, 9.2, 9.3 and 10.1",
+        "IBM CICS Transaction Gateway for Multiplatforms  versions 9.1, 9.2, 9.3 and 10.1",
+        "IBM Concert Software  version 1.0.0 to 2.1.0",
+        "IBM DataPower Gateway 10.6CD  versions 10.6.1.0 to 10.6.5.0",
+        "IBM Edge Data Collector  versions 9.1, 9.0 and 8.11",
+        "IBM Maximo Application Suite - Monitor Component  versions 9.1, 9.0, 8.11 and 8.10",
+        "IBM Maximo Application Suite  AI Service  version 9.1",
+        "IBM Netezza Appliance  version 1.0.0.0",
+        "IBM Sterling Connect:Direct File Agent  versions 1.4.0.0 to 1.4.0.5_iFix001 on Solaris SPARC",
+        "IBM Sterling Connect:Direct File Agent  versions 1.4.0. to 1.4.0.5 with bundles JRE on AIX, Linux X64, Linux PPC and Windows",
+        "IBM StreamSets Data Collector  versions 5.0.0 to 6.4.1",
+        "IBM Tivoli Application Dependency Discovery Manager  versions 7.3.0.0 to 7.3.0.11",
+        "IBM Total Storage Service Console (TSSC) / TS4500 IMC   multiple versions",
+        "IBM TXSeries for Mutiplatforms  versions 8.2, 9.1, 10.1 and 11.1",
+        "IBM webMethods Managed File Transfer (on-prem)  version 11.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
