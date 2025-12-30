@@ -1,0 +1,18 @@
+{
+    "id": "smartertools-security-advisory-av25-866",
+    "title": "SmarterTools security advisory (AV25-866)",
+    "public_time": "2025-12-30T21:12:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av25-866",
+    "advisory_id": "AV25-866",
+    "type": "advisory",
+    "description": "On October 9, 2025, SmarterTools published a security update to address a critical vulnerability in the following product:",
+    "products": [
+        "SmarterMail  version Build 9406 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.smartertools.com/smartermail/release-notes/current",
+        "https://www.smartertools.com/smartermail/download"
+    ]
+}
