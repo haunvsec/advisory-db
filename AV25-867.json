@@ -1,0 +1,26 @@
+{
+    "id": "ibm-security-advisory-av25-867",
+    "title": "IBM security advisory (AV25-867)",
+    "public_time": "2026-01-05T13:51:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av25-867",
+    "advisory_id": "AV25-867",
+    "type": "advisory",
+    "description": "Between December 29, 2025, and January 4, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM App Connect Enterprise Certified Containers Operands  versions 12.0 LTS: 12.0.12-r1 to 12.0.12-r18",
+        "IBM App Connect Enterprise Certified Containers Operands  versions CD: 12.0.10.0-r3 to 12.0.12.5-r1, 13.0.1.0-r1 to 13.0.5.2-r1",
+        "IBM App Connect Operator  versions 12.0 LTS: 12.0.0 to 12.0.18",
+        "IBM App Connect Operator  versions CD: 11.1.0 to 11.6.0, 12.1.0 to 12.18.0",
+        "IBM Event Processing  versions 1.0.0 to 1.4.4",
+        "IBM Maximo Application Suite - Monitor Component  versions 9.1,9.0,8.11 and 8.10",
+        "IBM Storage Ceph  multiple versions",
+        "IBM watsonx Assistant Cartridge  versions 4.0 to 5.2.2",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge - Assistant Builder Component  versions 5.0 to 5.2.2",
+        "Maximo AI Service  version 9.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
