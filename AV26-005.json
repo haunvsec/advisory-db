@@ -1,0 +1,15 @@
+{
+    "id": "android-security-advisory-january-2026-monthly-rollup-av26-005",
+    "title": "Android security advisory \u2013 January 2026 monthly rollup (AV26-005)",
+    "public_time": "2026-01-07T15:51:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-january-2026-monthly-rollup-av26-005",
+    "advisory_id": "AV26-005",
+    "type": "advisory",
+    "description": "On January 6, 2026, Android published a security bulletin to address vulnerabilities affecting Android devices.",
+    "products": [
+        "Android Security Bulletin"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
