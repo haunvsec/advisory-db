@@ -1,0 +1,20 @@
+{
+    "id": "n8n-security-advisory-av26-004",
+    "title": "n8n security advisory (AV26-004)",
+    "public_time": "2026-01-07T15:35:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-004",
+    "advisory_id": "AV26-004",
+    "type": "advisory",
+    "description": "On January 6, 2026, n8n published a security update to address a critical vulnerability in the following product:",
+    "products": [
+        "n8n  versions 0.123.0 to versions prior to 1.121.3"
+    ],
+    "cves": [
+        "CVE-2026-21877"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-v364-rw7m-3263",
+        "https://n8n.io/"
+    ]
+}
