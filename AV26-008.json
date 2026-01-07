@@ -1,0 +1,18 @@
+{
+    "id": "veeam-security-advisory-av26-008",
+    "title": "Veeam security advisory (AV26-008)",
+    "public_time": "2026-01-07T18:58:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-008",
+    "advisory_id": "AV26-008",
+    "type": "advisory",
+    "description": "On January 6, 2026, Veeam published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Veeam Backup & Replication  versions prior to 13.0.1.1071"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4792",
+        "https://www.veeam.com/knowledge-base.html"
+    ]
+}
