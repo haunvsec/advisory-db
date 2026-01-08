@@ -1,0 +1,22 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-011",
+    "title": "[Control systems] ABB security advisory (AV26-011)",
+    "public_time": "2026-01-08T20:06:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-011",
+    "advisory_id": "AV26-011",
+    "type": "advisory",
+    "description": "On January 7, 2026, ABB published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "WebPro SNMP Card PowerValue  version 1.1.8.k and prior",
+        "WebPro SNMP Card PowerValue UL  version 1.1.8.k and prior"
+    ],
+    "cves": [
+        "CVE-2025-4675",
+        "CVE-2025-4676"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=2CRT000009&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
