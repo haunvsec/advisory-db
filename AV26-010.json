@@ -1,0 +1,19 @@
+{
+    "id": "tenable-security-advisory-av26-010",
+    "title": "Tenable security advisory (AV26-010)",
+    "public_time": "2026-01-08T18:45:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-010",
+    "advisory_id": "AV26-010",
+    "type": "advisory",
+    "description": "On January 7, 2026, Tenable published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Tenable Nessus  versions prior to 10.9.3",
+        "Tenable Nessus  versions 11.0.0 to 11.0.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-01",
+        "https://www.tenable.com/security"
+    ]
+}
