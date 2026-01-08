@@ -1,0 +1,18 @@
+{
+    "id": "trend-micro-security-advisory-av26-012",
+    "title": "Trend Micro security advisory (AV26-012)",
+    "public_time": "2026-01-08T20:15:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av26-012",
+    "advisory_id": "AV26-012",
+    "type": "advisory",
+    "description": "On January 7, 2026, Trend Micro published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "Apex Central (on-premise)  versions prior to Build 7190"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://success.trendmicro.com/en-US/solution/KA-0022071",
+        "https://success.trendmicro.com/en-US/vulnerability-response/"
+    ]
+}
