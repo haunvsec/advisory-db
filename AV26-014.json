@@ -1,0 +1,22 @@
+{
+    "id": "ibm-security-advisory-av26-014",
+    "title": "IBM security advisory (AV26-014)",
+    "public_time": "2026-01-12T15:54:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-014",
+    "advisory_id": "AV26-014",
+    "type": "advisory",
+    "description": "Between January 5 and 11, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Cloud Pak for Business Automation  versions V24.0.1 to V24.0.1-IF005",
+        "IBM Cloud Pak for Business Automation  versions V25.0.0 to V25.0.0-IF002",
+        "IBM Concert Software  versions 1.0.0 to 2.1.0",
+        "IBM Maximo Application Suite - Monitor Component  versions 9.1, 9.0, 8.11 and 8.10",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data  versions 4.8.4 to 4.8.5",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data  versions 5.0.0 to 5.2.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
