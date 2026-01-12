@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av26-015",
+    "title": "Dell security advisory (AV26-015)",
+    "public_time": "2026-01-12T16:04:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-015",
+    "advisory_id": "AV26-015",
+    "type": "advisory",
+    "description": "Between January 5 and 11, 2026, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell PowerStore T Security Family OS  versions prior to 4.1.0.4-2633110",
+        "Dell Client Platform  multiple applications and versions",
+        "Dell VxRail Appliance  versions 8.0.000 to 8.0.361"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000412340/dsa-2026-039-dell-powerstore-t-security-update-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000412345/dsa-2025-422-security-update-for-dell-client-platform-for-an-insyde-bios-vulnerability",
+        "https://www.dell.com/support/kbdoc/en-ca/000412375/dsa-2026-028-security-update-for-dell-vxrail-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
