@@ -1,0 +1,23 @@
+{
+    "id": "servicenow-security-advisory-av26-022",
+    "title": "ServiceNow security advisory (AV26-022)",
+    "public_time": "2026-01-13T16:48:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-022",
+    "advisory_id": "AV26-022",
+    "type": "advisory",
+    "description": "On January 12, 2026, ServiceNow published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Now Assist AI Agents (sn_aia)  versions prior to 5.1.18",
+        "Now Assist AI Agents (sn_aia)  versions prior to 5.2.19",
+        "Virtual Agent API (sn_va_as_service)  versions prior to 3.15.2",
+        "Virtual Agent API (sn_va_as_service)  versions prior to 4.0.4"
+    ],
+    "cves": [
+        "CVE-2025-12420"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2587329",
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057"
+    ]
+}
