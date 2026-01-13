@@ -1,0 +1,22 @@
+{
+    "id": "hpe-security-advisory-av26-025",
+    "title": "HPE security advisory (AV26-025)",
+    "public_time": "2026-01-13T21:14:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-025",
+    "advisory_id": "AV26-025",
+    "type": "advisory",
+    "description": "On January 13, 2026, HPE published security advisories to address vulnerabilities in the following products :",
+    "products": [
+        "HPE Networking Instant  versions 3.3.1.0 and prior",
+        "HPE Aruba Networking AOS-8 and AOS-10 for Mobility Conductors, Controllers, and Gateways  multiple versions and platforms",
+        "HPE Aruba Networking Virtual Intranet Access (VIA) Client for Linux  versions 4.7.5 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04988en_us&docLocale=en_US#hpesbnw04988-rev-1-hpe-networking-instant-on-multi-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04987en_us&docLocale=en_US#hpesbnw04987-rev-1-multiple-vulnerabilities-in-hpe-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04994en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
