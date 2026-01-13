@@ -1,0 +1,27 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-020",
+    "title": "[Control systems] Siemens security advisory (AV26-020)",
+    "public_time": "2026-01-13T15:26:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-020",
+    "advisory_id": "AV26-020",
+    "type": "advisory",
+    "description": "On January 13, 2026, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "Industrial Edge Device Kit  x86-64 V1.24  version V1.24.2 and prior",
+        "Industrial Edge Device Kit  x86-64 V1.25  version V1.25.1 and prior",
+        "RUGGEDCOM APE1808  contact customer support to receive patch and update information",
+        "SIMATIC ET 200SP IM 155-6 PN HA (incl. SIPLUS variants)  version V1.3 and prior",
+        "SIMATIC ET 200SP IM 155-6 PN R1 (6ES7155-6AU00-0HM0)  version V6.0.1 and prior",
+        "SIMATIC ET 200SP IM 155-6 PN/3 HF (6ES7155-6AU30-0CN0)  version V4.2.2 and prior",
+        "SIMATIC PN/PN Coupler (6ES7158-3AD10-0XA0)  version V6.0.0 and prior",
+        "SIMATIC PN/MF Coupler (6ES7158-3MU10-0XA0)  all versions",
+        "SIPLUS NET PN/PN Coupler (6AG2158-3AD10-4XA0)  version V6.0.0 and prior",
+        "Siemens Industrial Edge Devices  multiple versions and platforms",
+        "TeleControl Server Basic  versions V3.1.2.4 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
