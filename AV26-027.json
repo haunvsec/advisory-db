@@ -1,0 +1,32 @@
+{
+    "id": "adobe-security-advisory-av26-027",
+    "title": "Adobe security advisory (AV26-027)",
+    "public_time": "2026-01-14T15:30:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-027",
+    "advisory_id": "AV26-027",
+    "type": "advisory",
+    "description": "On January 13, 2026, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Adobe Dreamweaver  version 21.6 and prior",
+        "Adobe InDesign  version ID21.0 and prior",
+        "Adobe InDesign  version ID19.5.5 and prior",
+        "Illustrator 2025/2026  version 29.8.3 and prior",
+        "Illustrator 2025/2026  version 30.0 and prior",
+        "Adobe InCopy  version 21.0 and prior",
+        "Adobe InCopy  version 19.5.5 and prior",
+        "Adobe Bridge  version 15.1.2 (LTS) and prior",
+        "Adobe Bridge  version 16.0 and prior",
+        "Adobe Substance 3D Modeler  version 1.22.4 and prior",
+        "Adobe Substance 3D Stager  version 3.1.5 and prior",
+        "Adobe Substance 3D Painter  version 11.0.3 and prior",
+        "Adobe Substance 3D Sampler  version 5.1.0 and prior",
+        "ColdFusion 2025/2023  version Update 5 and prior",
+        "ColdFusion 2025/2023  version Update 17 and prior",
+        "Adobe Substance 3D Designer  version 15.0.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
