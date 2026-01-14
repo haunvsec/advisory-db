@@ -1,0 +1,25 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av26-029",
+    "title": "[Control systems] Schneider Electric security advisory (AV26-029)",
+    "public_time": "2026-01-14T15:57:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-029",
+    "advisory_id": "AV26-029",
+    "type": "advisory",
+    "description": "On January 13, 2026, Schneider Electric published advisories to address vulnerabilities in the following products:",
+    "products": [
+        "EcoStruxure Power Build Rapsody software  multiple versions",
+        "Wiser iTRV2 Version Wiser iTRV3, Wiser RTR2, Wiser UFH, Wiser 16A Electrical Heat Switch, Wiser Boiler Relay, Exxact cFMT 16a, Elko cFMT 16a, Odace cFMT 2a, Merten cFMT 16a, Merten cFMT 2a, Wiser Power Micromodule, Wiser FIP Micromodule, Iconic, Wiser Connected Smart Dimmer, Iconic, Wiser Connected Smart Switch, 2AX, Iconic, Wiser Connected Smart Switch, 10AX, Iconic, Connected AC Fan Controller Iconic, Connected Smart Socket, Wiser Connected Application Module 1-Gang, Wiser Connected Application Module 2-Gang, Wiser Connected Push Button Dimmer, Wiser Connected Push Button Switch, Wiser Connected Push Button Shutter, Wiser Connected Motion Dimmer, Wiser Connected Motion Switch, Wiser Connected Rotary Dimmer, Connected Wireless Switch, Micromodule Switch, Micromodule Dimmer, Micromodule Shutter, Connected Single Socket Outlet, Connected Double Socket Outlet, Fuga Connected Socket Outlet, Mureva EV Link  all versions",
+        "EcoStruxure  Process Expert  versions prior to 2025",
+        "EcoStruxure  Process Expert for AVEVA System Platform  all versions",
+        "Plant iT/Brewmaxx  version v9.60 and later"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-013-04&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-013-04.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-013-03&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-013-03.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-013-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-013-02.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-013-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-013-01.pdf",
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
