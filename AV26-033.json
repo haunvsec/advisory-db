@@ -1,0 +1,31 @@
+{
+    "id": "ibm-security-advisory-av26-033",
+    "title": "IBM security advisory (AV26-033)",
+    "public_time": "2026-01-19T17:08:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-033",
+    "advisory_id": "AV26-033",
+    "type": "advisory",
+    "description": "Between January 12 and 18, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Cloud Pak for Business Automation  multiple versions",
+        "IBM Concert Software  versions 1.0.0 to 2.1.0",
+        "IBM Datacap Navigator  versions 9.1.7, 9.1.8 and 9.1.9",
+        "IBM Datacap  versions 9.1.7, 9.1.8 and 9.1.9",
+        "IBM Library Support for Struts  version 2.5.37",
+        "IBM Operations Analytics - Log Analysis  versions 1.3.7.0, 1.3.7.1 and 1.3.7.2",
+        "IBM Robotic Process Automation for Cloud Pak  versions 23.0.0 to 23.0.20.4, versions 30.0.0 to 30.0.0.2",
+        "IBM Robotic Process Automation  versions 23.0.0 to 23.0.20.4, versions 30.0.0 to 30.0.0.2",
+        "IBM Security Verify Access Container  versions 10.0 to 10.0.9",
+        "IBM Sterling External Authentication Server  versions 6.1.1.0 to 6.1.1.1",
+        "IBM Terracotta  versions 11.1.0.0 to 11.1.0.10",
+        "IBM Verify Identity Access Container  versions 11.0 to 11.0.1",
+        "IBM Verify Identity Access  versions 10.0 to 10.0.9",
+        "IBM Verify Identity Access  versions 11.0 to 11.0.1",
+        "IBM i Access Family  versions 1.1.9.8 to 1.1.9.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
