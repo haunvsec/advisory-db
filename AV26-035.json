@@ -1,0 +1,18 @@
+{
+    "id": "ubuntu-security-advisory-av26-035",
+    "title": "Ubuntu security advisory (AV26-035)",
+    "public_time": "2026-01-19T17:30:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-035",
+    "advisory_id": "AV26-035",
+    "type": "advisory",
+    "description": "Between January 12 and 18, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following product:",
+    "products": [
+        "Ubuntu 20.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-7922-5",
+        "https://ubuntu.com/security/notices"
+    ]
+}
