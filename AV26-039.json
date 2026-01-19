@@ -1,0 +1,24 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-039",
+    "title": "[Control systems] ABB security advisory (AV26-039)",
+    "public_time": "2026-01-19T20:26:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-039",
+    "advisory_id": "AV26-039",
+    "type": "advisory",
+    "description": "On January 19, 2026, ABB published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Automation Studio  versions prior to 6.5",
+        "Automation Runtime  version 6.5.0 and prior",
+        "Automation Runtime  version R4.93 and prior"
+    ],
+    "cves": [
+        "CVE-2025-11043",
+        "CVE-2025-11044"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.br-automation.com/fileadmin/SA25P004-4f45197f.pdf",
+        "https://www.br-automation.com/fileadmin/SA25P005-26597bd0.pdf",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
