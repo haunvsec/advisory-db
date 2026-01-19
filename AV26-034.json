@@ -1,0 +1,21 @@
+{
+    "id": "dell-security-advisory-av26-034",
+    "title": "Dell security advisory (AV26-034)",
+    "public_time": "2026-01-19T17:23:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-034",
+    "advisory_id": "AV26-034",
+    "type": "advisory",
+    "description": "Between January 12 and 18, 2026, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell Elastic Cloud Storage (ECS)  versions 3.8.1.0 to 3.8.1.7",
+        "Dell ObjectScale  versions prior to 4.2.0.0",
+        "Dell PowerScale OneFS  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000415586/dsa-2026-049-security-update-for-dell-powerscale-onefs-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000415880/dsa-2026-047-security-update-for-dell-ecs-and-objectscale-multiple-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
