@@ -1,0 +1,23 @@
+{
+    "id": "atlassian-security-advisory-av26-045",
+    "title": "Atlassian security advisory (AV26-045)",
+    "public_time": "2026-01-21T17:00:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-045",
+    "advisory_id": "AV26-045",
+    "type": "advisory",
+    "description": "On January 20, 2026, Atlassian published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server   multiple versions",
+        "Bitbucket Data Center and Server   multiple versions",
+        "Confluence Data Center and Server   multiple versions",
+        "Crowd Data Center and Server   versions 7.1.0 to 7.1.2, versions 6.3.0 to 6.3.3",
+        "Jira Data Center and Server   multiple versions",
+        "Jira Service Management Data Center and Server   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-january-20-2026-1712324819.html",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
