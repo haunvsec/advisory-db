@@ -1,0 +1,21 @@
+{
+    "id": "gnu-security-advisory-av26-047",
+    "title": "GNU security advisory (AV26-047)",
+    "public_time": "2026-01-21T17:11:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gnu-security-advisory-av26-047",
+    "advisory_id": "AV26-047",
+    "type": "advisory",
+    "description": "On January 21, 2026, GNU published a security advisory to address a vulnerability in the following product. Included was a critical update for the following:",
+    "products": [
+        "GNU InetUtils   versions 1.9.3 to 2.7"
+    ],
+    "cves": [
+        "CVE-2026-24061",
+        "CVE-2026-24061"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://nvd.nist.gov/vuln/detail/CVE-2026-24061",
+        "https://www.gnu.org/software/inetutils/"
+    ]
+}
