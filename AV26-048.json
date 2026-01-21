@@ -1,0 +1,26 @@
+{
+    "id": "cisco-security-advisory-av26-048",
+    "title": "Cisco security advisory (AV26-048)",
+    "public_time": "2026-01-21T19:28:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-048",
+    "advisory_id": "AV26-048",
+    "type": "advisory",
+    "description": "On January 21, 2026, Cisco published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Cisco Unified CM   versions prior to 12.5, 14 and 15",
+        "Unified CM IM&P   versions prior to 12.5, 14 and 15",
+        "Unified CM SME   versions prior to 12.5, 14 and 15",
+        "Webex Calling Dedicated Instance   versions prior to 12.5, 14 and 15",
+        "Cisco Unity Connection Release   versions prior to 12.5, 14 and 15"
+    ],
+    "cves": [
+        "CVE-2026-20045",
+        "CVE-2026-20045"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.cve.org/CVERecord?id=CVE-2026-20045",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-voice-rce-mORhqY4b",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
