@@ -1,0 +1,15 @@
+{
+    "id": "oracle-security-advisory-january-2026-quarterly-rollup-av26-042",
+    "title": "Oracle security advisory \u2013 January 2026 quarterly rollup (AV26-042)",
+    "public_time": "2026-01-21T13:05:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2026-quarterly-rollup-av26-042",
+    "advisory_id": "AV26-042",
+    "type": "advisory",
+    "description": "On January 20, 2026, Oracle published a security advisory to address vulnerabilities in multiple products.",
+    "products": [
+        "Oracle Critical Patch Update Advisory  January 2026"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
