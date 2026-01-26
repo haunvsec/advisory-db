@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-055",
+    "title": "[Control systems] ABB security advisory (AV26-055)",
+    "public_time": "2026-01-26T19:54:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-055",
+    "advisory_id": "AV26-055",
+    "type": "advisory",
+    "description": "On January 23, 2026, ABB published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "ABB 800xA Base  version 6.0.3-9 and prior",
+        "ABB 800xA Base  version 6.1.1-2 and prior"
+    ],
+    "cves": [
+        "CVE-2024-3036"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=7PAA013309&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
