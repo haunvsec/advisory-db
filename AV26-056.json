@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-br-security-advisory-av26-056",
+    "title": "[Control systems] B&R security advisory (AV26-056)",
+    "public_time": "2026-01-26T20:03:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av26-056",
+    "advisory_id": "AV26-056",
+    "type": "advisory",
+    "description": "On January 19, 2026, B&R published ICS advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Automation Runtime 6 versions  versions prior to 6.5",
+        "Automation Runtime 4 versions  versions prior to R4.93",
+        "Automation Studio  versions prior to 6.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.br-automation.com/fileadmin/SA25P005-26597bd0.pdf",
+        "https://www.br-automation.com/fileadmin/SA25P004-4f45197f.pdf",
+        "https://www.br-automation.com/en/service/cyber-security/cyber-security-advisories-and-notices/"
+    ]
+}
