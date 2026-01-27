@@ -1,0 +1,26 @@
+{
+    "id": "openssl-security-advisory-av26-058",
+    "title": "OpenSSL security advisory (AV26-058)",
+    "public_time": "2026-01-27T20:11:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openssl-security-advisory-av26-058",
+    "advisory_id": "AV26-058",
+    "type": "advisory",
+    "description": "On January 27, 2026, OpenSSL published security advisories to address vulnerabilities in multiple products. Included were updates for the following products:",
+    "products": [
+        "OpenSSL  versions 3.6.0 to versions prior to 3.6.1",
+        "OpenSSL  versions 3.5.0 to versions prior to 3.5.5",
+        "OpenSSL  versions 3.4.0 to versions prior to 3.4.4",
+        "OpenSSL  versions 3.3.0 to versions prior to 3.3.6",
+        "OpenSSL  versions 3.0.0 to versions prior to 3.0.19"
+    ],
+    "cves": [
+        "CVE-2025-15467",
+        "CVE-2025-11187"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://openssl-library.org/news/vulnerabilities/index.html#CVE-2025-15467",
+        "https://openssl-library.org/news/vulnerabilities/index.html#CVE-2025-11187",
+        "https://openssl-library.org/news/vulnerabilities/index.html"
+    ]
+}
