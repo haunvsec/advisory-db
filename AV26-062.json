@@ -1,0 +1,19 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-062",
+    "title": "[Control systems] Siemens security advisory (AV26-062)",
+    "public_time": "2026-01-28T18:51:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-062",
+    "advisory_id": "AV26-062",
+    "type": "advisory",
+    "description": "On January 28, 2026, Siemens published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "RUGGEDCOM RST2428P (6GK6242-6PA00)  versions prior to V3.3",
+        "Siemens SCALANCE XCM-/XRM-/XCH-/XRH-300 family  versions prior to V3.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-089022.html?ste_sid=99ddf3824c2231b7428bb6c846568445",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
