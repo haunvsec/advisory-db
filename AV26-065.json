@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av26-065",
+    "title": "Drupal security advisory (AV26-065)",
+    "public_time": "2026-01-28T20:45:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-065",
+    "advisory_id": "AV26-065",
+    "type": "advisory",
+    "description": "On January 28, 2026, Drupal published security advisories to address vulnerabilities in the following products :",
+    "products": [
+        "Drupal Canvas  versions prior to 1.0.4",
+        "Central Authentication System (CAS) Server  versions prior to 2.0.3, version 2.1.0 to versions prior to 2.1.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2026-006",
+        "https://www.drupal.org/sa-contrib-2026-007",
+        "https://www.drupal.org/security"
+    ]
+}
