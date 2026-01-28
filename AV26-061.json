@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-061",
+    "title": "HPE security advisory (AV26-061)",
+    "public_time": "2026-01-28T18:42:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-061",
+    "advisory_id": "AV26-061",
+    "type": "advisory",
+    "description": "On January 27, 2026, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Aruba Networking Fabric Composer  versions 7.x.x: versions 7.2.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04996en_us&docLocale=en_US#hpesbnw04996-rev-1-aruba-fabric-composer-multiple-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
