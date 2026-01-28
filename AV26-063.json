@@ -1,0 +1,18 @@
+{
+    "id": "solarwinds-security-advisory-av26-063",
+    "title": "SolarWinds security advisory (AV26-063)",
+    "public_time": "2026-01-28T18:59:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-063",
+    "advisory_id": "AV26-063",
+    "type": "advisory",
+    "description": "On January 28, 2026, SolarWinds published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "SolarWinds Web Help Desk  versions prior to 2026.1",
+        "SolarWinds Web Help Desk  version 12.8.8 HF1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
