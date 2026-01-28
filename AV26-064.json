@@ -1,0 +1,18 @@
+{
+    "id": "tenable-security-advisory-av26-064",
+    "title": "Tenable security advisory (AV26-064)",
+    "public_time": "2026-01-28T20:24:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-064",
+    "advisory_id": "AV26-064",
+    "type": "advisory",
+    "description": "On January 27, 2026, Tenable published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Tenable Network Monitor  versions prior to 6.5.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-02",
+        "https://www.tenable.com/security"
+    ]
+}
