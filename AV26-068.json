@@ -1,0 +1,26 @@
+{
+    "id": "ivanti-security-advisory-av26-068",
+    "title": "Ivanti security advisory (AV26-068)",
+    "public_time": "2026-01-29T20:59:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-068",
+    "advisory_id": "AV26-068",
+    "type": "advisory",
+    "description": "On January 29, 2026, Ivanti published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "Ivanti Endpoint Manager Mobile  version 12.5.0.0 and prior, 12.6.0.0 and prior, 12.7.0.0 and prior, version 12.5.1.0 and prior and 12.6.1.0 and prior"
+    ],
+    "cves": [
+        "CVE-2026-1281",
+        "CVE-2026-1340",
+        "CVE-2026-1281",
+        "CVE-2026-1340",
+        "CVE-2026-1281",
+        "CVE-2026-1340"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-CVE-2026-1281-CVE-2026-1340?language=en_US",
+        "https://forums.ivanti.com/s/article/Analysis-Guidance-Ivanti-Endpoint-Manager-Mobile-EPMM-CVE-2026-1281-CVE-2026-1340?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
