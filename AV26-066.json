@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-br-security-advisory-av26-066",
+    "title": "[Control systems] B&R security advisory (AV26-066)",
+    "public_time": "2026-01-29T19:35:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av26-066",
+    "advisory_id": "AV26-066",
+    "type": "advisory",
+    "description": "On January 29, 2026, B&R published ICS advisories to address vulnerabilities in the following products:",
+    "products": [
+        "PVI  versions prior to 6.5.0",
+        "B&R PCs  multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.br-automation.com/fileadmin/SA24P003-bb9ea116.pdf",
+        "https://www.br-automation.com/fileadmin/SA26P001-2862434c.pdf",
+        "https://www.br-automation.com/en/service/cyber-security/cyber-security-advisories-and-notices/"
+    ]
+}
