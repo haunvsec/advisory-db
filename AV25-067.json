@@ -1,0 +1,18 @@
+{
+    "id": "citrix-security-advisory-av25-067",
+    "title": "Citrix security advisory (AV25-067)",
+    "public_time": "2026-01-29T20:16:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av25-067",
+    "advisory_id": "AV25-067",
+    "type": "advisory",
+    "description": "On January 27, 2026, Citrix published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "XenServer  version 8.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX695997&articleURL=XenServer_Security_Update_for_CVE_2025_58151_and_CVE_2026_23553",
+        "https://support.citrix.com/support-home/topic-article-list?trendingCategory=20&trendingTopicName=Security%20Bulletin"
+    ]
+}
