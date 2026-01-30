@@ -1,0 +1,22 @@
+{
+    "id": "watchguard-security-advisory-av26-069",
+    "title": "WatchGuard security advisory (AV26-069)",
+    "public_time": "2026-01-30T16:38:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-069",
+    "advisory_id": "AV26-069",
+    "type": "advisory",
+    "description": "On January 29, 2026, WatchGuard published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Fireware OS  versions prior to 2026.1",
+        "Fireware OS  versions prior to 12.11.7",
+        "Fireware OS  versions prior to 12.5.16"
+    ],
+    "cves": [
+        "CVE-2026-1498"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00001",
+        "https://www.watchguard.com/wgrd-psirt/advisories"
+    ]
+}
