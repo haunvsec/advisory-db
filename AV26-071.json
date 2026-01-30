@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av26-071",
+    "title": "Mozilla security advisory (AV26-071)",
+    "public_time": "2026-01-30T19:19:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-071",
+    "advisory_id": "AV26-071",
+    "type": "advisory",
+    "description": "On January 27, 2026, Mozilla published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Firefox  versions prior to 147.0.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-06/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
