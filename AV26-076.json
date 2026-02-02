@@ -1,0 +1,22 @@
+{
+    "id": "ubuntu-security-advisory-av26-076",
+    "title": "Ubuntu security advisory (AV26-076)",
+    "public_time": "2026-02-02T19:40:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-076",
+    "advisory_id": "AV26-076",
+    "type": "advisory",
+    "description": "Between January 26 and February 1, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following product:",
+    "products": [
+        "Ubuntu 14.04 LTS",
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices"
+    ]
+}
