@@ -1,0 +1,18 @@
+{
+    "id": "beyondtrust-security-advisory-av26-077",
+    "title": "BeyondTrust security advisory (AV26-077)",
+    "public_time": "2026-02-02T19:49:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-077",
+    "advisory_id": "AV26-077",
+    "type": "advisory",
+    "description": "On February 2, 2026, BeyondTrust published security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Privilege Management for Windows  versions prior to 25.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.beyondtrust.com/trust-center/security-advisories/bt26-01",
+        "https://www.beyondtrust.com/trust-center/security-advisories"
+    ]
+}
