@@ -1,0 +1,18 @@
+{
+    "id": "kubernetes-security-advisory-av26-078",
+    "title": "Kubernetes security advisory (AV26-078)",
+    "public_time": "2026-02-03T14:30:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/kubernetes-security-advisory-av26-078",
+    "advisory_id": "AV26-078",
+    "type": "advisory",
+    "description": "On February 2, 2026, Kubernetes published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Kubernetes ingress-nginx - versions prior to v1.13.7",
+        "Kubernetes ingress-nginx - versions prior to v1.14.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.kubernetes.io/t/security-advisory-multiple-issues-in-ingress-nginx/34115"
+    ]
+}
