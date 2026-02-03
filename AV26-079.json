@@ -1,0 +1,17 @@
+{
+    "id": "samsung-mobile-security-advisory-av26-079",
+    "title": "Samsung mobile security advisory (AV26-079)",
+    "public_time": "2026-02-03T18:45:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/samsung-mobile-security-advisory-av26-079",
+    "advisory_id": "AV26-079",
+    "type": "advisory",
+    "description": "On February 3, 2026, Samsung published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Samsung mobile devices  versions prior to SMR-FEB-2026"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.samsungmobile.com/securityUpdate.smsb?year=2026&month=02"
+    ]
+}
