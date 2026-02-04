@@ -1,0 +1,18 @@
+{
+    "id": "splunk-security-advisory-av26-088",
+    "title": "Splunk security advisory (AV26-088)",
+    "public_time": "2026-02-04T20:53:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-088",
+    "advisory_id": "AV26-088",
+    "type": "advisory",
+    "description": "On February 4, 2026, Splunk published security advisories to address critical vulnerabilities in the following product:",
+    "products": [
+        "Splunk SOAR  versions prior to 7.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2026-0201",
+        "https://advisory.splunk.com/"
+    ]
+}
