@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-moxa-security-advisory-av26-085",
+    "title": "[Control Systems] Moxa security advisory (AV26-085)",
+    "public_time": "2026-02-04T16:40:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-085",
+    "advisory_id": "AV26-085",
+    "type": "advisory",
+    "description": "On February 4, 2026, Moxa published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "TN-A Series  firmware version v4.1 and prior",
+        "TN-G Series  firmware version v5.5 and prior"
+    ],
+    "cves": [
+        "CVE-2024-12297"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-241409-cve-2024-12297-frontend-authorization-logic-disclosure-vulnerability-in-ethernet-switches",
+        "https://www.moxa.com/en/support/product-support/security-advisory"
+    ]
+}
