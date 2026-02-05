@@ -1,0 +1,23 @@
+{
+    "id": "teamviewer-security-advisory-av26-090",
+    "title": "TeamViewer security advisory (AV26-090)",
+    "public_time": "2026-02-05T16:47:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-090",
+    "advisory_id": "AV26-090",
+    "type": "advisory",
+    "description": "On February 5, 2026, TeamViewer released a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "TeamViewer Full Client (Windows)  versions prior to 15.74.5",
+        "TeamViewer Full Client (macOS)  versions prior to 15.74.5",
+        "TeamViewer Full Client (Linux)  versions prior to 15.74.5",
+        "TeamViewer Host (Windows)  versions prior to 15.74.5",
+        "TeamViewer Host (macOS)  versions prior to 15.74.5",
+        "TeamViewer Host (Linux)  versions prior to 15.74.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/tv-2026-1003/",
+        "https://www.teamviewer.com/en-ca/resources/trust-center/security-bulletins/"
+    ]
+}
