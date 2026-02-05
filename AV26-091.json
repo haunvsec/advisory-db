@@ -1,0 +1,29 @@
+{
+    "id": "n8n-security-advisory-av26-091",
+    "title": "n8n security advisory (AV26-091)",
+    "public_time": "2026-02-05T16:56:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-091",
+    "advisory_id": "AV26-091",
+    "type": "advisory",
+    "description": "On February 4, 2026, n8n published security updates to address critical vulnerabilities in the following products:",
+    "products": [
+        "n8n (Merge Node)  versions prior to 1.118.0 and versions prior to 2.4.0",
+        "n8n (Git Node)  versions prior to 1.123.10 and versions prior to 2.5.0",
+        "n8n (SSH Node)  versions prior to 1.123.12 and versions prior to 2.4.0",
+        "n8n (Workflow UI)  versions prior to 1.23.9 and versions prior to 2.2.1",
+        "n8n  versions prior to 1.123.17 and versions prior to 2.5.2"
+    ],
+    "cves": [
+        "CVE-2025-68613",
+        "CVE-2026-25049"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-6cqr-8cfr-67f8",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-hv53-3329-vmrm",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-9g95-qf3f-ggrw",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-m82q-59gv-mcr9",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-qpq4-pw7f-pp8w",
+        "https://github.com/n8n-io/n8n/security"
+    ]
+}
