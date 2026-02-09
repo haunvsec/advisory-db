@@ -1,0 +1,18 @@
+{
+    "id": "dell-security-advisory-av26-104",
+    "title": "Dell security advisory (AV26-104)",
+    "public_time": "2026-02-09T16:50:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-104",
+    "advisory_id": "AV26-104",
+    "type": "advisory",
+    "description": "Between February 2 and 8, 2026, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell SmartFabric Manager   versions prior to 2.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000422842/security-update-for-dell-smartfabric-manager-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
