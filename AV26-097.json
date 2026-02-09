@@ -1,0 +1,21 @@
+{
+    "id": "beyondtrust-security-advisory-av26-097",
+    "title": "BeyondTrust security advisory (AV26-097)",
+    "public_time": "2026-02-09T14:39:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-097",
+    "advisory_id": "AV26-097",
+    "type": "advisory",
+    "description": "On February 6, 2026, BeyondTrust published security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Remote Support   version 25.3.1 and prior",
+        "Privileged Remote Access   version 24.3.4 and prior"
+    ],
+    "cves": [
+        "CVE-2026-1731"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.beyondtrust.com/trust-center/security-advisories/bt26-02",
+        "https://www.beyondtrust.com/trust-center/security-advisories"
+    ]
+}
