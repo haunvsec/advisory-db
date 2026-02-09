@@ -1,0 +1,27 @@
+{
+    "id": "ibm-security-advisory-av26-100",
+    "title": "IBM security advisory (AV26-100)",
+    "public_time": "2026-02-09T15:09:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-100",
+    "advisory_id": "AV26-100",
+    "type": "advisory",
+    "description": "Between February 2 and 8, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM webMethods Integration   versions 10.15 to 10.15 Fix 13",
+        "IBM webMethods Integration   versions 11.1 to 11.1 Fix 1",
+        "IBM webMethods Integration (on prem)   versions 10.11, 10.15 and 11.1",
+        "IBM InfoSphere Information Server   versions 11.7.0.0 to 11.7.1.6",
+        "IBM Watson Discovery Cartridge   versions 5.0.0 to 5.2.2",
+        "IBM API Connect V12 (on prem)   version 12.1.0.0",
+        "IBM OpenPages for Cloud Pak for Data   multiple versions",
+        "IBM OpenPages Cloud Pak for Data Service   multiple versions",
+        "IBM Common Cryptographic Architecture (CCA) 7 MTM for 4769   version 7.5.52",
+        "IBM Common Cryptographic Architecture (CCA) 8 MTM for 47770   version 8.4.82",
+        "IBM Common Cryptographic Architecture (CCA) 4769 Developers Toolkit   version 7.5.52"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
