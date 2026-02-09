@@ -1,0 +1,21 @@
+{
+    "id": "fortinet-security-advisory-av26-096",
+    "title": "Fortinet security advisory (AV26-096)",
+    "public_time": "2026-02-09T14:30:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-096",
+    "advisory_id": "AV26-096",
+    "type": "advisory",
+    "description": "On February 6, 2026, Fortinet published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "FortiClientEMS 7.4   version 7.4.4"
+    ],
+    "cves": [
+        "CVE-2026-21643"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-25-1142",
+        "https://cwe.mitre.org/data/definitions/89.html",
+        "https://www.fortiguard.com/psirt?filter=1&version=&severity=5&severity=4&severity=3&severity=2"
+    ]
+}
