@@ -1,0 +1,23 @@
+{
+    "id": "ubuntu-security-advisory-av26-099",
+    "title": "Ubuntu security advisory (AV26-099)",
+    "public_time": "2026-02-09T15:01:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-099",
+    "advisory_id": "AV26-099",
+    "type": "advisory",
+    "description": "Between February 2 and 8, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 14.04 LTS",
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS",
+        "Ubuntu 25.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices "
+    ]
+}
