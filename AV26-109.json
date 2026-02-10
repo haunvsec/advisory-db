@@ -1,0 +1,32 @@
+{
+    "id": "fortinet-security-advisory-av26-109",
+    "title": "Fortinet security advisory (AV26-109)",
+    "public_time": "2026-02-10T20:39:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-109",
+    "advisory_id": "AV26-109",
+    "type": "advisory",
+    "description": "On February 10, 2026, Fortinet published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "FortiAuthenticator 6.6  versions 6.6.0 to 6.6.6",
+        "FortiAuthenticator 6.5  all versions",
+        "FortiAuthenticator 6.4  all versions",
+        "FortiAuthenticator 6.3  all versions",
+        "FortiClientWindows 7.4  versions 7.4.0 to 7.4.4",
+        "FortiClientWindows 7.2  versions 7.2.0 to 7.2.12",
+        "FortiClientWindows 7.0  all versions",
+        "FortiOS 7.6  versions 7.6.0 to 7.6.4",
+        "FortiOS 7.4  versions 7.4.0 to 7.4.10",
+        "FortiOS 7.2  all versions",
+        "FortiOS 7.0  all versions",
+        "FortiOS 6.4  all versions",
+        "FortiSandbox 5.0  version 5.0 to 5.1",
+        "FortiSandbox 4.4  version 4.4.0 to 4.4.7",
+        "FortiSandbox 4.2  all versions",
+        "FortiSandbox 4.0  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt?filter=1&version=&severity=5&severity=4&severity=3&severity=2"
+    ]
+}
