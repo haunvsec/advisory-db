@@ -1,0 +1,27 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-106",
+    "title": "[Control systems] Siemens security advisory (AV26-106)",
+    "public_time": "2026-02-10T17:12:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-106",
+    "advisory_id": "AV26-106",
+    "type": "advisory",
+    "description": "On February 10, 2026, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Simcenter Femap, Simcenter Nastran  versions prior to V2512",
+        "Siveillance Video Management Servers  multiple models and versions",
+        "Siemens NX  versions prior to V2512",
+        "Desigo CC V6, V7 and V8  multiple versions",
+        "SENTRON Powermanager V6, V7 and V8  multiple versions",
+        "SIPORT Desktop Client Application  all versions",
+        "Solid Edge  versions prior to  V226.00 Update 03",
+        "SINEC NMS  all versions",
+        "SINEC NMS User Management Component (UMC)  versions prior to V2.15.2.1",
+        "Polarion V2404  versions prior to V2404.5",
+        "Polarion V2410  versions prior to V2410.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
