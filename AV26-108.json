@@ -1,0 +1,19 @@
+{
+    "id": "rapid7-security-advisory-av26-108",
+    "title": "Rapid7 security advisory (AV26-108)",
+    "public_time": "2026-02-10T20:29:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/rapid7-security-advisory-av26-108",
+    "advisory_id": "AV26-108",
+    "type": "advisory",
+    "description": "On February 9, 2026, Rapid7 published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "InsightVM and Nexpose  versions prior to 8.36.0"
+    ],
+    "cves": [
+        "CVE-2026-1814"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.rapid7.com/blog/post/ve-insightvm-nexpose-vulnerability-cve-2026-1814-fixed/"
+    ]
+}
