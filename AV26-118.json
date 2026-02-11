@@ -1,0 +1,30 @@
+{
+    "id": "palo-alto-networks-security-advisory-av26-118",
+    "title": "Palo Alto Networks security advisory (AV26-118)",
+    "public_time": "2026-02-11T20:17:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-118",
+    "advisory_id": "AV26-118",
+    "type": "advisory",
+    "description": "On February 11, 2026, Palo Alto Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "PAN-OS 12.1  versions prior to 12.1.4",
+        "PAN-OS 11.2  versions prior to 11.2.8",
+        "PAN-OS 11.2  versions prior to 11.2.10",
+        "PAN-OS 11.1  versions prior to 11.1.11",
+        "PAN-OS 10.2  versions prior to 10.2.17",
+        "Prisma Access  versions prior to 11.2.7-h10 on PAN-OS",
+        "Prisma Access  versions prior to 10.2.10-h28 on PAN-OS",
+        "Prisma Browser  versions prior to 144.27.7.133"
+    ],
+    "cves": [
+        "CVE-2026-0228",
+        "CVE-2026-0229"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/PAN-SA-2026-0002",
+        "https://security.paloaltonetworks.com/CVE-2026-0228",
+        "https://security.paloaltonetworks.com/CVE-2026-0229",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
