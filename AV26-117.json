@@ -1,0 +1,26 @@
+{
+    "id": "hpe-security-advisory-av26-117",
+    "title": "HPE security advisory (AV26-117)",
+    "public_time": "2026-02-11T20:15:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-117",
+    "advisory_id": "AV26-117",
+    "type": "advisory",
+    "description": "On February 10, 2026, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE ProLiant compute DL/ML/XD  multiple models and versions",
+        "HPE ProLiant DL/ML/XL  multiple models and versions",
+        "HPE Synergy 480 Gen12 Compute Module  multiple versions",
+        "HPE Synergy 480 Gen11 Compute Module  multiple versions",
+        "HPE Alletra Storage Server 4210  multiple versions",
+        "HPE Alletra 4110, 4120 and 4140  multiple versions",
+        "HPE Compute Edge Server e930t  multiple versions",
+        "HPE Intel E810 Series Ethernet Controllers prior to v30.3  firmware versions prior to v4.90",
+        "HPE Aruba Networking EdgeConnect SD-WAN Orchestrator  multiple versions",
+        "HPE StoreEasy  multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
