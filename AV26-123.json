@@ -1,0 +1,17 @@
+{
+    "id": "react-security-advisory-av26-123",
+    "title": "React security advisory (AV26-123)",
+    "public_time": "2026-02-12T16:25:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/react-security-advisory-av26-123",
+    "advisory_id": "AV26-123",
+    "type": "advisory",
+    "description": "On February 11, 2026, Hashicorp published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "next-mdx-remote   versions 4.3.0 to 5.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.hashicorp.com/t/hcsec-2026-01-arbitrary-code-execution-in-react-server-side-rendering-of-untrusted-mdx-content/77155"
+    ]
+}
