@@ -1,0 +1,22 @@
+{
+    "id": "amd-security-advisory-av26-124",
+    "title": "AMD security advisory (AV26-124)",
+    "public_time": "2026-02-12T16:36:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-124",
+    "advisory_id": "AV26-124",
+    "type": "advisory",
+    "description": "On February 10, 2026, AMD published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "AMD Athlon and AMD Ryzen Processors   multiple models and versions",
+        "AMD Graphic Drivers   multiple models and versions",
+        "AMD  Prof performance analysis tool-suite   versions prior to 5.2.431",
+        "AMD Vivado Design Suite installation   versions prior to 2025.2",
+        "AMD Documentation Navigator installation   tool being retired",
+        "AMD EPYC and AMD EPYC Embedded Series Processors   multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.amd.com/en/resources/product-security.html"
+    ]
+}
