@@ -1,0 +1,18 @@
+{
+    "id": "juniper-networks-security-advisory-av26-128",
+    "title": "Juniper Networks security advisory (AV26-128)",
+    "public_time": "2026-02-13T19:35:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-128",
+    "advisory_id": "AV26-128",
+    "type": "advisory",
+    "description": "On February 12, 2026, Juniper Networks published a security advisory to address vulnerabilities in the following product. Included were critical updates for the following:",
+    "products": [
+        "Juniper Secure Analytics (JSA) 7.5.0   versions prior to 7.5.0 UP14 IF01"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/article/On-Demand-JSA-Series-Multiple-vulnerabilities-resolved-in-Juniper-Secure-Analytics-in-7-5-0-UP14-IF01",
+        "https://supportportal.juniper.net/s/global-search/%40uri?language=en_US#sort=%40sfcec_community_publish_date_formula__c%20descending"
+    ]
+}
