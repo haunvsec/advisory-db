@@ -1,0 +1,22 @@
+{
+    "id": "postgresql-security-advisory-av26-125",
+    "title": "PostgreSQL security advisory (AV26-125)",
+    "public_time": "2026-02-13T14:01:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-125",
+    "advisory_id": "AV26-125",
+    "type": "advisory",
+    "description": "On February 12, 2026, PostgreSQL published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "PostgreSQL   14.x versions prior to 14.21",
+        "PostgreSQL   15.x versions prior to 15.16",
+        "PostgreSQL   16.x versions prior to 16.12",
+        "PostgreSQL   17.x versions prior to 17.8",
+        "PostgreSQL   18.x versions prior to 18.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.postgresql.org/about/news/postgresql-182-178-1612-1516-and-1421-released-3235/",
+        "https://www.postgresql.org/support/security/"
+    ]
+}
