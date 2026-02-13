@@ -1,0 +1,21 @@
+{
+    "id": "tenable-security-advisory-av26-129",
+    "title": "Tenable security advisory (AV26-129)",
+    "public_time": "2026-02-13T20:15:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-129",
+    "advisory_id": "AV26-129",
+    "type": "advisory",
+    "description": "On February 12, 2026, Tenable published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Nessus Agent  versions 11.1.0 to 11.1.1",
+        "Nessus Agent  versions 11.0.3 and prior"
+    ],
+    "cves": [
+        "CVE-2026-2026"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-05",
+        "https://www.tenable.com/security"
+    ]
+}
