@@ -1,0 +1,21 @@
+{
+    "id": "hpe-security-advisory-av26-127",
+    "title": "HPE security advisory (AV26-127)",
+    "public_time": "2026-02-13T16:02:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-127",
+    "advisory_id": "AV26-127",
+    "type": "advisory",
+    "description": "On February 12, 2026, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE SimpliVity 380 Gen11  versions prior to SimpliVity Support Pack Gen11 (SVTSPGen11) 2026_0116",
+        "HPE SimpliVity 380 Gen10 Plus  versions prior to SimpliVity Support Pack Gen10 (SVTSPGen10) 2026_0116"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04937en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04938en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04939en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
