@@ -1,0 +1,22 @@
+{
+    "id": "mozilla-security-advisory-av26-136",
+    "title": "Mozilla security advisory (AV26-136)",
+    "public_time": "2026-02-17T20:27:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-136",
+    "advisory_id": "AV26-136",
+    "type": "advisory",
+    "description": "On February 16, 2026, Mozilla published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Thunderbird  versions prior to 147.0.2 and 140.7.2",
+        "Firefox  versions prior to 147.0.4",
+        "Firefox ESR  versions prior to 115.32.1",
+        "Firefox ESR  versions prior to 140.7.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-11/",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-10/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
