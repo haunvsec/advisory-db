@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-140",
+    "title": "[Control systems] ABB security advisory (AV26-140)",
+    "public_time": "2026-02-18T15:13:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-140",
+    "advisory_id": "AV26-140",
+    "type": "advisory",
+    "description": "On February 18, 2026, ABB published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "B&R Automation Studio  versions prior to 6.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.br-automation.com/fileadmin/SA25P007-097a386d.pdf",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
