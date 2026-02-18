@@ -1,0 +1,19 @@
+{
+    "id": "jenkins-security-advisory-av26-142",
+    "title": "Jenkins security advisory (AV26-142)",
+    "public_time": "2026-02-18T15:32:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-142",
+    "advisory_id": "AV26-142",
+    "type": "advisory",
+    "description": "On February 18, 2026, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Jenkins weekly  version 2.550 and prior",
+        "Jenkins LTS  versions 2.541.1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2026-02-18/#jenkins-security-advisory-2026-02-18",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
