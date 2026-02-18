@@ -1,0 +1,20 @@
+{
+    "id": "atlassian-security-advisory-av26-141",
+    "title": "Atlassian security advisory (AV26-141)",
+    "public_time": "2026-02-18T15:22:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-141",
+    "advisory_id": "AV26-141",
+    "type": "advisory",
+    "description": "On February 17, 2026, Atlassian published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server  multiple versions",
+        "Confluence Data Center and Server  multiple versions",
+        "Crowd Data Center and Server  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/spaces/SECURITY/pages/1722256046/Security+Bulletin+-+February+17+2026",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
