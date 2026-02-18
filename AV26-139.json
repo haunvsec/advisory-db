@@ -1,0 +1,19 @@
+{
+    "id": "hpe-security-advisory-av26-139",
+    "title": "HPE security advisory (AV26-139)",
+    "public_time": "2026-02-18T14:49:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-139",
+    "advisory_id": "AV26-139",
+    "type": "advisory",
+    "description": "On February 17, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE Aruba Networking ClearPass Policy Manager 6.12.x  version 6.12.7 and prior",
+        "HPE Aruba Networking ClearPass Policy Manager 6.11.x  version 6.11.13 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05012en_us&docLocale=en_US#hpesbnw05012-rev-1-local-privilege-escalation-vuln-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
