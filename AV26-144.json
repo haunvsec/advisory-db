@@ -1,0 +1,19 @@
+{
+    "id": "f5-security-advisory-av26-144",
+    "title": "F5 security advisory (AV26-144)",
+    "public_time": "2026-02-18T19:18:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-144",
+    "advisory_id": "AV26-144",
+    "type": "advisory",
+    "description": "On February 18, 2026, F5 published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "BIG-IP AFM and DDoS Hybrid Defender 17.x  version 17.5.1.4"
+    ],
+    "cves": [
+        "CVE-2026-2507"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://my.f5.com/manage/s/article/K000160003"
+    ]
+}
