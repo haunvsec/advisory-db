@@ -1,0 +1,22 @@
+{
+    "id": "hpe-security-advisory-av26-150",
+    "title": "HPE security advisory (AV26-150)",
+    "public_time": "2026-02-19T20:29:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-150",
+    "advisory_id": "AV26-150",
+    "type": "advisory",
+    "description": "On February 19, 2026, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "HPE Telco Service Activator  versions prior to 10.5.0",
+        "HPE SimpliVity 380 servers  versions prior to SimpliVity Support Pack (SVTSP) Gen10 and Gen11",
+        "HPE Telco Service Orchestrator  versions prior to v5.5.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05011en_us&docLocale=en_US#hpesbnw05011-rev-1-telco-service-activator-imprope-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04967en_us&docLocale=en_US#hpesbhf04967-rev-1-certain-hpe-simplivity-servers-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw04983en_us&docLocale=en_US#hpesbnw04983-rev-1-hpe-telco-service-orchestrator-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US "
+    ]
+}
