@@ -1,0 +1,24 @@
+{
+    "id": "dell-security-advisory-av26-156",
+    "title": "Dell security advisory (AV26-156)",
+    "public_time": "2026-02-23T19:41:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-156",
+    "advisory_id": "AV26-156",
+    "type": "advisory",
+    "description": "Between February 16 and 22, 2026, Dell published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Dell PowerEdge NVIDIA DOCA-Host  versions prior to 3.2.1-044000",
+        "Dell PowerEdge Server  Multiple models and versions",
+        "Dell PowerMax EEM  versions prior to 10.3.0.1",
+        "Dell PowerProtect Data Manager  versions prior to 19.22.0-24",
+        "Dell Repository Manager  versions prior to 3.4.8",
+        "Dell Unisphere for PowerMax  versions prior to 10.3.0.1",
+        "Dell Networking OS10  versions prior to 10.5.6.12",
+        "Dell Networking OS10  versions prior to 10.5.5.17"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
