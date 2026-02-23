@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-157",
+    "title": "HPE security advisory (AV26-157)",
+    "public_time": "2026-02-23T19:54:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-157",
+    "advisory_id": "AV26-157",
+    "type": "advisory",
+    "description": "On February 20, 2026, HPE published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "HPE SimpliVity 380 Gen11  versions prior to SimpliVity Support Pack (SVTSP) Gen11 v2025_1001"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf04864en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
