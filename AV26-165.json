@@ -1,0 +1,20 @@
+{
+    "id": "solarwinds-security-advisory-av26-165",
+    "title": "SolarWinds security advisory (AV26-165)",
+    "public_time": "2026-02-24T21:04:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-165",
+    "advisory_id": "AV26-165",
+    "type": "advisory",
+    "description": "On February 24, 2026, SolarWinds published security advisories to address critical vulnerabilities in the following product:",
+    "products": [
+        "SolarWinds Serv-U - versions prior to 15.5.4"
+    ],
+    "cves": [
+        "CVE-2025-40538"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40538",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
