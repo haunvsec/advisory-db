@@ -1,0 +1,17 @@
+{
+    "id": "docker-security-advisory-av26-158",
+    "title": "Docker security advisory (AV26\u2013158)",
+    "public_time": "2026-02-24T13:35:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-158",
+    "advisory_id": "AV26\u2013158",
+    "type": "advisory",
+    "description": "On February 23, 2026, Docker published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Docker Desktop  versions prior to 4.62.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.docker.com/desktop/release-notes/#4620"
+    ]
+}
