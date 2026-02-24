@@ -1,0 +1,22 @@
+{
+    "id": "mozilla-security-advisory-av26-160",
+    "title": "Mozilla security advisory (AV26-160)",
+    "public_time": "2026-02-24T16:29:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-160",
+    "advisory_id": "AV26-160",
+    "type": "advisory",
+    "description": "On February 24, 2026, Mozilla published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Firefox ESR  versions prior to 140.8",
+        "Firefox ESR  versions prior to 115.33",
+        "Firefox  versions prior to 148"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-15/",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-14/",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-13/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
