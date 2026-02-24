@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-164",
+    "title": "HPE security advisory (AV26-164)",
+    "public_time": "2026-02-24T20:47:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-164",
+    "advisory_id": "AV26-164",
+    "type": "advisory",
+    "description": "On February 24, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE ProLiant AMD DL/XL Servers  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05021en_us&docLocale=en_US#hpesbhf05021-rev-1-certain-hpe-proliant-amd-dl-xl-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
