@@ -1,0 +1,20 @@
+{
+    "id": "sonicwall-security-advisory-av26-161",
+    "title": "SonicWall security advisory (AV26-161)",
+    "public_time": "2026-02-24T16:55:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-161",
+    "advisory_id": "AV26-161",
+    "type": "advisory",
+    "description": "On February 24, 2026, SonicWall published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Gen7 hardware Firewalls  version 7.0.1-5169 and prior",
+        "Gen7 virtual Firewalls (NSv)  version 7.3.1-7013 and prior",
+        "Gen8 Firewalls  version 8.1.0-8017 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0001",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
