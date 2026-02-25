@@ -1,0 +1,22 @@
+{
+    "id": "zyxel-security-advisory-av26-167",
+    "title": "Zyxel security advisory (AV26-167)",
+    "public_time": "2026-02-25T18:26:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-167",
+    "advisory_id": "AV26-167",
+    "type": "advisory",
+    "description": "On February 24, 2026, Zyxel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "4G LTE/5G NR CPE  multiple models and versions",
+        "DSL/Ethernet CPE  multiple models and versions",
+        "Fiber ONTs  multiple models and versions",
+        "Security Routers  multiple models and versions",
+        "Wireless Extenders  multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-null-pointer-dereference-and-command-injection-vulnerabilities-in-certain-4g-lte-5g-nr-cpe-dsl-ethernet-cpe-fiber-onts-security-routers-and-wireless-extenders-02-24-2026",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
