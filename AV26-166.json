@@ -1,0 +1,22 @@
+{
+    "id": "cisco-security-advisory-av26-166",
+    "title": "Cisco security advisory (AV26-166)",
+    "public_time": "2026-02-25T14:28:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-166",
+    "advisory_id": "AV26-166",
+    "type": "advisory",
+    "description": "On February 25, 2026, Cisco published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Cisco Catalyst SD-WAN Controller  multiple versions",
+        "Cisco Catalyst SD-WAN Manager  multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-20127"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://tools.cisco.com/security/center/publicationListing.x",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-rpa-EHchtZk",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-authbp-qwCX8D4v"
+    ]
+}
