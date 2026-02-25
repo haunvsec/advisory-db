@@ -1,0 +1,20 @@
+{
+    "id": "amd-security-advisory-av26-169",
+    "title": "AMD security advisory (AV26-169)",
+    "public_time": "2026-02-25T19:08:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-169",
+    "advisory_id": "AV26-169",
+    "type": "advisory",
+    "description": "On February 24, 2026, AMD published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "AMD Athlon and AMD Ryzen Processors  multiple models and versions",
+        "AMD Ryzen Embedded Processors  multiple models and versions",
+        "AMD EPYC and AMD EPYC Embedded Series Processors  multiple models and versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7059.html",
+        "https://www.amd.com/en/resources/product-security.html"
+    ]
+}
