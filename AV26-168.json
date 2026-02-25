@@ -1,0 +1,20 @@
+{
+    "id": "trend-micro-security-advisory-av26-168",
+    "title": "Trend Micro security advisory (AV26-168)",
+    "public_time": "2026-02-25T18:36:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av26-168",
+    "advisory_id": "AV26-168",
+    "type": "advisory",
+    "description": "On February 24, 2026, Trend Micro published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "Apex One (on-premise)  versions prior to 2019 (on-prem)",
+        "Apex One as a service  SaaS",
+        "Trend Vision One Endpoint - Standard Endpoint Protection  Saas"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://success.trendmicro.com/en-US/solution/KA-0022458",
+        "https://success.trendmicro.com/en-US/vulnerability-response/"
+    ]
+}
