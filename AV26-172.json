@@ -1,0 +1,20 @@
+{
+    "id": "juniper-networks-security-advisory-av26-172",
+    "title": "Juniper Networks security advisory (AV26-172)",
+    "public_time": "2026-02-25T20:28:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-172",
+    "advisory_id": "AV26-172",
+    "type": "advisory",
+    "description": "On February 25, 2026, Juniper Networks published a security advisory to address vulnerabilities in the following products. Included was a critical update for the following:",
+    "products": [
+        "Junos OS Evolved on PTX Series  25.4 versions prior to 25.4R1-S1-EVO, 25.4R2-EVO"
+    ],
+    "cves": [
+        "CVE-2026-21902"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/article/2026-02-Out-of-Cycle-Security-Bulletin-Junos-OS-Evolved-PTX-Series-A-vulnerability-allows-a-unauthenticated-network-based-attacker-to-execute-code-as-root-CVE-2026-21902",
+        "https://supportportal.juniper.net/s/global-search/%40uri#sort=relevancy&f:ctype=[Security%20Advisories"
+    ]
+}
