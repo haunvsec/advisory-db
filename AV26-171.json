@@ -1,0 +1,18 @@
+{
+    "id": "jetbrains-security-advisory-av26-171",
+    "title": "JetBrains security advisory (AV26-171)",
+    "public_time": "2026-02-25T19:16:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-171",
+    "advisory_id": "AV26-171",
+    "type": "advisory",
+    "description": "On February 25, 2026, JetBrains published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "JetBrains TeamCity  versions prior to 2025.11.3",
+        "JetBrains YouTrack  versions prior to 2025.3.121962"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jetbrains.com/privacy-security/issues-fixed/"
+    ]
+}
