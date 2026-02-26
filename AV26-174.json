@@ -1,0 +1,23 @@
+{
+    "id": "servicenow-security-advisory-av26-174",
+    "title": "ServiceNow security advisory (AV26-174)",
+    "public_time": "2026-02-26T18:23:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-174",
+    "advisory_id": "AV26-174",
+    "type": "advisory",
+    "description": "On February 25, 2026, ServiceNow published a Security Advisory to address vulnerabilities in the following products. Included was a critical update for the following:",
+    "products": [
+        "ServiceNow Australia  versions prior to Australia",
+        "ServiceNow Xanadu  versions prior to Xanadu Patch 11 Hot Fix 1a",
+        "ServiceNow Yokohama  versions prior to Yokohama Patch 12 and Patch 10 Hot Fix 1b",
+        "ServiceNow Zurich  versions prior to Zurich Patch 5 and Patch 4 Hot Fix 3b"
+    ],
+    "cves": [
+        "CVE-2026-0542"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2693566",
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057"
+    ]
+}
