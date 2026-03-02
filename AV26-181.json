@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av26-181",
+    "title": "Dell security advisory (AV26-181)",
+    "public_time": "2026-03-02T16:17:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-181",
+    "advisory_id": "AV26-181",
+    "type": "advisory",
+    "description": "Between February 23 and March 1, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell PowerStore T Security  versions prior to 4.3.1.0-2662695",
+        "Dell AMD-based PowerEdge Server  multiple versions and models",
+        "Dell PowerEdge  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000432173/dsa-2026-115-dell-powerstore-t-security-update-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000432584/dsa-2026-075-security-update-for-dell-amd-based-poweredge-server-vulnerability",
+        "https://www.dell.com/support/kbdoc/en-ca/000433020/dsa-2026-119-security-update-for-nvidia-bluefield-connectx-and-doca-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
