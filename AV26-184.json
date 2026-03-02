@@ -1,0 +1,20 @@
+{
+    "id": "red-hat-security-advisory-av26-184",
+    "title": "Red Hat security advisory (AV26-184)",
+    "public_time": "2026-03-02T16:54:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-184",
+    "advisory_id": "AV26-184",
+    "type": "advisory",
+    "description": "Between February 23 and March 1, 2026, Red Hat published security advisories to address vulnerabilities in multiple products. Included were updates to address vulnerabilities in the Linux kernel for the following products:",
+    "products": [
+        "Red Hat CodeReady Linux Builder  multiple versions and platforms",
+        "Red Hat Enterprise Linux  multiple versions and platforms",
+        "Red Hat Enterprise Linux Server  multiple versions and platforms",
+        "Red Hat Enterprise Linux for Real Time  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://access.redhat.com/security/security-updates/security-advisories"
+    ]
+}
