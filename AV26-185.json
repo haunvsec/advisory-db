@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-185",
+    "title": "HPE security advisory (AV26-185)",
+    "public_time": "2026-03-02T17:03:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-185",
+    "advisory_id": "AV26-185",
+    "type": "advisory",
+    "description": "On February 27, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE AutoPass License Server (APLS)  versions prior to 9.19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn05003en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
