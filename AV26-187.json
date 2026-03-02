@@ -1,0 +1,15 @@
+{
+    "id": "android-security-advisory-march-2026-monthly-rollup-av26-187",
+    "title": "Android security advisory \u2013 March 2026 monthly rollup (AV26-187)",
+    "public_time": "2026-03-02T20:27:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2026-monthly-rollup-av26-187",
+    "advisory_id": "AV26-187",
+    "type": "advisory",
+    "description": "On March 2, 2026, Android published a security bulletin to address vulnerabilities affecting Android devices.",
+    "products": [
+        "Android Security Bulletin"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
