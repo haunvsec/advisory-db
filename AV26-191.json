@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-mitsubishi-electric-security-advisory-av26-191",
+    "title": "[Control systems] Mitsubishi Electric security advisory (AV26-191)",
+    "public_time": "2026-03-03T15:27:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av26-191",
+    "advisory_id": "AV26-191",
+    "type": "advisory",
+    "description": "On March 2, 2026, Mitsubishi Electric published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "MELSEC iQ-F Series FX5-ENET/IP Ethernet Module FX5-ENET/IP  all versions",
+        "MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitsubishielectric.com/psirt/vulnerability/pdf/2025-021_en.pdf"
+    ]
+}
