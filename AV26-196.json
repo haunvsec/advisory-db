@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-196",
+    "title": "HPE security advisory (AV26-196)",
+    "public_time": "2026-03-04T17:06:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-196",
+    "advisory_id": "AV26-196",
+    "type": "advisory",
+    "description": "On March 4, 2026, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Aruba Networking  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05026en_us&docLocale=en_US#hpesbnw05026-rev-1-multiple-vulnerabilities-in-hpe-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
