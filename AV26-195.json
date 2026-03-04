@@ -1,0 +1,19 @@
+{
+    "id": "tenable-security-advisory-av26-195",
+    "title": "Tenable security advisory (AV26-195)",
+    "public_time": "2026-03-04T14:19:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-195",
+    "advisory_id": "AV26-195",
+    "type": "advisory",
+    "description": "On March 3, 2026, Tenable published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Nessus Manager  version 10.10.2 and prior",
+        "Nessus Manager  versions 10.11.0 to 10.11.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-08",
+        "https://www.tenable.com/security"
+    ]
+}
