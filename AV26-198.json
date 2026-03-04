@@ -1,0 +1,24 @@
+{
+    "id": "drupal-security-advisory-av26-198",
+    "title": "Drupal security advisory (AV26-198)",
+    "public_time": "2026-03-04T20:12:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-198",
+    "advisory_id": "AV26-198",
+    "type": "advisory",
+    "description": "On March 4, 2026, Drupal published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "File Access Fix (deprecated)  versions prior to 1.2.0",
+        "AJAX Dashboard  versions prior to 3.1.0",
+        "Calculation Fields  versions prior to 1.0.4",
+        "Google Analytics GA4  versions prior to 1.1.13"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2026-021",
+        "https://www.drupal.org/sa-contrib-2026-022",
+        "https://www.drupal.org/sa-contrib-2026-023",
+        "https://www.drupal.org/sa-contrib-2026-024",
+        "https://www.drupal.org/security"
+    ]
+}
