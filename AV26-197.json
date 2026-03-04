@@ -1,0 +1,20 @@
+{
+    "id": "cisco-security-advisory-av26-197",
+    "title": "Cisco security advisory (AV26-197)",
+    "public_time": "2026-03-04T19:40:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-197",
+    "advisory_id": "AV26-197",
+    "type": "advisory",
+    "description": "On March 4, 2026, Cisco published security advisories to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "Cisco Security Cloud Control (SCC) Firewall Management  all versions",
+        "Cisco Secure Firewall Management Center (FMC)  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-rce-NKhnULJh",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
