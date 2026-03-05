@@ -1,0 +1,19 @@
+{
+    "id": "opentext-security-advisory-av26-199",
+    "title": "OpenText security advisory (AV26-199)",
+    "public_time": "2026-03-05T13:24:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/opentext-security-advisory-av26-199",
+    "advisory_id": "AV26-199",
+    "type": "advisory",
+    "description": "On February 27, 2026, OpenText published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Filr   versions up to 25.1.2"
+    ],
+    "cves": [
+        "CVE-2026-3266"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://portal.microfocus.com/s/article/KM000045579?language=en_US"
+    ]
+}
