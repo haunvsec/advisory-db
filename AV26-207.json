@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av26-207",
+    "title": "Mozilla security advisory (AV26-207)",
+    "public_time": "2026-03-09T15:49:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-207",
+    "advisory_id": "AV26-207",
+    "type": "advisory",
+    "description": "On March 2, 2026, Mozilla published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Focus for iOS  versions prior to 148.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-18/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
