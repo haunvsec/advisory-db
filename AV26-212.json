@@ -1,0 +1,24 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-212",
+    "title": "[Control systems] Siemens security advisory (AV26-212)",
+    "public_time": "2026-03-10T18:13:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-212",
+    "advisory_id": "AV26-212",
+    "type": "advisory",
+    "description": "On March 10, 2026, Siemens published advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Heliox Flex 180 kW EV Charging Station  versions prior to F4.11.1",
+        "Heliox Mobile DC 40 kW EV Charging Station  versions prior to L4.10.1",
+        "Mendix Applications  all versions",
+        "RUGGEDCOM APE1808  all versions with Fortigate NGFW prior to V7.4.11",
+        "RUGGEDCOM APE1808  all versions with Fortigate NGFW prior to V7.4.10",
+        "SIDIS Prime  versions prior to V4.0.800",
+        "SICAM SIAPP SDK  versions prior to V2.1.7",
+        "SIMATIC S7-1500  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
