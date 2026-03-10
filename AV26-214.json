@@ -1,0 +1,20 @@
+{
+    "id": "ivanti-security-advisory-av26-214",
+    "title": "Ivanti security advisory (AV26-214)",
+    "public_time": "2026-03-10T20:08:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-214",
+    "advisory_id": "AV26-214",
+    "type": "advisory",
+    "description": "On March 10, 2026, Ivanti published a security advisory to address a vulnerability in the following product::",
+    "products": [
+        "Ivanti Desktop and Server Management (DSM)  version DSM 2026.1 and prior"
+    ],
+    "cves": [
+        "CVE-2026-3483"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-DSM-CVE-2026-3483?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
