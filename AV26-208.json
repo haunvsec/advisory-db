@@ -1,0 +1,21 @@
+{
+    "id": "kubernetes-security-advisory-av26-208",
+    "title": "Kubernetes security advisory (AV26-208)",
+    "public_time": "2026-03-10T15:35:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/kubernetes-security-advisory-av26-208",
+    "advisory_id": "AV26-208",
+    "type": "advisory",
+    "description": "On March 9, 2026, Kubernetes published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Kubernetes ingress-nginx  versions prior to 1.13.8",
+        "Kubernetes ingress-nginx  versions prior to 1.14.4",
+        "Kubernetes ingress-nginx  versions prior to 1.15.0"
+    ],
+    "cves": [
+        "CVE-2026-3288"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.kubernetes.io/t/security-advisory-cve-2026-3288-ingress-nginx-rewrite-target-nginx-configuration-injection/34289"
+    ]
+}
