@@ -1,0 +1,26 @@
+{
+    "id": "sap-security-advisory-march-2026-monthly-rollup-av26-209",
+    "title": "SAP security advisory \u2013 March 2026 monthly rollup (AV26-209)",
+    "public_time": "2026-03-10T15:56:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-march-2026-monthly-rollup-av26-209",
+    "advisory_id": "AV26-209",
+    "type": "advisory",
+    "description": "On March 10, 2026, SAP published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "SAP NetWeaver Enterprise Portal Administration  version EP-RUNTIME 7.50",
+        "SAP Quotation Management Insurance Application (FS-QUO)  version FS-QUO 800",
+        "SAP Supply Chain Management  multiple versions"
+    ],
+    "cves": [
+        "CVE-2019-17571",
+        "CVE-2026-27685",
+        "CVE-2026-27689"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://me.sap.com/notes/3698553  ",
+        "https://me.sap.com/notes/3714585",
+        "https://me.sap.com/notes/3719502",
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/march-2026.html"
+    ]
+}
