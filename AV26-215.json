@@ -1,0 +1,31 @@
+{
+    "id": "adobe-security-advisory-av26-215",
+    "title": "Adobe security advisory (AV26-215)",
+    "public_time": "2026-03-10T20:41:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-215",
+    "advisory_id": "AV26-215",
+    "type": "advisory",
+    "description": "On March 10, 2026, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Adobe Commerce  multiple versions",
+        "Adobe Commerce B2B  multiple versions",
+        "Magento Open Source - multiple versions",
+        "Illustrator 2025  version 29.8.4 and prior",
+        "Illustrator 2025  version 30.1 and prior",
+        "Adobe Substance 3D Painter  version 11.1.2 and prior",
+        "Acrobat DC  version 25.001.21265 and prior",
+        "Acrobat Reader DC  version 25.001.21265 and prior",
+        "Acrobat 2024 (Win)  version 24.001.30307 and prior",
+        "Acrobat 2024 (Mac)  version 24.001.30308 and prior",
+        "Adobe Premiere Pro  version 25.5 and prior",
+        "Adobe Experience Manager (AEM)  version AEM Cloud Service (CS)",
+        "Adobe Experience Manager (AEM)  versions 6.5 LTS SP1 and 6.5.SP23 and prior",
+        "Adobe Substance 3D Stager  version 3.1.7 and prior",
+        "Adobe DNG Software Development Kit (SDK)  version DNG SDK 1.7.1 build 2471 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
