@@ -1,0 +1,21 @@
+{
+    "id": "hpe-security-advisory-av26-217",
+    "title": "HPE security advisory (AV26-217)",
+    "public_time": "2026-03-10T20:56:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-217",
+    "advisory_id": "AV26-217",
+    "type": "advisory",
+    "description": "On March 9, 2026, HPE published security advisories to address vulnerabilities in the following products. Included was a critical update for the following:",
+    "products": [
+        "HPE Aruba Networking AOS-CS  multiple versions",
+        "HPE Telco Intelligent Assurance  versions prior to FAS 4.2.14",
+        "HPE Telco Intelligent Assurance  versions prior to PDO 4.2.14"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05027en_us&docLocale=en_US",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05022en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
