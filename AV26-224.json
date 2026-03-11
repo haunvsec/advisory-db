@@ -1,0 +1,23 @@
+{
+    "id": "hpe-security-advisory-av26-224",
+    "title": "HPE security advisory (AV26-224)",
+    "public_time": "2026-03-11T20:10:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-224",
+    "advisory_id": "AV26-224",
+    "type": "advisory",
+    "description": "On March 11, 2026, HPE published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "HPE ProLiant DL/ML/XD/XL Servers  multiple versions",
+        "HPE Alletra Servers  multiple versions",
+        "HPE Apollo Servers  multiple versions",
+        "HPE Synergy Servers  multiple versions",
+        "HPE Microserver Servers  multiple versions",
+        "HPE Edgeline Servers  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05028en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
