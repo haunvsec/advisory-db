@@ -1,0 +1,21 @@
+{
+    "id": "control-systems-hitachi-security-advisory-av26-218",
+    "title": "[Control systems] Hitachi security advisory (AV26-218)",
+    "public_time": "2026-03-11T17:21:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-218",
+    "advisory_id": "AV26-218",
+    "type": "advisory",
+    "description": "On March 10, 2026, Hitachi published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Hitachi Device Manager (Windows/Linux)  versions prior to 8.8.8-02",
+        "Hitachi Tuning Manager (Windows/Linux)  versions prior to 8.8.8-02",
+        "Hitachi Compute Systems Manager (Windows/Linux)  versions prior to 8.8.8-01"
+    ],
+    "cves": [
+        "CVE-2025-48976"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-112/index.html"
+    ]
+}
