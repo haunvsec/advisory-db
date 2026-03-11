@@ -1,0 +1,28 @@
+{
+    "id": "cisco-security-advisory-av26-223",
+    "title": "Cisco security advisory (AV26-223)",
+    "public_time": "2026-03-11T20:00:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-223",
+    "advisory_id": "AV26-223",
+    "type": "advisory",
+    "description": "On March 11, 2026, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco NCS 5700 Series line cards  multiple versions",
+        "Cisco NCS 5700 Series Fixed Chassis  multiple versions",
+        "Cisco IOS XR Software  multiple versions",
+        "Cisco Unified Intelligence Center  all versions",
+        "Cisco Finesse  all versions",
+        "Cisco Packaged CCE  all versions",
+        "Cisco Unified CCE  all versions",
+        "Cisco Unified CCX  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xrncs-epni-int-dos-TWMffUsN",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-isis-dos-kDMxpSzK",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-privesc-bF8D5U4W",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cc-xss-MrNAH5Jh",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
