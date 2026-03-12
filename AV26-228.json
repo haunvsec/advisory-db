@@ -1,0 +1,26 @@
+{
+    "id": "palo-alto-networks-security-advisory-av26-228",
+    "title": "Palo Alto Networks security advisory (AV26-228)",
+    "public_time": "2026-03-12T16:08:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-228",
+    "advisory_id": "AV26-228",
+    "type": "advisory",
+    "description": "On March 11, 2026, Palo Alto Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cortex XDR Broker VM 30.0.0&bsp;  versions prior to 30.0.49",
+        "Cortex XDR Agent 8.7-CE&bsp;  versions prior to 8.7.101-CE on macOS",
+        "Cortex XDR Agent 8.3-CE&bsp;  versions prior to 8.3.102-CE on macOS",
+        "Prisma Browser  versions prior to 145.7.9.76"
+    ],
+    "cves": [
+        "CVE-2026-0231",
+        "CVE-2026-0230"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/CVE-2026-0231 ",
+        "https://security.paloaltonetworks.com/CVE-2026-0230 ",
+        "https://security.paloaltonetworks.com/PAN-SA-2026-0003",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
