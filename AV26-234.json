@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-234",
+    "title": "HPE security advisory (AV26-234)",
+    "public_time": "2026-03-12T19:16:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-234",
+    "advisory_id": "AV26-234",
+    "type": "advisory",
+    "description": "On March 12, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE Compute Scale-up Server 3200  versions prior to v1.70.74"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05024en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US "
+    ]
+}
