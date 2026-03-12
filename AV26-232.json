@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-232",
+    "title": "[Control systems] ABB security advisory (AV26-232)",
+    "public_time": "2026-03-12T17:53:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-232",
+    "advisory_id": "AV26-232",
+    "type": "advisory",
+    "description": "On March 12, 2026, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "AC500 V3  firmware version 3.9.0"
+    ],
+    "cves": [
+        "CVE-2025-15467"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=3ADR011536&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
