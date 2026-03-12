@@ -1,0 +1,24 @@
+{
+    "id": "zoom-security-advisory-av26-231",
+    "title": "Zoom security advisory (AV26-231)",
+    "public_time": "2026-03-12T17:44:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zoom-security-advisory-av26-231",
+    "advisory_id": "AV26-231",
+    "type": "advisory",
+    "description": "On March 10, 2026, Zoom published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Zoom Meeting SDK for Windows  versions prior to 6.6.11",
+        "Zoom Rooms for Windows  versions prior to 6.6.5",
+        "Zoom Workplace for Windows  versions prior to 6.6.11",
+        "Zoom Workplace VDI Client for Windows  versions prior to 6.4.17, 6.5.15 and 6.6.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26005/",
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26004/",
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26003/",
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26002/",
+        "https://www.zoom.com/en/trust/security-bulletin/"
+    ]
+}
