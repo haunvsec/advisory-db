@@ -1,0 +1,25 @@
+{
+    "id": "splunk-security-advisory-av26-227",
+    "title": "Splunk security advisory (AV26-227)",
+    "public_time": "2026-03-12T12:58:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-227",
+    "advisory_id": "AV26-227",
+    "type": "advisory",
+    "description": "On March 11, 2026, Splunk published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Splunk Enterprise  multiple versions",
+        "Splunk Cloud Platform  multiple versions",
+        "Splunk AppDynamics On-Premises Enterprise Console  versions prior to 26.1.1",
+        "Splunk AppDynamics Machine Agent  versions prior to 26.1.0",
+        "Splunk AppDynamics Private Synthetic Agent  versions prior to 26.1.0",
+        "Splunk AppDynamics Java Agent  versions prior to 26.1.0",
+        "Splunk AppDynamics NodeJS Agent  versions prior to 25.12.1",
+        "Splunk AppDynamics Database Agent  versions prior to 26.1.0",
+        "Splunk AppDynamics Analytics Agent  versions prior to 26.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/"
+    ]
+}
