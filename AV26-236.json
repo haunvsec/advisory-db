@@ -1,0 +1,23 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-236",
+    "title": "[Control systems] ABB security advisory (AV26-236)",
+    "public_time": "2026-03-13T17:47:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-236",
+    "advisory_id": "AV26-236",
+    "type": "advisory",
+    "description": "On March 11, 2026, ABB published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "AWIN GW100 rev.2  versions 2.0-0 to 2.0-1",
+        "AWIN GW120  versions 1.2-0 to 1.2-1."
+    ],
+    "cves": [
+        "CVE-2025-13777",
+        "CVE-2025-13778",
+        "CVE-2025-13779"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=4JNO000329&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
