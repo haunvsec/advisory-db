@@ -1,0 +1,19 @@
+{
+    "id": "microsoft-edge-security-advisory-av26-243",
+    "title": "Microsoft Edge security advisory (AV26-243)",
+    "public_time": "2026-03-16T17:11:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-243",
+    "advisory_id": "AV26-243",
+    "type": "advisory",
+    "description": "On March 13, 2026, Microsoft published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 146.0.3856.59"
+    ],
+    "cves": [
+        "CVE-2026-3910"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-13-2026"
+    ]
+}
