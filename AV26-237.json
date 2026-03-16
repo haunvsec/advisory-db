@@ -1,0 +1,42 @@
+{
+    "id": "ibm-security-advisory-av26-237",
+    "title": "IBM security advisory (AV26-237)",
+    "public_time": "2026-03-16T14:00:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-237",
+    "advisory_id": "AV26-237",
+    "type": "advisory",
+    "description": "Between March 9 and 15, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "Cloudera Data Platform Private Cloud Base with IBM (CDP)  version 7.1.9",
+        "Cloudera Data Platform Private Cloud Base with IBM (CDP)  version 7.3.1",
+        "ELM on Hybrid Cloud  versions 1.2.0, 1.1.0 and 1.0.0",
+        "IBM AIX  versions 7.2 and 7.3",
+        "IBM CICS Transaction Gateway Desktop Edition  multiple versions",
+        "IBM CICS Transaction Gateway for Multiplatforms  multiple versions",
+        "IBM Cloud Pak for Security  versions 1.10.0.0 to 1.10.11.0",
+        "IBM Knowledge Catalog Premium Cartridge  multiple versions",
+        "IBM Library Support for Struts  version 1.2",
+        "IBM MQ (LTS/CD)  multiple versions",
+        "IBM Maximo Application Suite - Visual Inspection Component  multiple versions",
+        "IBM Observability with Instana (Agent)  versions Build 1.0.303 to 1.0.313",
+        "IBM Security SOAR  multiple versions",
+        "IBM Security Verify Directory (Container)  versions 10.0.0 to 10.0.4",
+        "IBM Sterling Connect:Direct File Agent  versions 1.4.0.3 to 1.4.0.5_iFix005 with bundled JRE on AIX, Linux x64, Linux PPC and Windows",
+        "IBM Sterling Connect:Direct for Microsoft Windows  versions 6.3.0.3 to 6.3.0.6_iFix038",
+        "IBM Sterling Connect:Direct for Microsoft Windows  versions 6.4.0.0 to 6.4.0.4_iFix009",
+        "IBM Sterling Partner Engagement Manager (Essentials Edition/Standard Edition)  versions 6.2.3.0 to 6.2.3.5, versions 6.2.4.0 to 6.2.4.2",
+        "IBM Verify Directory (Container)  version 11.0.0.0",
+        "IBM Verify Identity Governance (ISVG)  version ISVG 10.0.2",
+        "IBM Verify Identity Governance (IVIG)  version IVIG 11.0.0",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data  versions 4.8.4 to 4.8.5",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data  versions 5.0.0 to 5.3",
+        "IBM watsonx Orchestrate with watsonx Assistant Cartridge  UAB Component  versions 5.1.0 to 5.2.1",
+        "IBM  VIOS versions 3.1 and 4.1",
+        "QRadar Suite Software  versions 1.10.12.0 to 1.11.8.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
