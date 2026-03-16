@@ -1,0 +1,20 @@
+{
+    "id": "ubuntu-security-advisory-av26-239",
+    "title": "Ubuntu security advisory (AV26-239)",
+    "public_time": "2026-03-16T15:10:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-239",
+    "advisory_id": "AV26-239",
+    "type": "advisory",
+    "description": "Between March 9 and 15, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-8060-7",
+        "https://ubuntu.com/security/notices/USN-8059-8",
+        "https://ubuntu.com/security/notices"
+    ]
+}
