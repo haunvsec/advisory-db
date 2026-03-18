@@ -1,0 +1,19 @@
+{
+    "id": "mitel-security-advisory-av26-250",
+    "title": "Mitel security advisory (AV26-250)",
+    "public_time": "2026-03-18T14:43:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-250",
+    "advisory_id": "AV26-250",
+    "type": "advisory",
+    "description": "On March 18, 2026, Mitel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Mitel CX  version 2.0.0.1 and prior",
+        "MiContact Center Business  version 10.2.0.11 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2026-0001",
+        "https://www.mitel.com/support/security-advisories"
+    ]
+}
