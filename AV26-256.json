@@ -1,0 +1,17 @@
+{
+    "id": "google-chrome-security-advisory-av26-256",
+    "title": "Google Chrome security advisory (AV26-256)",
+    "public_time": "2026-03-18T19:04:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-256",
+    "advisory_id": "AV26-256",
+    "type": "advisory",
+    "description": "On March 18, 2026, Google published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Stable Channel Chrome for Desktop  versions prior to 146.0.7680.153/154 (Windows/Mac) and 146.0.7680.153 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_18.html"
+    ]
+}
