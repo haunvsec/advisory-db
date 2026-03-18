@@ -1,0 +1,18 @@
+{
+    "id": "connectwise-security-advisory-av26-257",
+    "title": "ConnectWise security advisory (AV26-257)",
+    "public_time": "2026-03-18T19:27:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av26-257",
+    "advisory_id": "AV26-257",
+    "type": "advisory",
+    "description": "On March 17, 2026, ConnectWise published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "ConnectWise ScreenConnect  versions prior to 26.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.connectwise.com/company/trust/security-bulletins/2026-03-17-screenconnect-bulletin",
+        "https://www.connectwise.com/company/trust/advisories"
+    ]
+}
