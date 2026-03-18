@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-phoenix-contact-security-advisory-av26-247",
+    "title": "[Control Systems] Phoenix Contact Security Advisory (AV26-247)",
+    "public_time": "2026-03-18T14:13:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-247",
+    "advisory_id": "AV26-247",
+    "type": "advisory",
+    "description": "On March 18, 2026, Phoenix Contact published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "FL SWITCH 2xxx  3.50 firmware versions prior to 3.53",
+        "FL SWITCH TSN 23xx  3.50 firmware versions prior to 3.53",
+        "FL SWITCH 59xx  3.50 firmware versions prior to 3.53"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://assets.phoenixcontact.com/file/6ef12bd6-c4f3-4361-9f1d-7e89a389b541/media/original?pcsa-2025-00022_vde-2025-104.pdf",
+        "https://www.phoenixcontact.com/en-pc/service-and-support/psirt"
+    ]
+}
