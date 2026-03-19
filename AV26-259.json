@@ -1,0 +1,25 @@
+{
+    "id": "spring-security-advisory-av26-259",
+    "title": "Spring security advisory (AV26-259)",
+    "public_time": "2026-03-19T19:03:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-259",
+    "advisory_id": "AV26-259",
+    "type": "advisory",
+    "description": "On March 19, 2026, Spring published security advisories to address vulnerabilities in the following products. Included was a critical update for the following:",
+    "products": [
+        "Spring Boot  multiple versions",
+        "Spring Security  multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-22731",
+        "CVE-2026-22718",
+        "CVE-2026-22733"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://spring.io/security/cve-2026-22731",
+        "https://spring.io/security/cve-2026-22732",
+        "https://spring.io/security/cve-2026-22733",
+        "https://spring.io/security"
+    ]
+}
