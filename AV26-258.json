@@ -1,0 +1,19 @@
+{
+    "id": "ubiquiti-security-advisory-av26-258",
+    "title": "Ubiquiti security advisory (AV26-258)",
+    "public_time": "2026-03-19T14:33:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-258",
+    "advisory_id": "AV26-258",
+    "type": "advisory",
+    "description": "On March 18, 2026, Ubiquiti published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "UniFi Network application  version 10.1.85 and prior",
+        "UniFi Network application  version 10.2.93 and prior",
+        "UniFi Network application  version 9.0.114 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.ui.com/releases/Security-Advisory-Bulletin-062-062/c29719c0-405e-4d4a-8f26-e343e99f931b"
+    ]
+}
