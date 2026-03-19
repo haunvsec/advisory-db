@@ -1,0 +1,22 @@
+{
+    "id": "kubernetes-security-advisory-av26-260",
+    "title": "Kubernetes security advisory (AV26-260)",
+    "public_time": "2026-03-19T19:14:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/kubernetes-security-advisory-av26-260",
+    "advisory_id": "AV26-260",
+    "type": "advisory",
+    "description": "On March 19, 2026, Kubernetes published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Kubernetes ingress-nginx  versions prior to 1.13.9",
+        "Kubernetes ingress-nginx  versions prior to 1.14.5",
+        "Kubernetes ingress-nginx  versions prior to 1.15.1"
+    ],
+    "cves": [
+        "CVE-2026-4342"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.kubernetes.io/t/security-advisory-cve-2026-4342-ingress-nginx-comment-based-nginx-configuration-injection/34349",
+        "https://discuss.kubernetes.io/c/announcements/5"
+    ]
+}
