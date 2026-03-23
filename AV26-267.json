@@ -1,0 +1,24 @@
+{
+    "id": "citrix-security-advisory-av26-267",
+    "title": "Citrix security advisory (AV26-267)",
+    "public_time": "2026-03-23T14:31:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-267",
+    "advisory_id": "AV26-267",
+    "type": "advisory",
+    "description": "On March 23, 2026, Citrix published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "NetScaler ADC and NetScaler Gateway 14.1   version prior to 14.1-66.59",
+        "NetScaler ADC and NetScaler Gateway 13.1   versions prior to 13.1-62.23",
+        "NetScaler ADC FIPS and NDcPP   versions prior to 13.1-37.262",
+        "NetScaler ADC and NetScaler Gateway   versions prior to 14.1-66.54"
+    ],
+    "cves": [
+        "CVE-2026-3055",
+        "CVE-2026-4368"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696300&articleURL=NetScaler_ADC_and_NetScaler_Gateway_Security_Bulletin_for_CVE_2026_3055_and_CVE_2026_4368",
+        "https://support.citrix.com/support-home/topic-article-list?trendingCategory=20&trendingTopicName=Security%20Bulletin"
+    ]
+}
