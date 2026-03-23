@@ -1,0 +1,33 @@
+{
+    "id": "ibm-security-advisory-av26-262",
+    "title": "IBM security advisory (AV26-262)",
+    "public_time": "2026-03-23T12:56:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-262",
+    "advisory_id": "AV26-262",
+    "type": "advisory",
+    "description": "Between March 16 and 22, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM App Connect Enterprise   versions 13.0.1.0 to 13.0.6.1",
+        "IBM App Connect Enterprise   versions 12.0.1.0 to 12.0.12.23",
+        "IBM Application Modernization Accelerator   versions 4.0.0 to 4.5.2",
+        "IBM Cloud Pak for Business Automation   versions V24.0.0 to V24.0.0-IF007",
+        "IBM Control Center   multiple versions",
+        "IBM Informix Dynamic Server   version 12.10.x",
+        "IBM Maximo Application Suite - Visual Inspection Component   version 9.1.x",
+        "IBM Observability with Instana (OnPrem)   versions Build 1.0.285 to 1.0.311",
+        "IBM Rhapsody Systems Engineering   versions 1.5.0 to 1.5.4 and 1.6.0",
+        "IBM Sterling Connect:Direct for UNIX   versions 6.3.0.3 to 6.3.0.6.iFix032",
+        "IBM Sterling Connect:Direct for UNIX   versions 6.4.0.0 to 6.4.0.4.iFix016",
+        "IBM Sterling ITXA (fka Standards Processing Engine)   versions Transformation Extender Advanced 10.0.1.0 to 10.0.1.11",
+        "IBM Sterling ITXA (fka Standards Processing Engine)   versions Transformation Extender Advanced 10.0.2.0 to 10.0.2.1",
+        "IBM Transformation Advisor   versions 2.0.1 to 4.5.2",
+        "IBM i   multiple versions",
+        "IBM watsonx Code Assistant On Prem   multiple versions",
+        "QRadar   versions 7.5.0 to 7.5.0 UP14 IF05"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
