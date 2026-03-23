@@ -1,0 +1,15 @@
+{
+    "id": "vmware-security-advisory-av26-269",
+    "title": "VMware security advisory (AV26-269)",
+    "public_time": "2026-03-23T14:47:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-269",
+    "advisory_id": "AV26-269",
+    "type": "advisory",
+    "description": "On March 20, 2026, VMware published security advisories to address vulnerabilities in multiple Tanzu products.",
+    "products": [
+        "Security Advisories - Tanzu"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
