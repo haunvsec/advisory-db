@@ -1,0 +1,23 @@
+{
+    "id": "dell-security-advisory-av26-263",
+    "title": "Dell security advisory (AV26-263)",
+    "public_time": "2026-03-23T13:54:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-263",
+    "advisory_id": "AV26-263",
+    "type": "advisory",
+    "description": "Between March 16 and 22, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell Policy Manager for Secure Connect Gateway   Appliance   versions prior to 5.32.00.18",
+        "NetWorker   version 19.14",
+        "NetWorker   versions 19.9 to 19.13.0.2",
+        "PowerSwitch Z9664F-ON   versions prior to 3.54.5.1-11"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000440823/dsa-2026-057-security-update-for-dell-networker-apache-tomcat-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000441046/dsa-2026-140-security-update-for-dell-networking-products-for-rsync-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000441138/dsa-2026-120-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
