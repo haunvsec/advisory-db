@@ -1,0 +1,22 @@
+{
+    "id": "mozilla-security-advisory-av26-271",
+    "title": "Mozilla security advisory (AV26-271)",
+    "public_time": "2026-03-24T15:54:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-271",
+    "advisory_id": "AV26-271",
+    "type": "advisory",
+    "description": "On March 24, 2026, Mozilla published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Firefox   versions prior to 149",
+        "Firefox ESR   versions prior to 115.34",
+        "Firefox ESR   versions prior to 140.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-20/",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-21/",
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-22/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
