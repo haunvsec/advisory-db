@@ -1,0 +1,24 @@
+{
+    "id": "apple-security-advisory-av26-275",
+    "title": "Apple security advisory (AV26-275)",
+    "public_time": "2026-03-24T19:09:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-275",
+    "advisory_id": "AV26-275",
+    "type": "advisory",
+    "description": "On March 24, 2026, Apple published security updates to address vulnerabilities in the following products:",
+    "products": [
+        "iOS   versions prior to 18.7.7 and versions prior to 26.4",
+        "iPadOS   versions prior to 18.7.7 and versions prior to 26.4",
+        "macOS Sequoia   versions prior to 15.7.5",
+        "macOS Sonoma   versions prior to 14.8.5",
+        "macOS Tahoe   versions prior to 26.4",
+        "tvOS   versions prior to 26.4",
+        "visionOS   versions prior to 26.4",
+        "watchOS   versions prior to 26.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/100100"
+    ]
+}
