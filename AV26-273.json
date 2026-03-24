@@ -1,0 +1,18 @@
+{
+    "id": "f5-security-advisory-av26-273",
+    "title": "F5 security advisory (AV26-273)",
+    "public_time": "2026-03-24T16:11:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-273",
+    "advisory_id": "AV26-273",
+    "type": "advisory",
+    "description": "On March 24, 2026, F5 published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "NGINX Plus   versions R32 to R36",
+        "NGINX Open Source   versions 1.0.0 to 1.29.6 and 0.5.13 to 0.9.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://my.f5.com/manage/s/article/K000160336"
+    ]
+}
