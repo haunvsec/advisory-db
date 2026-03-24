@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-helmholz-security-advisory-av26-274",
+    "title": "[Control systems] Helmholz security advisory (AV26-274)",
+    "public_time": "2026-03-24T16:22:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-helmholz-security-advisory-av26-274",
+    "advisory_id": "AV26-274",
+    "type": "advisory",
+    "description": "On March 23, 2026, CERT@VDE published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Helmholz myREX24V2   firmware versions 2.19.3 and prior",
+        "Helmholz myREX24V2.virtual   firmware versions 2.19.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://certvde.com/en/advisories/VDE-2026-025/"
+    ]
+}
