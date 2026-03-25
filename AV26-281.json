@@ -1,0 +1,32 @@
+{
+    "id": "cisco-security-advisory-av26-281",
+    "title": "Cisco security advisory (AV26-281)",
+    "public_time": "2026-03-25T19:11:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-281",
+    "advisory_id": "AV26-281",
+    "type": "advisory",
+    "description": "On March 25, 2026, Cisco published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco Catalyst 9300 Series Switches",
+        "Cisco Catalyst 9200 Series Switches",
+        "Cisco Catalyst 9000 Series Switches",
+        "Cisco Catalyst ESS9300 Embedded Series Switches",
+        "Cisco IOS Software",
+        "Cisco IOS XE Software",
+        "Cisco Secure Firewall ASA Software",
+        "Cisco Secure FTD Software",
+        "Cisco Catalyst IE9310 and IE9320 Rugged Series Switches",
+        "Cisco IE3500 and IE3505 Rugged Series Switches",
+        "Cisco Catalyst CW9800H Wireless Controllers",
+        "Cisco Catalyst CW9800M Wireless Controllers",
+        "Cisco Catalyst CW9800H1 Wireless Controllers",
+        "Cisco Meraki MS390",
+        "Cisco Catalyst SD-WAN Manager"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75297",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
