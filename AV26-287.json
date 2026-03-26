@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-287",
+    "title": "HPE security advisory (AV26-287)",
+    "public_time": "2026-03-26T19:59:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-287",
+    "advisory_id": "AV26-287",
+    "type": "advisory",
+    "description": "On March 26, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE Telco Service Orchestrator   versions prior to v5.5.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05031en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
