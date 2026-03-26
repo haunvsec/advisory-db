@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-286",
+    "title": "[Control systems] ABB security advisory (AV26-286)",
+    "public_time": "2026-03-26T19:48:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-286",
+    "advisory_id": "AV26-286",
+    "type": "advisory",
+    "description": "On March 26, 2026, ABB published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "ABB Ability Camera Connect  version 2.0.0.42 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=4HZM000604&LanguageCode=en&DocumentPartId=PDF&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
