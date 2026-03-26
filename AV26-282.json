@@ -1,0 +1,19 @@
+{
+    "id": "ptc-security-advisory-av26-282",
+    "title": "PTC security advisory (AV26-282)",
+    "public_time": "2026-03-26T15:50:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ptc-security-advisory-av26-282",
+    "advisory_id": "AV26-282",
+    "type": "advisory",
+    "description": "On March 23, 2026, PTC published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "PTC Windchill PDMLink   multiple versions",
+        "PTC FlexPLM   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-critical-vulnerability?srsltid=AfmBOop3e7Nthx5-BsrjKdpZi50wL6l6Bt21Fz0gUub2cIPgdPGV5bNl",
+        "https://www.ptc.com/en/about/trust-center/advisory-center/"
+    ]
+}
