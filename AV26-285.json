@@ -1,0 +1,21 @@
+{
+    "id": "grafana-security-advisory-av26-285",
+    "title": "Grafana security advisory (AV26-285)",
+    "public_time": "2026-03-26T19:34:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-285",
+    "advisory_id": "AV26-285",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Grafana  versions ant rieures   12.4.2, 12.3.6, 12.2.8, 12.1.10 et 11.6.14."
+    ],
+    "cves": [
+        "CVE-2026-27876",
+        "CVE-2026-27880"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://grafana.com/blog/grafana-security-release-critical-and-high-severity-security-fixes-for-cve-2026-27876-and-cve-2026-27880/",
+        "https://grafana.com/blog/"
+    ]
+}
