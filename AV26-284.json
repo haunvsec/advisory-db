@@ -1,0 +1,20 @@
+{
+    "id": "squid-security-advisory-av26-284",
+    "title": "Squid security advisory (AV26-284)",
+    "public_time": "2026-03-26T19:14:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/squid-security-advisory-av26-284",
+    "advisory_id": "AV26-284",
+    "type": "advisory",
+    "description": "On March 25, 2026, Squid published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Squid  versions prior to 7.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/squid-cache/squid/security/advisories/GHSA-hpfx-h48q-gvwg",
+        "https://github.com/squid-cache/squid/security/advisories/GHSA-f9p7-3jqg-hhvq",
+        "https://github.com/squid-cache/squid/security/advisories/GHSA-84p4-hcx7-jj7c",
+        "https://github.com/squid-cache/squid/security/advisories/"
+    ]
+}
