@@ -1,0 +1,23 @@
+{
+    "id": "aqua-security-security-advisory-av26-283",
+    "title": "Aqua Security security advisory (AV26-283)",
+    "public_time": "2026-03-26T15:54:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/aqua-security-security-advisory-av26-283",
+    "advisory_id": "AV26-283",
+    "type": "advisory",
+    "description": "On March 22, 2026, Aqua Security published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "trivy   version v0.69.4",
+        "trivy dockerhub images  versions v0.69.5 and v0.69.6",
+        "setup-trivy   versions prior to v0.2.6",
+        "trivy-action   versions prior to v0.35.0"
+    ],
+    "cves": [
+        "CVE-2026-33634"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+        "https://github.com/aquasecurity/trivy/security/advisories/"
+    ]
+}
