@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-290",
+    "title": "[Control systems] Siemens security advisory (AV26-290)",
+    "public_time": "2026-03-27T14:44:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-290",
+    "advisory_id": "AV26-290",
+    "type": "advisory",
+    "description": "On March 26, 2026, Siemens published a security advisory to address vulnerabilities in the following products. Included were updates for the following products:",
+    "products": [
+        "CPCI85 Central Processing/Communication   versions prior to V26.10",
+        "RTUM85 RTU Base   versions prior to V26.10",
+        "SICORE Base system   versions prior to V26.10.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-246443.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
