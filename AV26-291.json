@@ -1,0 +1,28 @@
+{
+    "id": "freebsd-security-advisory-av26-291",
+    "title": "FreeBSD security advisory (AV26-291)",
+    "public_time": "2026-03-27T14:50:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freebsd-security-advisory-av26-291",
+    "advisory_id": "AV26-291",
+    "type": "advisory",
+    "description": "Between March 25 and 26, 2026, FreeBSD published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "FreeBSD   version 14.x",
+        "FreeBSD   version 15.0",
+        "FreeBSD   version 13.5"
+    ],
+    "cves": [
+        "CVE-2026-4247",
+        "CVE-2026-4652",
+        "CVE-2026-4747",
+        "CVE-2026-4748"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:06.tcp.asc",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:07.nvmf.asc",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:08.rpcsec_gss.asc",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:09.pf.asc",
+        "https://www.freebsd.org/security/advisories/"
+    ]
+}
