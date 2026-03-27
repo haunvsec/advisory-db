@@ -1,0 +1,18 @@
+{
+    "id": "ericsson-security-advisory-av26-292",
+    "title": "Ericsson security advisory (AV26-292)",
+    "public_time": "2026-03-27T14:54:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ericsson-security-advisory-av26-292",
+    "advisory_id": "AV26-292",
+    "type": "advisory",
+    "description": "On March 25, 2026, Ericsson published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Ericsson Indoor Connect 8855   versions prior to 2025.Q3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ericsson.com/en/about-us/security/psirt/security-bulletin-indoorconnect-march-2026",
+        "https://www.ericsson.com/en/about-us/security/security-bulletins"
+    ]
+}
