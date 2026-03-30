@@ -1,0 +1,25 @@
+{
+    "id": "dell-security-advisory-av26-295",
+    "title": "Dell security advisory (AV26-295)",
+    "public_time": "2026-03-30T14:59:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-295",
+    "advisory_id": "AV26-295",
+    "type": "advisory",
+    "description": "Between March 23 and 29, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "APEX Cloud Platform for Red Hat OpenShift  multiple versions",
+        "APEX Cloud Platforms Solution Offerings  multiple versions",
+        "APEX  multiple versions",
+        "Dell Secure Connect Gateway Appliance  versions prior to 5.34.00.16",
+        "Dell Storage Monitoring and Reporting  versions prior to 6.0.0.2",
+        "Dell Storage Resource Manager  versions prior to 6.0.0.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000443243/dsa-2026-152-dell-secure-connect-gateway-security-update-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000443791/dsa-2026-111-dell-storage-resource-manager-srm-and-dell-storage-monitoring-and-reporting-smr-security-update-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000444451/dsa-2026-151-security-update-for-dell-apex-cloud-platform-for-red-hat-openshift-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
