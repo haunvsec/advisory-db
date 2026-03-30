@@ -1,0 +1,19 @@
+{
+    "id": "docker-security-advisory-av26-301",
+    "title": "Docker security advisory (AV26\u2013301)",
+    "public_time": "2026-03-30T15:39:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-301",
+    "advisory_id": "AV26\u2013301",
+    "type": "advisory",
+    "description": "On March 30, 2026, Docker published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Docker Desktop  versions prior to 4.67.0"
+    ],
+    "cves": [
+        "CVE-2026-33990"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.docker.com/security/security-announcements/#docker-desktop-4670-security-update-cve-2026-33990"
+    ]
+}
