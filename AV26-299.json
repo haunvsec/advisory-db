@@ -1,0 +1,18 @@
+{
+    "id": "hitachi-security-advisory-av26-299",
+    "title": "Hitachi security advisory (AV26-299)",
+    "public_time": "2026-03-30T15:20:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-299",
+    "advisory_id": "AV26-299",
+    "type": "advisory",
+    "description": "On March 27, 2026, Hitachi published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Hitachi Disk Array Systems  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.hitachi.com/products/it/storage-solutions/sec_info/2026/2026_307.html",
+        "https://www.hitachi.com/products/it/software/security/index.html"
+    ]
+}
