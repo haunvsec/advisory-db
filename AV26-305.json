@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-305",
+    "title": "HPE security advisory (AV26-305)",
+    "public_time": "2026-03-31T18:33:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-305",
+    "advisory_id": "AV26-305",
+    "type": "advisory",
+    "description": "On March 31, 2026, HPE published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "HPE Telco Network Function Virtualization Orchestrator  version v7.5.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05033en_us&docLocale=en_US#hpesbnw05033-rev-1-hpe-telco-network-function-virt-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
