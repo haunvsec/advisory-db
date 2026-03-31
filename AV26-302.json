@@ -1,0 +1,20 @@
+{
+    "id": "nokia-security-advisory-av26-302",
+    "title": "Nokia security advisory (AV26-302)",
+    "public_time": "2026-03-31T13:33:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nokia-security-advisory-av26-302",
+    "advisory_id": "AV26-302",
+    "type": "advisory",
+    "description": "On March 30, 2026, Nokia published security advisories to address a vulnerability in the following products:",
+    "products": [
+        "Nokia GX G42, GX G31, GX G32, GX G34  versions prior to GX r9.0"
+    ],
+    "cves": [
+        "CVE-2026-34485"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.nokia.com/we-are-nokia/security/product-security-advisory/cve-2026-34485/",
+        "https://www.nokia.com/we-are-nokia/security/product-security-advisory/"
+    ]
+}
