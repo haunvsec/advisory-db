@@ -1,0 +1,17 @@
+{
+    "id": "symantec-security-advisory-av26-304",
+    "title": "Symantec security advisory (AV26-304)",
+    "public_time": "2026-03-31T18:16:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/symantec-security-advisory-av26-304",
+    "advisory_id": "AV26-304",
+    "type": "advisory",
+    "description": "On March 30, 2026, Symantec published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Symantec Data Loss Prevention (DLP) Windows Endpoint  versions prior to DLP 16.1 MP2 and DLP 25.1 MP1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37306"
+    ]
+}
