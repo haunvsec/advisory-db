@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-308",
+    "title": "Drupal security advisory (AV26-308)",
+    "public_time": "2026-04-01T19:43:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-308",
+    "advisory_id": "AV26-308",
+    "type": "advisory",
+    "description": "On April 1, 2026, Drupal published a security advisory to address a critical vulnerability in the following product :",
+    "products": [
+        "SAML SSO - Service Provider  versions prior to 3.1.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2026-031",
+        "https://www.drupal.org/security"
+    ]
+}
