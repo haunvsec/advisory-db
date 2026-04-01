@@ -1,0 +1,32 @@
+{
+    "id": "cisco-security-advisory-av26-307",
+    "title": "Cisco security advisory (AV26-307)",
+    "public_time": "2026-04-01T19:28:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-307",
+    "advisory_id": "AV26-307",
+    "type": "advisory",
+    "description": "On April 1, 2026, Cisco published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cisco NFVIS Release  multiple versions",
+        "Cisco IMC Release  multiple versions",
+        "Cisco Telemetry Broker Appliances  version 6.0(2.260044) (M6) and prior",
+        "IEC6400 Edge Compute Appliances  version 4.3(6.260017) (M6) and prior",
+        "Secure Endpoint Private Cloud Appliances  versions 4.3(2.260007) (M5) and 4.3(6.260017) (M6)",
+        "Secure Firewall Management Center Appliances  versions 4.3(2.260007) (M5) and 4.3(6.260017) (M6)",
+        "Secure Malware Analytics Appliances  versions 4.3(2.260007) (M5) and 4.3(6.260017) (M6)",
+        "Secure Network Analytics Appliances  versions 4.3(2.260007) (M5) and 6.0(2.260044) (M6)",
+        "Secure Network Server Appliances  multiple versions",
+        "Cisco SSM On-Prem Release  version 9-202510 and prior",
+        "Cisco EPNM Release  versions 8.0 and prior, version 8.1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cimc-cmd-inj-3hKN3bVt",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cssm-priv-esc-xRAnOuO8",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-epnm-improp-auth-mUwFWUU3",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cimc-auth-bypass-AgG2BxTn",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ssm-cli-execution-cHUcWuNr",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
