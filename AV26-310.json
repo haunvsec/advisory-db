@@ -1,0 +1,17 @@
+{
+    "id": "progress-security-advisory-av26-310",
+    "title": "Progress security advisory (AV26-310)",
+    "public_time": "2026-04-02T18:37:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-310",
+    "advisory_id": "AV26-310",
+    "type": "advisory",
+    "description": "On April 2, 2026, Progress published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Progress ShareFile - versions prior to v5.12.4 and versions prior to v6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.sharefile.com/en-us/storage-zones-controller/5-0/security-vulnerability-feb26 "
+    ]
+}
