@@ -1,0 +1,18 @@
+{
+    "id": "openssh-security-advisory-av26-312",
+    "title": "OpenSSH security advisory (AV26-312)",
+    "public_time": "2026-04-02T19:53:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av26-312",
+    "advisory_id": "AV26-312",
+    "type": "advisory",
+    "description": "On April 2, 2026, OpenSSH published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "OpenSSH - versions prior to 10.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.openssh.org/releasenotes.html",
+        "https://www.openssh.com/"
+    ]
+}
