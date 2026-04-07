@@ -1,0 +1,22 @@
+{
+    "id": "erlang-security-advisory-av26-320",
+    "title": "Erlang security advisory (AV26-320)",
+    "public_time": "2026-04-07T19:52:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-320",
+    "advisory_id": "AV26-320",
+    "type": "advisory",
+    "description": "On April 7, 2026, Erlang published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "inets (OTP)  versions prior to 9.1.0.6, 9.3.2.4 and 9.6.2",
+        "OTP  versions prior to 28.4.2, 27.3.4.10, and 26.2.5.19",
+        "Public_key (OTP)  versions prior to 1.17.1.2 and 1.20.3",
+        "ssl (OTP)  versions prior to 11.2.12.7 and 11.5.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/erlang/otp/security/advisories/GHSA-gxrm-pf64-99xm",
+        "https://github.com/erlang/otp/security/advisories/GHSA-3vhp-h532-mc3f",
+        "https://github.com/erlang/otp/security"
+    ]
+}
