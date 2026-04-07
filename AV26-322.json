@@ -1,0 +1,33 @@
+{
+    "id": "dell-security-advisory-av26-322",
+    "title": "Dell security advisory (AV26-322)",
+    "public_time": "2026-04-07T20:27:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-322",
+    "advisory_id": "AV26-322",
+    "type": "advisory",
+    "description": "Between March 30 and April 5, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell Networking OS10  versions prior to 10.6.11",
+        "Connectrix Switches and Directors  versions prior to sannav_ova_9x_os_02_2026",
+        "Elastic Cloud Storage  versions prior to 3.8.1.7",
+        "ObjectScale - versions prior to 4.1.0.3 and 4.2.00",
+        "Dell Data Protection Central  versions 19.9 to 19.12 with Data Protection Central OS Update prior to dpc-osupdate-1.1.26-1",
+        "Dell PowerProtect DP Series Appliance  versions prior to 2.7.9 with Data Protection Central OS Update prior to dpc-osupdate-1.1.26-1",
+        "Dell PowerProtect Data Manager  versions prior to 20.1.0.0",
+        "Dell AppSync  versions prior to 4.6.0.4",
+        "Dell APEX Cloud Platform for Microsoft Azure  versions prior to 01.07.01.00",
+        "Unisphere for PowerMax Virtual Appliance  versions prior to 9.2.4.20",
+        "Solutions Enabler  versions prior to 10.3.0.1 and 9.2.4.9",
+        "Solutions Enabler Virtual Appliance  versions prior to 9.2.4.9",
+        "Dell PowerMax EEM 5978  versions prior to 5978.720.720.11249",
+        "Dell PowerMax EEM 10.3.1.0  versions prior to 10.3.1.0 patch 11248",
+        "Dell PowerMaxOS 5978  versions prior to 5978.720.720.11249",
+        "Dell PowerMaxOS 10.3.0.1  versions prior to 10.3.0.1 patch 11248",
+        "PowerSwitch Z9664F-ON  versions prior to 3.54.5.1-11"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
