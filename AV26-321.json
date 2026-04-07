@@ -1,0 +1,32 @@
+{
+    "id": "hitachi-security-advisory-av26-321",
+    "title": "Hitachi security advisory (AV26-321)",
+    "public_time": "2026-04-07T20:10:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-321",
+    "advisory_id": "AV26-321",
+    "type": "advisory",
+    "description": "On April 7, 2026, Hitachi published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Hitachi Ops Center Common Services (Japanese version)  versions prior to 11.0.8-00",
+        "Hitachi Ops Center Common Services (English version)  versions prior to 11.0.8-00",
+        "Hitachi Ops Center Viewpoint (Japanese version)  versions 11.0.2-00 to versions prior to 11.0.8-00",
+        "Hitachi Ops Center Viewpoint data center proxy (Japanese version)  versions 11.0.2-00 to versions prior to 11.0.8-00",
+        "JP1/IT Desktop Management (Manager)  multiple versions",
+        "Job Management Partner 1/IT Desktop Management (Manager)  multiple versions",
+        "JP1/IT Desktop Management 2 (Manager)  multiple versions",
+        "JP1/IT Desktop Management 2 (Operations Director)  multiple versions",
+        "Job Management Partner 1/IT Desktop Management 2 (Manager)  versions 10-50 to 10-50-11",
+        "JP1/NETM/DM (Manager)  multiple versions",
+        "JP1/NETM/DM (Client)  multiple versions",
+        "Job Management Partner 1/Software Distribution (Manager)  multiple versions",
+        "Job Management Partner 1/Software Distribution (Client)  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-118/index.html",
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-117/index.html",
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-115/index.html",
+        "https://www.hitachi.com/products/it/software/security/index.html"
+    ]
+}
