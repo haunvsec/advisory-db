@@ -1,0 +1,22 @@
+{
+    "id": "cups-security-advisory-av26-326",
+    "title": "CUPS security advisory (AV26-326)",
+    "public_time": "2026-04-08T15:35:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cups-security-advisory-av26-326",
+    "advisory_id": "AV26-326",
+    "type": "advisory",
+    "description": "On April 5, 2026, OpenPrinting published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Common UNIX Printing Systems (CUPS) - version 2.4.16 and prior"
+    ],
+    "cves": [
+        "CVE-2026-34990",
+        "CVE-2026-34980"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://heyitsas.im/posts/cups/",
+        "https://github.com/OpenPrinting/cups/security/advisories/GHSA-c54j-2vqw-wpwp",
+        "https://github.com/OpenPrinting/cups/security/advisories/GHSA-4852-v58g-6cwf"
+    ]
+}
