@@ -1,0 +1,21 @@
+{
+    "id": "openssl-security-advisory-av26-329",
+    "title": "OpenSSL security advisory (AV26-329)",
+    "public_time": "2026-04-08T17:46:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openssl-security-advisory-av26-329",
+    "advisory_id": "AV26-329",
+    "type": "advisory",
+    "description": "On April 7, 2026, OpenSSL published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "OpenSSL - versions 3.6.0 to versions prior to 3.6.2",
+        "OpenSSL - versions 3.5.0 to versions prior to 3.5.6",
+        "OpenSSL - versions 3.4.0 to versions prior to 3.4.5",
+        "OpenSSL - versions 3.3.0 to versions prior to 3.3.7",
+        "OpenSSL - versions 3.0.0 to versions prior to 3.0.20"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://openssl-library.org/news/vulnerabilities/index.html"
+    ]
+}
