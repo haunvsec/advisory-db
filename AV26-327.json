@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av26-327",
+    "title": "GitLab security advisory (AV26-327)",
+    "public_time": "2026-04-08T15:48:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-327",
+    "advisory_id": "AV26-327",
+    "type": "advisory",
+    "description": "On April 8, 2026, GitLab published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitLab Community Edition (CE) - versions prior to 18.10.3, 18.9.5 and 18.8.9",
+        "GitLab Enterprise Edition (EE) - versions prior to 18.10.3, 18.9.5 and 18.8.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://about.gitlab.com/releases/2026/04/08/patch-release-gitlab-18-10-3-released/",
+        "https://about.gitlab.com/releases/categories/releases/ "
+    ]
+}
