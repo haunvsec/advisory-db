@@ -1,0 +1,19 @@
+{
+    "id": "sonicwall-security-advisory-av26-332",
+    "title": "SonicWall security advisory (AV26-332)",
+    "public_time": "2026-04-08T20:27:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-332",
+    "advisory_id": "AV26-332",
+    "type": "advisory",
+    "description": "On April 8, 2026, SonicWall published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "SMA1000  version 12.4.3-03245 (platform-hotfix) and prior",
+        "SMA1000  version 12.5.0-02283 (platform-hotfix) and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0003",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
