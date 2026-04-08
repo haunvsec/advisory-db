@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-325",
+    "title": "HPE security advisory (AV26-325)",
+    "public_time": "2026-04-08T15:23:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-325",
+    "advisory_id": "AV26-325",
+    "type": "advisory",
+    "description": "On April 7, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE Aruba Networking Private 5G Core - version 1.25.3.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05032en_us&docLocale=en_US#hpesbnw05032-rev-1-hpe-aruba-networking-private-5g-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
