@@ -1,0 +1,23 @@
+{
+    "id": "wolfssl-security-advisory-av26-344",
+    "title": "wolfSSL security advisory (AV26-344)",
+    "public_time": "2026-04-13T17:32:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-344",
+    "advisory_id": "AV26-344",
+    "type": "advisory",
+    "description": "On April 9, 2026, wolfSSL published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "wolfSSL   versions 3.12.0 to versions prior to 5.9.1"
+    ],
+    "cves": [
+        "CVE-2026-5194",
+        "CVE-2026-5194"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/wolfSSL/wolfssl/releases",
+        "https://github.com/advisories/GHSA-f5h9-5q52-qrx7",
+        "https://cwe.mitre.org/data/definitions/295.html",
+        "https://nvd.nist.gov/vuln/detail/CVE-2026-5194"
+    ]
+}
