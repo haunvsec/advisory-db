@@ -1,0 +1,23 @@
+{
+    "id": "adobe-acrobat-security-advisory-av26-340",
+    "title": "Adobe Acrobat security advisory (AV26-340)",
+    "public_time": "2026-04-13T14:25:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-acrobat-security-advisory-av26-340",
+    "advisory_id": "AV26-340",
+    "type": "advisory",
+    "description": "On April 12, 2026, Adobe published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Acrobat Mac   versions prior to 24.001.30360",
+        "Acrobat Windows   versions prior to 24.001.30362",
+        "Acrobat DC   versions prior to 26.001.21411",
+        "Acrobat Reader DC   versions prior to 26.001.21411"
+    ],
+    "cves": [
+        "CVE-2026-34621"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security/products/acrobat/apsb26-43.html",
+        "https://helpx.adobe.com/security.html"
+    ]
+}
