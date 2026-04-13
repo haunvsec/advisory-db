@@ -1,0 +1,38 @@
+{
+    "id": "ibm-security-advisory-av26-342",
+    "title": "IBM security advisory (AV26-342)",
+    "public_time": "2026-04-13T14:35:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-342",
+    "advisory_id": "AV26-342",
+    "type": "advisory",
+    "description": "Between April 6 and 12, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "DevOps Test Performance   versions 11.0 to 11.0.7",
+        "EDB PGAI   multiple versions and models",
+        "EDB PGAI Databases   version 18.0",
+        "IBM App Connect Operator   multiple versions",
+        "IBM App Connect Enterprise Certified Containers Operands   multiple versions",
+        "IBM ApplinX   version 11.1",
+        "IBM Cloud Pak for AIOps   versions 4.1.0 to 4.12.0",
+        "IBM DataPower Gateway   multiple versions and models",
+        "IBM Knowledge Catalog Premium Cartridge   multiple versions",
+        "IBM Planning Analytics Local   versions 2.1.0 to 2.1.18",
+        "IBM OpenAPI SDK Generator (Node.js)   version 5.4.9",
+        "IBM Operations Analytics - Log Analysis   multiple versions",
+        "IBM Storage Defender Copy Data Management   versions 2.2.0.0 to 2.2.28.1",
+        "IBM Storage Sentinel Anomaly Scan Engine   versions 1.1.0 to 1.1.11",
+        "IBM Tivoli Business Service Manager   version 6.2.0",
+        "IBM Tivoli Business Netcool Impact   version 7.1.1",
+        "IBM Tivoli Network Manager IP Edition   versions 4.2 GA to 4.2.0.23",
+        "ITCAM for Transactions   version 7.4.0.2",
+        "Rational Performance Tester   multiple versions",
+        "watsonx.data   version 2.3",
+        "watsonx Code Assistant On Prem   multiple versions",
+        "IBM watsonx Orchestrate Developer Edition   versions 1.4.0 to 2.6.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/ "
+    ]
+}
