@@ -1,0 +1,29 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-346",
+    "title": "[Control systems] ABB security advisory (AV26-346)",
+    "public_time": "2026-04-13T19:44:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-346",
+    "advisory_id": "AV26-346",
+    "type": "advisory",
+    "description": "On April 13, 2026, ABB published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "ABB CI868 AC800M product line (System 800xA) for IEC 61850 - multiple firmware versions",
+        "ABB CI850 Symphony Plus SD Series product line for IEC 61850 - multiple firmware versions",
+        "ABB PM 877 Symphony Plus MR (Melody Rack) product line for IEC 61850  firmware version 3.10 to 3.52",
+        "ABB S+ Operations using IEC 61850 - multiple versions",
+        "ABB Ability Symphony Plus  multiple versions"
+    ],
+    "cves": [
+        "CVE-2025-3756",
+        "CVE-2023-5869",
+        "CVE-2023-39417",
+        "CVE-2024-7348",
+        "CVE-2024-0985"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=7PAA020125&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://search.abb.com/library/Download.aspx?DocumentID=7PAA017341&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
