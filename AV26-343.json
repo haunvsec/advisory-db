@@ -1,0 +1,32 @@
+{
+    "id": "dell-security-advisory-av26-343",
+    "title": "Dell security advisory (AV26-343)",
+    "public_time": "2026-04-13T17:24:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-343",
+    "advisory_id": "AV26-343",
+    "type": "advisory",
+    "description": "Between April 6 and 12, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Connectrix Switches and Directors   versions prior to sannav_ova_9x_os_02_2026",
+        "Data Protection Advisor   versions 19.9 to 19.12 SP2",
+        "Dell AX System   multiple versions and models",
+        "Dell Data Protection Central   versions 19.9 to 19.12 with Data Protection Central OS Update prior to dpc-osupdate-1.1.26-1",
+        "Dell EMC Isilon OneFS   versions 8.2.2 and prior",
+        "Dell EMC PowerScale   version 9.0.0",
+        "Dell Integrated System for Microsoft Azure Stack Hub 16G   versions prior to 2603",
+        "Dell Networking OS10   versions prior to 10.6.1.1",
+        "Dell PowerProtect DP Series Appliance   versions prior to 2.7.9 with Data Protection Central OS Update prior to dpc-osupdate-1.1.26-1",
+        "Dell PowerScale OneFS   multiple versions",
+        "Elastic Cloud Storage   versions prior to 3.8.1.7",
+        "ObjectScale - versions prior to 4.1.0.3 and 4.2.00",
+        "PowerSwitch Z9664F-ON   versions prior to 3.54.5.1-11",
+        "PowerSwitch S5448F-ON   versions prior to 3.54.5.1-14",
+        "PowerSwitch S9664F-ON   versions prior to 3.54.5.1-11",
+        "PowerSwitch E3200-ON   versions prior to 3.57.5.1-6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
