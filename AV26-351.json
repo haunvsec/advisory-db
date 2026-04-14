@@ -1,0 +1,25 @@
+{
+    "id": "fortinet-security-advisory-av26-351",
+    "title": "Fortinet security advisory (AV26-351)",
+    "public_time": "2026-04-14T17:48:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-351",
+    "advisory_id": "AV26-351",
+    "type": "advisory",
+    "description": "On April 14, 2026, Fortinet published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "FortiSandbox 4.4   versions 4.4.0 to 4.4.8",
+        "FortiSandbox 5.0   versions 5.0.0 to 5.0.5",
+        "FortiAnalyzer Cloud 7.6   versions 7.6.2 to 7.6.4",
+        "FortiManager Cloud 7.6   versions 7.6.2 to 7.6.4",
+        "FortiDDoS-F 7.2   versions 7.2.1 to 7.2.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://fortiguard.fortinet.com/psirt/FG-IR-26-100",
+        "https://fortiguard.fortinet.com/psirt/FG-IR-26-112",
+        "https://fortiguard.fortinet.com/psirt/FG-IR-26-121",
+        "https://fortiguard.fortinet.com/psirt/FG-IR-26-119",
+        "https://www.fortiguard.com/psirt?filter=1&version=&severity=5&severity=4&severity=3&severity=2"
+    ]
+}
