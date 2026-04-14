@@ -1,0 +1,39 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-347",
+    "title": "[Control systems] Siemens security advisory (AV26-347)",
+    "public_time": "2026-04-14T13:44:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-347",
+    "advisory_id": "AV26-347",
+    "type": "advisory",
+    "description": "On April 14, 2026, Siemens published a security advisory to address vulnerabilities in the following products. Included were updates for the following products:",
+    "products": [
+        "Siemens Software Center   versions prior to V3.5.8.2",
+        "Simcenter 3D   versions prior to V2506.6000",
+        "Simcenter Femap   versions prior to V2506.0002",
+        "Simcenter STAR-CCM+   versions prior to V2602",
+        "Solid Edge SE2025   versions prior to V225.0 Update 13",
+        "Solid Edge SE2026   versions prior to V226.0 Update 04",
+        "Tecnomatix Plant Simulation   versions prior to V2504.0008",
+        "SINEC NMS   versions prior to V4.0 SP3 with UMC",
+        "RUGGEDCOM CROSSBOW Secure Access Manager Primary (SAM-P)   versions prior to V5.8",
+        "SIPROTEC 5 - CP300 Devices   multiple versions and models",
+        "SIPROTEC 5 Communication Modules   multiple versions and models",
+        "SIPROTEC 5 Compact 7SX800 (CP050)   versions V8.70 to V9.30",
+        "SIMATIC CN 4100   hardware versions prior to FS 05",
+        "SIMATIC Field PG   all versions",
+        "SIMATIC IPC family   all versions",
+        "SIMATIC IPC MD-57A   versions prior to V30.01.10",
+        "SIMATIC ITP1000   all versions",
+        "Industrial Edge Management Pro V1   versions V1.7.6 to V1.15.17",
+        "Industrial Edge Management Pro V2   versions V2.0.0 to V2.1.1",
+        "Industrial Edge Management Virtual   versions V2.2.0 to V2.8.0",
+        "SINEC NMS   versions prior to V4.0 SP3",
+        "RUGGEDCOM CROSSBOW Station Access Controller (SAC)   versions prior to V5.8",
+        "SCALANCE W-700 IEEE 802.11n family   versions prior to V6.6.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
