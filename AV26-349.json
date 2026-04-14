@@ -1,0 +1,35 @@
+{
+    "id": "sap-security-advisory-april-2026-monthly-rollup-av26-349",
+    "title": "SAP security advisory \u2013 April 2026 monthly rollup (AV26-349)",
+    "public_time": "2026-04-14T14:06:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2026-monthly-rollup-av26-349",
+    "advisory_id": "AV26-349",
+    "type": "advisory",
+    "description": "On April 14, 2026, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP Business Planning and Consolidation and SAP Business Warehouse   versions HANABPC 810, BPC4HANA 300, SAP_BW 750, 752, 753, 754, 755, 756, 757, 758 and 816",
+        "SAP ERP and SAP S/4 HANA (Private Cloud and On-Premise)   versions SAP_FIN 618, 720, 730, EA-FIN 617, 700, SAPSCORE 135, S4CORE 102, 103, 104, 105, 106, 107, 108, 109, EA-APPL 600, 602, 603, 604, 605 and 606",
+        "SAP BusinessObjects Business Intelligence Platform   versions ENTERPRISE 430, 2025 and 2027",
+        "SAP Human Capital Management for SAP S/4HANA   versions S4HCMRXX 100, 101, 102, SAP_HRRXX 600, 604 and 608",
+        "SAP Business Analytics and SAP Content Management   versions S4HCMRXX 100, 101, 102, SAP_HRRXX 600, 604 and 608",
+        "SAP S/4HANA OData Service (Manage Reference Equipment)   version S4CORE 109",
+        "SAP S/4HANA Backend OData Service (Manage Reference Structures)   version S4CORE 109",
+        "SAP S/4HANA Frontend OData Service (Manage Reference Structures)   version UIS4H 109",
+        "SAP Supplier Relationship Management (SICF Handler in SRM Catalog)   versions SRM_SERVER 702, 713 and 714",
+        "SAP NetWeaver Application Server Java (Web Dynpro Java)   version WD-RUNTIME 7.50",
+        "SAP NetWeaver Application Server ABAP   versions SAP_BASIS 700, SAP_BASIS 701, SAP_BASIS 702, SAP_BASIS 731, SAP_BASIS 740, SAP_BASIS 750, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758 and SAP_BASIS 816",
+        "SAP HANA Cockpit and HANA Database Explorer   version SAP_HANA_COCKPIT 2.0",
+        "SAP S/4HANA (Private Cloud and On-Premise)   versions S4CORE 105, 106, 107, 108, 109, FI-CA 606, 616, 617 and 618",
+        "Material Master Application   versions S4CORE 102, 103, 104, 105, 106, 107, 108, 109, SCM_BASIS 700, SCM_BASIS 701, SCM_BASIS 702, SCM_BASIS 712, SCM_BASIS 713 and SCM_BASIS 714",
+        "SAP S/4HANA OData Service (Manage Technical Object Structures)   version S4CORE 109",
+        "SAP S4CORE (Manage Journal Entries)   versions S4CORE 104, 105, 106, 107 and 108",
+        "SAP BusinessObjects Business Intelligence Platform   versions ENTERPRISE 430, 2025 and 2027",
+        "SAP NetWeaver Application Server ABAP   versions SAP_UI 758 and 816",
+        "SAP Landscape Transformation   versions DMIS 2011_1_700, 2011_1_710, 2011_1_730, 2011_1_731, 2011_1_752, 2020, S4CORE 102, 103, 104, 105, 106, 107, 108 and 109"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/april-2026.html"
+    ]
+}
