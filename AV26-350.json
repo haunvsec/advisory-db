@@ -1,0 +1,24 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av26-350",
+    "title": "[Control systems] Schneider Electric security advisory (AV26-350)",
+    "public_time": "2026-04-14T17:28:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-350",
+    "advisory_id": "AV26-350",
+    "type": "advisory",
+    "description": "On April 14, 2026, Schneider Electric published advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Easergy MiCOM Px40 Series   multiple versions and models",
+        "Connexium Managed Switches TCSESM   all versions",
+        "Modicon Managed Switches MCSESM, MCSESP   all versions",
+        "Modicon Redundancy Switches MCSESR   all versions",
+        "PowerChute Serial Shutdown   version 1.4 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-104-03&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-104-03.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-104-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-104-02.pdf",
+        "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2026-104-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-104-01.pdf",
+        "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+    ]
+}
