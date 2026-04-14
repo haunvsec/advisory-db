@@ -1,0 +1,32 @@
+{
+    "id": "adobe-security-advisory-av26-353",
+    "title": "Adobe security advisory (AV26-353)",
+    "public_time": "2026-04-14T18:57:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-353",
+    "advisory_id": "AV26-353",
+    "type": "advisory",
+    "description": "On April 14, 2026, Adobe published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Acrobat 2024   version Win: 24.001.30362 and prior, Mac: 24.001.30360 and prior",
+        "Acrobat DC   version 26.001.21411 and prior",
+        "Acrobat Reader DC   version 26.001.21411 and prior",
+        "Adobe Bridge   version 15.1.4 (LTS) and prior, version 16.0.2 and prior",
+        "Adobe Connect Desktop Application   version 2025.3 and prior",
+        "Adobe Connect   version 12.10 and prior",
+        "Adobe DNG Software Development Kit (SDK)   versions DNG SDK 1.7.1 build 2502 and prior",
+        "Adobe Experience Manager (AEM) Screens   version 6.5 Service Pack 24 and prior, version Feature Pack 11.7 and prior",
+        "Adobe FrameMaker   version 2022 Release Update 8 and prior",
+        "Adobe InCopy   version 21.2 and prior, version 20.5.2 and prior",
+        "Adobe InDesign   version ID21.22 and prior, version ID20.5.2 and prior",
+        "ColdFusion 2023   version Update 18 and prior",
+        "ColdFusion 2025   version Update 6 and prior",
+        "Illustrator 2025   version 29.8.5 and prior",
+        "Illustrator 2026   version 30.2 and prior",
+        "Photoshop 2026   version 27.4 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
