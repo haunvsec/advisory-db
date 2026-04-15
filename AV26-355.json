@@ -1,0 +1,23 @@
+{
+    "id": "amd-security-advisory-av26-355",
+    "title": "AMD security advisory (AV26-355)",
+    "public_time": "2026-04-15T16:17:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-355",
+    "advisory_id": "AV26-355",
+    "type": "advisory",
+    "description": "On April 14, 2026, AMD published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "AMD EPYC Processors  multiple versions and models",
+        "AMD Ryzen Processors  multiple versions and models",
+        "AMD Ryzen Embedded Processors  multiple versions and models",
+        "AMD EPYC Embedded Processors  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7054.html",
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html",
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3034.html",
+        "https://www.amd.com/en/resources/product-security.html"
+    ]
+}
