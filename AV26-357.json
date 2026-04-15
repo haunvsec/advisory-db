@@ -1,0 +1,22 @@
+{
+    "id": "cisco-security-advisory-av26-357",
+    "title": "Cisco security advisory (AV26-357)",
+    "public_time": "2026-04-15T17:26:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-357",
+    "advisory_id": "AV26-357",
+    "type": "advisory",
+    "description": "On April 15, 2026, Cisco published security advisories to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "Cisco Identity Services Engine (ISE)  multiple versions",
+        "Cisco ISE Passive Identity Connector (ISE-PIC)  multiple versions",
+        "Cisco Webex Services (cloud-based, configured to use SSO integration with Control Hub)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-traversal-8bYndVrZ",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-4fverepv",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webex-cui-cert-8jSZYhWL",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
