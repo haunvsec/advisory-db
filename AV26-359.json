@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-359",
+    "title": "Drupal security advisory (AV26-359)",
+    "public_time": "2026-04-16T12:48:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-359",
+    "advisory_id": "AV26-359",
+    "type": "advisory",
+    "description": "On April 15, 2026, Drupal published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Drupal core   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-core-2026-001",
+        "https://www.drupal.org/security"
+    ]
+}
