@@ -1,0 +1,22 @@
+{
+    "id": "nginx-ui-security-advisory-av26-360",
+    "title": "Nginx UI security advisory (AV26-360)",
+    "public_time": "2026-04-16T15:06:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nginx-ui-security-advisory-av26-360",
+    "advisory_id": "AV26-360",
+    "type": "advisory",
+    "description": "On April 10, 2026, Nginx UI published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Nginx UI   version v2.3.5 and prior"
+    ],
+    "cves": [
+        "CVE-2026-33032",
+        "CVE-2026-33032",
+        "CVE-2026-33032"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/0xJacky/nginx-ui/releases/tag/v2.3.6",
+        "https://nvd.nist.gov/vuln/detail/CVE-2026-33032"
+    ]
+}
