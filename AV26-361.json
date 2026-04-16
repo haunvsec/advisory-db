@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-361",
+    "title": "HPE security advisory (AV26-361)",
+    "public_time": "2026-04-16T17:46:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-361",
+    "advisory_id": "AV26-361",
+    "type": "advisory",
+    "description": "On April 16, 2026, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Cray Supercomputing EX420 Compute Blade   versions prior to 1.91"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr05043en_us&docLocale=en_US#hpesbcr05043-rev-1-hpe-cray-supercomputing-ex-serv-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
