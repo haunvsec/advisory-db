@@ -1,0 +1,17 @@
+{
+    "id": "jetbrains-security-advisory-av26-364",
+    "title": "JetBrains security advisory (AV26-364)",
+    "public_time": "2026-04-17T13:30:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-364",
+    "advisory_id": "AV26-364",
+    "type": "advisory",
+    "description": "On April 17, 2026, JetBrains published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "JetBrains Youtrack   versions prior to 2025.3.131383"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jetbrains.com/privacy-security/issues-fixed/"
+    ]
+}
