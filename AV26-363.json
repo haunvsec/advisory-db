@@ -1,0 +1,20 @@
+{
+    "id": "hashicorp-security-advisory-av26-363",
+    "title": "HashiCorp security advisory (AV26-363)",
+    "public_time": "2026-04-17T13:20:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-363",
+    "advisory_id": "AV26-363",
+    "type": "advisory",
+    "description": "On April 16, 2026, HashiCorp published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Vault Community Edition   multiple versions",
+        "Vault Enterprise Edition   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.hashicorp.com/t/hcsec-2026-05-vault-kvv2-metadata-and-secret-deletion-policy-bypass-denial-of-service/77342",
+        "https://discuss.hashicorp.com/t/hcsec-2026-06-vault-vulnerable-to-server-side-request-forgery-in-acme-challenge-validation-via-attacker-controlled-dns/77343",
+        "https://discuss.hashicorp.com/c/security/52"
+    ]
+}
