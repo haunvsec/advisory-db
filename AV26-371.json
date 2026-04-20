@@ -1,0 +1,31 @@
+{
+    "id": "progress-security-advisory-av26-371",
+    "title": "Progress security advisory (AV26-371)",
+    "public_time": "2026-04-20T18:13:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-371",
+    "advisory_id": "AV26-371",
+    "type": "advisory",
+    "description": "On April 20, 2026, Progress published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Progress Kemp LoadMaster   version GA v7.2.62.2 and prior",
+        "Progress Kemp LoadMaster   version LTSF v7.2.54.16 and prior",
+        "Progress MOVEit WAF   version GA v7.2.62.2 and prior"
+    ],
+    "cves": [
+        "CVE-2026-3517",
+        "CVE-2026-3518",
+        "CVE-2026-3519",
+        "CVE-2026-4048",
+        "CVE-2026-21876",
+        "CVE-2026-3517",
+        "CVE-2026-3518",
+        "CVE-2026-3519",
+        "CVE-2026-4048",
+        "CVE-2026-21876"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.progress.com/s/article/LoadMaster-Security-Vulnerabilites-CVE-2026-3517-CVE-2026-3518-CVE-2026-3519-CVE-2026-4048-CVE-2026-21876",
+        "https://community.progress.com/s/article/MOVEit-WAF-Critical-Security-Bulletin-April-2026-CVE-2026-3517-CVE-2026-3518-CVE-2026-3519-CVE-2026-4048-CVE-2026-21876"
+    ]
+}
