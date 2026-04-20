@@ -1,0 +1,35 @@
+{
+    "id": "ibm-security-advisory-av26-365",
+    "title": "IBM security advisory (AV26-365)",
+    "public_time": "2026-04-20T13:05:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-365",
+    "advisory_id": "AV26-365",
+    "type": "advisory",
+    "description": "Between April 13 and 19, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "API Connect - versions V10.0.8.0 to V10.0.8.7",
+        "Aspera Faspex 5 - versions 5.0.0 to 5.0.15",
+        "DevOps Test Performance - versions 11.0 to 11.0.7",
+        "IBM App Connect Enterprise - multiple versions",
+        "IBM Aspera Console - versions 3.3.0 to 3.4.9",
+        "IBM Aspera Orchestrator - versions 3.0.0 to 4.1.3",
+        "IBM Business Automation Manager Open Editions - versions 8.0.0 to 8.0.8",
+        "IBM Data Product Hub - versions 5.0.0 to 5.3.1",
+        "IBM Event Processing - versions 1.0.0 to 1.4.7",
+        "IBM Guardium Data Protection - versions 12.0, 12.1 and 12.2",
+        "IBM Maximo Application Suite - Monitor Component - multiple versions",
+        "IBM Netezza Appliance - versions 1.0.0.0 and 1.0.0.1",
+        "IBM SPSS Modeler - multiple versions",
+        "IBM Tivoli Network Configuration Manager (ITNCM) - versions 6.4.2 to 6.4.2 Fix Pack 23",
+        "IBM Watson Speech Services Cartridge - versions 4.0.0 to 5.3.1",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data - multiple versions",
+        "Performance Tester (RPT) - versions 11.0 to 11.0.7",
+        "Rational Performance Tester - multiple versions",
+        "SPSS Collaboration and Deployment Services - version 9.0.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
