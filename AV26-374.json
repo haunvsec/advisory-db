@@ -1,0 +1,19 @@
+{
+    "id": "fortra-security-advisory-av26-374",
+    "title": "Fortra security advisory (AV26-374)",
+    "public_time": "2026-04-21T19:14:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-374",
+    "advisory_id": "AV26-374",
+    "type": "advisory",
+    "description": "On April 21, 2026, Fortra published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Fortra's GoAnywhere MFT  versions prior to 7.10.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortra.com/security/advisories/product-security/fi-2026-002",
+        "https://www.fortra.com/security/advisories/product-security/fi-2026-004",
+        "https://www.fortra.com/security/advisories/product-security"
+    ]
+}
