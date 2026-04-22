@@ -1,0 +1,33 @@
+{
+    "id": "oracle-security-advisory-april-2026-quarterly-rollup-av26-380",
+    "title": "Oracle security advisory \u2013 April 2026 quarterly rollup (AV26-380)",
+    "public_time": "2026-04-22T17:50:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2026-quarterly-rollup-av26-380",
+    "advisory_id": "AV26-380",
+    "type": "advisory",
+    "description": "On April 21, 2026, Oracle published a security advisory to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "MySQL Enterprise Backup",
+        "MySQL Server",
+        "MySQL Workbench",
+        "Oracle Advanced Inbound Telephony",
+        "Oracle Banking Origination",
+        "Oracle Business Intelligence Enterprise Edition",
+        "Oracle Communications Cloud Native Core Network Exposure Function",
+        "Oracle Communications EAGLE",
+        "Oracle Communications EAGLE Application Processor",
+        "Oracle Communications EAGLE LNP Application Processor",
+        "Oracle Communications LSMS",
+        "Oracle Communications Messaging Serve",
+        "Oracle Communications Operations Monitor",
+        "Oracle Communications Policy Management",
+        "Oracle Communications Unified Assurance",
+        "Oracle Managed File Transfer",
+        "Oracle Tuxedo"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.oracle.com/security-alerts/cpuapr2026.html"
+    ]
+}
