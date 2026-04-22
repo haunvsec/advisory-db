@@ -1,0 +1,38 @@
+{
+    "id": "control-systems-phoenix-contact-security-advisory-av26-378",
+    "title": "[Control Systems] Phoenix Contact Security Advisory (AV26-378)",
+    "public_time": "2026-04-22T16:28:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-378",
+    "advisory_id": "AV26-378",
+    "type": "advisory",
+    "description": "On April 22, 2026, Phoenix Contact published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "AXC  multiple versions",
+        "BCP  multiple versions",
+        "CATAN C1 EN  versions prior to1.12.3",
+        "CELLULINK  versions prior to 2025.6.3",
+        "CHARX SEC-3XXX  versions prior to 1.9.0",
+        "CLOUD CLIENT 101T-TX/TX versions prior to 3.7.8",
+        "Energy AXC PU  versions prior to V04.27.00.00",
+        "FL MGUARD  versions prior to 10.6.0",
+        "FL NAT  multiple versions",
+        "FL SWITCH  multiple versions",
+        "FL TIMESERVER NTP  versions prior to 5.0.71.101",
+        "FL WLAN  multiple versions",
+        "GTC  multiple versions",
+        "ILC 2xxx  multiple versions",
+        "NFC  multiple versions",
+        "PLCnext Control  versions prior to 3.53",
+        "RFC  multiple versions",
+        "SMART RTU AXC  multiple versions",
+        "TC CLOUD CLIENT  multiple versions",
+        "TC ROUTER  multiple versions",
+        "TC TIMESERVER NTP  versions prior to 5.0.71.101"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://assets.phoenixcontact.com/file/929de711-0bf5-461d-8560-b918341524cd/media/original?pcsa-2026-00001_vde-2026-023.pdf",
+        "https://www.phoenixcontact.com/en-pc/service-and-support/psirt"
+    ]
+}
