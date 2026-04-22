@@ -1,0 +1,19 @@
+{
+    "id": "apple-security-advisory-av26-381",
+    "title": "Apple security advisory (AV26-381)",
+    "public_time": "2026-04-22T19:30:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-381",
+    "advisory_id": "AV26-381",
+    "type": "advisory",
+    "description": "On April 22, 2026, Apple published security updates to address vulnerabilities in the following products:",
+    "products": [
+        "iOS and iPadOS  versions prior to 18.7.8 and versions prior to 26.4.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.apple.com/en-us/127002",
+        "https://support.apple.com/en-us/127003",
+        "https://support.apple.com/en-us/100100"
+    ]
+}
