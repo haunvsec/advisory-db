@@ -1,0 +1,21 @@
+{
+    "id": "crowdstrike-security-advisory-av26-384",
+    "title": "CrowdStrike security advisory (AV26-384)",
+    "public_time": "2026-04-23T16:03:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/crowdstrike-security-advisory-av26-384",
+    "advisory_id": "AV26-384",
+    "type": "advisory",
+    "description": "CrowdStrike security advisory (AV26-384)",
+    "products": [
+        "LogScale Self-Hosted  GA versions 1.224.0 to 1.234.0 (inclusive)",
+        "LogScale Self-Hosted LTS  versions 1.228.0 and 1.228.1"
+    ],
+    "cves": [
+        "CVE-2026-40050"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.crowdstrike.com/en-us/security-advisories/cve-2026-40050/",
+        "https://www.crowdstrike.com/en-us/security-advisories/"
+    ]
+}
