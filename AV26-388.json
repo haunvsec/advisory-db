@@ -1,0 +1,33 @@
+{
+    "id": "ibm-security-advisory-av26-388",
+    "title": "IBM security advisory (AV26-388)",
+    "public_time": "2026-04-27T13:56:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-388",
+    "advisory_id": "AV26-388",
+    "type": "advisory",
+    "description": "Between April 20 and 26, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "DataStax Hyper-Converged Database  version 1.2.4",
+        "Enterprise Content Management System Monitor  version 5.5",
+        "IBM App Connect Enterprise  versions 12.0.1.0 to 12.0.12.24",
+        "IBM App Connect Enterprise  versions 13.0.1.0 to 13.0.6.2",
+        "IBM App Connect Enterprise  versions 13.0.1.0 to 13.0.7.0",
+        "IBM Big Replicate LiveData Migrator  versions 1.13.0 to 3.3",
+        "IBM Business Automation Manager Open Editions  versions 9.0.0 to 9.4.0",
+        "IBM Cloud APM, Advanced Private  versions 8.1.4.0 to 8.1.4.0 IF18",
+        "IBM Cloud APM, Base Private  versions 8.1.4.0 to 8.1.4.0 IF18",
+        "IBM Data Product Hub  versions 5.0.0 to 5.3.1 Patch 2",
+        "IBM Edge Application Manager  versions 5.0.0, 5.0.1 and 5.0.2",
+        "IBM Guardium Data Protection  versions 12.0, 12.1 and 12.2",
+        "IBM Netezza Appliance  versions 1.0.0.0 and 1.0.0.1",
+        "IBM Sterling Connect:Direct Web Services  versions 6.3.0 to 6.3.0.17",
+        "IBM Sterling Connect:Direct Web Services  versions 6.4.0 to 6.4.0.6",
+        "IBM Storage Protect Operations Center  version 8.2.0",
+        "InfoSphere Data Architect  version 9.2.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
