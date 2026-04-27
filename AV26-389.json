@@ -1,0 +1,23 @@
+{
+    "id": "dell-security-advisory-av26-389",
+    "title": "Dell security advisory (AV26-389)",
+    "public_time": "2026-04-27T14:10:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-389",
+    "advisory_id": "AV26-389",
+    "type": "advisory",
+    "description": "Between April 20 and 26, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell Networking OS10  versions prior to 10.6.0.8",
+        "Dell Storage Monitoring and Reporting  versions prior to 6.1.0.0",
+        "Dell Storage Resource Manager  versions prior to 6.1.0.0",
+        "Dell VxRail Appliance  versions 8.0.000 to 8.0.370"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000455955/dsa-2026-160-security-update-for-dell-networking-os10-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000456372/dsa-2026-126-security-update-for-dell-vxrail-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000456382/dsa-2026-196-dell-storage-resource-manager-srm-and-dell-storage-monitoring-and-reporting-smr-security-update-for-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
