@@ -1,0 +1,18 @@
+{
+    "id": "notepad-security-advisory-av26-395",
+    "title": "Notepad++ security advisory (AV26-395)",
+    "public_time": "2026-04-27T14:56:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-395",
+    "advisory_id": "AV26-395",
+    "type": "advisory",
+    "description": "On April 26, 2026, Notepad++ published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Notepad++  version 8.9.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.notepad-plus-plus.org/topic/27512/notepad-release-8-9-4",
+        "https://community.notepad-plus-plus.org/category/1/announcements"
+    ]
+}
