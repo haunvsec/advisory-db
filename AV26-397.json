@@ -1,0 +1,23 @@
+{
+    "id": "spring-security-advisory-av26-397",
+    "title": "Spring security advisory (AV26-397)",
+    "public_time": "2026-04-27T18:57:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-397",
+    "advisory_id": "AV26-397",
+    "type": "advisory",
+    "description": "On April 27, 2026, Spring published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Spring AI  1.0.x versions prior to 1.0.6",
+        "Spring AI  1.1.x versions prior to 1.1.5"
+    ],
+    "cves": [
+        "CVE-2026-40967",
+        "CVE-2026-40978"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://spring.io/security/cve-2026-40967",
+        "https://spring.io/security/cve-2026-40978",
+        "https://spring.io/security"
+    ]
+}
