@@ -1,0 +1,21 @@
+{
+    "id": "zyxel-security-advisory-av26-399",
+    "title": "Zyxel security advisory (AV26-399)",
+    "public_time": "2026-04-28T13:39:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-399",
+    "advisory_id": "AV26-399",
+    "type": "advisory",
+    "description": "On April 28, 2026, Zyxel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "4G LTE/5G NR CPE   multiple versions and models",
+        "DSL/Ethernet CPE   multiple versions and models",
+        "Fiber ONTs   multiple versions and models",
+        "Wireless Extenders   multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-vulnerabilities-in-certain-4g-lte-5g-nr-cpe-dsl-ethernet-cpe-fiber-onts-and-wireless-extenders-04-28-2026",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
