@@ -1,0 +1,18 @@
+{
+    "id": "citrix-security-advisory-av26-400",
+    "title": "Citrix security advisory (AV26-400)",
+    "public_time": "2026-04-28T13:46:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-400",
+    "advisory_id": "AV26-400",
+    "type": "advisory",
+    "description": "On April 28, 2026, Citrix published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "XenServer   versions prior to 8.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696527&articleURL=XenServer_Security_Update_for_Multiple_Issues",
+        "https://support.citrix.com/support-home/topic-article-list?trendingCategory=20&trendingTopicName=Security%20Bulletin"
+    ]
+}
