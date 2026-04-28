@@ -1,0 +1,18 @@
+{
+    "id": "smartertools-security-advisory-av26-398",
+    "title": "SmarterTools security advisory (AV26-398)",
+    "public_time": "2026-04-28T13:31:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-398",
+    "advisory_id": "AV26-398",
+    "type": "advisory",
+    "description": "On April 24, 2026, SmarterTools published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "SmarterMail   versions prior to Build 9610"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.smartertools.com/smartermail/downloads",
+        "https://www.smartertools.com/smartermail/release-notes/current"
+    ]
+}
