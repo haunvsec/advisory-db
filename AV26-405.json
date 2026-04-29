@@ -1,0 +1,21 @@
+{
+    "id": "sonicwall-security-advisory-av26-405",
+    "title": "SonicWall security advisory (AV26-405)",
+    "public_time": "2026-04-29T17:23:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-405",
+    "advisory_id": "AV26-405",
+    "type": "advisory",
+    "description": "On April 29, 2026, SonicWall published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Gen6 Hardware Firewalls  firmware version 6.5.5.1-6n and prior",
+        "Gen7 NSv  firmware version 7.0.1-5169 and prior, firmware version 7.3.1-7013 and prior",
+        "Gen7 Firewalls  firmware version 7.0.1-5169 and prior, firmware version 7.3.1-7013 and prior",
+        "Gen8 Firewalls  firmware version 8.1.0-8017 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0004",
+        "https://psirt.global.sonicwall.com/vuln-list"
+    ]
+}
