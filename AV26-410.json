@@ -1,0 +1,23 @@
+{
+    "id": "progress-security-advisory-av26-410",
+    "title": "Progress security advisory (AV26-410)",
+    "public_time": "2026-04-30T19:52:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-410",
+    "advisory_id": "AV26-410",
+    "type": "advisory",
+    "description": "On April 30, 2026, Progress published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Progress MOVEit Automation  version 2025.1.4 and prior",
+        "Progress MOVEit Automation  version 2025.0.8 and prior",
+        "Progress MOVEit Automation  version 2024.1.7 and prior",
+        "Progress MOVEit Automation  version 2024.0.0 and prior"
+    ],
+    "cves": [
+        "CVE-2026-4670",
+        "CVE-2026-5174"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.progress.com/s/article/MOVEit-Automation-Critical-Security-Alert-Bulletin-April-2026-CVE-2026-4670-CVE-2026-5174 "
+    ]
+}
