@@ -1,0 +1,18 @@
+{
+    "id": "gnu-security-advisory-av26-407",
+    "title": "GNU security advisory (AV26-407)",
+    "public_time": "2026-04-30T14:52:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gnu-security-advisory-av26-407",
+    "advisory_id": "AV26-407",
+    "type": "advisory",
+    "description": "On April 29, 2026, GNU published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "GNU InetUtils  version prior to 2.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://seclists.org/oss-sec/2026/q2/289",
+        "https://www.gnu.org/software/inetutils/"
+    ]
+}
