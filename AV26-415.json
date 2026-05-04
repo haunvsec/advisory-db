@@ -1,0 +1,26 @@
+{
+    "id": "freebsd-security-advisory-av26-415",
+    "title": "FreeBSD security advisory (AV26-415)",
+    "public_time": "2026-05-04T13:44:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freebsd-security-advisory-av26-415",
+    "advisory_id": "AV26-415",
+    "type": "advisory",
+    "description": "On April 29, 2026, FreeBSD published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "FreeBSD   all supported versions"
+    ],
+    "cves": [
+        "CVE-2026-35547",
+        "CVE-2026-7164",
+        "CVE-2026-7270",
+        "CVE-2026-42511"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:17.libnv.asc",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:14.pf.asc",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+        "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:12.dhclient.asc",
+        "https://www.freebsd.org/security/advisories/"
+    ]
+}
