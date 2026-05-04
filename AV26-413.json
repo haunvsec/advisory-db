@@ -1,0 +1,33 @@
+{
+    "id": "ibm-security-advisory-av26-413",
+    "title": "IBM security advisory (AV26-413)",
+    "public_time": "2026-05-04T13:29:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-413",
+    "advisory_id": "AV26-413",
+    "type": "advisory",
+    "description": "Between April 27 and May 3, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "Carbon Charts lodash-es   versions 0.4.0 to 1.27.3",
+        "Decision Optimization for Cloud Pak for Data   versions 5.0 to 5.3.1 releases",
+        "IBM Application Modernization Accelerator   versions 4.0.0 to 4.6.0",
+        "IBM Business Automation Workflow containers and traditional   multiple versions",
+        "IBM Cloud Pak for AIOps   versions 4.1.0 to 4.13.0",
+        "IBM Cloud Pak for Business Automation   multiple versions and models",
+        "IBM Industry Solutions Workbench   versions prior to 5.0.0.0, 5.1.0.0 and 5.1.1.0",
+        "IBM Maximo Application Suite   multiple versions",
+        "IBM PowerVM Novalink   multiple versions",
+        "IBM Process Mining   version 2.1.1",
+        "IBM Rapid Infrastructure Automation   version 1.1.5",
+        "IBM Rapid Network Automation   version 1.1.4",
+        "IBM Transformation Advisor   versions 2.0.1 to 4.6.0",
+        "IBM voice-gateway/media-relay   version 1.0.8.30",
+        "IBM voice-gateway/tts-adapter   version 1.0.8.19",
+        "IBM watsonx.data intelligence   versions prior to 5.2.0, 5.2.1, 5.3.0 and 5.3.1",
+        "ICP   Discovery   versions 5.0.0 to 5.3.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
