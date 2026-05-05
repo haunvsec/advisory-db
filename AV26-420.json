@@ -1,0 +1,15 @@
+{
+    "id": "qualcomm-security-advisory-may-2026-monthly-rollup-av26-420",
+    "title": "Qualcomm security advisory \u2013 May 2026 monthly rollup (AV26-420)",
+    "public_time": "2026-05-05T12:58:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-may-2026-monthly-rollup-av26-420",
+    "advisory_id": "AV26-420",
+    "type": "advisory",
+    "description": "On May 4, 2026, Qualcomm published a security bulletin to address vulnerabilities affecting Qualcomm products.",
+    "products": [
+        "Qualcomm Security Bulletin  May"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
