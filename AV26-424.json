@@ -1,0 +1,18 @@
+{
+    "id": "juniper-networks-security-advisory-av26-424",
+    "title": "Juniper Networks security advisory (AV26-424)",
+    "public_time": "2026-05-05T20:34:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-424",
+    "advisory_id": "AV26-424",
+    "type": "advisory",
+    "description": "Juniper Networks security advisory (AV26-424)",
+    "products": [
+        "Juniper Secure Analytics  versions prior to 7.5.0 UP15 IF01"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/article/On-Demand-JSA-Series-Multiple-vulnerabilities-resolved-in-Juniper-Secure-Analytics-in-7-5-0-UP15-IF01",
+        "https://supportportal.juniper.net/s/global-search/%40uri#sort=relevancy&f:ctype=[Security%20Advisories"
+    ]
+}
