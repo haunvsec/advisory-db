@@ -1,0 +1,18 @@
+{
+    "id": "apache-security-advisory-av26-422",
+    "title": "Apache security advisory (AV26-422)",
+    "public_time": "2026-05-05T13:51:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-422",
+    "advisory_id": "AV26-422",
+    "type": "advisory",
+    "description": "On May 4, 2026, Apache published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Apache HTTP Server  versions prior to 2.4.66 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html",
+        "https://httpd.apache.org/"
+    ]
+}
