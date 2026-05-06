@@ -1,0 +1,27 @@
+{
+    "id": "watchguard-security-advisory-av26-428",
+    "title": "WatchGuard security advisory (AV26-428)",
+    "public_time": "2026-05-06T17:24:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-428",
+    "advisory_id": "AV26-428",
+    "type": "advisory",
+    "description": "On May 6, 2026, WatchGuard published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "WatchGuard Agent on Windows  version 1.25.02.0000 and prior"
+    ],
+    "cves": [
+        "CVE-2026-6787",
+        "CVE-2026-6788",
+        "CVE-2026-41288",
+        "CVE-2026-41286",
+        "CVE-2026-41287"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00013",
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00012",
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00011",
+        "https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2026-00010",
+        "https://www.watchguard.com/wgrd-psirt/advisories"
+    ]
+}
