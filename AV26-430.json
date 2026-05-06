@@ -1,0 +1,29 @@
+{
+    "id": "cisco-security-advisory-av26-430",
+    "title": "Cisco security advisory (AV26-430)",
+    "public_time": "2026-05-06T19:25:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-430",
+    "advisory_id": "AV26-430",
+    "type": "advisory",
+    "description": "On May 6, 2026, Cisco published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "Cisco Crosswork Network Controller (CNC)   version 7.1 and prior",
+        "Cisco IoT Field Network Director (FND)   version 4 and prior",
+        "Cisco IoT Field Network Director (FND)   versions prior to 5.0.0-117",
+        "Cisco Network Services Orchestrator (NSO)   version 6.3 and prior",
+        "Cisco Network Services Orchestrator (NSO)   versions prior to 6.4.1.3",
+        "Cisco SG350 and SG350X Managed Switch   multiple versions and models",
+        "Cisco Unity Connection   versions prior to 12.5",
+        "Cisco Unity Connection   versions prior to 14SU5",
+        "Cisco Unity Connection   versions prior to 15SU4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-unity-rce-ssrf-hENhuASy",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sg350-snmp-dos-GEFZr2Tj",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nso-dos-7Egqyc",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iot-fnd-dos-n8N26Q4u",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
