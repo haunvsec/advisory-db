@@ -1,0 +1,22 @@
+{
+    "id": "ivanti-security-advisory-av26-435",
+    "title": "Ivanti security advisory (AV26-435)",
+    "public_time": "2026-05-07T15:35:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-435",
+    "advisory_id": "AV26-435",
+    "type": "advisory",
+    "description": "On May 7, 2026, Ivanti published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Ivanti Endpoint Manager Mobile (EPMM)  versions prior to 12.6.1.1",
+        "Ivanti Endpoint Manager Mobile (EPMM)  versions prior to 12.7.0.1",
+        "Ivanti Endpoint Manager Mobile (EPMM)  versions prior to 12.8.0.1"
+    ],
+    "cves": [
+        "CVE-2026-6973"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://hub.ivanti.com/s/article/May-2026-Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-Multiple-CVEs?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
