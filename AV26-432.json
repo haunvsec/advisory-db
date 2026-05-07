@@ -1,0 +1,18 @@
+{
+    "id": "vm2-nodejs-library-security-advisory-av26-432",
+    "title": "VM2 Node.js Library security advisory (AV26-432)",
+    "public_time": "2026-05-07T13:54:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vm2-nodejs-library-security-advisory-av26-432",
+    "advisory_id": "AV26-432",
+    "type": "advisory",
+    "description": "On May 4, 2026, Patrik Simek published security advisories to address critical vulnerabilities in the following product:",
+    "products": [
+        "VM2 Node.js sandboxing library  versions prior to 3.11.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/patriksimek/vm2/releases/tag/v3.11.2",
+        "https://github.com/patriksimek/vm2/security/advisories?page=1"
+    ]
+}
