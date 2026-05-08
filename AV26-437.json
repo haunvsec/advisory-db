@@ -1,0 +1,24 @@
+{
+    "id": "cpanel-security-advisory-av26-437",
+    "title": "cPanel security advisory (AV26-437)",
+    "public_time": "2026-05-08T18:49:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-437",
+    "advisory_id": "AV26-437",
+    "type": "advisory",
+    "description": "On May 8, 2026, cPanel published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "cPanel & WebHost Manager (WHM) software   versions prior to 11.136.0.9, 11.134.0.25, 11.132.0.31, 11.130.0.22, 11.126.0.58, 11.124.0.37, 11.118.0.66, 11.110.0.116, 11.110.0.117, 11.102.0.41, 11.94.0.30, 11.86.0.43 and WP Squared 11.136.1.10"
+    ],
+    "cves": [
+        "CVE-2026-29201",
+        "CVE-2026-29202",
+        "CVE-2026-29203"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.cpanel.net/hc/en-us/articles/40311033698327-Security-CVE-2026-29201-cPanel-WHM-WP2-Security-Update-May-08-2026",
+        "https://support.cpanel.net/hc/en-us/articles/40311426610327-Security-CVE-2026-29202-cPanel-WHM-WP2-Security-Update-May-08-2026",
+        "https://support.cpanel.net/hc/en-us/articles/40311543760407-Security-CVE-2026-29203-cPanel-WHM-WP2-Security-Update-May-08-2026",
+        "https://support.cpanel.net/hc/en-us/sections/360008753193-Support-Topics"
+    ]
+}
