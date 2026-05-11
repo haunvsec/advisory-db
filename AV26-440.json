@@ -1,0 +1,23 @@
+{
+    "id": "ubuntu-security-advisory-av26-440",
+    "title": "Ubuntu security advisory (AV26-440)",
+    "public_time": "2026-05-11T15:17:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-440",
+    "advisory_id": "AV26-440",
+    "type": "advisory",
+    "description": "Between May 4 and 10, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS",
+        "Ubuntu 25.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-8257-1",
+        "https://ubuntu.com/security/notices/USN-8255-1",
+        "https://ubuntu.com/security/notices/USN-8258-1",
+        "https://ubuntu.com/security/notices"
+    ]
+}
