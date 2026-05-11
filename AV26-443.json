@@ -1,0 +1,25 @@
+{
+    "id": "spring-security-advisory-av26-443",
+    "title": "Spring security advisory (AV26-443)",
+    "public_time": "2026-05-11T16:04:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-443",
+    "advisory_id": "AV26-443",
+    "type": "advisory",
+    "description": "On May 8, 2026, Spring published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Spring AI  1.0.x versions prior to 1.0.7",
+        "Spring AI  1.1.x versions prior to 1.1.6"
+    ],
+    "cves": [
+        "CVE-2026-41705",
+        "CVE-2026-41713",
+        "CVE-2026-41712"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://spring.io/security/cve-2026-41705",
+        "https://spring.io/security/cve-2026-41713",
+        "https://spring.io/security/cve-2026-41712",
+        "https://spring.io/security"
+    ]
+}
