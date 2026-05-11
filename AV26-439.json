@@ -1,0 +1,21 @@
+{
+    "id": "dell-security-advisory-av26-439",
+    "title": "Dell security advisory (AV26-439)",
+    "public_time": "2026-05-11T14:50:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-439",
+    "advisory_id": "AV26-439",
+    "type": "advisory",
+    "description": "Between May 4 and 10, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "PowerScale A300/A3000/H700/H7000  versions prior to 13.2.3",
+        "Elastic Cloud Storage (ECS)  versions 3.8.1.0 to 3.8.1.7",
+        "ObjectScale  versions prior to 4.3.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000461405/dsa-2026-127-security-update-for-dell-powerscale-onefs-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000462117/dsa-2026-047-security-update-for-dell-ecs-and-objectscale-multiple-vulnerabilities-1",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
