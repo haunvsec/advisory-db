@@ -1,0 +1,17 @@
+{
+    "id": "jetbrains-security-advisory-av26-445",
+    "title": "JetBrains security advisory (AV26-445)",
+    "public_time": "2026-05-11T19:39:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-445",
+    "advisory_id": "AV26-445",
+    "type": "advisory",
+    "description": "On May 11, 2026, JetBrains published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "JetBrains TeamCity  versions prior to 2026.1 and 2025.11.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jetbrains.com/privacy-security/issues-fixed/"
+    ]
+}
