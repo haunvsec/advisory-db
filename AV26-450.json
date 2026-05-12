@@ -1,0 +1,29 @@
+{
+    "id": "ivanti-security-advisory-av26-450",
+    "title": "Ivanti security advisory (AV26-450)",
+    "public_time": "2026-05-12T15:27:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-450",
+    "advisory_id": "AV26-450",
+    "type": "advisory",
+    "description": "On May 12, 2026, Ivanti published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Ivanti Xtraction  version 2026.1 and prior",
+        "Ivanti Endpoint Manager (EPM)  version 2024 SU5 and prior",
+        "Ivanti Virtual Traffic Manager (vTM)  version 22.9r3 and prior",
+        "Ivanti Secure Access Client (Windows)  version 22.8R5 and prior"
+    ],
+    "cves": [
+        "CVE-2026-8043",
+        "CVE-2026-8051",
+        "CVE-2026-7431",
+        "CVE-2026-7432"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://forums.ivanti.com/s/article/kA1UL0000008mU50AI",
+        "https://forums.ivanti.com/s/article/kA1UL0000008mPF0AY",
+        "https://forums.ivanti.com/s/article/kA1UL0000008mST0AY",
+        "https://forums.ivanti.com/s/article/kA1UL0000008mQr0AI",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
