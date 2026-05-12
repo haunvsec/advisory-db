@@ -1,0 +1,37 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-448",
+    "title": "[Control systems] Siemens security advisory (AV26-448)",
+    "public_time": "2026-05-12T14:31:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-448",
+    "advisory_id": "AV26-448",
+    "type": "advisory",
+    "description": "On May 12, 2026, Siemens published a security advisory to address vulnerabilities in the following products. Included were updates for the following products:",
+    "products": [
+        "RUGGEDCOM ROX II family  versions prior to V2.17.1",
+        "RUGGEDCOM APE1808  contact customer support to receive patch and update information",
+        "RUGGEDCOM RM1224 LTE(4G) EU  versions prior to V8.3",
+        "SCALANCE  multiple versions and models",
+        "Solid Edge SE2026  versions prior to V226.0 Update 5",
+        "gWAP  versions prior to V3.1.1",
+        "Simcenter Femap  versions prior to V2512.0003",
+        "Teamcenter  multiple versions and models",
+        "SIPROTEC 5  multiple versions and models",
+        "SENTRON 7KT PAC1261 Data Manager  versions prior to V2.1.0",
+        "SIMATIC Drive Controller family  versions prior to V3.1.6",
+        "SIMATIC Drive Controller CPU 1504D TF  versions prior to V3.1.6",
+        "SIMATIC ET 200SP CPU  multiple versions and models",
+        "SIMATIC S7-1500 CPU  versions prior to V2.9.9",
+        "KACO blueplanet Inverters  versions prior to V6.1.4.9",
+        "Industrial Edge Devices  multiple versions and models",
+        "SIMATIC HMI Unified Comfort Panels Hygienic family  versions prior to V21",
+        "SIMATIC HMI Unified Comfort Panels Standard family  versions prior to V21",
+        "ROS#  versions prior to V2.2.2",
+        "Opcenter RDnL  versions prior to V2.52.0",
+        "SIMATIC CN 4100  versions prior to V5.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
