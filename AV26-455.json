@@ -1,0 +1,15 @@
+{
+    "id": "amd-security-advisory-av26-455",
+    "title": "AMD security advisory (AV26-455)",
+    "public_time": "2026-05-12T19:04:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-455",
+    "advisory_id": "AV26-455",
+    "type": "advisory",
+    "description": "On May 12, 2025, AMD published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "AMD Product Security"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
