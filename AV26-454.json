@@ -1,0 +1,40 @@
+{
+    "id": "fortinet-security-advisory-av26-454",
+    "title": "Fortinet security advisory (AV26-454)",
+    "public_time": "2026-05-12T19:00:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-454",
+    "advisory_id": "AV26-454",
+    "type": "advisory",
+    "description": "On May 12, 2026, Fortinet published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "FortiAuthenticator 8.0  version 8.0.2",
+        "FortiAuthenticator 8.0  version 8.0.0",
+        "FortiAuthenticator 6.6  versions 6.6.0 to 6.6.8",
+        "FortiAuthenticator 6.5  versions 6.5.0 to 6.5.6",
+        "FortiOS 7.6  versions 7.6.0 to 7.6.3",
+        "FortiOS 7.4  versions 7.4.0 to 7.4.8",
+        "FortiOS 7.2  versions 7.2.0 to 7.2.11",
+        "FortiSandbox 5.0  versions 5.0.0 to 5.0.1",
+        "FortiSandbox 4.4  versions 4.4.0 to 4.4.8",
+        "FortiSandbox Cloud 24  all versions",
+        "FortiSandbox Cloud 23  all versions",
+        "FortiSandbox Cloud 5.0  versions 5.0.2 to 5.0.5",
+        "FortiSandbox PaaS 23.4  23.4 all versions",
+        "FortiSandbox PaaS 23.3  23.3 all versions",
+        "FortiSandbox PaaS 23.1  23.1 all versions",
+        "FortiSandbox PaaS 22.2  22.2 all versions",
+        "FortiSandbox PaaS 22.1  22.1 all versions",
+        "FortiSandbox PaaS 21.4  21.4 all versions",
+        "FortiSandbox PaaS 21.3   21.3 all versions",
+        "FortiSandbox PaaS 5.0  versions 5.0.0 to 5.0.1",
+        "FortiSandbox PaaS 4.4  versions 4.4.5 to 4.4.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-26-128",
+        "https://www.fortiguard.com/psirt/FG-IR-26-136",
+        "https://www.fortiguard.com/psirt/FG-IR-26-123",
+        "https://www.fortiguard.com/psirt?filter=1&version=&severity=5&severity=4&severity=3&severity=2"
+    ]
+}
