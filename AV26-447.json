@@ -1,0 +1,31 @@
+{
+    "id": "sap-security-advisory-may-2026-monthly-rollup-av26-447",
+    "title": "SAP security advisory \u2013 May 2026 monthly rollup (AV26-447)",
+    "public_time": "2026-05-12T14:22:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-may-2026-monthly-rollup-av26-447",
+    "advisory_id": "AV26-447",
+    "type": "advisory",
+    "description": "On May 12, 2026, SAP published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "SAP S/4HANA (SAP Enterprise Search for ABAP)  versions SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758 and SAP_BASIS 816",
+        "SAP Commerce cloud  versions HY_COM 2205, COM_CLOUD 2211 and 2211-JDK21",
+        "SAP Forecasting and Replenishment  versions SCM 702, 712, 713 and 714",
+        "SAP NetWeaver Application Server for ABAP and ABAP Platform  versions SAP_BASIS 700, SAP_BASIS 701, SAP_BASIS 702, SAP_BASIS 731, SAP_BASIS 740, SAP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758 and SAP_BASIS 816",
+        "SAP S/4HANA Condition Maintenance   versions S4CORE 102, 103, 104, 105, 106, 107, 108 and 109",
+        "Business Server Pages Application (TAF_APPLAUNCHER)  versions ST-PI 740 and 758",
+        "SAP BusinessObjects Business Intelligence Platform  versions ENTERPRISE 430, 2025 and 2027",
+        "SAP Strategic Enterprise Management (BSP application Balanced Scorecard Wizard)   versions SEM-BW 605, 700, 736, 746, 747, 748, 749 and 800",
+        "SAP Commerce Cloud (Apache Log4j)  versions HY_COM 2205, COM_CLOUD 2211 and 2211-JDK21",
+        "SAPUI5 (Search UI)   versions SAPUI5 1.108, 1.120, 1.136, 1.142, 1.71, 1.84 and 1.96",
+        "SAP NetWeaver Application Server ABAP (Applications based on Business Server Pages)  versions SAP_BASIS 700, SAP_BASIS 701, SAP_BASIS 702, SAP_BASIS 731, SAP_BASIS 740, SAP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816 and SAP_BASIS 918",
+        "SAP Financial Consolidation   version FINANCE 1010",
+        "SAP Incentive and Commission Management  versions SAP_APPL 618, S4CORE 102, 103, 104, 105, 106, 107, 108, 109, EA-APPL 600, 604, 605, 606 and 617",
+        "SAP Application Server ABAP for SAP NetWeaver and ABAP Platform  versions SAP_BASIS 740, SAP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758 and SAP_BASIS 816",
+        "SAP HANA Deployment Infrastructure (HDI) deploy library  version XS_HDI_DEPLOYER 1.00"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2026.html"
+    ]
+}
