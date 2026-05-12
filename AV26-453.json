@@ -1,0 +1,24 @@
+{
+    "id": "intel-security-advisory-av26-453",
+    "title": "Intel security advisory (AV26-453)",
+    "public_time": "2026-05-12T18:52:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av26-453",
+    "advisory_id": "AV26-453",
+    "type": "advisory",
+    "description": "On May 12, 2025, Intel published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Display Virtualization for Windows OS driver software  versions prior to 2119",
+        "Intel EMA software  versions prior to 1.14.5",
+        "AI Playground software  versions prior to 3.0.0 alpha",
+        "Intel Vision software  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01430.html",
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01434.html",
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01438.html",
+        "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01457.html",
+        "https://www.intel.com/content/www/us/en/security-center/default.html"
+    ]
+}
