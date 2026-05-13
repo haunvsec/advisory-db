@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-463",
+    "title": "Drupal security advisory (AV26-463)",
+    "public_time": "2026-05-13T18:30:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-463",
+    "advisory_id": "AV26-463",
+    "type": "advisory",
+    "description": "On May 13, 2026, Drupal published security updates for multiple products. Included was a critical update for the following:",
+    "products": [
+        "Date iCal   versions prior to 4.0.15"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2026-037",
+        "https://www.drupal.org/security"
+    ]
+}
