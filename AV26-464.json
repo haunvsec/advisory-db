@@ -1,0 +1,17 @@
+{
+    "id": "cpanel-security-advisory-av26-464",
+    "title": "cPanel security advisory (AV26-464)",
+    "public_time": "2026-05-13T18:39:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-464",
+    "advisory_id": "AV26-464",
+    "type": "advisory",
+    "description": "On May 13, 2026, cPanel published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "cPanel & WebHost Manager (WHM) software   versions prior to 11.86.0.44, 11.94.0.31, 11.102.0.42, 11.110.0.118, 11.118.0.67, 11.124.0.38, 11.126.0.59, 11.130.0.23, 11.132.0.32, 11.134.0.26, 11.136.0.10 and WP Squared 11.136.1.12"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.cpanel.net/hc/en-us/sections/360007088193-Security"
+    ]
+}
