@@ -1,0 +1,24 @@
+{
+    "id": "hpe-security-advisory-av26-457",
+    "title": "HPE security advisory (AV26-457)",
+    "public_time": "2026-05-13T12:26:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-457",
+    "advisory_id": "AV26-457",
+    "type": "advisory",
+    "description": "On May 12, 2026, HPE published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "ArubaOS AOS-10.8.x.x  version 10.8.0.0 and prior",
+        "ArubaOS AOS-10.7.x.x  version 10.7.2.2 and prior",
+        "ArubaOS AOS-10.4.x.x  version 10.4.1.10 and prior",
+        "ArubaOS AOS-8.13.x.x  version 8.13.1.1 and prior",
+        "ArubaOS AOS-8.12.x.x  version 8.12.0.6 and prior",
+        "ArubaOS AOS-8.10.x.x  version 8.10.0.21 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05048en_us&docLocale=en_US ",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05049en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
