@@ -1,0 +1,19 @@
+{
+    "id": "exim-security-advisory-av26-460",
+    "title": "Exim security advisory (AV26-460)",
+    "public_time": "2026-05-13T14:58:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/exim-security-advisory-av26-460",
+    "advisory_id": "AV26-460",
+    "type": "advisory",
+    "description": "On May 12, 2026, Exim published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Exim  version 4.97 to 4.99.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.exim.org/static/doc/security/EXIM-Security-2026-05-01.1/EXIM-Security-2026-05-01.1.txt",
+        "https://www.exim.org/download.html",
+        "https://www.exim.org/"
+    ]
+}
