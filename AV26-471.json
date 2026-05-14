@@ -1,0 +1,33 @@
+{
+    "id": "cisco-security-advisory-av26-471",
+    "title": "Cisco security advisory (AV26-471)",
+    "public_time": "2026-05-14T18:33:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-471",
+    "advisory_id": "AV26-471",
+    "type": "advisory",
+    "description": "On May 14, 2026, Cisco published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Cisco Catalyst SD-WAN Release  versions 20.9 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.10 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.11 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.12 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.13 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.14 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.15 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.16 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 20.18 and prior",
+        "Cisco Catalyst SD-WAN Release  versions 26.1 and prior"
+    ],
+    "cves": [
+        "CVE-2026-20182",
+        "CVE-2026-20182",
+        "CVE-2026-20182"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-rpa2-v69WY2SW",
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-mltvnps2-JxpWm7R",
+        "https://tools.cisco.com/security/center/publicationListing.x",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20182"
+    ]
+}
