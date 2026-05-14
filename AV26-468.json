@@ -1,0 +1,24 @@
+{
+    "id": "mongodb-security-advisory-av26-468",
+    "title": "MongoDB security advisory (AV26-468)",
+    "public_time": "2026-05-14T15:43:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-468",
+    "advisory_id": "AV26-468",
+    "type": "advisory",
+    "description": "On May 12, 2026, MongoDB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "MongoDB  version 8.3.0 to 8.3.1",
+        "MongoDB  version 8.2.0 to 8.2.8",
+        "MongoDB  version 8.0.0 to 8.0.22",
+        "MongoDB  version 7.0.0 to 7.0.33",
+        "MongoDB  version 6.0.0 to 6.0.27",
+        "MongoDB  version 5.0.0 to 5.0.32"
+    ],
+    "cves": [
+        "CVE-2026-8053"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://jira.mongodb.org/browse/SERVER-126021"
+    ]
+}
