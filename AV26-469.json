@@ -1,0 +1,20 @@
+{
+    "id": "broadcom-vmware-security-advisory-av26-469",
+    "title": "Broadcom VMware security advisory (AV26-469)",
+    "public_time": "2026-05-14T15:48:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-469",
+    "advisory_id": "AV26-469",
+    "type": "advisory",
+    "description": "On May 14, 2026, Broadcom published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "VMware Fusion  versions prior to 26H1"
+    ],
+    "cves": [
+        "CVE-2026-41702"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37454",
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VC"
+    ]
+}
