@@ -1,0 +1,25 @@
+{
+    "id": "microsoft-security-advisory-av26-473",
+    "title": "Microsoft security advisory (AV26-473)",
+    "public_time": "2026-05-15T13:42:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-473",
+    "advisory_id": "AV26-473",
+    "type": "advisory",
+    "description": "On May 14, 2026, Microsoft published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Microsoft Exchange Server 2016 on premises versions (any update level)",
+        "Microsoft Exchange Server 2019 on premises versions (any update level)",
+        "Exchange Server Subscription Edition (SE) on premises versions (any update level)"
+    ],
+    "cves": [
+        "CVE-2026-42897",
+        "CVE-2026-42897",
+        "CVE-2026-42897"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42897",
+        "https://learn.microsoft.com/en-us/exchange/plan-and-deploy/post-installation-tasks/security-best-practices/exchange-emergency-mitigation-service",
+        "https://techcommunity.microsoft.com/blog/exchange/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/4518498"
+    ]
+}
