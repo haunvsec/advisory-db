@@ -1,0 +1,24 @@
+{
+    "id": "ubuntu-security-advisory-av26-482",
+    "title": "Ubuntu security advisory (AV26-482)",
+    "public_time": "2026-05-19T20:17:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-482",
+    "advisory_id": "AV26-482",
+    "type": "advisory",
+    "description": "Between May 11 and 17, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices/USN-8257-1",
+        "https://ubuntu.com/security/notices/USN-8255-1",
+        "https://ubuntu.com/security/notices/USN-8258-1",
+        "https://ubuntu.com/security/notices"
+    ]
+}
