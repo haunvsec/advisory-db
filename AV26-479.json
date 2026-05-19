@@ -1,0 +1,38 @@
+{
+    "id": "ibm-security-advisory-av26-479",
+    "title": "IBM security advisory (AV26-479)",
+    "public_time": "2026-05-19T19:34:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-479",
+    "advisory_id": "AV26-479",
+    "type": "advisory",
+    "description": "Between May 11 and 17, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Robotic Process Automation for Cloud Pak - versions 23.0.0 to 23.0.20.5",
+        "IBM Robotic Process Automation for Cloud Pak - versions 30.0.0 to 30.0.1",
+        "IBM Operator for Apache Flink - versions 1.0.0 to 1.5.1",
+        "IBM App Connect Enterprise - versions 13.0.1.0 to 13.0.7.1",
+        "IBM App Connect Enterprise - versions 12.0.1.0 to 12.0.12.25",
+        "ICP Discovery - versions 5.0.0 to 5.3.1",
+        "IBM Operational Decision Manager - multiple versions",
+        "IBM Cloudera Data Platform Private Could Base - versions 7.1.9, 7.3.1 and 7.3.2",
+        "IBM Data Virtualization on Cloud Pak for Data - multiple versions",
+        "IBM Fusion - versions 2.9.0 to 2.12.1",
+        "IBM Fusion HCI - versions 2.10.0 to 2.12.1",
+        "Content-Aware Storage - versions 1.1.2 to 1.1.3",
+        "IBM Engineering AI Hub - versions 1.0.0 and 1.1.0",
+        "IBM Integration Bus for z/OS - versions 10.1.0.0 to 10.1.0.7",
+        "IBM MQ Operator - multiple versions and models",
+        "IBM supplied MQ Advanced container images - multiple versions and models",
+        "IBM Open SDK for Rust on AIX - versions 1.90.0.0, 1.90.0.1, 1.92.0.0 and 1.92.0.1",
+        "IBM Watson Knowledge Catalog on prem - versions 5.0.0, 5.0.1, 5.0.2, 5.0.3, 5.1.0, 5.1.1, 5.1.2 and 5.1.3",
+        "IBM Watson Query on Cloud Pak for Data - version 2.2",
+        "IBM Big SQL on Cloud Pak for data - multiple versions",
+        "Platform Navigator in IBM Cloud Pak for Integration (CP4I) - multiple versions",
+        "Automation Assets in IBM Cloud Pak for Integration (CP4I) - multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
