@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-477",
+    "title": "HPE security advisory (AV26-477)",
+    "public_time": "2026-05-19T16:15:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-477",
+    "advisory_id": "AV26-477",
+    "type": "advisory",
+    "description": "HPE security advisory (AV26-477) On May 18, 2026, HPE published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "HPE Unified OSS Console (UOC)  version 3.1.20 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05056en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
