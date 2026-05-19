@@ -1,0 +1,23 @@
+{
+    "id": "atlassian-security-advisory-av26-483",
+    "title": "Atlassian security advisory (AV26-483)",
+    "public_time": "2026-05-19T20:31:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-483",
+    "advisory_id": "AV26-483",
+    "type": "advisory",
+    "description": "On May 19, 2026, Atlassian published a security advisory to address vulnerabilities, including some critical ones, in the following products:",
+    "products": [
+        "Bamboo Data Center and Server - multiple versions",
+        "Bitbucket Data Center and Server - multiple versions",
+        "Confluence Data Center and Server - multiple versions",
+        "Fisheye/Crucible - versions 4.9.0 to 4.9.9",
+        "Jira Data Center and Server - multiple versions",
+        "Jira Service Management Data Center and Server - multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://confluence.atlassian.com/security/security-bulletin-may-19-2026-1786839142.html",
+        "https://www.atlassian.com/trust/security/advisories"
+    ]
+}
