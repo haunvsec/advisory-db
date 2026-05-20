@@ -1,0 +1,24 @@
+{
+    "id": "hpe-security-advisory-av26-487",
+    "title": "HPE security advisory (AV26-487)",
+    "public_time": "2026-05-20T15:29:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-487",
+    "advisory_id": "AV26-487",
+    "type": "advisory",
+    "description": "On May 19, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE Aruba Networking Management Software (Airwave)  version 8.3.0.6 and prior",
+        "HPE Aruba Networking AOS-CX  multiple versions",
+        "HPE Aruba Networking EdgeConnect Orchestrator  all versions",
+        "HPE Aruba Networking Analytics and Location Engine (ALE)  all versions",
+        "HPE Aruba Networking Meridian Asset Tracking  all versions"
+    ],
+    "cves": [
+        "CVE-2026-31431"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05059en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
