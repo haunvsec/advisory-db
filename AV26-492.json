@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-492",
+    "title": "Drupal security advisory (AV26-492)",
+    "public_time": "2026-05-20T19:10:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-492",
+    "advisory_id": "AV26-492",
+    "type": "advisory",
+    "description": "On May 20, 2026, Drupal published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Drupal Core  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-core-2026-004",
+        "https://www.drupal.org/security"
+    ]
+}
