@@ -1,0 +1,31 @@
+{
+    "id": "microsoft-security-advisory-av26-489",
+    "title": "Microsoft security advisory (AV26-489)",
+    "public_time": "2026-05-20T17:16:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-489",
+    "advisory_id": "AV26-489",
+    "type": "advisory",
+    "description": "On May 18 and 19, 2026, Microsoft published security advisories to address vulnerabilities, including some critical ones, in the following products:",
+    "products": [
+        "Microsoft Azure Local",
+        "Microsoft Azure Resource Manager",
+        "Microsoft Azure Portal Windows Admin Center",
+        "Microsoft Bitlocker",
+        "Microsoft Malware Protection Engine  versions prior to 1.1.26040.8",
+        "Microsoft Defender  versions prior to 4.18.26040.7"
+    ],
+    "cves": [
+        "CVE-2026-41091",
+        "CVE-2026-45498",
+        "CVE-2026-41091",
+        "CVE-2026-45498"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42822",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45584",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41091",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-41091",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45498"
+    ]
+}
