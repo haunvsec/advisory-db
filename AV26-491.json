@@ -1,0 +1,20 @@
+{
+    "id": "cisco-security-advisory-av26-491",
+    "title": "Cisco security advisory (AV26-491)",
+    "public_time": "2026-05-20T19:06:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-491",
+    "advisory_id": "AV26-491",
+    "type": "advisory",
+    "description": "On May 20, 2026, Cisco published security advisories to address vulnerabilities in multiple products. Included was a critical update for the following:",
+    "products": [
+        "Cisco Secure Workload  version 3.9 and prior",
+        "Cisco Secure Workload  versions prior to 3.10.8.3",
+        "Cisco Secure Workload  versions prior to 4.0.3.17"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csw-pnbsa-g8WEnuy",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
