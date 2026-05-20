@@ -1,0 +1,32 @@
+{
+    "id": "isc-bind-security-advisory-av26-490",
+    "title": "ISC BIND security advisory (AV26-490)",
+    "public_time": "2026-05-20T17:23:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-490",
+    "advisory_id": "AV26-490",
+    "type": "advisory",
+    "description": "On May 20, 2026, ISC published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "ISC BIND 9  versions 9.0.0 to 9.16.50",
+        "ISC BIND 9  versions 9.18.0 to 9.18.48",
+        "ISC BIND 9  versions 9.20.0 to 9.20.22",
+        "ISC BIND 9  versions 9.21.0 to 9.21.21",
+        "BIND Supported Preview Edition  versions 9.9.3-S1 to 9.16.50-S1",
+        "BIND Supported Preview Edition  versions 9.18.11-S1 to 9.18.48-S1",
+        "BIND Supported Preview Edition  versions 9.20.9-S1 to 9.20.22-S1"
+    ],
+    "cves": [
+        "CVE-2026-3039",
+        "CVE-2026-5947",
+        "CVE-2026-5946",
+        "CVE-2026-3593"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://kb.isc.org/docs/cve-2026-3039",
+        "https://kb.isc.org/docs/cve-2026-5947",
+        "https://kb.isc.org/docs/cve-2026-5946",
+        "https://kb.isc.org/docs/cve-2026-3593",
+        "https://kb.isc.org/docs/aa-00913"
+    ]
+}
