@@ -1,0 +1,22 @@
+{
+    "id": "freepbx-security-advisory-av26-484",
+    "title": "FreePBX security advisory (AV26-484)",
+    "public_time": "2026-05-20T15:10:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-484",
+    "advisory_id": "AV26-484",
+    "type": "advisory",
+    "description": "On May 19, 2026, FreePBX published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "FreePBX Security-Reporting cdr (FreePBX 16)  versions 16.0.50 and prior",
+        "FreePBX Security-Reporting cdr (FreePBX 17)  versions 17.0.11 and prior",
+        "FreePBX Security-Reporting dashboard (FreePBX 16)  versions 16.0.22 and prior",
+        "FreePBX Security-Reporting dashboard (FreePBX 17)  versions 17.0.5 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-p9fq-fmpw-2h9x",
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-hw7v-v2jp-wc4v",
+        "https://github.com/FreePBX/security-reporting/security/advisories?state=published"
+    ]
+}
