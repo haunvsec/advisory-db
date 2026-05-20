@@ -1,0 +1,20 @@
+{
+    "id": "f5-security-advisory-av26-485",
+    "title": "F5 security advisory (AV26-485)",
+    "public_time": "2026-05-20T15:19:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-485",
+    "advisory_id": "AV26-485",
+    "type": "advisory",
+    "description": "On May 19, 2026, F5 published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "NGINX JavaScript (njs)  versions 0.9.4 to 0.9.8"
+    ],
+    "cves": [
+        "CVE-2026-8711"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://my.f5.com/manage/s/article/K000161307",
+        "https://my.f5.com/manage/s/new-updated-articles#f-f5_document_type=Security%20Advisory"
+    ]
+}
