@@ -1,0 +1,20 @@
+{
+    "id": "trend-micro-security-advisory-av26-494",
+    "title": "Trend Micro security advisory (AV26-494)",
+    "public_time": "2026-05-21T13:52:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av26-494",
+    "advisory_id": "AV26-494",
+    "type": "advisory",
+    "description": "On May 21, 2026, Trend Micro published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Apex One (on-premise)  server/agent builds prior to 2019 (on-prem) build 17079",
+        "Apex One as a service  SaaS",
+        "Trend Vision One Endpoint - SEP  agent builds prior to 14.0.20731"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://success.trendmicro.com/en-US/solution/KA-0023430",
+        "https://success.trendmicro.com/en-US/vulnerability-response/"
+    ]
+}
