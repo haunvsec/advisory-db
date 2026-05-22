@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-500",
+    "title": "HPE security advisory (AV26-500)",
+    "public_time": "2026-05-22T15:55:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-500",
+    "advisory_id": "AV26-500",
+    "type": "advisory",
+    "description": "On May 22, 2026, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Universal SLA Management   version 4.6 and prior."
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05058en_us&docLocale=en_US#hpesbnw05058-rev-1-hpe-telco-universal-sla-managem-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
