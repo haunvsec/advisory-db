@@ -1,0 +1,28 @@
+{
+    "id": "f5-security-advisory-av26-501",
+    "title": "F5 security advisory (AV26-501)",
+    "public_time": "2026-05-22T16:02:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-501",
+    "advisory_id": "AV26-501",
+    "type": "advisory",
+    "description": "On May 22, 2026, F5 published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "NGINX Plus   multiple versions",
+        "NGINX Open Source   multiple versions",
+        "NGINX Instance Manager   versions 2.17.0 to 2.22.0",
+        "F5 WAF for NGINX   versions 5.9.0 to 5.13.0",
+        "NGINX App Protect WAF   multiple versions",
+        "F5 DoS for NGINX   version 4.9.0",
+        "NGINX App Protect DoS   versions 4.3.0 to 4.7.0",
+        "NGINX Gateway Fabric   multiple versions",
+        "NGINX Ingress Controller   multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-9256"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://my.f5.com/manage/s/article/K000161377",
+        "https://my.f5.com/manage/s/new-updated-articles#f-f5_document_type=Security%20Advisory"
+    ]
+}
