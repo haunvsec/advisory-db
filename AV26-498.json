@@ -1,0 +1,24 @@
+{
+    "id": "ubiquiti-security-advisory-av26-498",
+    "title": "Ubiquiti security advisory (AV26-498)",
+    "public_time": "2026-05-22T15:37:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-498",
+    "advisory_id": "AV26-498",
+    "type": "advisory",
+    "description": "On May 21, 2026, Ubiquiti published a security advisory to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "Express   version 4.0.13 and prior",
+        "UCG-Industrial   version 5.0.13 and prior",
+        "UDM, UDM-Pro, UDM-SE, UDM-Pro-Max, EFG, UDW, UDR, UDR7, Express 7, UNVR, UNVR-Pro, UNVR-Instant, ENVR, UCG-Ultra, UCG-Max and UCG-Fiber   version 5.0.16 and prior",
+        "UDM-Beast, UNAS-2, UNAS-4, UNAS-Pro, UNAS-Pro-4 and UNAS-Pro-8   version 5.1.8 and prior",
+        "UDR-5G, ENVR-Core, UCKP, UCK and UCK-Enterprise   version 5.0.17 and prior",
+        "UNVR-G2 and UNVR-G2-Pro   version 5.1.11 and prior",
+        "UniFi OS Server   version 5.0.6 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.ui.com/releases/Security-Advisory-Bulletin-064-064/84811c09-4cf4-42ab-bd61-cc994445963b",
+        "https://community.ui.com/releases"
+    ]
+}
