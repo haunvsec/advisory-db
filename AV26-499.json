@@ -1,0 +1,22 @@
+{
+    "id": "cpanel-security-advisory-av26-499",
+    "title": "cPanel security advisory (AV26-499)",
+    "public_time": "2026-05-22T15:44:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-499",
+    "advisory_id": "AV26-499",
+    "type": "advisory",
+    "description": "On May 21, 2026, cPanel published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "cPanel & WebHost Manager (WHM) software   version 11.126.0.63 and later, version 11.134.0.30 and later, version 11.136.0.14 and later, WP Squared 11.138.1.1 and later",
+        "EasyApache4   versions prior to v25.62"
+    ],
+    "cves": [
+        "CVE-2026-33278"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.cpanel.net/hc/en-us/articles/40646746647703-Security-CVE-2026-33278-cpanel-unbound-1-25-1-Security-Release-May-21-2026",
+        "https://support.cpanel.net/hc/en-us/articles/40646970590999-Security-EasyApache4-v25-62-Security-Release-May-21-2026",
+        "https://support.cpanel.net/hc/en-us/sections/360007088193-Security"
+    ]
+}
