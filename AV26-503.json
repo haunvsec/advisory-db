@@ -1,0 +1,20 @@
+{
+    "id": "roundcube-security-advisory-av26-503",
+    "title": "Roundcube security advisory (AV26-503)",
+    "public_time": "2026-05-25T13:58:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av26-503",
+    "advisory_id": "AV26-503",
+    "type": "advisory",
+    "description": "On May 24, 2026, Roundcube published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "Roundcube Webmail   versions prior to 1.6.16",
+        "Roundcube Webmail   versions prior to 1.7.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/roundcube/roundcubemail/releases/tag/1.6.16",
+        "https://github.com/roundcube/roundcubemail/releases/tag/1.7.1",
+        "https://roundcube.net/"
+    ]
+}
