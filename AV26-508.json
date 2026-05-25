@@ -1,0 +1,21 @@
+{
+    "id": "cpanel-security-advisory-av26-508",
+    "title": "cPanel security advisory (AV26-508)",
+    "public_time": "2026-05-25T14:30:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-508",
+    "advisory_id": "AV26-508",
+    "type": "advisory",
+    "description": "Serial number: AV26-508Date: May 25, 2026                               \nOn May 22, 2026, cPanel published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "ea-nginx   version v1.31.0",
+        "ea-nginx-passenger   version v6.1.2"
+    ],
+    "cves": [
+        "CVE-2026-9256"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.cpanel.net/hc/en-us/articles/40670279527831-Security-CVE-2026-9256-ea-nginx-v1-31-1-Security-Release-May-22-2026",
+        "https://support.cpanel.net/hc/en-us/sections/360007088193-Security"
+    ]
+}
