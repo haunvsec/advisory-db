@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-510",
+    "title": "[Control systems] ABB security advisory (AV26-510)",
+    "public_time": "2026-05-26T14:33:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-510",
+    "advisory_id": "AV26-510",
+    "type": "advisory",
+    "description": "On May 26, 2026, ABB published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "PPT30 Operating System   versions prior to 1.8.0"
+    ],
+    "cves": [
+        "CVE-2025-11482"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://br-cws-assets.de-fra-1.linodeobjects.com/SA25P006-0eec719c.pdf",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
