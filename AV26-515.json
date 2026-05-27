@@ -1,0 +1,28 @@
+{
+    "id": "jenkins-security-advisory-av26-515",
+    "title": "Jenkins security advisory (AV26-515)",
+    "public_time": "2026-05-27T19:02:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-515",
+    "advisory_id": "AV26-515",
+    "type": "advisory",
+    "description": "On May 27, 2026, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Active Directory Plugin  version 2.4.1 and prior",
+        "AppSpider Plugin  version 1.0.17 and prior",
+        "Bitbucket OAuth Plugin  version 0.17 and prior",
+        "buildgraph-view Plugin  version 1.8 and prior",
+        "Credentials Binding Plugin  version 720.v3f6decef43ea_ and prior",
+        "Email Extension Plugin  version 1933.v45cec755423f and prior",
+        "GitHub Integration Plugin  version 0.7.3 and prior",
+        "Job Import Plugin  version 143.v044a_2e819b_27 and prior",
+        "LDAP Plugin  version 807.v7d7de30930cf and prior",
+        "Pipeline: Groovy Libraries Plugin  version 797.v90ea_a_9b_e45a_0 and prior",
+        "Multijob Plugin  version 662.vd2e0001f6b_b_d and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2026-05-27/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
