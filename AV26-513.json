@@ -1,0 +1,23 @@
+{
+    "id": "veeam-security-advisory-av26-513",
+    "title": "Veeam security advisory (AV26-513)",
+    "public_time": "2026-05-27T17:38:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-513",
+    "advisory_id": "AV26-513",
+    "type": "advisory",
+    "description": "On May 27, 2026, Veeam published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Veeam Backup & Replication  13 versions prior to 13.0.2.29",
+        "Veeam ONE  versions prior to 13.0.2.6723",
+        "Veeam Service Provider Console  9.2 versions prior to 9.2.1.33875"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4852",
+        "https://www.veeam.com/kb4856",
+        "https://www.veeam.com/kb4858",
+        "https://www.veeam.com/kb4853",
+        "https://www.veeam.com/knowledge-base.html"
+    ]
+}
