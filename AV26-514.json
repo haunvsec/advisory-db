@@ -1,0 +1,24 @@
+{
+    "id": "control-systems-phoenix-contact-security-advisory-av26-514",
+    "title": "[Control Systems] Phoenix Contact Security Advisory (AV26-514)",
+    "public_time": "2026-05-27T17:43:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-514",
+    "advisory_id": "AV26-514",
+    "type": "advisory",
+    "description": "On May 27, 2026, Phoenix Contact published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "AXC F  multiple models and versions prior to 2026.0.3",
+        "BCP 9102S  versions prior to 2026.0.3",
+        "EPC 1522  versions prior to 2026.0.3",
+        "RFC 4072R  versions prior to 2026.0.3",
+        "RFC 4072S  versions prior to 2026.0.3",
+        "VL3 UPC 2440 EDGE  versions prior to 2026.0.3",
+        "VPLCNEXT CONTROL  multiple models and versions prior to 2026.0.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://assets.phoenixcontact.com/file/a9721fd9-1ad4-495c-b341-15d3a5f363a9/media/original?pcsa-2026-00005_vde-2026-050.pdf",
+        "https://www.phoenixcontact.com/en-pc/service-and-support/psirt"
+    ]
+}
