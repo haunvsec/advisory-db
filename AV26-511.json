@@ -1,0 +1,38 @@
+{
+    "id": "hitachi-security-advisory-av26-511",
+    "title": "Hitachi security advisory (AV26-511)",
+    "public_time": "2026-05-27T16:04:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-511",
+    "advisory_id": "AV26-511",
+    "type": "advisory",
+    "description": "On May 26, 2026, Hitachi published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Cosminexus Developer's Kit for Java",
+        "Hitachi Automation Director  all versions",
+        "Hitachi Configuration Manager  all versions",
+        "Hitachi Compute Systems Manager  all versions",
+        "Hitachi Developer's Kit for Java",
+        "Hitachi Device Manager  all versions",
+        "Hitachi Dynamic Link Manager  versions prior to 9.0.0-00",
+        "Hitachi Global Link Manager  all versions",
+        "Hitachi Infrastructure Analytics Advisor (English version)  multiple components and versions",
+        "Hitachi Ops Center Administrator (English version)  all versions",
+        "Hitachi Ops Center Analyzer (English Version)  multiple components and versions",
+        "Hitachi Ops Center Analyzer Common Services  all versions",
+        "Hitachi Ops Center Analyzer Viewpoint (English version)  versions 10.8.1-00 to versions prior to 11.0.8-00",
+        "Hitachi Ops Center API Configuration Manager  all versions",
+        "Hitachi Ops Center Automator  all versions",
+        "Hitachi Ops Center Viewpoint (Japanese version)  all versions",
+        "Hitachi Replication Manager  versions prior to 9.0.0-00",
+        "Hitachi Tiered Storage Manager  all versions",
+        "Hitachi Tuning Manager  all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-120/index.html",
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-121/index.html",
+        "https://www.hitachi.com/products/it/software/security/info/vuls/hitachi-sec-2026-122/index.html",
+        "https://www.hitachi.com/products/it/software/security/index.html"
+    ]
+}
