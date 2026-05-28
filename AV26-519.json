@@ -1,0 +1,24 @@
+{
+    "id": "veeam-security-advisory-av26-519",
+    "title": "Veeam security advisory (AV26-519)",
+    "public_time": "2026-05-28T14:08:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-519",
+    "advisory_id": "AV26-519",
+    "type": "advisory",
+    "description": "On May 27, 2026, Veeam published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Veeam Backup for AWS 10.1  versions prior to 10.1.0.40",
+        "Veeam Backup for Google Cloud 7.0.1  versions prior to 7.0.1.4",
+        "Veeam Backup for Microsoft Azure 8.1 Patch 2  versions prior to 8.0.236",
+        "Veeam Recovery Orchestrator  versions prior to 13.0.2.27"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4857",
+        "https://www.veeam.com/kb4851",
+        "https://www.veeam.com/kb4859",
+        "https://www.veeam.com/kb4850",
+        "https://www.veeam.com/knowledge-base.html"
+    ]
+}
