@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-518",
+    "title": "Drupal security advisory (AV26-518)",
+    "public_time": "2026-05-28T14:00:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-518",
+    "advisory_id": "AV26-518",
+    "type": "advisory",
+    "description": "On May 27, 2026, Drupal published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Drupal AlternativeCommerce (Basket)  versions prior to 2.1.17"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2026-038 ",
+        "https://www.drupal.org/security"
+    ]
+}
