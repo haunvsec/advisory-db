@@ -1,0 +1,21 @@
+{
+    "id": "tanium-security-advisory-av26-523",
+    "title": "Tanium security advisory (AV26-523)",
+    "public_time": "2026-05-28T17:50:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-523",
+    "advisory_id": "AV26-523",
+    "type": "advisory",
+    "description": "On May 27, 2026, Tanium published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Connect 2024H2  versions prior to Update 25 (v5.26.191)",
+        "Connect 2025H1  versions prior to Update 19 (v5.29.237)",
+        "Connect 2025H2  versions prior to Update 9 (v5.37.140)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.tanium.com/TAN-2026-015/ ",
+        "https://security.tanium.com/TAN-2026-014/",
+        "https://security.tanium.com/"
+    ]
+}
