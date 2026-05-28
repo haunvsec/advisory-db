@@ -1,0 +1,37 @@
+{
+    "id": "mitel-security-advisory-av26-524",
+    "title": "Mitel security advisory (AV26-524)",
+    "public_time": "2026-05-28T19:10:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-524",
+    "advisory_id": "AV26-524",
+    "type": "advisory",
+    "description": "On May 28, 2026, Mitel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Mitel Standard Linux  versions 12.x and prior",
+        "MiVoice 5000  versions 8.x and prior",
+        "MiVoice Border Gateway  versions 11.6.x, 12.x and prior",
+        "MiVoice Business  versions 10.1.x to 10.5.x",
+        "MiVoice Business Solution Virtual Instance  versions 2.x and prior",
+        "MiVoice MX-ONE  versions 7.3 to 7.8 and version 8.x and prior",
+        "OpenScape 4000  versions V10 R1.x, V11 R0.22, V11 R1.26 and prior",
+        "OpenScape Branch  versions V10.3 and V11.x and prior",
+        "OpenScape SBC  versions V10.3 and V11.x and prior",
+        "OpenScape Voice Server  versions V9R3 JITC, V10, V11 and prior",
+        "MiCollab  versions 10.x and prior",
+        "MiCloud Management Portal  versions 6.3.x and prior",
+        "Mitel Open Integration Gateway  versions 4.3.x and prior",
+        "Mitel Performance Analytics MPA  versions 3.6x and prior",
+        "OpenScape Contact Media Service (used by Mitel CX and OpenScape Contact Center)   versions V12Rx and prior",
+        "Mitel SIP DECT  versions 9.1, 9.2, 10.0, 10.1 and prior",
+        "OpenScape Xpert Clients 6010P  versions V7, V8 and prior"
+    ],
+    "cves": [
+        "CVE-2026-43284",
+        "CVE-2026-43500"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2026-0004",
+        "https://www.mitel.com/support/security-advisories"
+    ]
+}
