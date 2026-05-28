@@ -1,0 +1,18 @@
+{
+    "id": "zimbra-security-advisory-av26-520",
+    "title": "Zimbra security advisory (AV26-520)",
+    "public_time": "2026-05-28T14:16:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-520",
+    "advisory_id": "AV26-520",
+    "type": "advisory",
+    "description": "On May 28, 2026, Zimbra published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Zimbra Daffodil  versions prior to v10.1.17"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://wiki.zimbra.com/wiki/Zimbra_Releases/10.1.17",
+        "https://blog.zimbra.com/"
+    ]
+}
