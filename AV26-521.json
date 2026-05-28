@@ -1,0 +1,18 @@
+{
+    "id": "notepad-security-advisory-av26-521",
+    "title": "Notepad++ security advisory (AV26-521)",
+    "public_time": "2026-05-28T14:21:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-521",
+    "advisory_id": "AV26-521",
+    "type": "advisory",
+    "description": "On May 26, 2026, Notepad++ published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Notepad++  version v8.9.6.1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://notepad-plus-plus.org/news/v8961-released/",
+        "https://community.notepad-plus-plus.org/category/1/announcements"
+    ]
+}
