@@ -1,0 +1,22 @@
+{
+    "id": "oracle-security-advisory-av26-526",
+    "title": "Oracle security advisory (AV26-526)",
+    "public_time": "2026-05-29T13:36:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-526",
+    "advisory_id": "AV26-526",
+    "type": "advisory",
+    "description": "On May 28, 2026, Oracle published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "Oracle Communications Unified Assurance - versions 6.1.1 to 7.0.0",
+        "Oracle Database Server - versions 23.4.0 to 23.26.2",
+        "Oracle E-Business Suite - versions 12.2.3 to 12.2.15",
+        "Oracle Hospitality OPERA 5 Property Services - versions 5.6.19.24, 5.6.22, 5.6.25.19, 5.6.27.6 and 5.6.28",
+        "Oracle REST Data Services - versions 24.2.0 to 26.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.oracle.com/security-alerts/cspumay2026.html",
+        "https://www.oracle.com/security-alerts/"
+    ]
+}
