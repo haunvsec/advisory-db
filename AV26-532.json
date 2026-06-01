@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av26-532",
+    "title": "Mozilla security advisory (AV26-532)",
+    "public_time": "2026-06-01T13:25:32Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-532",
+    "advisory_id": "AV26-532",
+    "type": "advisory",
+    "description": "On June 1, 2026, Mozilla published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Firefox for iOS   versions prior to 151.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-53/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
