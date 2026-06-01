@@ -1,0 +1,20 @@
+{
+    "id": "red-hat-security-advisory-av26-531",
+    "title": "Red Hat security advisory (AV26-531)",
+    "public_time": "2026-06-01T13:19:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-531",
+    "advisory_id": "AV26-531",
+    "type": "advisory",
+    "description": "Between May 25 and 31, 2026, Red Hat published security advisories to address vulnerabilities in multiple products. Included were updates to address vulnerabilities in the Linux kernel for the following products:",
+    "products": [
+        "Red Hat CodeReady Linux Builder   multiple versions and platforms",
+        "Red Hat Enterprise Linux   multiple versions and platforms",
+        "Red Hat Enterprise Linux Server   multiple versions and platforms",
+        "Red Hat Enterprise Linux for Real Time   multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://access.redhat.com/security/security-updates/security-advisories"
+    ]
+}
