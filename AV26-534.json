@@ -1,0 +1,21 @@
+{
+    "id": "plesk-security-advisory-av26-534",
+    "title": "Plesk security advisory (AV26-534)",
+    "public_time": "2026-06-01T14:56:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/plesk-security-advisory-av26-534",
+    "advisory_id": "AV26-534",
+    "type": "advisory",
+    "description": "On May 27, 2026, Plesk published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Plesk for Linux   versions prior to 18.0.75.1",
+        "Plesk for Linux   versions prior to 18.0.76.2"
+    ],
+    "cves": [
+        "CVE-2026-44962"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.plesk.com/hc/en-us/articles/38633651286679-Vulnerability-CVE-2026-44962-in-Plesk-s-APS-Catalog",
+        "https://support.plesk.com/hc/en-us"
+    ]
+}
