@@ -1,0 +1,33 @@
+{
+    "id": "ibm-security-advisory-av26-527",
+    "title": "IBM security advisory (AV26-527)",
+    "public_time": "2026-06-01T12:52:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-527",
+    "advisory_id": "AV26-527",
+    "type": "advisory",
+    "description": "Between May 25 and 31, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Aspera Enterprise WebApps   versions 1.0.0 to 1.0.2.1",
+        "IBM Business Automation Workflow containers and traditional   multiple versions",
+        "IBM Cloud Pak for Business Automation   multiple versions",
+        "IBM Cloud Pak for Security   versions 1.10.0.0 to 1.10.11.0",
+        "IBM Control Center   multiple versions",
+        "IBM DataStax Enterprise   versions 5.1, 6.7, 6.8 and 6.9",
+        "IBM Edge Application Manager   multiple versions",
+        "IBM Engineering Lifecycle Management - Jazz Foundation   multiple versions",
+        "IBM Library Support for Spring   version 3.3",
+        "IBM License Metric Tool   versions 9.2.0 to 9.2.43",
+        "IBM Maximo Application Suite - Monitor Component   version 9.1.0.0",
+        "IBM Observability with Instana (Agent)   versions Build 1.0.303 to 1.0.318",
+        "IBM Process Mining   versions 2.0.0 to 2.1.1 IF001",
+        "IBM Security SOAR   multiple versions",
+        "IBM Tivoli Application Dependency Discovery Manager   versions 7.3.0.0 to 7.3.0.12",
+        "QRadar Suite Software   versions 1.10.12.0 to 1.11.10.0",
+        "WebSphere Service Registry and Repository   version 8.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
