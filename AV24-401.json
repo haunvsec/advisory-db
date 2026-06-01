@@ -1,0 +1,27 @@
+{
+    "id": "oracle-security-advisory-july-2024-quarterly-rollup-av24-401",
+    "title": "Oracle security advisory \u2013 July 2024 quarterly rollup (AV24-401) - Update 1",
+    "public_time": "2026-06-01T17:39:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2024-quarterly-rollup-av24-401",
+    "advisory_id": "AV24-401",
+    "type": "advisory",
+    "description": "On July 16, 2024, Oracle published a security advisory to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "Oracle Analytics",
+        "Oracle Communications Applications",
+        "Oracle Communications",
+        "Oracle Financial Services Application",
+        "Oracle Fusion Middleware",
+        "Oracle MySQL",
+        "Oracle Siebel CRM"
+    ],
+    "cves": [
+        "CVE-2024-21182",
+        "CVE-2024-21182"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.oracle.com/security-alerts/cpujul2024.html",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-21182"
+    ]
+}
