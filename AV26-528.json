@@ -1,0 +1,24 @@
+{
+    "id": "dell-security-advisory-av26-528",
+    "title": "Dell security advisory (AV26-528)",
+    "public_time": "2026-06-01T13:01:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-528",
+    "advisory_id": "AV26-528",
+    "type": "advisory",
+    "description": "Between May 25 and 31, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "PowerEdge Server Chipset Driver   multiple applications and versions",
+        "Data Lakehouse   versions prior to 1.8.0.0",
+        "Dell Enterprise SONiC Distribution   versions prior to 4.5.2",
+        "Dell Unity   versions prior to 5.5.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000469673/dsa-2026-232-security-update-for-amd-based-poweredge-server-chipset-driver-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000469911/dsa-2026-199-security-update-for-dell-data-lakehouse-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000470137/dsa-2026-241-security-update-for-dell-enterprise-sonic-distribution-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000470814/dsa-2026-211---security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
