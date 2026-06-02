@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-540",
+    "title": "[Control systems] Siemens security advisory (AV26-540)",
+    "public_time": "2026-06-02T18:07:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-540",
+    "advisory_id": "AV26-540",
+    "type": "advisory",
+    "description": "On June 2, 2026, Siemens published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "RUGGEDCOM RST2428P (6GK6242-6PA00)  versions prior to V4.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-253495.html",
+        "https://www.siemens.com/global/en/products/services/cert.html"
+    ]
+}
