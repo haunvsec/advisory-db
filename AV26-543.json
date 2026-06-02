@@ -1,0 +1,25 @@
+{
+    "id": "hpe-security-advisory-av26-543",
+    "title": "HPE security advisory (AV26-543)",
+    "public_time": "2026-06-02T20:02:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-543",
+    "advisory_id": "AV26-543",
+    "type": "advisory",
+    "description": "On June 2, 2026, HPE published security advisories to address vulnerabilities, including some critical ones, in the following products:",
+    "products": [
+        "HPE Telco Network Function Virtualization Orchestrator  version 7.6.0 and prior",
+        "HPE Aruba Networking ArubaOS-CX Switches  version 10.16.1000 and prior",
+        "HPE Aruba Networking ArubaOS-CX Switches  version 10.15.0005 and prior",
+        "HPE Aruba Networking ArubaOS-CX Switches  version 10.13.1080 and prior",
+        "HPE Aruba Networking ArubaOS-CX Switches  version 10.16.1000 and prior"
+    ],
+    "cves": [
+        "CVE-2024-39894"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05062en_us&docLocale=en_US ",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05060en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US "
+    ]
+}
