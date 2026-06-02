@@ -1,0 +1,19 @@
+{
+    "id": "jetbrains-security-advisory-av26-541",
+    "title": "JetBrains security advisory (AV26-541)",
+    "public_time": "2026-06-02T18:22:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-541",
+    "advisory_id": "AV26-541",
+    "type": "advisory",
+    "description": "On May 29, 2026, JetBrains published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "JetBrains IntelliJ IDEA  versions prior to 2026.1.1",
+        "JetBrains TeamCity  versions prior to 2026.1.1 and 2025.11.5",
+        "JetBrains YouTrack  versions prior to 2026.1.13162"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jetbrains.com/privacy-security/issues-fixed/"
+    ]
+}
