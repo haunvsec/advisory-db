@@ -1,0 +1,26 @@
+{
+    "id": "broadcom-vmware-security-advisory-av26-548",
+    "title": "Broadcom VMware security advisory (AV26-548)",
+    "public_time": "2026-06-03T19:49:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-548",
+    "advisory_id": "AV26-548",
+    "type": "advisory",
+    "description": "On June 2, 2026, Broadcom published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "VMware Tanzu GemFire Management Console - versions prior to 1.4.5",
+        "VMware Tanzu Data Lake - versions prior to 4.1.0",
+        "VMware Tanzu for Postgres - versions prior to 18.4.0",
+        "VMware Tanzu for Postgres - versions prior to 17.10.0",
+        "VMware Tanzu for Postgres - versions prior to 16.14.0",
+        "VMware Tanzu for Postgres - versions prior to 15.18.0",
+        "VMware Tanzu for Postgres - versions prior to 14.23.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37582",
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37581",
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37580",
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VT"
+    ]
+}
