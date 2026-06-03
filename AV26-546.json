@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-phoenix-contact-security-advisory-av26-546",
+    "title": "[Control Systems] Phoenix Contact\u00a0Security Advisory (AV26-546)",
+    "public_time": "2026-06-03T15:39:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-546",
+    "advisory_id": "AV26-546",
+    "type": "advisory",
+    "description": "On June 3, 2026, Phoenix Contact published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "CHARX SEC-3150  firmware version prior to 1.9.0",
+        "CHARX SEC-3050  firmware version prior to 1.9.0",
+        "CHARX SEC-3000  firmware version prior to 1.9.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://assets.phoenixcontact.com/file/53de810a-f3f1-454e-b444-d215626d266c/media/original?pcsa-2026-00007_vde-2026-060.pdf ",
+        "https://www.phoenixcontact.com/en-pc/service-and-support/psirt"
+    ]
+}
