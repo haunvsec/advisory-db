@@ -1,0 +1,23 @@
+{
+    "id": "cisco-security-advisory-av26-547",
+    "title": "Cisco security advisory (AV26-547)",
+    "public_time": "2026-06-03T19:22:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-547",
+    "advisory_id": "AV26-547",
+    "type": "advisory",
+    "description": "On June 3, 2026, Cisco published security advisories to address vulnerabilities in multiple products. Included was a critical update for the following:",
+    "products": [
+        "Cisco Unified Communications Manager (CM) Release 14  versions prior to 14SU6",
+        "Cisco Unified Communications Manager (CM) Release 15  versions prior to 15SU5 (Sep 2026) or COP",
+        "Cisco Unified Communications Manager Session Management Edition (CM SME) release 14  versions prior to 14SU6",
+        "Cisco Unified Communications Manager Session Management Edition (CM SME) release 15  versions prior to 15SU5 (Sep 2026) or COP"
+    ],
+    "cves": [
+        "CVE-2026-20230"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssrf-cXPnHcW",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
