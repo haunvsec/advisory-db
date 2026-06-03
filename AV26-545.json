@@ -1,0 +1,22 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-545",
+    "title": "[Control systems] ABB security advisory (AV26-545)",
+    "public_time": "2026-06-03T13:01:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-545",
+    "advisory_id": "AV26-545",
+    "type": "advisory",
+    "description": "On June 3, 2026, ABB published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "T-MAC Plus  versions prior to 4.0-24."
+    ],
+    "cves": [
+        "CVE-2025-14771",
+        "CVE-2025-14772",
+        "CVE-2025-14774"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108472A7840&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
