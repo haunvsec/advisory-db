@@ -1,0 +1,18 @@
+{
+    "id": "docker-security-advisory-av26-550",
+    "title": "Docker security advisory (AV26-550)",
+    "public_time": "2026-06-04T19:31:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-550",
+    "advisory_id": "AV26-550",
+    "type": "advisory",
+    "description": "On June 1, 2026, Docker published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Docker Desktop  versions prior to 4.76.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.docker.com/desktop/release-notes/#4760",
+        "https://docs.docker.com/security/security-announcements/"
+    ]
+}
