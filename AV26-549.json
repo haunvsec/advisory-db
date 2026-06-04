@@ -1,0 +1,23 @@
+{
+    "id": "solarwinds-security-advisory-av26-549",
+    "title": "SolarWinds security advisory (AV26-549)",
+    "public_time": "2026-06-04T18:54:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-549",
+    "advisory_id": "AV26-549",
+    "type": "advisory",
+    "description": "Between June 2 and 3, 2026, SolarWinds published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "SolarWinds Serv-U  versions prior to 15.5.4 HF1",
+        "SolarWinds Web Help Desk  versions prior to 2026.2"
+    ],
+    "cves": [
+        "CVE-2026-28299",
+        "CVE-2026-28318"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2026-28299",
+        "https://www.solarwinds.com/trust-center/security-advisories/cve-2026-28318",
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
