@@ -1,0 +1,29 @@
+{
+    "id": "progress-security-advisory-av26-552",
+    "title": "Progress security advisory (AV26-552)",
+    "public_time": "2026-06-05T17:19:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-552",
+    "advisory_id": "AV26-552",
+    "type": "advisory",
+    "description": "Between June 2 and 4, 2026, Progress published security advisories to address vulnerabilities in the following products. Included was a critical update for the following:",
+    "products": [
+        "Sitefinity CMS and Sitefinity Insight  multiple versions",
+        "Progress Kemp LoadMaster  version GA v7.2.63.1 and prior",
+        "Progress Kemp LoadMaster - version LTSF v7.2.54.17 and prior"
+    ],
+    "cves": [
+        "CVE-2026-7312",
+        "CVE-2026-7198",
+        "CVE-2026-7195",
+        "CVE-2026-7201",
+        "CVE-2026-7313",
+        "CVE-2026-8037",
+        "CVE-2026-33691"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.progress.com/s/article/Sitefinity-Security-Advisory-for-Addressing-Security-Vulnerabilities-CVE-2026-7312-CVE-2026-7198-CVE-2026-7195-CVE-2026-7201-CVE-2026-7313-May-2026",
+        "https://community.progress.com/s/article/LoadMaster-Critical-Security-Bulletin-June-2026-CVE-2026-8037-CVE-2026-33691",
+        "https://www.progress.com/trust-center"
+    ]
+}
