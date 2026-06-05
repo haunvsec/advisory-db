@@ -1,0 +1,20 @@
+{
+    "id": "cisco-security-advisory-av26-551",
+    "title": "Cisco security advisory (AV26-551)",
+    "public_time": "2026-06-05T13:03:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-551",
+    "advisory_id": "AV26-551",
+    "type": "advisory",
+    "description": "On June 4, 2026, Cisco published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Cisco Catalyst SD-WAN Manager"
+    ],
+    "cves": [
+        "CVE-2026-20245"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-privesc-4uxFrdzx",
+        "https://tools.cisco.com/security/center/publicationListing.x"
+    ]
+}
