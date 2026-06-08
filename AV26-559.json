@@ -1,0 +1,21 @@
+{
+    "id": "check-point-security-advisory-av26-559",
+    "title": "Check Point security advisory (AV26-559)",
+    "public_time": "2026-06-08T14:24:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-559",
+    "advisory_id": "AV26-559",
+    "type": "advisory",
+    "description": "On June 8, 2026, Check Point published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Mobile Access / SSL VPN, Remote Access VPN, Spark Firewall   multiple versions",
+        "Security Gateways, Spark Firewall   multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-50751"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://blog.checkpoint.com/security/check-point-releases-important-hotfix-for-vulnerabilities-in-deprecated-ikev1-vpn-protocol/",
+        "https://blog.checkpoint.com/security/"
+    ]
+}
