@@ -1,0 +1,22 @@
+{
+    "id": "spring-security-advisory-av26-558",
+    "title": "Spring security advisory (AV26-558)",
+    "public_time": "2026-06-08T14:18:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-558",
+    "advisory_id": "AV26-558",
+    "type": "advisory",
+    "description": "On June 8, 2026, Spring published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Micrometer / Micrometer-core / jetty11 / jetty12   multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-40984",
+        "CVE-2026-40983"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://spring.io/security/cve-2026-40984",
+        "https://spring.io/security/cve-2026-40983",
+        "https://spring.io/security"
+    ]
+}
