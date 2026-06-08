@@ -1,0 +1,24 @@
+{
+    "id": "ubuntu-security-advisory-av26-555",
+    "title": "Ubuntu security advisory (AV26-555)",
+    "public_time": "2026-06-08T14:01:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-555",
+    "advisory_id": "AV26-555",
+    "type": "advisory",
+    "description": "Between June 1 and 7, 2026, Ubuntu published security notices to address vulnerabilities in the Linux kernel affecting the following products:",
+    "products": [
+        "Ubuntu 14.04 LTS",
+        "Ubuntu 16.04 LTS",
+        "Ubuntu 18.04 LTS",
+        "Ubuntu 20.04 LTS",
+        "Ubuntu 22.04 LTS",
+        "Ubuntu 24.04 LTS",
+        "Ubuntu 25.10",
+        "Ubuntu 26.04 LTS"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://ubuntu.com/security/notices"
+    ]
+}
