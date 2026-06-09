@@ -1,0 +1,18 @@
+{
+    "id": "apache-security-advisory-av26-563",
+    "title": "Apache security advisory (AV26-563)",
+    "public_time": "2026-06-09T12:54:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-563",
+    "advisory_id": "AV26-563",
+    "type": "advisory",
+    "description": "On June 8, 2026, Apache published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Apache HTTP Server  versions prior to 2.4.68"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://httpd.apache.org/security/vulnerabilities_24.html",
+        "https://httpd.apache.org/"
+    ]
+}
