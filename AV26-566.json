@@ -1,0 +1,25 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-566",
+    "title": "[Control systems] Siemens security advisory (AV26-566)",
+    "public_time": "2026-06-09T14:18:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-566",
+    "advisory_id": "AV26-566",
+    "type": "advisory",
+    "description": "On June 9, 2026, Siemens published a security advisory to address vulnerabilities in the following products. Included were updates for the following products:",
+    "products": [
+        "SINEC INS   versions prior to V1.0 SP2 Update 6",
+        "Siemens Products   multiple versions and models",
+        "SIPROTEC 5 - CP100 / CP150 / CP200 / CP300 / Devices   all versions",
+        "SIPROTEC 5 Compact 7SX800 (CP050)   all versions",
+        "Totally Integrated Automation Portal (TIA Portal)   all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://cert-portal.siemens.com/productcert/html/ssa-860189.html",
+        "https://cert-portal.siemens.com/productcert/html/ssa-434797.html",
+        "https://cert-portal.siemens.com/productcert/html/ssa-139483.html",
+        "https://cert-portal.siemens.com/productcert/html/ssa-063511.html",
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
