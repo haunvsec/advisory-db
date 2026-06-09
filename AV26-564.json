@@ -1,0 +1,18 @@
+{
+    "id": "veeam-security-advisory-av26-564",
+    "title": "Veeam security advisory (AV26-564)",
+    "public_time": "2026-06-09T12:59:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-564",
+    "advisory_id": "AV26-564",
+    "type": "advisory",
+    "description": "On June 9, 2026, Veeam published a security advisor to address a critical vulnerability in the following product:",
+    "products": [
+        "Veeam Backup and Replication  versions prior to 12.3.2.4854"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4869",
+        "https://www.veeam.com/knowledge-base.html"
+    ]
+}
