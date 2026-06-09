@@ -1,0 +1,21 @@
+{
+    "id": "hpe-security-advisory-av26-571",
+    "title": "HPE security advisory (AV26-571)",
+    "public_time": "2026-06-09T19:03:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-571",
+    "advisory_id": "AV26-571",
+    "type": "advisory",
+    "description": "On June 9, 2026, HPE published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "HPE Aruba Networking Management Software (Airwave)  version 8.3.0.6 and prior",
+        "HPE Aruba Networking Private 5G Management Dashboard  all versions"
+    ],
+    "cves": [
+        "CVE-2026-42945"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05064en_us&docLocale=en_US#hpesbnw05064-rev-1-status-of-nginx-ngx_http_rewrit-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
