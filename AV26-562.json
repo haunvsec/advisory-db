@@ -1,0 +1,31 @@
+{
+    "id": "sap-security-advisory-june-2026-monthly-rollup-av26-562",
+    "title": "SAP security advisory \u2013 June 2026 monthly rollup (AV26-562)",
+    "public_time": "2026-06-09T12:49:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-june-2026-monthly-rollup-av26-562",
+    "advisory_id": "AV26-562",
+    "type": "advisory",
+    "description": "On June 9, 2026, SAP published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "SAP NetWeaver AS ABAP and ABAP Platform  versions SAP_BASIS 702, SAP_BASIS 731, SAP_BASIS 740, SAP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816, SAP_BASIS 918, SAP_BASIS 919",
+        "SAP NetWeaver AS ABAP and ABAP Platform  versions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 722EXT, 7.53, KERNEL 7.22, 7.53, 7.54, 7.77, 7.89, 7.93, 9.16, 9.18, 91.9",
+        "SAP Commerce Cloud and SAP Data Hub  versions HY_COM 2205, HY_DHUB 2205, COM_CLOUD 2211, 2211-JDK21, DHUB_CLOUD 2211",
+        "SAP NetWeaver Application Server Java (Web Container)  version ENGINEAPI 7.50",
+        "SAP Commerce Cloud  versions HY_COM 2205, COM_CLOUD 2211, 2211-JDK21",
+        "SAP NetWeaver AS ABAP and ABAP Platform  versions SAP_BASIS 700, SAP_BASIS 701, SAP_BASIS 702, SAP_BASIS 731, SAP_BASIS 740, SAP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816",
+        "ODP Data Replication APIs  versions DW4CORE 200, 300, 400, PI_BASIS 2006_1_700, 701, 702, 731, 740, SAP_BW 750, 816",
+        "SAP S/4HANA  versions S4FND 102, 103, 104, 105, 106, 107, 108, 109",
+        "SAP NetWeaver AS Java (JDBC Test Servlet)  version BI_UDI 7.50",
+        "SAP Wily Introscope Enterprise Manager  version WILY_INTRO_ENTERPRISE 10.8",
+        "SAP MDG (Review Match Groups Application)  versions S4CORE 108, SAP_BASIS 916, SAP_BASIS 917, SAP_ABA 816",
+        "SAP Business Objects Business Intelligence Platform  versions ENTERPRISE 430, 2025, 2027",
+        "SAP Fiori (launchpad)  versions SAP_UI 754, 755, 756, 757, 758, 816",
+        "SAP Business Objects  versions ENTERPRISE 430, 2025, 2027",
+        "SAP NetWeaver AS Java  versions SERVERCORE 7.50, CORE-TOOLS 7.50, J2EE-APPS 7.50"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news/june-2026.html"
+    ]
+}
