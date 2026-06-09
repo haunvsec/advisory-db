@@ -1,0 +1,36 @@
+{
+    "id": "adobe-security-advisory-av26-570",
+    "title": "Adobe security advisory (AV26-570)",
+    "public_time": "2026-06-09T18:59:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-570",
+    "advisory_id": "AV26-570",
+    "type": "advisory",
+    "description": "On June 9, 2026, Adobe published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Adobe Experience Manager (AEM)  version AEM Cloud Service (CS)",
+        "Adobe Experience Manager (AEM)  version 6.5 LTS SP1 and prior",
+        "Adobe Experience Manager (AEM)  version SP24 and prior",
+        "Adobe Experience Manager 6.5 LTS  version SP1 and prior",
+        "Adobe Experience Manager 6.5  version 6.5.24.0 and prior",
+        "Adobe InDesign  version ID21.3 and prior",
+        "Adobe InDesign  version ID20.5.3 and prior",
+        "Adobe InCopy  version 21.3 and prior",
+        "Adobe InCopy  version 20.5.3 and prior",
+        "Adobe Substance 3D Sampler  version 6.0.0 and prior",
+        "Content Credentials JS SDK  version @contentauth/c2pa-web@0.8.3 and prior",
+        "Content Credentials Rust SDK  version c2pa-v0.85.1 and prior",
+        "Adobe Dreamweaver  version 21.7 and prior",
+        "Adobe Acrobat  version 26.001.21651 and prior",
+        "Adobe Reader  version 26.001.21651 and prior",
+        "Adobe 2024  version 24.001.30365 and prior",
+        "Adobe ColdFusion 2025  Update 8 and prior",
+        "Adobe ColdFusion 2023  Update 19 and prior",
+        "Adobe Format Plugins  version 1.1.52 and prior",
+        "Adobe Campaign Classic  version ACC v7: 7.4.3 build 9394 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security.html"
+    ]
+}
