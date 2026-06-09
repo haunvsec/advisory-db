@@ -1,0 +1,25 @@
+{
+    "id": "ivanti-security-advisory-av26-567",
+    "title": "Ivanti security advisory (AV26-567)",
+    "public_time": "2026-06-09T15:30:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-567",
+    "advisory_id": "AV26-567",
+    "type": "advisory",
+    "description": "On June 9, 2026, Ivanti published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "Ivanti Sentry   versions 10.5.1, 10.6.1, 10.7.0 and prior",
+        "Ivanti Endpoint Manager Mobile   versions 12.9.0, 12.8.0.2, 12.7.0.1 and prior"
+    ],
+    "cves": [
+        "CVE-2026-10520",
+        "CVE-2026-10523",
+        "CVE-2026-6973",
+        "CVE-2026-10727"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Sentry-CVE-2026-10520-CVE-2026-10523?language=en_US",
+        "https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-CVE-2026-6973-CVE-2026-10727?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
