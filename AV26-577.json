@@ -1,0 +1,23 @@
+{
+    "id": "amd-security-advisory-av26-577",
+    "title": "AMD security advisory (AV26-577)",
+    "public_time": "2026-06-10T14:54:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-577",
+    "advisory_id": "AV26-577",
+    "type": "advisory",
+    "description": "On June 9, 2025, AMD published security advisories to address vulnerabilities in multiple products.",
+    "products": [
+        "Versal Prime Series Gen 2",
+        "Versal AI Edge Series Gen 2",
+        "AMD Management Console (AMC)  versions prior to 14.0.0",
+        "AMD Ryzen Master  versions prior to 2.14.3",
+        "AMD  Prof  versions prior to 5.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-8021.html",
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-9027.html",
+        "https://www.amd.com/en/resources/product-security.html"
+    ]
+}
