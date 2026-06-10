@@ -1,0 +1,27 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-580",
+    "title": "[Control systems] ABB security advisory (AV26-580)",
+    "public_time": "2026-06-10T17:29:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-580",
+    "advisory_id": "AV26-580",
+    "type": "advisory",
+    "description": "On June 10, 2026, ABB published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "PPC3100  versions prior to 1.8.1",
+        "C50  versions prior to 1.8.0",
+        "C80  versions prior to 1.8.0",
+        "FT50  versions prior to 1.8.1",
+        "MT50  versions prior to 1.8.1",
+        "T30  versions prior to 1.8.0",
+        "T80  versions prior to 1.8.0",
+        "T50  versions prior to 1.8.1"
+    ],
+    "cves": [
+        "CVE-2025-31115"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://br-cws-assets.de-fra-1.linodeobjects.com/SA26P009-b2b4dd6d.pdf",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
