@@ -1,0 +1,19 @@
+{
+    "id": "jenkins-security-advisory-av26-578",
+    "title": "Jenkins security advisory (AV26-578)",
+    "public_time": "2026-06-10T17:20:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-578",
+    "advisory_id": "AV26-578",
+    "type": "advisory",
+    "description": "On June 10, 2026, Jenkins published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "Jenkins weekly  version 2.567 and prior",
+        "Jenkins LTS  version 2.555.2 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jenkins.io/security/advisory/2026-06-10/",
+        "https://www.jenkins.io/security/advisories/"
+    ]
+}
