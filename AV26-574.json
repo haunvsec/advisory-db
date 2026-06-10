@@ -1,0 +1,33 @@
+{
+    "id": "spring-security-advisory-av26-574",
+    "title": "Spring security advisory (AV26-574)",
+    "public_time": "2026-06-10T14:29:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-574",
+    "advisory_id": "AV26-574",
+    "type": "advisory",
+    "description": "Between June 9 and 10, 2026, Spring published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Spring AMQP  multiple versions",
+        "Spring Authorization Server  multiple versions",
+        "Spring Web Services  multiple versions",
+        "Spring Web Flow  multiple versions",
+        "Spring REST Docs  multiple versions",
+        "Spring Data Commons  multiple versions",
+        "Spring Data Relational  multiple versions",
+        "Spring Security  multiple versions",
+        "Spring Data MongoDB  multiple versions",
+        "Spring Data JDBC  multiple versions",
+        "Spring Data KeyValue  multiple versions",
+        "Spring Data R2DBC  multiple versions",
+        "Spring Data Redis  multiple versions",
+        "Spring Data REST  multiple versions",
+        "Spring for Apache Kafka  multiple versions",
+        "Spring for Apache Pulsar  multiple versions",
+        "Spring Data Commons (transitively affects all Spring Data store modules)  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://spring.io/security"
+    ]
+}
