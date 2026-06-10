@@ -1,0 +1,23 @@
+{
+    "id": "erlang-security-advisory-av26-581",
+    "title": "Erlang security advisory (AV26-581)",
+    "public_time": "2026-06-10T17:39:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-581",
+    "advisory_id": "AV26-581",
+    "type": "advisory",
+    "description": "On June 10, 2026, Erlang published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "OTP  versions prior to 27.3.4.13, 28.5.0.2 and 29.0.2",
+        "erts (OTP)  versions prior to 15.2.7.9, 16.4.0.2 and 17.0.2",
+        "inets (otp)  versions prior to 9.7.1, 9.6.2.2 and 9.3.2.6",
+        "ssl (OTP)  versions prior to 11.7.2, 11.6.0.2 and 11.2.12.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/erlang/otp/security/advisories/GHSA-6f4f-chj5-5g97",
+        "https://github.com/erlang/otp/security/advisories/GHSA-gp7x-mfv6-52cv",
+        "https://github.com/erlang/otp/security/advisories/GHSA-m75x-4vwg-ggjh",
+        "https://github.com/erlang/otp/security"
+    ]
+}
