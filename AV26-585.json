@@ -1,0 +1,18 @@
+{
+    "id": "broadcom-vmware-security-advisory-av26-585",
+    "title": "Broadcom VMware security advisory (AV26-585)",
+    "public_time": "2026-06-10T18:41:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-585",
+    "advisory_id": "AV26-585",
+    "type": "advisory",
+    "description": "On June 9, 2026, Broadcom published a security advisory to address vulnerabilities in the following product. Included was a critical update for the following:",
+    "products": [
+        "VMware Tanzu for Valkey on Kubernetes  versions prior to 3.4.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37636",
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VT"
+    ]
+}
