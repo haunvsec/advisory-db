@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-573",
+    "title": "HPE security advisory (AV26-573)",
+    "public_time": "2026-06-10T14:23:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-573",
+    "advisory_id": "AV26-573",
+    "type": "advisory",
+    "description": "On June 9, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE ProLiant RL300 Gen11  versions prior to 1.84_04-02-2026"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05057en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
