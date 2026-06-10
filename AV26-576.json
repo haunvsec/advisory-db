@@ -1,0 +1,17 @@
+{
+    "id": "freebsd-security-advisory-av26-576",
+    "title": "FreeBSD security advisory (AV26-576)",
+    "public_time": "2026-06-10T14:43:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freebsd-security-advisory-av26-576",
+    "advisory_id": "AV26-576",
+    "type": "advisory",
+    "description": "On June 9, 2026, FreeBSD published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "FreeBSD  all supported versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.freebsd.org/security/advisories/"
+    ]
+}
