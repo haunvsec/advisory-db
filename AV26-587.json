@@ -1,0 +1,21 @@
+{
+    "id": "oracle-security-advisory-av26-587",
+    "title": "Oracle security advisory (AV26-587)",
+    "public_time": "2026-06-11T13:56:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-587",
+    "advisory_id": "AV26-587",
+    "type": "advisory",
+    "description": "On June 10, 2026, Oracle published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "PeopleSoft Enterprise PeopleTools  versions 8.61 and 8.62"
+    ],
+    "cves": [
+        "CVE-2026-35273",
+        "CVE-2026-35273"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.oracle.com/security-alerts/alert-cve-2026-35273.html",
+        "https://www.oracle.com/security-alerts/"
+    ]
+}
