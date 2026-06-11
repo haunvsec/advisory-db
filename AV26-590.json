@@ -1,0 +1,20 @@
+{
+    "id": "check-point-security-advisory-av26-590",
+    "title": "Check Point security advisory (AV26-590)",
+    "public_time": "2026-06-11T18:32:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-590",
+    "advisory_id": "AV26-590",
+    "type": "advisory",
+    "description": "On June 11, 2026, Check Point published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Identity Agent  versions prior to 81.087.0000"
+    ],
+    "cves": [
+        "CVE-2026-10847"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.checkpoint.com/results/sk/sk185052",
+        "Check Point Security"
+    ]
+}
