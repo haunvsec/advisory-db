@@ -1,0 +1,21 @@
+{
+    "id": "spring-security-advisory-av26-592",
+    "title": "Spring security advisory (AV26-592)",
+    "public_time": "2026-06-12T13:46:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-592",
+    "advisory_id": "AV26-592",
+    "type": "advisory",
+    "description": "Between June 10 and 11, 2026, Spring published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Spring Cloud Sleuth  versions 3.1.0 to 3.1.13",
+        "Spring Statemachine  multiple versions",
+        "Spring Cloud Gateway  multiple versions",
+        "Spring Integration  multiple versions",
+        "Spring for GraphQL  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://spring.io/security"
+    ]
+}
