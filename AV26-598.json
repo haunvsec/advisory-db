@@ -1,0 +1,24 @@
+{
+    "id": "dell-security-advisory-av26-598",
+    "title": "Dell security advisory (AV26-598)",
+    "public_time": "2026-06-15T13:09:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-598",
+    "advisory_id": "AV26-598",
+    "type": "advisory",
+    "description": "Between June 8 and 14, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell NativeEdge Orchestrator   versions prior to 4.2.0.0",
+        "iDRAC Tools   versions prior to 11.4.1.0",
+        "PowerEdge   multiple versions",
+        "PowerScale   multiple versions",
+        "PowerStore   multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000476054/dsa-2026-273-dell-powerstore-t-security-update-for-multiple-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000475534/dsa-2026-256-security-update-for-dell-native-edge-orchestrator-eo",
+        "https://www.dell.com/support/kbdoc/en-ca/000474822/dsa-2026-237-security-update-for-dell-powerscale-onefs-multiple-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
