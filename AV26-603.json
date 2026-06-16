@@ -1,0 +1,18 @@
+{
+    "id": "zyxel-security-advisory-av26-603",
+    "title": "Zyxel security advisory (AV26-603)",
+    "public_time": "2026-06-16T13:48:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-603",
+    "advisory_id": "AV26-603",
+    "type": "advisory",
+    "description": "On June 16, 2026, Zyxel published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GS1900 series switches  multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-stack-based-buffer-overflow-vulnerability-in-gs1900-series-switches-06-16-2026",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
