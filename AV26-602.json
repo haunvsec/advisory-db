@@ -1,0 +1,23 @@
+{
+    "id": "cisco-security-advisory-av26-602",
+    "title": "Cisco security advisory (AV26-602)",
+    "public_time": "2026-06-16T12:26:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-602",
+    "advisory_id": "AV26-602",
+    "type": "advisory",
+    "description": "On June 15, 2026, Cisco published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Cisco Catalyst SD-WAN Manager  multiple versions and all deployment types"
+    ],
+    "cves": [
+        "CVE-2026-20262",
+        "CVE-2026-20262",
+        "CVE-2026-20262"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-arbfw-c2rZvQ",
+        "https://tools.cisco.com/security/center/publicationListing.x",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20262"
+    ]
+}
