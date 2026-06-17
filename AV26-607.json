@@ -1,0 +1,19 @@
+{
+    "id": "microsoft-security-advisory-av26-607",
+    "title": "Microsoft security advisory (AV26-607)",
+    "public_time": "2026-06-17T15:36:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-607",
+    "advisory_id": "AV26-607",
+    "type": "advisory",
+    "description": "On June 16, 2026, Microsoft published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Microsoft Malware Protection Engine"
+    ],
+    "cves": [
+        "CVE-2026-50656"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-50656"
+    ]
+}
