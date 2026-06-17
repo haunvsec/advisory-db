@@ -1,0 +1,19 @@
+{
+    "id": "mitel-security-advisory-av26-611",
+    "title": "Mitel security advisory (AV26-611)",
+    "public_time": "2026-06-17T18:00:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-611",
+    "advisory_id": "AV26-611",
+    "type": "advisory",
+    "description": "On June 17, 2026, Mitel published a security advisory to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "MiCollab - multiple versions",
+        "MiVoice Business Solution Virtual Instance (MiVB SVI) - version 2.1.0.9-2 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2026-0005",
+        "https://www.mitel.com/support/security-advisories"
+    ]
+}
