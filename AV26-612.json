@@ -1,0 +1,26 @@
+{
+    "id": "f5-security-advisory-av26-612",
+    "title": "F5 security advisory (AV26-612)",
+    "public_time": "2026-06-17T18:14:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-612",
+    "advisory_id": "AV26-612",
+    "type": "advisory",
+    "description": "On June 17, 2026, F5 published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "F5 DoS for NGINX - version 4.9.0",
+        "F5 WAF for NGINX Instance Manager - versions 5.9.0 to 5.13.1",
+        "NGINX App Protect DoS - versions 4.3.0 to 4.7.0",
+        "NGINX App Protect WAF - versions 5.2.0 to 5.8.0 and 4.10.0 to 4.16.0",
+        "NGINX Open Source - versions 1.30.0 to 1.30.2 and 1.31.0 to 1.31.1",
+        "NGINX Instance Manager - versions 2.17.0 to 2.22.0",
+        "NGINX Gateway Fabric - multiple versions",
+        "NGINX Ingress Controller - multiple versions",
+        "NGINX Plus - version 37.0.0 R33 to 37.01 R36"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://my.f5.com/manage/s/article/K000161614",
+        "https://my.f5.com/manage/s/article/K12201527"
+    ]
+}
