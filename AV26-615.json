@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av26-615",
+    "title": "Drupal security advisory (AV26-615)",
+    "public_time": "2026-06-18T17:26:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-615",
+    "advisory_id": "AV26-615",
+    "type": "advisory",
+    "description": "On June 17, 2026, Drupal published security advisories to address vulnerabilities in a number of products. Included were critical updates for the following:",
+    "products": [
+        "Drupal core  multiple versions",
+        "Plotly.js Graphing  versions prior to 3.0.2",
+        "Flag attendance field  versions prior to 8.x-1.2",
+        "Formatter Field  versions prior to 2.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/security"
+    ]
+}
