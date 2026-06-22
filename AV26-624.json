@@ -1,0 +1,20 @@
+{
+    "id": "nodejs-security-advisory-av26-624",
+    "title": "Nodejs security advisory (AV26-624)",
+    "public_time": "2026-06-22T17:50:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-624",
+    "advisory_id": "AV26-624",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "js 22  versions ant rieures   v22.23.0;",
+        "js 24  versions ant rieures   v24.17.0;",
+        "js 26  versions ant rieures   v26.3.1."
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://nodejs.org/en/blog/vulnerability/june-2026-security-releases",
+        "https://nodejs.org/en/blog/release/"
+    ]
+}
