@@ -1,0 +1,32 @@
+{
+    "id": "broadcom-vmware-security-advisory-av26-625",
+    "title": "Broadcom VMware security advisory (AV26-625)",
+    "public_time": "2026-06-23T15:00:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-625",
+    "advisory_id": "AV26-625",
+    "type": "advisory",
+    "description": "Between June 22 and 23, 2026, Broadcom published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "VMware Tanzu Data Flow on Kubernetes   versions prior to 2.1.3",
+        "VMware Tanzu Greenplum Backup and Restore   versions prior to 1.33.2",
+        "VMware Tanzu Greenplum Platform Extension Framework   versions prior to 8.0.1",
+        "VMware Tanzu RabbitMQ on Kubernetes   versions prior to 3.13.17",
+        "VMware Tanzu RabbitMQ on Kubernetes   versions prior to 4.0.22",
+        "VMware Tanzu RabbitMQ on Kubernetes   versions prior to 4.1.13",
+        "VMware Tanzu RabbitMQ on Kubernetes   versions prior to 4.2.8",
+        "VMware Tanzu RabbitMQ on Kubernetes   versions prior to 4.3.2",
+        "VMware Tanzu GemFire   versions prior to 10.1.8",
+        "VMware Tanzu RabbitMQ   versions prior to 3.13.17",
+        "VMware Tanzu RabbitMQ   versions prior to 4.0.22",
+        "VMware Tanzu RabbitMQ   versions prior to 4.1.13",
+        "VMware Tanzu RabbitMQ   versions prior to 4.2.8",
+        "VMware Tanzu RabbitMQ   versions prior to 4.3.2",
+        "VMware Tanzu Greenplum   versions prior to 6.33.2",
+        "VMware Tanzu Greenplum   versions prior to 7.8.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VT"
+    ]
+}
