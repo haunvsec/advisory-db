@@ -1,0 +1,18 @@
+{
+    "id": "tenable-security-advisory-av26-627",
+    "title": "Tenable security advisory (AV26-627)",
+    "public_time": "2026-06-24T13:23:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-627",
+    "advisory_id": "AV26-627",
+    "type": "advisory",
+    "description": "On June 23, 2026, Tenable published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "Tenable Identity Exposure  versions prior to 3.93.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-16",
+        "https://www.tenable.com/security"
+    ]
+}
