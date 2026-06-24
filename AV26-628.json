@@ -1,0 +1,23 @@
+{
+    "id": "n8n-security-advisory-av26-628",
+    "title": "n8n security advisory (AV26-628)",
+    "public_time": "2026-06-24T18:16:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-628",
+    "advisory_id": "AV26-628",
+    "type": "advisory",
+    "description": "On June 24, 2026, n8n published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "n8n  versions prior to 2.28.1",
+        "n8n  versions prior to 2.27.4",
+        "n8n  versions prior to 1.123.61"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-h44j-f5r5-ph73",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-75qm-gp28-rcq9",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-mq3m-f8x3-579w",
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-q3j5-8vrg-4p9q",
+        "https://github.com/n8n-io/n8n/security"
+    ]
+}
