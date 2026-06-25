@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-632",
+    "title": "HPE security advisory (AV26-632)",
+    "public_time": "2026-06-25T11:47:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-632",
+    "advisory_id": "AV26-632",
+    "type": "advisory",
+    "description": "On June 24, 2026, HPE published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "HPE Unified Correlation Analyzer (UCA)  versions prior to 4.4.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05073en_us&docLocale=en_US#hpesbnw05073-rev-1-hpe-telco-unified-correlation-a-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
