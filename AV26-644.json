@@ -1,0 +1,18 @@
+{
+    "id": "mozilla-security-advisory-av26-644",
+    "title": "Mozilla security advisory (AV26-644)",
+    "public_time": "2026-06-30T17:38:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-644",
+    "advisory_id": "AV26-644",
+    "type": "advisory",
+    "description": "On June 30, 2026, Mozilla published a security advisory to address a vulnerability in the following product:",
+    "products": [
+        "Firefox  versions prior to 152.04"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mozilla.org/en-US/security/advisories/mfsa2026-62/",
+        "https://www.mozilla.org/en-US/security/advisories/"
+    ]
+}
