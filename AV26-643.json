@@ -1,0 +1,18 @@
+{
+    "id": "wolfssl-security-advisory-av26-643",
+    "title": "wolfSSL security advisory (AV26-643)",
+    "public_time": "2026-06-30T14:24:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-643",
+    "advisory_id": "AV26-643",
+    "type": "advisory",
+    "description": "On June 23, 2026, wolfSSL published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "wolfSSL   versions prior to 5.9.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/wolfSSL/wolfssl/releases/tag/v5.9.2-stable",
+        "https://github.com/wolfSSL/wolfssl/releases"
+    ]
+}
