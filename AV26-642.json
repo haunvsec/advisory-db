@@ -1,0 +1,23 @@
+{
+    "id": "simplehelp-security-advisory-av26-642",
+    "title": "SimpleHelp security advisory (AV26-642)",
+    "public_time": "2026-06-30T12:28:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/simplehelp-security-advisory-av26-642",
+    "advisory_id": "AV26-642",
+    "type": "advisory",
+    "description": "On May 26, 2026, SimpleHelp published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "SimpleHelp   versions 5.5.0 to versions prior to 5.5.16",
+        "SimpleHelp   versions 6.0 to versions prior to 6.0 RC2"
+    ],
+    "cves": [
+        "CVE-2026-48558",
+        "CVE-2026-48558"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://simple-help.com/security/simplehelp-security-update-2026-05",
+        "https://simple-help.com/release-news",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48558"
+    ]
+}
