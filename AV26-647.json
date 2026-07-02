@@ -1,0 +1,21 @@
+{
+    "id": "adobe-security-advisory-av26-647",
+    "title": "Adobe security advisory (AV26-647)",
+    "public_time": "2026-07-02T17:36:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-647",
+    "advisory_id": "AV26-647",
+    "type": "advisory",
+    "description": "On June 30, 2026, Adobe published security advisories to address critical vulnerabilities in the following products:",
+    "products": [
+        "Adobe ColdFusion 2025  Update 9 and prior",
+        "Adobe ColdFusion 2023  Update 20 and prior",
+        "Adobe Campaign Classic  version ACC v7: 7.4.3 build 9396 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://helpx.adobe.com/security/products/coldfusion/apsb26-68.html",
+        "https://helpx.adobe.com/security/products/campaign/apsb26-69.html",
+        "https://helpx.adobe.com/security.html"
+    ]
+}
