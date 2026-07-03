@@ -1,0 +1,20 @@
+{
+    "id": "erlang-security-advisory-av26-651",
+    "title": "Erlang security advisory (AV26-651)",
+    "public_time": "2026-07-03T18:41:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-651",
+    "advisory_id": "AV26-651",
+    "type": "advisory",
+    "description": "On July 2, 2026, Erlang published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "OTP  versions prior to 27.3.4.14, 28.5.0.3 and 29.0.3",
+        "SSL (OTP)  versions prior to 11.7.3, 11.6.0.3 and 11.2.12.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/erlang/otp/security/advisories/GHSA-8c57-44c9-pc59",
+        "https://github.com/erlang/otp/security/advisories/GHSA-hwfc-5hf4-gvr3",
+        "https://github.com/erlang/otp/security"
+    ]
+}
