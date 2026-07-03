@@ -1,0 +1,25 @@
+{
+    "id": "github-security-advisory-av26-650",
+    "title": "GitHub security advisory (AV26-650)",
+    "public_time": "2026-07-03T18:36:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-650",
+    "advisory_id": "AV26-650",
+    "type": "advisory",
+    "description": "On June 30, 2026, GitHub published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "GitHub Enterprise Server  versions 3.21.x prior to 3.21.2",
+        "GitHub Enterprise Server  versions 3.20.x prior to 3.20.4",
+        "GitHub Enterprise Server  versions 3.19.x prior to 3.19.8",
+        "GitHub Enterprise Server  versions 3.18.x prior to 3.18.11",
+        "GitHub Enterprise Server  versions 3.17.x prior to 3.17.17"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.github.com/en/enterprise-server@3.21/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.20/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.19/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.18/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.17/admin/release-notes"
+    ]
+}
