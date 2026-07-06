@@ -1,0 +1,25 @@
+{
+    "id": "dell-security-advisory-av26-654",
+    "title": "Dell security advisory (AV26-654)",
+    "public_time": "2026-07-06T13:16:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-654",
+    "advisory_id": "AV26-654",
+    "type": "advisory",
+    "description": "Between June 29 and July 5, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell Cyber Recovery   versions prior to 20.1.0.0",
+        "Dell Data Protection Advisor   versions 19.9 to 19.12 SP2",
+        "Dell Networker   versions prior to 8.0.29",
+        "Dell Networker   versions prior to 17.0.5",
+        "Dell OpenManage Enterprise Modular   versions prior to 20.20.20",
+        "Dell PowerProtect Cyber Recovery   versions prior to cyber-recovery-osupdate-15.4.0-18.bin",
+        "Dell PowerProtect Data Manager Appliance DM5500   versions prior to 5.20.1.0",
+        "SupportAssist for Business PCs   versions prior to 5.1.1.3567",
+        "SupportAssist for Home PCs   versions prior to 5.0.2.2900"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
