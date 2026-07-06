@@ -1,0 +1,18 @@
+{
+    "id": "openssh-security-advisory-av26-658",
+    "title": "OpenSSH security advisory (AV26-658)",
+    "public_time": "2026-07-06T13:51:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av26-658",
+    "advisory_id": "AV26-658",
+    "type": "advisory",
+    "description": "On July 6, 2026, OpenSSH published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "OpenSSH   versions prior to 10.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.openssh.org/releasenotes.html",
+        "https://www.openssh.com/"
+    ]
+}
