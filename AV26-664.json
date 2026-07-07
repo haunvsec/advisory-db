@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-664",
+    "title": "[Control systems] ABB security advisory (AV26-664)",
+    "public_time": "2026-07-07T15:32:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-664",
+    "advisory_id": "AV26-664",
+    "type": "advisory",
+    "description": "On July 6, 2026, ABB published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "ABB Ability zenon  all versions",
+        "APROL  versions prior to R 4.4-01P5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108472A7840&LanguageCode=en&DocumentPartId=&Action=Launch",
+        "https://br-cws-assets.de-fra-1.linodeobjects.com/SA26P011-661853b7.pdf",
+        "https://global.abb/group/en/technology/cyber-security/alerts-and-notifications"
+    ]
+}
