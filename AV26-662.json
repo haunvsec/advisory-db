@@ -1,0 +1,15 @@
+{
+    "id": "android-security-advisory-july-2026-monthly-rollup-av26-662",
+    "title": "Android security advisory \u2013 July 2026 monthly rollup (AV26-662)",
+    "public_time": "2026-07-07T15:30:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2026-monthly-rollup-av26-662",
+    "advisory_id": "AV26-662",
+    "type": "advisory",
+    "description": "On July 6, 2026, Android published a security bulletin to address vulnerabilities affecting Android devices.",
+    "products": [
+        "Android Security Bulletin  July 2026"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
