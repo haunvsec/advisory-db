@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-668",
+    "title": "HPE security advisory (AV26-668)",
+    "public_time": "2026-07-07T19:35:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-668",
+    "advisory_id": "AV26-668",
+    "type": "advisory",
+    "description": "On July 7, 2026, HPE published security advisories to address vulnerabilities in multiple products. Included were updates for the following:",
+    "products": [
+        "HPE Aruba Networking Private 5G Core   1.26.1.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05077en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
