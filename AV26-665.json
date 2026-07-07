@@ -1,0 +1,17 @@
+{
+    "id": "samsung-mobile-security-advisory-av26-665",
+    "title": "Samsung mobile security advisory (AV26-665)",
+    "public_time": "2026-07-07T15:37:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/samsung-mobile-security-advisory-av26-665",
+    "advisory_id": "AV26-665",
+    "type": "advisory",
+    "description": "On July 7, 2026, Samsung published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Samsung mobile devices  versions prior to SMR-JUL-2026 Release 1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.samsungmobile.com/securityUpdate.smsb?year=2026&month=07"
+    ]
+}
