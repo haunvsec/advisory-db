@@ -1,0 +1,18 @@
+{
+    "id": "zimbra-security-advisory-av26-667",
+    "title": "Zimbra security advisory (AV26-667)",
+    "public_time": "2026-07-07T15:44:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-667",
+    "advisory_id": "AV26-667",
+    "type": "advisory",
+    "description": "On July 7, 2026, Zimbra published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Zimbra Daffodil  versions prior to v10.1.19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://blog.zimbra.com/2026/07/patch-release-update-zimbra-10-1-19/",
+        "https://blog.zimbra.com/"
+    ]
+}
