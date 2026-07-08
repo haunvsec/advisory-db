@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av26-677",
+    "title": "GitLab security advisory (AV26-677)",
+    "public_time": "2026-07-08T19:04:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-677",
+    "advisory_id": "AV26-677",
+    "type": "advisory",
+    "description": "On July 8, 2026, GitLab published a security advisory to address vulnerabilities in the following products:",
+    "products": [
+        "GitLab Community Edition (CE)  versions prior to 19.1.2, 19.0.4 and 18.11.7",
+        "GitLab Enterprise Edition (EE)  versions prior to 19.1.2, 19.0.4 and 18.11.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-1-2-released/?nav=19.1.2 ",
+        "https://about.gitlab.com/releases/categories/releases/"
+    ]
+}
