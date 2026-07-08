@@ -1,0 +1,41 @@
+{
+    "id": "palo-alto-networks-security-advisory-av26-674",
+    "title": "Palo Alto Networks security advisory (AV26-674)",
+    "public_time": "2026-07-08T17:34:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-674",
+    "advisory_id": "AV26-674",
+    "type": "advisory",
+    "description": "On July 8, 2026, Palo Alto Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "PAN-OS 12.1  versions prior to 12.1.4-h8",
+        "PAN-OS 12.1  versions prior to 12.1.7-h2",
+        "PAN-OS 12.1  versions prior to 12.1.8",
+        "PAN-OS 11.2  versions prior to 11.2.4-h20",
+        "PAN-OS 11.2  versions prior to 11.2.7-h18",
+        "PAN-OS 11.2  versions prior to 11.2.10-h12",
+        "PAN-OS 11.2  versions prior to 11.2.13",
+        "PAN-OS 11.1  versions prior to 11.1.4-h35",
+        "PAN-OS 11.1  versions prior to 11.1.6-h35",
+        "PAN-OS 11.1  versions prior to 11.1.7.h8",
+        "PAN-OS 11.1  versions prior to 11.1.10-h30",
+        "PAN-OS 11.1  versions prior to 11.1.13-h9",
+        "PAN-OS 11.1  versions prior to 11.1.16",
+        "PAN-OS 10.2  versions prior to 10.2.7-h36",
+        "PAN-OS 10.2  versions prior to 10.2.10-h39",
+        "PAN-OS 10.2  versions prior to 10.2.13-h23",
+        "PAN-OS 10.2  versions prior to 10.2.16-h9",
+        "PAN-OS 10.2  versions prior to 10.2.18-h8",
+        "Prisma Access 11.20.0  versions prior to 11.2.7-h18",
+        "Prisma Access 10.2.0  versions prior to 10.2.10-h39",
+        "Prisma Browser  versions prior to 149.10.3.53"
+    ],
+    "cves": [
+        "CVE-2026-0288"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.paloaltonetworks.com/PAN-SA-2026-0010",
+        "https://security.paloaltonetworks.com/CVE-2026-0288",
+        "https://security.paloaltonetworks.com/"
+    ]
+}
