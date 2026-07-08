@@ -1,0 +1,30 @@
+{
+    "id": "juniper-networks-security-advisory-av26-675",
+    "title": "Juniper Networks security advisory (AV26-675)",
+    "public_time": "2026-07-08T17:57:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-675",
+    "advisory_id": "AV26-675",
+    "type": "advisory",
+    "description": "On July 8, 2026, Juniper Networks published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Juniper cRPD  all versions",
+        "Juniper CTPView  all versions",
+        "Juniper Network Director  versions prior to 7.1R3",
+        "Junos OS  multiple versions",
+        "Junos OS Evolved  all versions",
+        "Junos OS on MX Series with SPC3 and SRX Series  multiple versions",
+        "Junos Space  all versions"
+    ],
+    "cves": [
+        "CVE-2020-7450",
+        "CVE-2026-33799"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-CTPView-Multiple-vulnerabilities-resolved-in-9-3R2-3-Release",
+        "https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-Junos-Space-Multiple-vulnerabilities-resolved-in-26-1R1-Patch-V1-Release",
+        "https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-Junos-OS-Evolved-URL-handling-vulnerability-in-libfetch-results-in-heap-buffer-overflow-CVE-2020-7450",
+        "https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Receipt-of-a-specific-SNMPv3-request-results-in-memory-leak-and-eventual-snmpd-crash-CVE-2026-33799",
+        "https://supportportal.juniper.net/s/global-search/%40uri#f-sf_primarysourcename=Knowledge"
+    ]
+}
