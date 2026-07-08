@@ -1,0 +1,20 @@
+{
+    "id": "tanium-security-advisory-av26-673",
+    "title": "Tanium security advisory (AV26-673)",
+    "public_time": "2026-07-08T15:50:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-673",
+    "advisory_id": "AV26-673",
+    "type": "advisory",
+    "description": "On July 7, 2026, Tanium published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "Tanium Server 2025H1 Release  versions prior to Update MR21 (v7.7.3.8298)",
+        "Tanium Server 2025H2 Release  versions prior to Update MR11 (v7.8.2.1198)",
+        "Tanium Server 2026H1 Release  versions prior to Update MR3 (v7.8.4.1327)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://security.tanium.com/TAN-2026-016/",
+        "https://security.tanium.com/"
+    ]
+}
