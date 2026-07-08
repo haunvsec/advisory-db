@@ -1,0 +1,22 @@
+{
+    "id": "langflow-security-advisory-av26-670",
+    "title": "Langflow security advisory (AV26-670)",
+    "public_time": "2026-07-08T13:05:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/langflow-security-advisory-av26-670",
+    "advisory_id": "AV26-670",
+    "type": "advisory",
+    "description": "On July 7, 2026, Langflow updated a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Langflow  versions prior to 1.9.1"
+    ],
+    "cves": [
+        "CVE-2026-55255",
+        "CVE-2026-55255",
+        "CVE-2026-55255"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisories.gitlab.com/pypi/langflow/CVE-2026-55255/",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-55255"
+    ]
+}
