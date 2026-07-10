@@ -1,0 +1,18 @@
+{
+    "id": "bitwarden-security-advisory-av26-683",
+    "title": "BitWarden security advisory (AV26-683)",
+    "public_time": "2026-07-10T19:57:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/bitwarden-security-advisory-av26-683",
+    "advisory_id": "AV26-683",
+    "type": "advisory",
+    "description": "On July 8, 2026, BitWarden published security advisories to address a vulnerability in the following product:",
+    "products": [
+        "Bitwarden Server  versions prior to 2026.6.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/bitwarden/server/releases/tag/v2026.6.2",
+        "https://bitwarden.com/"
+    ]
+}
