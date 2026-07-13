@@ -1,0 +1,29 @@
+{
+    "id": "ibm-security-advisory-av26-684",
+    "title": "IBM security advisory (AV26-684)",
+    "public_time": "2026-07-13T12:53:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-684",
+    "advisory_id": "AV26-684",
+    "type": "advisory",
+    "description": "Between July 6 and 12, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM Aspera Enterprise WebApps  versions 1.0.0 to 1.0.3",
+        "IBM Cloud Pak System  versions prior to 2.3.5.0",
+        "IBM Cloud Pak for Data System (CPDS)  versions 1.0.0.0 to 1.0.10.0",
+        "IBM Guardium Data Protection  versions prior to 12.2",
+        "IBM Library Support for Spring  versions 3.2 to 3.2.26 and 3.4 to 3.4.18",
+        "IBM Maximo Application Suite  Monitor Component  versions prior to 9.1 and 9.0",
+        "IBM Operational Decision Manager  multiple versions",
+        "IBM Planning Analytics Local  versions 2.1.0 to 2.1.21",
+        "IBM RDi  version 9.9",
+        "IBM SPSS Modeler  versions prior to 19.0.0.0",
+        "IBM Software Support App (iOS) / (Android)  versions 4.0.1 to 4.1.0",
+        "IBM Storage Protect Snapshot For Windows  versions 8.1.0.0 to 8.2.1.0",
+        "IBM Tivoli Network Manager IP Edition  versions 4.2 GA to 4.2.0.24"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
