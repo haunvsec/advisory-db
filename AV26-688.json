@@ -1,0 +1,20 @@
+{
+    "id": "red-hat-security-advisory-av26-688",
+    "title": "Red Hat security advisory (AV26-688)",
+    "public_time": "2026-07-13T12:59:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-688",
+    "advisory_id": "AV26-688",
+    "type": "advisory",
+    "description": "Between July 6 and 12, 2026, Red Hat published security advisories to address vulnerabilities in multiple products. Included were updates to address vulnerabilities in the Linux kernel for the following products:",
+    "products": [
+        "Red Hat CodeReady Linux Builder  multiple versions and platforms",
+        "Red Hat Enterprise Linux  multiple versions and platforms",
+        "Red Hat Enterprise Linux Server  multiple versions and platforms",
+        "Red Hat Enterprise Linux for Real Time  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://access.redhat.com/security/security-updates/security-advisories"
+    ]
+}
