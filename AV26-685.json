@@ -1,0 +1,20 @@
+{
+    "id": "dell-security-advisory-av26-685",
+    "title": "Dell security advisory (AV26-685)",
+    "public_time": "2026-07-13T12:54:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-685",
+    "advisory_id": "AV26-685",
+    "type": "advisory",
+    "description": "Between July 6 and 12, 2026, Dell published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "Dell Data Lakehouse  versions prior to 1.8.0.1",
+        "Dell Enterprise SONiC Distribution  versions prior to 4.6.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.dell.com/support/kbdoc/en-ca/000487165/dsa-2026-291-security-update-for-dell-data-lakehouse-third-party-component-vulnerabilities",
+        "https://www.dell.com/support/kbdoc/en-ca/000486907/dsa-2026-290-security-update-for-dell-enterprise-sonic-distribution-vulnerabilities",
+        "https://www.dell.com/support/security/en-ca"
+    ]
+}
