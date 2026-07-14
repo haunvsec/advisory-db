@@ -1,0 +1,28 @@
+{
+    "id": "sonicwall-security-advisory-av26-699",
+    "title": "SonicWall security advisory (AV26-699) \u2013 Update 1",
+    "public_time": "2026-07-14T20:27:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-699",
+    "advisory_id": "AV26-699",
+    "type": "advisory",
+    "description": "On July 14, 2026, SonicWall published a security advisory to address critical vulnerabilities in the following products:",
+    "products": [
+        "SMA1000 Models (6210, 7210 & 8200v) - version 12.4.3-03245, 12.4.3-03387 and 12.4.3-03434 (platform-hotfix)",
+        "SMA1000 Models (6210, 7210 & 8200v) - version 12.5.0-02283, 12.5.0-02624 and 12.5.0-02800 (platform-hotfix)"
+    ],
+    "cves": [
+        "CVE-2026-15409",
+        "CVE-2026-15410",
+        "CVE-2026-15409",
+        "CVE-2026-15410",
+        "CVE-2026-15409",
+        "CVE-2026-15410"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0008",
+        "https://psirt.global.sonicwall.com/vuln-list ",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-15409",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-15410"
+    ]
+}
