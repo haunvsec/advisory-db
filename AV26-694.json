@@ -1,0 +1,18 @@
+{
+    "id": "veeam-security-advisory-av26-694",
+    "title": "Veeam security advisory (AV26-694)",
+    "public_time": "2026-07-14T15:44:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-694",
+    "advisory_id": "AV26-694",
+    "type": "advisory",
+    "description": "On July 14, 2026, Veeam published a security advisor to address a critical vulnerability in the following product:",
+    "products": [
+        "Veeam Software Appliance Updater Component   versions prior to 12.3.0.65"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.veeam.com/kb4879 ",
+        "https://www.veeam.com/knowledge-base.html "
+    ]
+}
