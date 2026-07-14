@@ -1,0 +1,22 @@
+{
+    "id": "fortinet-security-advisory-av26-695",
+    "title": "Fortinet security advisory (AV26-695)",
+    "public_time": "2026-07-14T18:38:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-695",
+    "advisory_id": "AV26-695",
+    "type": "advisory",
+    "description": "On July 14, 2026, Fortinet published security advisories to address vulnerabilities in multiple products:",
+    "products": [
+        "FortiAuthenticator 6.6 - versions 6.6.0 to 6.6.2",
+        "FortiAuthenticator 6.5 - versions 6.5.0 to 6.5.7",
+        "FortiSandbox 5.0 - versions 5.0.0 to 5.0.2",
+        "FortiSandbox 4.4 - versions 4.4.3 to 4.4.8"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.fortiguard.com/psirt/FG-IR-26-146",
+        "https://www.fortiguard.com/psirt/FG-IR-26-145",
+        "https://www.fortiguard.com/psirt?filter=1&version=&severity=5&severity=4&severity=3&severity=2"
+    ]
+}
