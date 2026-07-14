@@ -1,0 +1,21 @@
+{
+    "id": "ivanti-security-advisory-av26-696",
+    "title": "Ivanti security advisory (AV26-696)",
+    "public_time": "2026-07-14T19:07:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-696",
+    "advisory_id": "AV26-696",
+    "type": "advisory",
+    "description": "On July 14, 2026, Ivanti published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Ivanti Xtraction  version 2026.2 and prior"
+    ],
+    "cves": [
+        "CVE-2026-14902",
+        "CVE-2026-14903"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Xtraction-CVE-2026-14902-CVE-2026-14903?language=en_US",
+        "https://forums.ivanti.com/s/searchallcontent?language=en_US#tab=All&sortCriteria=date%20descending&f-sfkbknowledgearticletypec=Security%20Advisory"
+    ]
+}
