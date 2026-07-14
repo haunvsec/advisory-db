@@ -1,0 +1,27 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-689",
+    "title": "[Control systems] Siemens security advisory (AV26-689)",
+    "public_time": "2026-07-14T13:33:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-689",
+    "advisory_id": "AV26-689",
+    "type": "advisory",
+    "description": "On July 14, 2026, Siemens published security advisories to address vulnerabilities in the following products. Included were updates for the following products:",
+    "products": [
+        "CADRA - versions prior to V2511",
+        "Desigo CC family V7/V8 - all versions",
+        "Desigo CC family V9 - versions prior to V9.0 QU1",
+        "IAM Client - multiple versions and models",
+        "Mendix Runtime - all versions",
+        "Opcenter X - versions prior to V2604",
+        "Palo Alto Networks PAN-OS on RUGGEDCOM APE1808 - all versions",
+        "SIDIS Secured SmartPlug - versions prior to V7.26.0310",
+        "SIMATIC S7-1500 CPU family - versions prior to V3.1.6",
+        "SIMATIC S7-PLCSIM Advanced - all versions",
+        "Simcenter STAR-CCM+ - all versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.siemens.com/global/en/products/services/cert.html#SecurityPublications"
+    ]
+}
