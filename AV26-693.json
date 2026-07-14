@@ -1,0 +1,23 @@
+{
+    "id": "servicenow-security-advisory-av26-693",
+    "title": "ServiceNow security advisory (AV26-693)",
+    "public_time": "2026-07-14T14:34:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-693",
+    "advisory_id": "AV26-693",
+    "type": "advisory",
+    "description": "On July 13, 2026, ServiceNow published a security advisory to address a critical vulnerability in the following products:",
+    "products": [
+        "Brazil - versions prior to Brazil EA and Brazil GA",
+        "Australia - versions prior to Australia Patch 2",
+        "Zurich - versions prior to Zurich Patch 7b and Zurich Patch 9",
+        "Yokohama - versions prior to Yokohama Patch 12 Hot Fix 1b and Yokohama Patch 13"
+    ],
+    "cves": [
+        "CVE-2026-6875"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB3137947",
+        "https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1226057"
+    ]
+}
