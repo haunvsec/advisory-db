@@ -1,0 +1,22 @@
+{
+    "id": "citrix-security-advisory-av26-702",
+    "title": "Citrix security advisory (AV26-702)",
+    "public_time": "2026-07-15T15:22:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-702",
+    "advisory_id": "AV26-702",
+    "type": "advisory",
+    "description": "On July 14, 2026, Citrix published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Citrix Secure Access Client for Windows   versions prior to 26.6.1.20",
+        "Citrix Endpoint Analysis Client for Windows   versions prior to 26.5.1.7"
+    ],
+    "cves": [
+        "CVE-2026-53565",
+        "CVE-2026-53566"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696734&articleURL=Citrix_Secure_Access_Client_for_Windows_and_Citrix_Endpoint_Analysis_Client_for_Windows_Security_Bulletin_for_CVE_2026_53565_and_CVE_2026_53566",
+        "https://support.citrix.com/support-home/topic-article-list?trendingCategory=20&trendingTopicName=Security%20Bulletin"
+    ]
+}
