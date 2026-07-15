@@ -1,0 +1,19 @@
+{
+    "id": "tenable-security-advisory-av26-705",
+    "title": "Tenable security advisory (AV26-705)",
+    "public_time": "2026-07-15T17:06:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-705",
+    "advisory_id": "AV26-705",
+    "type": "advisory",
+    "description": "On July 14, 2026, Tenable published a security advisory to address a critical vulnerability in the following product:",
+    "products": [
+        "Nessus Agent   versions 11.2.0 and prior",
+        "Nessus Agent   versions 11.1.3 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-18",
+        "https://www.tenable.com/security"
+    ]
+}
