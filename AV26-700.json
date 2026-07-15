@@ -1,0 +1,21 @@
+{
+    "id": "hpe-security-advisory-av26-700",
+    "title": "HPE security advisory (AV26-700)",
+    "public_time": "2026-07-15T14:56:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-700",
+    "advisory_id": "AV26-700",
+    "type": "advisory",
+    "description": "On July 14, 2026, HPE published security advisories to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "HPE Telco Intelligent Assurance (FAS and PDO)   versions 4.2.15 and prior",
+        "HPE Unified OSS Console (UOC)   versions 3.1.21 and prior",
+        "HPE Unified OSS Console Assurance Monitoring (UOCAM)   versions 3.1.21 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05076en_us&docLocale=en_US#hpesbnw05076-rev-1-hpe-telco-intelligent-assurance-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05080en_us&docLocale=en_US#hpesbnw05080-rev-1-hpe-unified-oss-console-uoc-and-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
