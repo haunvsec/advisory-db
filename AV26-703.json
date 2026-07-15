@@ -1,0 +1,18 @@
+{
+    "id": "notepad-security-advisory-av26-703",
+    "title": "Notepad++ security advisory (AV26-703)",
+    "public_time": "2026-07-15T15:30:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-703",
+    "advisory_id": "AV26-703",
+    "type": "advisory",
+    "description": "On July 14, 2026, Notepad++ published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Notepad++   version prior to 9.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://community.notepad-plus-plus.org/topic/27604/notepad-release-8.9.7",
+        "https://community.notepad-plus-plus.org/category/1/announcements"
+    ]
+}
