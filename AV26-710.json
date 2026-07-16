@@ -1,0 +1,20 @@
+{
+    "id": "grafana-security-advisory-av26-710",
+    "title": "Grafana security advisory (AV26-710)",
+    "public_time": "2026-07-16T18:13:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-710",
+    "advisory_id": "AV26-710",
+    "type": "advisory",
+    "description": "On July 15, 2026, Grafana published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Grafana MCP Server  version 0.17.1 and prior",
+        "Grafana Loki  version 3.7.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://grafana.com/security/security-advisories/cve-2026-15583/",
+        "https://grafana.com/security/security-advisories/cve-2026-21729/",
+        "https://grafana.com/blog/"
+    ]
+}
