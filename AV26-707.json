@@ -1,0 +1,26 @@
+{
+    "id": "zoom-security-advisory-av26-707",
+    "title": "Zoom security advisory (AV26-707)",
+    "public_time": "2026-07-16T12:40:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zoom-security-advisory-av26-707",
+    "advisory_id": "AV26-707",
+    "type": "advisory",
+    "description": "On July 14, 2026, Zoom published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "Remote Control for Zoom Contact Center for Windows  versions prior to 7.0.0",
+        "Zoom Meeting SDK for Windows  versions prior to 6.6.11",
+        "Zoom Rooms for Windows  versions prior to 7.1.0",
+        "Zoom Workplace for Windows  versions prior to 7.0.5",
+        "Zoom Workplace VDI Client for Windows  versions prior to 7.0.10, 6.5.18 and 6.6.15",
+        "Zoom Workplace VDI Client for Windows  versions prior to 6.5.17 and 6.6.14"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26014/",
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26011/",
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26013/",
+        "https://www.zoom.com/en/trust/security-bulletin/zsb-26012/",
+        "https://www.zoom.com/en/trust/security-bulletin/"
+    ]
+}
