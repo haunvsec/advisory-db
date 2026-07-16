@@ -1,0 +1,21 @@
+{
+    "id": "splunk-security-advisory-av26-708",
+    "title": "Splunk security advisory (AV26-708)",
+    "public_time": "2026-07-16T13:05:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-708",
+    "advisory_id": "AV26-708",
+    "type": "advisory",
+    "description": "On July 15, 2026, Splunk published security advisories to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "Splunk Enterprise  multiple versions and platforms",
+        "Splunk Cloud Platform  multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://advisory.splunk.com/advisories/SVD-2026-0702",
+        "https://advisory.splunk.com/advisories/SVD-2026-0703",
+        "https://advisory.splunk.com/advisories/SVD-2026-0705",
+        "https://advisory.splunk.com/advisories"
+    ]
+}
