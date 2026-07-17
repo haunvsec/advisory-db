@@ -1,0 +1,29 @@
+{
+    "id": "freepbx-security-advisory-av26-711",
+    "title": "FreePBX security advisory (AV26\u2013711)",
+    "public_time": "2026-07-17T14:16:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-711",
+    "advisory_id": "AV26\u2013711",
+    "type": "advisory",
+    "description": "On July 17, 2026, FreePBX published security advisories to address vulnerabilities in the following products. Included were critical updates for the following:",
+    "products": [
+        "FreePBX Security-Reporting ucp (FreePBX 17)  versions prior to 17.0.9",
+        "FreePBX Security-Reporting missedcall (FreePBX 16)  versions prior to 16.0.11",
+        "FreePBX Security-Reporting missedcall (FreePBX 16)  versions prior to 17.0.6",
+        "FreePBX Security-Reporting tts (FreePBX 17)  versions prior to 17.0.6",
+        "FreePBX Security-Reporting tts (FreePBX 16)  versions prior to 16.0.6",
+        "FreePBX Security-Reporting music (FreePBX 17)  versions prior to 17.0.7",
+        "FreePBX Security-Reporting framework (FreePBX 16)  versions prior to 16.0.47",
+        "FreePBX Security-Reporting framework (FreePBX 17)  versions prior to 17.0.30"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-37j8-fhxx-9vhp ",
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-g27h-xf3q-h3rm ",
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-hg3v-m857-mvw9 ",
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-p97w-rq48-p8q2 ",
+        "https://github.com/FreePBX/security-reporting/security/advisories/GHSA-f6hc-rqxg-ch86 ",
+        "https://github.com/FreePBX/security-reporting/security/advisories?state=published"
+    ]
+}
