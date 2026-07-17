@@ -1,0 +1,26 @@
+{
+    "id": "broadcom-vmware-security-advisory-av26-712",
+    "title": "Broadcom VMware security advisory (AV26-712)",
+    "public_time": "2026-07-17T15:04:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-712",
+    "advisory_id": "AV26-712",
+    "type": "advisory",
+    "description": "On July 14, 2026, Broadcom published security advisories to address vulnerabilities in multiple products. Included was a critical update for the following:",
+    "products": [
+        "VMware Avi Load Balancer  multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-47865",
+        "CVE-2026-47866",
+        "CVE-2026-47867",
+        "CVE-2026-47868",
+        "CVE-2026-47869",
+        "CVE-2026-47870",
+        "CVE-2026-47871"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37926",
+        "https://support.broadcom.com/web/ecx/security-advisory?segment=VA"
+    ]
+}
