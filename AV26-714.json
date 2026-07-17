@@ -1,0 +1,17 @@
+{
+    "id": "microsoft-edge-security-advisory-av26-714",
+    "title": "Microsoft Edge security advisory (AV26-714)",
+    "public_time": "2026-07-17T18:33:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-714",
+    "advisory_id": "AV26-714",
+    "type": "advisory",
+    "description": "On July 16, 2026, Microsoft published a security update to address vulnerabilities in the following product:",
+    "products": [
+        "Microsoft Edge Stable Channel  versions prior to 150.0.4078.80"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-16-2026"
+    ]
+}
