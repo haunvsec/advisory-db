@@ -1,0 +1,26 @@
+{
+    "id": "wordpress-security-advisory-av26-723",
+    "title": "WordPress security advisory (AV26-723)",
+    "public_time": "2026-07-20T19:01:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/wordpress-security-advisory-av26-723",
+    "advisory_id": "AV26-723",
+    "type": "advisory",
+    "description": "On July 17, 2026, WordPress published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "WordPress 7.0  versions prior to 7.0.2",
+        "WordPress 6.9  versions prior to 6.9.5",
+        "WordPress 6.8  versions prior to 6.8.6",
+        "WordPress 7.1 beta  versions prior to 7.1 beta2"
+    ],
+    "cves": [
+        "CVE-2026-60137",
+        "CVE-2026-63030"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-fpp7-x2x2-2mjf",
+        "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-ff9f-jf42-662q",
+        "https://wordpress.org/news/2026/07/wordpress-7-0-2-release/",
+        "https://wordpress.org/news/category/releases/"
+    ]
+}
