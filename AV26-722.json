@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-722",
+    "title": "HPE security advisory (AV26-722)",
+    "public_time": "2026-07-20T16:02:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-722",
+    "advisory_id": "AV26-722",
+    "type": "advisory",
+    "description": "On July 20, 2026, HPE published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "HPE Telco Automated Assurance  version v1.4 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05082en_us&docLocale=en_US",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
