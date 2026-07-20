@@ -1,0 +1,18 @@
+{
+    "id": "zimbra-security-advisory-av26-721",
+    "title": "Zimbra security advisory (AV26-721)",
+    "public_time": "2026-07-20T15:36:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-721",
+    "advisory_id": "AV26-721",
+    "type": "advisory",
+    "description": "On July 20, 2026, Zimbra published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Zimbra Collaboration Suite (ZCS) Classic Web Client  versions prior to v10.1.20"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://blog.zimbra.com/2026/07/patch-release-update-zimbra-10-1-20/",
+        "https://blog.zimbra.com/"
+    ]
+}
