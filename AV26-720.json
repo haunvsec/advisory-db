@@ -1,0 +1,25 @@
+{
+    "id": "github-security-advisory-av26-720",
+    "title": "GitHub security advisory (AV26-720)",
+    "public_time": "2026-07-20T15:31:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-720",
+    "advisory_id": "AV26-720",
+    "type": "advisory",
+    "description": "On July 16, 2026, GitHub published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "GitHub Enterprise Server  versions 3.21.x prior to 3.21.3",
+        "GitHub Enterprise Server  versions 3.20.x prior to 3.20.5",
+        "GitHub Enterprise Server  versions 3.19.x prior to 3.19.9",
+        "GitHub Enterprise Server  versions 3.18.x prior to 3.18.12",
+        "GitHub Enterprise Server  versions 3.17.x prior to 3.17.18"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.github.com/en/enterprise-server@3.21/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.20/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.19/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.18/admin/release-notes",
+        "https://docs.github.com/en/enterprise-server@3.17/admin/release-notes"
+    ]
+}
