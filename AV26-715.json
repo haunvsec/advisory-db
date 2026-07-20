@@ -1,0 +1,41 @@
+{
+    "id": "ibm-security-advisory-av26-715",
+    "title": "IBM security advisory (AV26-715)",
+    "public_time": "2026-07-20T15:14:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-715",
+    "advisory_id": "AV26-715",
+    "type": "advisory",
+    "description": "Between July 13 and 19, 2026, IBM published security advisories to address vulnerabilities in multiple products. Included were critical updates for the following:",
+    "products": [
+        "IBM API Connect V12 OnPrem  versions v12.1.0.0 to v12.1.1.0",
+        "IBM Automation Decision Services  versions 24.0.0, 24.0.1 and 25.0.0",
+        "IBM CICS Transaction Gateway Desktop Edition  versions prior to 10.1",
+        "IBM CICS Transaction Gateway for Multiplatforms  versions prior to 10.1",
+        "IBM Cloud Object Storage System  versions 3.20.0.0 to 3.20.1.66",
+        "IBM Cloud Object Storage System  versions 3.8.1.54 to 3.19.5.56",
+        "IBM Datacap Navigator  versions 9.1.7, 9.1.8 and 9.1.9",
+        "IBM Datacap  versions 9.1.7, 9.1.8 and 9.1.9",
+        "IBM Engineering AI Hub  versions 1.0.0, 1.1.0 and 1.2.0",
+        "IBM Guardium Data Protection  version 12.1 and 12.2",
+        "IBM Guardium Unified Discovery and Classification (GUDC)  versions 1.0.0 to 1.2.0",
+        "IBM Installation Manager  versions prior to 1.10.1.4",
+        "IBM Jazz Reporting Service  multiple versions",
+        "IBM Packaging Utility  versions prior to 1.10.1.4",
+        "IBM Process Automation Manager Open Edition Starter Kit for Banking  versions 9.3.1 to 9.4.1",
+        "IBM QRadar Data Synchronization App  versions 1.0.0 to 3.3.0",
+        "IBM QRadar User Behavior Analytics  versions 1.0.0 to 5.1.0",
+        "IBM Rapid Network Automation  versions prior to 1.1.4 and 1.1.5",
+        "IBM Sterling Secure Proxy  versions 6.1.0.0 to 6.1.0.4",
+        "IBM Sterling Secure Proxy  versions 6.2.1.0 to 6.2.1.2 iFix01",
+        "IBM Tivoli Netcool Configuration Manager  versions 6.4.2 GA to 6.4.2.24",
+        "IBM WebSphere Service Registry and Repository  versions prior to 8.5",
+        "IBM i  versions 7.6, 7.5, 7.4 and 7.3",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data  versions 4.8.4 to 4.8.5",
+        "IBM watsonx Orchestrate Cartridge for IBM Cloud Pak for Data  versions 5.0.0 to 5.3.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.ibm.com/support/pages/bulletin/"
+    ]
+}
