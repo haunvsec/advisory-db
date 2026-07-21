@@ -1,0 +1,22 @@
+{
+    "id": "hpe-security-advisory-av26-727",
+    "title": "HPE security advisory (AV26-727)",
+    "public_time": "2026-07-21T18:33:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-727",
+    "advisory_id": "AV26-727",
+    "type": "advisory",
+    "description": "On July 21, 2026, HPE published security advisories to address vulnerabilities in the following products. Include was a critical update for the following:",
+    "products": [
+        "HPE Aruba Networking Private 5G Core   versions 1.26.1.1 and prior",
+        "HPE Aruba Networking EdgeConnect SD-WAN Gateways   multiple versions and platforms"
+    ],
+    "cves": [
+        "CVE-2026-48020"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05083en_us&docLocale=en_US#hpesbnw05083-rev-1-private-5g-core-traefik-strippr-0",
+        "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05013en_us&docLocale=en_US#hpesbnw05013-rev-1-hpe-aruba-networking-edgeconnec-0",
+        "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+    ]
+}
