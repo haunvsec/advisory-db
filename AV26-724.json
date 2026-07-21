@@ -1,0 +1,18 @@
+{
+    "id": "tenable-security-advisory-av26-724",
+    "title": "Tenable security advisory (AV26-724)",
+    "public_time": "2026-07-21T13:56:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-724",
+    "advisory_id": "AV26-724",
+    "type": "advisory",
+    "description": "On July 20, 2026, Tenable published a security advisory to address critical vulnerabilities in the following product:",
+    "products": [
+        "Tenable Security Center   version 6.6.0 to 6.8.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.tenable.com/security/tns-2026-19",
+        "https://www.tenable.com/security"
+    ]
+}
