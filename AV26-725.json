@@ -1,0 +1,20 @@
+{
+    "id": "zyxel-security-advisory-av26-725",
+    "title": "Zyxel security advisory (AV26-725)",
+    "public_time": "2026-07-21T14:02:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-725",
+    "advisory_id": "AV26-725",
+    "type": "advisory",
+    "description": "On July 21, 2026, Zyxel published a security advisory to address a vulnerability in the following products:",
+    "products": [
+        "DSL/Ethernet CPE   multiple versions and models",
+        "Fiber ONTs   multiple versions and models",
+        "Wireless Extenders   multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-post-authentication-command-injection-vulnerability-in-certain-dsl-ethernet-cpe-fiber-onts-and-wireless-extenders-07-21-2026",
+        "https://www.zyxel.com/global/en/support/security-advisories"
+    ]
+}
