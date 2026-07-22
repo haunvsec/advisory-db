@@ -1,0 +1,20 @@
+{
+    "id": "mitel-security-advisory-av26-734",
+    "title": "Mitel security advisory (AV26-734)",
+    "public_time": "2026-07-22T18:07:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-734",
+    "advisory_id": "AV26-734",
+    "type": "advisory",
+    "description": "On July 22, 2026, Mitel published security advisories to address vulnerabilities in the following products. Included were critical updates for the following::",
+    "products": [
+        "MiCollab  multiple versions",
+        "OpenScape UC  multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2026-0006",
+        "https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-misa-2026-0007",
+        "https://www.mitel.com/support/security-advisories"
+    ]
+}
