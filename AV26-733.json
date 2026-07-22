@@ -1,0 +1,20 @@
+{
+    "id": "n8n-security-advisory-av26-733",
+    "title": "n8n security advisory (AV26-733)",
+    "public_time": "2026-07-22T17:53:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-733",
+    "advisory_id": "AV26-733",
+    "type": "advisory",
+    "description": "On July 22, 2026, n8n published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "n8n  versions prior to 1.123.67",
+        "n8n  versions prior to 2.32.1",
+        "n8n  versions prior to 2.31.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/n8n-io/n8n/security/advisories/GHSA-rcv6-pvrj-4xcg",
+        "https://github.com/n8n-io/n8n/security"
+    ]
+}
