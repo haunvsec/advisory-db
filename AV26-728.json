@@ -1,0 +1,17 @@
+{
+    "id": "solarwinds-security-advisory-av26-728",
+    "title": "SolarWinds security advisory (AV26-728)",
+    "public_time": "2026-07-22T12:11:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-728",
+    "advisory_id": "AV26-728",
+    "type": "advisory",
+    "description": "On July 21, 2026, SolarWinds published security advisories to address critical vulnerabilities in the following product:",
+    "products": [
+        "SolarWinds Serv-U  version 15.5.4 HF1 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.solarwinds.com/trust-center/security-advisories"
+    ]
+}
