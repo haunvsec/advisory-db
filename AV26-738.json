@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-738",
+    "title": "Drupal security advisory (AV26-738)",
+    "public_time": "2026-07-22T18:56:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-738",
+    "advisory_id": "AV26-738",
+    "type": "advisory",
+    "description": "On July 22, 2026, Drupal published security advisories to address a vulnerability in the following product. Included was a critical update for the following:",
+    "products": [
+        "Internationalization Single Sign-On  versions prior to 1.8.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.drupal.org/sa-contrib-2026-081",
+        "https://www.drupal.org/security"
+    ]
+}
