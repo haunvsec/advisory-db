@@ -1,0 +1,21 @@
+{
+    "id": "check-point-security-advisory-av26-735",
+    "title": "Check Point security advisory (AV26-735)",
+    "public_time": "2026-07-22T18:19:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-735",
+    "advisory_id": "AV26-735",
+    "type": "advisory",
+    "description": "On July 22, 2026, Check Point published a security advisory to address vulnerabilities in the following products. Included was a critical update for the following :",
+    "products": [
+        "Security Management, Multi-Domain Management  multiple versions",
+        "Firewall, Multi-Domain Management, Multi-Domain Log Server  multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-16232"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://blog.checkpoint.com/security/security-advisory-action-required-active-exploitation-of-check-point-smartconsole-authentication-bypass-cve-2026-16232/",
+        "https://blog.checkpoint.com/security/"
+    ]
+}
