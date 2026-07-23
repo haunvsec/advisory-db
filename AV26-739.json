@@ -1,0 +1,19 @@
+{
+    "id": "jetbrains-security-advisory-av26-739",
+    "title": "JetBrains security advisory (AV26-739)",
+    "public_time": "2026-07-23T14:32:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-739",
+    "advisory_id": "AV26-739",
+    "type": "advisory",
+    "description": "On July 23, 2026, JetBrains published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "JetBrains GoLand - versions prior to 2026.2",
+        "JetBrains IntelliJ IDEA - version prior to 2026.2",
+        "JetBrains PhpStorm - version prior to 2026.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.jetbrains.com/privacy-security/issues-fixed/ "
+    ]
+}
