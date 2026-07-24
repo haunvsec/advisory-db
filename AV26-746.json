@@ -1,0 +1,19 @@
+{
+    "id": "progress-security-advisory-av26-746",
+    "title": "Progress security advisory (AV26-746)",
+    "public_time": "2026-07-24T19:38:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-746",
+    "advisory_id": "AV26-746",
+    "type": "advisory",
+    "description": "On July 23, 2026, Progress published security advisories to address vulnerabilities in the following product:",
+    "products": [
+        "MOVEit Transfer  versions prior to 2025.1.5",
+        "MOVEit Transfer  versions prior to 2026.0.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://docs.progress.com/bundle/moveit-transfer-release-notes-2026/page/Fixed-Issues-in-2026.0.3.html",
+        "https://www.progress.com/trust-center"
+    ]
+}
