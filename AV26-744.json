@@ -1,0 +1,22 @@
+{
+    "id": "mongodb-security-advisory-av26-744",
+    "title": "MongoDB security advisory (AV26-744)",
+    "public_time": "2026-07-24T17:29:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-744",
+    "advisory_id": "AV26-744",
+    "type": "advisory",
+    "description": "On July 22, 2026, MongoDB published security advisories to address vulnerabilities in the following products:",
+    "products": [
+        "MongoDB Compass  versions prior to 1.49.7",
+        "MongoDB Server  versions prior to 7.0.39",
+        "MongoDB Server  versions prior to 8.0.28",
+        "MongoDB Server  versions prior to 8.2.12",
+        "MongoDB Server  versions prior to 8.3.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.mongodb.com/resources/products/alerts#security",
+        "https://www.mongodb.com/resources/products/alerts"
+    ]
+}
