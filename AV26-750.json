@@ -1,0 +1,19 @@
+{
+    "id": "erlang-security-advisory-av26-750",
+    "title": "Erlang security advisory (AV26-750)",
+    "public_time": "2026-07-27T19:52:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-750",
+    "advisory_id": "AV26-750",
+    "type": "advisory",
+    "description": "As of July 27, 2026, Erlang is affected by vulnerabilities in the following product:",
+    "products": [
+        "OTP",
+        "10.2 Prior to 11.7.4",
+        "6.0 Prior to 17.0.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/erlang/otp/security/advisories/"
+    ]
+}
