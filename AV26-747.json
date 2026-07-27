@@ -1,0 +1,21 @@
+{
+    "id": "microsoft-security-advisory-av26-747",
+    "title": "Microsoft security advisory (AV26-747)",
+    "public_time": "2026-07-27T17:58:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-747",
+    "advisory_id": "AV26-747",
+    "type": "advisory",
+    "description": "Microsoft security advisory (AV26-747)",
+    "products": [
+        "Microsoft Edge (Chromium-based)",
+        "Prior to 150.0.4078.99"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57978",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57989",
+        "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-57990",
+        "https://msrc.microsoft.com/update-guide/vulnerability"
+    ]
+}
