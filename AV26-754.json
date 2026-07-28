@@ -1,0 +1,17 @@
+{
+    "id": "vercel-security-advisory-av26-754",
+    "title": "Vercel security advisory (AV26-754)",
+    "public_time": "2026-07-28T14:40:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vercel-security-advisory-av26-754",
+    "advisory_id": "AV26-754",
+    "type": "advisory",
+    "description": "As of July 27, 2026, Vercel is affected by vulnerabilities in the following product:",
+    "products": [
+        "js\n\tPrior to 15.5.21\nPrior to 16.2.11",
+        "Prior to 15.5.21",
+        "Prior to 16.2.11"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
