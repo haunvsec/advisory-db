@@ -1,0 +1,16 @@
+{
+    "id": "jetbrains-security-advisory-av26-752",
+    "title": "JetBrains security advisory (AV26-752)",
+    "public_time": "2026-07-28T14:36:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-752",
+    "advisory_id": "AV26-752",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "TeamCity\n\tPrior to 2026.1.3, 2025.11.7",
+        "Prior to 2026.1.3, 2025.11.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
