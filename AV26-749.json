@@ -1,0 +1,21 @@
+{
+    "id": "apache-security-advisory-av26-749",
+    "title": "Apache security advisory (AV26-749)",
+    "public_time": "2026-07-28T14:32:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-749",
+    "advisory_id": "AV26-749",
+    "type": "advisory",
+    "description": "As of July 27, 2026, Apache is affected by vulnerabilities in the following product:",
+    "products": [
+        "Apache Thrift\n\tPrior to 0.24.0",
+        "Prior to 0.24.0"
+    ],
+    "cves": [
+        "CVE-2026-48586",
+        "CVE-2026-49158",
+        "CVE-2026-55969",
+        "CVE-2026-58023"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
