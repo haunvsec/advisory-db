@@ -1,0 +1,25 @@
+{
+    "id": "progress-software-security-advisory-av26-755",
+    "title": "Progress Software security advisory (AV26-755)",
+    "public_time": "2026-07-28T18:14:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-software-security-advisory-av26-755",
+    "advisory_id": "AV26-755",
+    "type": "advisory",
+    "description": "As of July 27, 2026, Progress Software is affected by vulnerabilities in the following products:",
+    "products": [
+        "ECS Connection Manager\n\tPrior to 7.2.63.3",
+        "Prior to 7.2.63.3",
+        "LoadMaster\n\tPrior to 7.2.54.19\nPrior to 7.2.63.3",
+        "Prior to 7.2.54.19",
+        "Prior to 7.2.63.3",
+        "MOVEit WAF\n\tPrior to 7.2.63.3",
+        "Prior to 7.2.63.3",
+        "Multi Tenant\n\tPrior to 7.1.35.16",
+        "Prior to 7.1.35.16",
+        "Object Scale Connection Manager\n\tPrior to 7.2.63.3",
+        "Prior to 7.2.63.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
