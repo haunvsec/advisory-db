@@ -1,0 +1,28 @@
+{
+    "id": "apple-security-advisory-av26-753",
+    "title": "Apple security advisory (AV26-753)",
+    "public_time": "2026-07-28T14:37:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-753",
+    "advisory_id": "AV26-753",
+    "type": "advisory",
+    "description": "As of July 27, 2026, Apple is affected by vulnerabilities in the following products:",
+    "products": [
+        "iOS and iPadOS\n\tPrior to 26.6",
+        "Prior to 26.6",
+        "macOS\n\tPrior to 14.8.8\nPrior to 15.7.8\nPrior to 26.6",
+        "Prior to 14.8.8",
+        "Prior to 15.7.8",
+        "Prior to 26.6",
+        "tvOS\n\tPrior to 26.6",
+        "Prior to 26.6",
+        "visionOS\n\tPrior to 26.6",
+        "Prior to 26.6",
+        "Safari\n\tPrior to 26.6",
+        "Prior to 26.6",
+        "watchOS\n\tPrior to 26.6",
+        "Prior to 26.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
