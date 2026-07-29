@@ -1,0 +1,19 @@
+{
+    "id": "adobe-security-advisory-av26-756",
+    "title": "Adobe security advisory (AV26-756)",
+    "public_time": "2026-07-29T14:33:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-756",
+    "advisory_id": "AV26-756",
+    "type": "advisory",
+    "description": "As of July 28, 2026, Adobe is affected by vulnerabilities in the following products:",
+    "products": [
+        "Adobe Bridge\n\tPrior to 15.1.7\nPrior to 16.0.6",
+        "Prior to 15.1.7",
+        "Prior to 16.0.6",
+        "Format Plugins\n\tPrior to 2026.07",
+        "Prior to 2026.07"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
