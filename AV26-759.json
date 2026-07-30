@@ -1,0 +1,25 @@
+{
+    "id": "spring-security-advisory-av26-759",
+    "title": "Spring security advisory (AV26-759)",
+    "public_time": "2026-07-30T13:50:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-759",
+    "advisory_id": "AV26-759",
+    "type": "advisory",
+    "description": "As of July 30, 2026, Spring is affected by vulnerabilities in the following products:",
+    "products": [
+        "Spring Tools for Eclipse\n\tPrior to or equal to 5.2.0",
+        "Prior to or equal to 5.2.0",
+        "Spring Tools for VSCode / Cursor / Theia\n\tPrior to or equal to 2.2.0",
+        "Prior to or equal to 2.2.0"
+    ],
+    "cves": [
+        "CVE-2026-47858",
+        "CVE-2026-47873",
+        "CVE-2026-47882",
+        "CVE-2026-59326",
+        "CVE-2026-59327",
+        "CVE-2026-59328"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
