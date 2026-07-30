@@ -1,0 +1,22 @@
+{
+    "id": "control-systems-phoenix-contact-security-advisory-av26-762",
+    "title": "[Control Systems] Phoenix Contact security advisory (AV26-762)",
+    "public_time": "2026-07-30T14:49:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-762",
+    "advisory_id": "AV26-762",
+    "type": "advisory",
+    "description": "As of July 30, 2026, Phoenix Contact is affected by vulnerabilities in the following products:",
+    "products": [
+        "CHARX SEC-3000\n\tPrior to 1.9.1",
+        "Prior to 1.9.1",
+        "CHARX SEC-3050\n\tPrior to 1.9.1",
+        "Prior to 1.9.1",
+        "CHARX SEC-3100\n\tPrior to 1.9.1",
+        "Prior to 1.9.1",
+        "CHARX SEC-3150\n\tPrior to 1.9.1",
+        "Prior to 1.9.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
