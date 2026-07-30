@@ -1,0 +1,19 @@
+{
+    "id": "php-group-security-advisory-av26-764",
+    "title": "PHP Group security advisory (AV26-764)",
+    "public_time": "2026-07-30T18:11:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-764",
+    "advisory_id": "AV26-764",
+    "type": "advisory",
+    "description": "As of July 30, 2026, PHP Group is affected by vulnerabilities in the following product:",
+    "products": [
+        "PHP\n\tPrior to 8.2.33\nPrior to 8.3.33\nPrior to 8.4.24\nPrior to 8.5.9",
+        "Prior to 8.2.33",
+        "Prior to 8.3.33",
+        "Prior to 8.4.24",
+        "Prior to 8.5.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
