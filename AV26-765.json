@@ -1,0 +1,16 @@
+{
+    "id": "gladinet-security-advisory-av26-765",
+    "title": "Gladinet security advisory (AV26-765)",
+    "public_time": "2026-07-30T18:24:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gladinet-security-advisory-av26-765",
+    "advisory_id": "AV26-765",
+    "type": "advisory",
+    "description": "As of July 30, 2026, Gladinet is affected by vulnerabilities in the following product:",
+    "products": [
+        "CentreStack\n\tPrior to 17.5",
+        "Prior to 17.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
