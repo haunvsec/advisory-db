@@ -1,0 +1,18 @@
+{
+    "id": "solarwinds-security-advisory-av26-766",
+    "title": "SolarWinds security advisory (AV26-766)",
+    "public_time": "2026-07-31T13:00:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-766",
+    "advisory_id": "AV26-766",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Web Help Desk (WHD)\n\tPrior to 2026.2.1",
+        "Prior to 2026.2.1"
+    ],
+    "cves": [
+        "CVE-2026-28323"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
