@@ -1,0 +1,20 @@
+{
+    "id": "rails-security-advisory-av26-767",
+    "title": "Rails security advisory (AV26-767)",
+    "public_time": "2026-07-31T13:17:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/rails-security-advisory-av26-767",
+    "advisory_id": "AV26-767",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Rails\n\tPrior to 8.0.5.1\nPrior to 8.1.3.1\nPrior to 7.2.3.2",
+        "Prior to 8.0.5.1",
+        "Prior to 8.1.3.1",
+        "Prior to 7.2.3.2"
+    ],
+    "cves": [
+        "CVE-2026-66066"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
