@@ -1,0 +1,17 @@
+{
+    "id": "google-security-advisory-av26-768",
+    "title": "Google security advisory (AV26-768)",
+    "public_time": "2026-07-31T14:23:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-768",
+    "advisory_id": "AV26-768",
+    "type": "advisory",
+    "description": "As of July 30, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Chrome - Prior to 151.0.7922.72"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://chromereleases.googleblog.com/2026/07/stable-channel-update-for-desktop_0887107924.html"
+    ]
+}
