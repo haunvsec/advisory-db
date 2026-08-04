@@ -1,0 +1,20 @@
+{
+    "id": "n-able-security-advisory-av26-769",
+    "title": "N-able security advisory (AV26-769)",
+    "public_time": "2026-08-04T13:08:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-769",
+    "advisory_id": "AV26-769",
+    "type": "advisory",
+    "description": "As of August 2, 2026, N-able is affected by vulnerabilities in the following product:",
+    "products": [
+        "N-central\n\tPrior to 2026.3.1.7",
+        "Prior to 2026.3.1.7"
+    ],
+    "cves": [
+        "CVE-2026-18577",
+        "CVE-2026-18577",
+        "CVE-2026-18577"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
