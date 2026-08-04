@@ -1,0 +1,18 @@
+{
+    "id": "veeam-security-advisory-av26-777",
+    "title": "Veeam security advisory (AV26-777)",
+    "public_time": "2026-08-04T20:03:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-777",
+    "advisory_id": "AV26-777",
+    "type": "advisory",
+    "description": "As of August 4, 2026, Veeam is affected by vulnerabilities in the following products:",
+    "products": [
+        "ONE\n\tPrior to or equal to 13.1.0.7034",
+        "Prior to or equal to 13.1.0.7034",
+        "Service Provider Console\n\tPrior to 9.3.0.35057",
+        "Prior to 9.3.0.35057"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
