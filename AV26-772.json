@@ -1,0 +1,26 @@
+{
+    "id": "webpros-security-advisory-av26-772",
+    "title": "WebPros security advisory (AV26-772)",
+    "public_time": "2026-08-04T15:31:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-772",
+    "advisory_id": "AV26-772",
+    "type": "advisory",
+    "description": "As of July 31, 2026, WebPros is affected by vulnerabilities in the following products:",
+    "products": [
+        "WP Squared\n\tPrior to 11.138.1.6",
+        "Prior to 11.138.1.6",
+        "cPanel\n\tPrior to 11.110.0.137\nPrior to 11.118.0.71\nPrior to 11.126.0.78\nPrior to 11.134.0.48\nPrior to 11.136.0.32\nPrior to 138.1.6 ( WP2 )",
+        "Prior to 11.110.0.137",
+        "Prior to 11.118.0.71",
+        "Prior to 11.126.0.78",
+        "Prior to 11.134.0.48",
+        "Prior to 11.136.0.32",
+        "Prior to 138.1.6 ( WP2 )"
+    ],
+    "cves": [
+        "CVE-2026-58047",
+        "CVE-2026-58048"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
