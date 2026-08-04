@@ -1,0 +1,38 @@
+{
+    "id": "checkpoint-security-advisory-av26-774",
+    "title": "Checkpoint security advisory (AV26-774)",
+    "public_time": "2026-08-04T15:44:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/checkpoint-security-advisory-av26-774",
+    "advisory_id": "AV26-774",
+    "type": "advisory",
+    "description": "As of August 3, 2026, checkpoint is affected by a vulnerability in the following products:",
+    "products": [
+        "Multi-Domain Security Management Server (MDS)\n\tR80\nR80.10\nR80.20\nR80.30\nR80.40\nR81\nR81.10\nR81.20 with Jumbo Hotfix Accumulator Take 160 or below\nR82 with Jumbo Hotfix Accumulator Take 121 or below\nR82.10 with Jumbo Hotfix Accumulator Take 39 or below",
+        "R80",
+        "R80.10",
+        "R80.20",
+        "R80.30",
+        "R80.40",
+        "R81",
+        "R81.10",
+        "R81.20 with Jumbo Hotfix Accumulator Take 160 or below",
+        "R82 with Jumbo Hotfix Accumulator Take 121 or below",
+        "R82.10 with Jumbo Hotfix Accumulator Take 39 or below",
+        "Security Management Server\n\tR80\nR80.10\nR80.20\nR80.30\nR80.40\nR81\nR81.10\nR81.20 with Jumbo Hotfix Accumulator Take 160 or below\nR82 with Jumbo Hotfix Accumulator Take 121 or below\nR82.10 with Jumbo Hotfix Accumulator Take 39 or below",
+        "R80",
+        "R80.10",
+        "R80.20",
+        "R80.30",
+        "R80.40",
+        "R81",
+        "R81.10",
+        "R81.20 with Jumbo Hotfix Accumulator Take 160 or below",
+        "R82 with Jumbo Hotfix Accumulator Take 121 or below",
+        "R82.10 with Jumbo Hotfix Accumulator Take 39 or below"
+    ],
+    "cves": [
+        "CVE-2026-18574"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
