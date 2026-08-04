@@ -1,0 +1,22 @@
+{
+    "id": "adobe-security-advisory-av26-776",
+    "title": "Adobe security advisory (AV26-776)",
+    "public_time": "2026-08-04T19:46:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-776",
+    "advisory_id": "AV26-776",
+    "type": "advisory",
+    "description": "As of August 3, 2026, Adobe is affected by vulnerabilities in the following products:",
+    "products": [
+        "Adobe Campaign Classic\n\tAll except ACC v7: 7.4.3 build 9399\nversions prior to ACC v7: 7.4.3 build 9398",
+        "All except ACC v7: 7.4.3 build 9399",
+        "versions prior to ACC v7: 7.4.3 build 9398",
+        "Premiere\n\tAll except 25.6.6\nAll except 26.3\nversions prior to 25.6.5\nversions prior to 26.2.2",
+        "All except 25.6.6",
+        "All except 26.3",
+        "versions prior to 25.6.5",
+        "versions prior to 26.2.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
