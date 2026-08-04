@@ -1,0 +1,16 @@
+{
+    "id": "misp-security-advisory-av26-775",
+    "title": "MISP security advisory (AV26-775)",
+    "public_time": "2026-08-04T17:31:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-775",
+    "advisory_id": "AV26-775",
+    "type": "advisory",
+    "description": "As of August 3, 2026, Malware Information Sharing Platform (MISP) is affected by vulnerabilities in the following product:",
+    "products": [
+        "cti-transmute\n\tPrior to or equal to 1.4.0",
+        "Prior to or equal to 1.4.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
