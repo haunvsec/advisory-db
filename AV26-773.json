@@ -1,0 +1,16 @@
+{
+    "id": "tenable-inc-security-advisory-av26-773",
+    "title": "Tenable, Inc. security advisory (AV26-773)",
+    "public_time": "2026-08-04T15:36:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-inc-security-advisory-av26-773",
+    "advisory_id": "AV26-773",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Sensor Proxy\n\tPrior to 1.4.2",
+        "Prior to 1.4.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
