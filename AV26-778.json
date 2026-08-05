@@ -1,0 +1,17 @@
+{
+    "id": "hewlett-packard-enterprise-hpe-security-advisory-av26-778",
+    "title": "Hewlett Packard Enterprise (HPE) security advisory (AV26-778)",
+    "public_time": "2026-08-05T12:53:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hewlett-packard-enterprise-hpe-security-advisory-av26-778",
+    "advisory_id": "AV26-778",
+    "type": "advisory",
+    "description": "As of August 4, 2026, Hewlett Packard Enterprise (HPE) is affected by vulnerabilities in the following product:",
+    "products": [
+        "EdgeConnect SD-WAN Orchestrator\n\tPrior to or equal to 9.6.2.40208\nPrior to or equal to 9.6.3.40137",
+        "Prior to or equal to 9.6.2.40208",
+        "Prior to or equal to 9.6.3.40137"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
