@@ -1,0 +1,28 @@
+{
+    "id": "progress-security-advisory-av26-781",
+    "title": "Progress security advisory (AV26-781)",
+    "public_time": "2026-08-06T12:16:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-781",
+    "advisory_id": "AV26-781",
+    "type": "advisory",
+    "description": "As of August 5, 2026, Progress Software Corporation is affected by vulnerabilities in the following product:",
+    "products": [
+        "MarkLogic Server\n\tPrior to 11.3.6\nPrior to 12.0.3",
+        "Prior to 11.3.6",
+        "Prior to 12.0.3"
+    ],
+    "cves": [
+        "CVE-2026-7326",
+        "CVE-2026-7327",
+        "CVE-2026-7329",
+        "CVE-2026-7557",
+        "CVE-2026-8709",
+        "CVE-2026-9190",
+        "CVE-2026-9192",
+        "CVE-2026-9193",
+        "CVE-2026-9195",
+        "CVE-2026-9203"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
