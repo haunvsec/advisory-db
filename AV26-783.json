@@ -1,0 +1,24 @@
+{
+    "id": "github-security-advisory-av26-783",
+    "title": "GitHub security advisory (AV26-783)",
+    "public_time": "2026-08-06T12:47:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-783",
+    "advisory_id": "AV26-783",
+    "type": "advisory",
+    "description": "As of August 5, 2026, GitHub is affected by vulnerabilities in the following product:",
+    "products": [
+        "Enterprise Server\n\t3.17.0 Prior to 3.17.16\n3.17.0 Prior to 3.17.19\n3.18.0 Prior to 3.18.10\n3.18.0 Prior to 3.18.13\n3.19.0 Prior to 3.19.10\n3.19.0 Prior to 3.19.7\n3.20.0 Prior to 3.20.3\n3.20.0 Prior to 3.20.6\n3.21.0 Prior to 3.21.4",
+        "3.17.0 Prior to 3.17.16",
+        "3.17.0 Prior to 3.17.19",
+        "3.18.0 Prior to 3.18.10",
+        "3.18.0 Prior to 3.18.13",
+        "3.19.0 Prior to 3.19.10",
+        "3.19.0 Prior to 3.19.7",
+        "3.20.0 Prior to 3.20.3",
+        "3.20.0 Prior to 3.20.6",
+        "3.21.0 Prior to 3.21.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
