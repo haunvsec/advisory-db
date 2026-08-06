@@ -1,0 +1,16 @@
+{
+    "id": "foxit-security-advisory-av26-784",
+    "title": "Foxit security advisory (AV26-784)",
+    "public_time": "2026-08-06T13:29:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av26-784",
+    "advisory_id": "AV26-784",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Foxit PDF Services API\n\tbefore 2026-07-27",
+        "before 2026-07-27"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
