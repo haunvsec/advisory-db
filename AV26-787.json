@@ -1,0 +1,16 @@
+{
+    "id": "google-security-advisory-av26-787",
+    "title": "Google security advisory (AV26-787)",
+    "public_time": "2026-08-07T15:02:30Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-787",
+    "advisory_id": "AV26-787",
+    "type": "advisory",
+    "description": "As of August 6, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Chrome\n\tversions prior to 151.0.7922.109",
+        "versions prior to 151.0.7922.109"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
