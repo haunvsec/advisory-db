@@ -1,0 +1,19 @@
+{
+    "id": "cisco-security-advisory-av26-794",
+    "title": "Cisco security advisory (AV26-794)",
+    "public_time": "2026-08-10T16:02:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-794",
+    "advisory_id": "AV26-794",
+    "type": "advisory",
+    "description": "As of August 7, 2026, Cisco is affected by vulnerabilities in the following product:",
+    "products": [
+        "Secure Endpoint Connector for Linux",
+        "Secure Endpoint Connector for Mac",
+        "Secure Endpoint Connector for Windows",
+        "Cisco Secure Endpoint Private Cloud\n\tPrior to 8.4.5.30483",
+        "Prior to 8.4.5.30483"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
