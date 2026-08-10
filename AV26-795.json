@@ -1,0 +1,15 @@
+{
+    "id": "qualcomm-security-advisory-av26-795",
+    "title": "Qualcomm security advisory (AV26-795)",
+    "public_time": "2026-08-10T18:06:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av26-795",
+    "advisory_id": "AV26-795",
+    "type": "advisory",
+    "description": "As of August 3, 2026, Qualcomm published a security bulletin to address vulnerabilities affecting Qualcomm products.",
+    "products": [
+        "August 2026 Security Bulletin"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
