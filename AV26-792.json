@@ -1,0 +1,18 @@
+{
+    "id": "wordpress-security-advisory-av26-792",
+    "title": "WordPress security advisory (AV26-792)",
+    "public_time": "2026-08-10T14:14:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/wordpress-security-advisory-av26-792",
+    "advisory_id": "AV26-792",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "WordPress\n\tprior to 7.0.3",
+        "prior to 7.0.3"
+    ],
+    "cves": [
+        "CVE-2026-64638"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
