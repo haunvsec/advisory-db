@@ -1,0 +1,17 @@
+{
+    "id": "roundcube-security-advisory-av26-793",
+    "title": "Roundcube security advisory (AV26-793)",
+    "public_time": "2026-08-10T15:15:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av26-793",
+    "advisory_id": "AV26-793",
+    "type": "advisory",
+    "description": "On August 9, 2026, Roundcube is affected by vulnerabilities in the following product:",
+    "products": [
+        "Roundcube Webmail\n\tprior to 1.6.18\nprior to 1.7.3",
+        "prior to 1.6.18",
+        "prior to 1.7.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
