@@ -1,0 +1,18 @@
+{
+    "id": "webpros-security-advisory-av26-790",
+    "title": "WebPros security advisory (AV26-790)",
+    "public_time": "2026-08-10T14:04:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-790",
+    "advisory_id": "AV26-790",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Plesk Obsidian\n\tPrior to 18.0.80.1 and 18.0.79.5",
+        "Prior to 18.0.80.1 and 18.0.79.5"
+    ],
+    "cves": [
+        "CVE-2026-64636"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
