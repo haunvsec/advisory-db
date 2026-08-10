@@ -1,0 +1,28 @@
+{
+    "id": "dell-security-advisory-av26-788",
+    "title": "Dell security advisory (AV26-788)",
+    "public_time": "2026-08-10T12:38:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-788",
+    "advisory_id": "AV26-788",
+    "type": "advisory",
+    "description": "As of August 7, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "Dell OpenManage Server Administrator Managed Node (Patch) for Windows\n\tPrior to 11.1.0.2",
+        "Prior to 11.1.0.2",
+        "Dell OpenManage Server Administrator Managed Node for RHEL 8.10\n\tPrior to 11.1.0.2",
+        "Prior to 11.1.0.2",
+        "Dell OpenManage Server Administrator Managed Node for RHEL 9.4\n\tPrior to 11.1.0.2",
+        "Prior to 11.1.0.2",
+        "Dell OpenManage Server Administrator Managed Node for SLES 15\n\tPrior to 11.1.0.2",
+        "Prior to 11.1.0.2",
+        "OpenManage Server Administrator Managed Node (Patch) for Windows\n\tPrior to 11.1.0.2",
+        "Prior to 11.1.0.2",
+        "RVTools\n\tPrior to 4.8.1",
+        "Prior to 4.8.1",
+        "Virtual Storage Integrator for VMware vSphere Client\n\tPrior to 10.11.1.0",
+        "Prior to 10.11.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
