@@ -1,0 +1,18 @@
+{
+    "id": "rapid7-security-advisory-av26-801",
+    "title": "Rapid7 security advisory (AV26-801)",
+    "public_time": "2026-08-11T17:33:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/rapid7-security-advisory-av26-801",
+    "advisory_id": "AV26-801",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Velociraptor\n\tPrior to 0.77.2",
+        "Prior to 0.77.2"
+    ],
+    "cves": [
+        "CVE-2026-18972"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
