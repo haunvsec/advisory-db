@@ -1,0 +1,19 @@
+{
+    "id": "amd-security-advisory-av26-800",
+    "title": "AMD security advisory (AV26-800)",
+    "public_time": "2026-08-11T15:42:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-800",
+    "advisory_id": "AV26-800",
+    "type": "advisory",
+    "description": "As of August 10, 2026, AMD is affected by vulnerabilities in the following products:",
+    "products": [
+        "AMD EPYC Series Processors",
+        "AMD EPYC Embedded Series Processors"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3032.html",
+        "https://www.amd.com/en/resources/product-security.html"
+    ]
+}
