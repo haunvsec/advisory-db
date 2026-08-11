@@ -1,0 +1,32 @@
+{
+    "id": "sap-security-advisory-august-2026-monthly-rollup-av26-798",
+    "title": "SAP security advisory \u2013 August 2026 monthly rollup (AV26-798)",
+    "public_time": "2026-08-11T14:20:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2026-monthly-rollup-av26-798",
+    "advisory_id": "AV26-798",
+    "type": "advisory",
+    "description": "As of August 11, 2026, SAP is affected by vulnerabilities in the following products:",
+    "products": [
+        "SAP Commerce Cloud (Data Hub Adapter)\n\tVersions COM_CLOUD 2211 and 2211-JDK21",
+        "Versions COM_CLOUD 2211 and 2211-JDK21",
+        "SAP Manufacturing Integration and Intelligence\n\tVersions XMII 15.4, 15.5, MII_ADMIN 15.4 and 15.5",
+        "Versions XMII 15.4, 15.5, MII_ADMIN 15.4 and 15.5",
+        "SAP NetWeaver and ABAP Platform\n\tVersions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 7.22EXT, 7.22EXT2, 7.22EXT3, 7.53, 7.54, 7.77, 7.89, 7.93, 8.04, 9.16 9.18, 9.19, KERNEL 7.22, 7.53, 7.54, 7.77, 7.89, 7.93, 8.04, 9.16, 9.18 and 9.19",
+        "Versions KRNL64NUC 7.22, 7.22EXT, KRNL64UC 7.22, 7.22EXT, 7.22EXT2, 7.22EXT3, 7.53, 7.54, 7.77, 7.89, 7.93, 8.04, 9.16 9.18, 9.19, KERNEL 7.22, 7.53, 7.54, 7.77, 7.89, 7.93, 8.04, 9.16, 9.18 and 9.19",
+        "SAP Manufacturing Integration and Intelligence\n\tVersion MII 15.4, 15.5",
+        "Version MII 15.4, 15.5",
+        "SAP Change and Transport System Attach Tool (ctsattach)\n\tVersion CTS_UPLOAD_CLT 1",
+        "Version CTS_UPLOAD_CLT 1",
+        "SAP ABAP Developer Tools\n\tVersions AP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816 and SAP_BASIS 918, SAP_BASIS 920",
+        "Versions AP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816 and SAP_BASIS 918, SAP_BASIS 920",
+        "SAP Commerce Cloud\n\tVersions OM_CLOUD 2211, 2211-JDK21 and DHUB_CLOUD 2211, 2211-JDK21",
+        "Versions OM_CLOUD 2211, 2211-JDK21 and DHUB_CLOUD 2211, 2211-JDK21",
+        "SAP BusinessObjects Business Intelligence Platform (Central Management Server)\n\tVersions AP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816, SAP_BASIS 918, SAP_BASIS 920, ENTERPRISE 430, 2025 and 2027",
+        "Versions AP_BASIS 750, SAP_BASIS 751, SAP_BASIS 752, SAP_BASIS 753, SAP_BASIS 754, SAP_BASIS 755, SAP_BASIS 756, SAP_BASIS 757, SAP_BASIS 758, SAP_BASIS 816, SAP_BASIS 918, SAP_BASIS 920, ENTERPRISE 430, 2025 and 2027",
+        "SAP Manufacturing Integration and Intelligence\n\tVersions MII 15.4 and 15.5",
+        "Versions MII 15.4 and 15.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
