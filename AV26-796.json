@@ -1,0 +1,20 @@
+{
+    "id": "grafana-security-advisory-av26-796",
+    "title": "Grafana security advisory (AV26-796)",
+    "public_time": "2026-08-11T13:17:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-796",
+    "advisory_id": "AV26-796",
+    "type": "advisory",
+    "description": "As of August 11, 2026, Grafana is affected by a vulnerability in the following products:",
+    "products": [
+        "Grafana MCP Server\n\tPrior to or equal to 1.0.0",
+        "Prior to or equal to 1.0.0",
+        "mcp-grafana\n\tPrior to or equal to 1.0.0",
+        "Prior to or equal to 1.0.0"
+    ],
+    "cves": [
+        "CVE-2026-19516"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
