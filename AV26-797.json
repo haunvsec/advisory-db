@@ -1,0 +1,18 @@
+{
+    "id": "hashicorp-security-advisory-av26-797",
+    "title": "HashiCorp security advisory (AV26-797)",
+    "public_time": "2026-08-11T13:52:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-797",
+    "advisory_id": "AV26-797",
+    "type": "advisory",
+    "description": "As of August 10, 2026, HashiCorp is affected by vulnerabilities in the following products:",
+    "products": [
+        "Vault\n\tPrior to 2.0.3",
+        "Prior to 2.0.3",
+        "Vault Enterprise\n\tmultiple versions",
+        "multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
