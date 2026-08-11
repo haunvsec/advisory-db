@@ -1,0 +1,16 @@
+{
+    "id": "ivanti-security-advisory-av26-805",
+    "title": "Ivanti security advisory (AV26-805)",
+    "public_time": "2026-08-11T20:09:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-805",
+    "advisory_id": "AV26-805",
+    "type": "advisory",
+    "description": "As of August 11, 2026, Ivanti is affected by vulnerabilities in the following product:",
+    "products": [
+        "Endpoint Manager\n\tPrior to or equal to 2024 SU6",
+        "Prior to or equal to 2024 SU6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
