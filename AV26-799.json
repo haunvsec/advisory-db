@@ -1,0 +1,19 @@
+{
+    "id": "commvault-security-advisory-av26-799",
+    "title": "Commvault security advisory (AV26-799)",
+    "public_time": "2026-08-11T15:06:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av26-799",
+    "advisory_id": "AV26-799",
+    "type": "advisory",
+    "description": "As of August 11, 2026, Commvault is affected by vulnerabilities in the following product:",
+    "products": [
+        "Commvault Cloud\n\t11.36.0 Prior to 11.36.114\n11.40.0 Prior to 11.40.63\n11.44.0 Prior to 11.44.11\n11.46.0 Prior to 11.46.10",
+        "11.36.0 Prior to 11.36.114",
+        "11.40.0 Prior to 11.40.63",
+        "11.44.0 Prior to 11.44.11",
+        "11.46.0 Prior to 11.46.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
