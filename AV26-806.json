@@ -1,0 +1,16 @@
+{
+    "id": "google-security-advisory-av26-806",
+    "title": "Google security advisory (AV26-806)",
+    "public_time": "2026-08-12T12:33:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-806",
+    "advisory_id": "AV26-806",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Chrome\n\tversions prior to 151.0.7922.138",
+        "versions prior to 151.0.7922.138"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
