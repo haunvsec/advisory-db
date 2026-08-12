@@ -1,0 +1,21 @@
+{
+    "id": "cisco-security-advisory-av26-807",
+    "title": "Cisco security advisory (AV26-807)",
+    "public_time": "2026-08-12T12:43:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-807",
+    "advisory_id": "AV26-807",
+    "type": "advisory",
+    "description": "As of August 11, 2026, Cisco is affected by a vulnerability in the following products:",
+    "products": [
+        "Cisco Secure Firewall Adaptive Security Appliance (ASA) Software\n\tmultiple versions",
+        "multiple versions",
+        "Cisco Secure Firewall Threat Defense (FTD) Software\n\tmultiple versions",
+        "multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-20349",
+        "CVE-2026-20349"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
