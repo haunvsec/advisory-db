@@ -1,0 +1,22 @@
+{
+    "id": "mongodb-security-advisory-av26-810",
+    "title": "MongoDB security advisory (AV26-810)",
+    "public_time": "2026-08-12T15:41:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-810",
+    "advisory_id": "AV26-810",
+    "type": "advisory",
+    "description": "As of August 11, 2026, MongoDB is affected by vulnerabilities in the following products:",
+    "products": [
+        "MongoDB Driver\n\tPrior to 5.9.2",
+        "Prior to 5.9.2",
+        "MongoDB Server\n\tPrior to 7.0.40\nPrior to 8.0.29\nPrior to 8.2.13\nPrior to 8.3.8\nPrior to 9.0.0-rc2",
+        "Prior to 7.0.40",
+        "Prior to 8.0.29",
+        "Prior to 8.2.13",
+        "Prior to 8.3.8",
+        "Prior to 9.0.0-rc2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
