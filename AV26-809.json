@@ -1,0 +1,18 @@
+{
+    "id": "sonicwall-security-advisory-av26-809",
+    "title": "SonicWall security advisory (AV26-809)",
+    "public_time": "2026-08-12T15:05:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-809",
+    "advisory_id": "AV26-809",
+    "type": "advisory",
+    "description": "As of August 11, 2026, SonicWall is affected by vulnerabilities in the following products:",
+    "products": [
+        "Email Security\n\t10.0.35.8405 and earlier versions",
+        "10.0.35.8405 and earlier versions",
+        "GMS\n\t9.5.1 and earlier versions",
+        "9.5.1 and earlier versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
