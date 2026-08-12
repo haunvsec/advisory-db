@@ -1,0 +1,25 @@
+{
+    "id": "fortinet-security-advisory-av26-812",
+    "title": "Fortinet security advisory (AV26-812)",
+    "public_time": "2026-08-12T17:38:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-812",
+    "advisory_id": "AV26-812",
+    "type": "advisory",
+    "description": "As of August 12, 2026, Fortinet is affected by a vulnerability in the following products:",
+    "products": [
+        "FortiClientWindows\n\tPrior to or equal to 7.2.11\nPrior to or equal to 7.4.3",
+        "Prior to or equal to 7.2.11",
+        "Prior to or equal to 7.4.3",
+        "FortiManager\n\tPrior to or equal to 7.61\nPrior to or equal to 7.4.5\nPrior to or equal to 7.2.9",
+        "Prior to or equal to 7.61",
+        "Prior to or equal to 7.4.5",
+        "Prior to or equal to 7.2.9",
+        "FortiManager Cloud\n\tPrior to or equal to 7.61\nPrior to or equal to 7.4.5\nPrior to or equal to 7.2.9",
+        "Prior to or equal to 7.61",
+        "Prior to or equal to 7.4.5",
+        "Prior to or equal to 7.2.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
