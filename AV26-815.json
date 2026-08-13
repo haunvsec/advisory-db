@@ -1,0 +1,19 @@
+{
+    "id": "webpros-security-advisory-av26-815",
+    "title": "WebPros security advisory (AV26-815)",
+    "public_time": "2026-08-13T15:17:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-815",
+    "advisory_id": "AV26-815",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Plesk (Windows/Linux)\n\tPrior to 18.0.79.6\nPrior to 18.0.80.2",
+        "Prior to 18.0.79.6",
+        "Prior to 18.0.80.2"
+    ],
+    "cves": [
+        "CVE-2026-64639"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
