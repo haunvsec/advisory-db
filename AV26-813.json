@@ -1,0 +1,33 @@
+{
+    "id": "amd-security-advisory-av26-813",
+    "title": "AMD security advisory (AV26-813)",
+    "public_time": "2026-08-13T13:38:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-813",
+    "advisory_id": "AV26-813",
+    "type": "advisory",
+    "description": "As of August 11, 2026, AMD is affected by vulnerabilities in the following products:",
+    "products": [
+        "AMD Power Design Manager (PDM) Software Installer for Windows\n\tall except 2026.1",
+        "all except 2026.1",
+        "AMD Power Design Manager (PDM) Software Un-Installer\n\tall except 2026.1",
+        "all except 2026.1",
+        "AMD Ryzen Master\n\tall except 3.0.0.4199\nall except 3.1.1.5502",
+        "all except 3.0.0.4199",
+        "all except 3.1.1.5502",
+        "AMD Ryzen Master (AMD Ryzen 3000 Series Processors)\n\tall except 2.14.3.5040",
+        "all except 2.14.3.5040",
+        "AMD Ryzen Master Monitoring SDK\n\tall except 3.1.1.5478",
+        "all except 3.1.1.5478",
+        "AMD Ryzen Master SDK\n\tall except 3.0.1.4732",
+        "all except 3.0.1.4732",
+        "Vitis Libraries - Security Module\n\tall except 2026.1",
+        "all except 2026.1",
+        "Vitis Embedded Single File Download (SFD) for Windows\n\tall except 2026.1",
+        "all except 2026.1",
+        "Vitis Unified Installer for FPGAs & Adaptive SoCs in Windows\n\tall except 2026.1",
+        "all except 2026.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
