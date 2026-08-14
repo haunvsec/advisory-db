@@ -1,0 +1,19 @@
+{
+    "id": "zimbra-security-advisory-av26-816",
+    "title": "Zimbra security advisory (AV26-816)",
+    "public_time": "2026-08-14T13:11:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-816",
+    "advisory_id": "AV26-816",
+    "type": "advisory",
+    "description": "As of August 13, 2026, Zimbra is affected by vulnerabilities in the following product:",
+    "products": [
+        "Collaboration - Prior to 10.1.20"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories",
+        "https://wiki.zimbra.com/wiki/Zimbra_Responsible_Disclosure_Policy",
+        "https://blog.zimbra.com/"
+    ]
+}
