@@ -1,0 +1,18 @@
+{
+    "id": "hashicorp-security-advisory-av26-817",
+    "title": "HashiCorp security advisory (AV26-817)",
+    "public_time": "2026-08-14T15:54:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-817",
+    "advisory_id": "AV26-817",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Vault Secrets Operator - Prior to 1.5.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://discuss.hashicorp.com/t/hcsec-2026-28-vault-secrets-operator-vulnerable-to-arbitrary-file-read-via-approle-secretidpath/77645",
+        "https://discuss.hashicorp.com/c/security/52"
+    ]
+}
