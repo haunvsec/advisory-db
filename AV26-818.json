@@ -1,0 +1,29 @@
+{
+    "id": "freepbx-security-advisory-av26-818",
+    "title": "FreePBX security advisory (AV26-818)",
+    "public_time": "2026-08-14T16:06:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-818",
+    "advisory_id": "AV26-818",
+    "type": "advisory",
+    "description": "As of August 13, 2026, FreePBX is affected by vulnerabilities in the following products:",
+    "products": [
+        "backup\n\tAfter or equal to 17.0.5.34, Prior to 17.0.11",
+        "After or equal to 17.0.5.34, Prior to 17.0.11",
+        "framework\n\tAfter or equal to 17.0.1, Prior to 17.0.30\nPrior to 16.0.47",
+        "After or equal to 17.0.1, Prior to 17.0.30",
+        "Prior to 16.0.47",
+        "missedcall\n\tAfter or equal to 17.0.1, Prior to 17.0.4\nPrior to 16.0.11",
+        "After or equal to 17.0.1, Prior to 17.0.4",
+        "Prior to 16.0.11",
+        "music\n\tPrior to 17.0.7",
+        "Prior to 17.0.7",
+        "tts\n\tAfter or equal to 17.0.1, Prior to 17.0.5.4\nPrior to 16.0.6",
+        "After or equal to 17.0.1, Prior to 17.0.5.4",
+        "Prior to 16.0.6",
+        "ucp\n\tPrior to 17.0.9",
+        "Prior to 17.0.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
