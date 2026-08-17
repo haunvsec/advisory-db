@@ -1,0 +1,17 @@
+{
+    "id": "progress-security-advisory-av26-824",
+    "title": "Progress security advisory (AV26-824)",
+    "public_time": "2026-08-17T18:01:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-824",
+    "advisory_id": "AV26-824",
+    "type": "advisory",
+    "description": "As of August 17, 2026, Progress is affected by vulnerabilities in the following product:",
+    "products": [
+        "ShareFile Storage Zones Controller\n\tPrior to or equal to 5.12.5\nPrior to or equal to 6.0.2",
+        "Prior to or equal to 5.12.5",
+        "Prior to or equal to 6.0.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
