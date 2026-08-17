@@ -1,0 +1,26 @@
+{
+    "id": "dell-security-advisory-av26-821",
+    "title": "Dell security advisory (AV26-821)",
+    "public_time": "2026-08-17T13:23:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-821",
+    "advisory_id": "AV26-821",
+    "type": "advisory",
+    "description": "As of August 14, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "PowerFlex appliance\n\tPrior to 51.391.02 and 51.384.02",
+        "Prior to 51.391.02 and 51.384.02",
+        "PowerFlex Rack\n\tPrior to 3.9.1.2 and 3.8.4.2",
+        "Prior to 3.9.1.2 and 3.8.4.2",
+        "PowerFlex Software\n\tPrior to 5.1.0.2 and 4.5.6",
+        "Prior to 5.1.0.2 and 4.5.6",
+        "Dell Client Platform for Multiple AMD BIOS\n\tmultiple versions and models",
+        "multiple versions and models",
+        "Dell Client Platform BIOS for 2026.3 IPU\n\tmultiple versions and models",
+        "multiple versions and models",
+        "Dell VPlex\n\tPrior to 6.2.2.1",
+        "Prior to 6.2.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
