@@ -1,0 +1,16 @@
+{
+    "id": "tenable-inc-security-advisory-av26-820",
+    "title": "Tenable, Inc. security advisory (AV26-820)",
+    "public_time": "2026-08-17T13:03:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tenable-inc-security-advisory-av26-820",
+    "advisory_id": "AV26-820",
+    "type": "advisory",
+    "description": "As of August 14, 2026, Tenable, Inc. is affected by vulnerabilities in the following product:",
+    "products": [
+        "Security Center\n\tPrior to 6.9.0",
+        "Prior to 6.9.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
