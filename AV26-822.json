@@ -1,0 +1,18 @@
+{
+    "id": "microsoft-edge-security-advisory-av26-822",
+    "title": "Microsoft Edge security advisory (AV26-822)",
+    "public_time": "2026-08-17T13:49:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-822",
+    "advisory_id": "AV26-822",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Microsoft Edge (Chromium-based)\n\tPrior to 151.0.4129.86",
+        "Prior to 151.0.4129.86"
+    ],
+    "cves": [
+        "CVE-2026-72970"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
