@@ -1,0 +1,22 @@
+{
+    "id": "apple-security-advisory-av26-823",
+    "title": "Apple security advisory (AV26-823)",
+    "public_time": "2026-08-17T15:38:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-823",
+    "advisory_id": "AV26-823",
+    "type": "advisory",
+    "description": "As of August 6, 2026, Apple is affected by vulnerabilities in the following products:",
+    "products": [
+        "macOS Tahoe\n\tPrior to 26.6.1",
+        "Prior to 26.6.1",
+        "macOS Sequoia\n\tPrior to 15.7.9",
+        "Prior to 15.7.9",
+        "macOS Sonoma\n\tPrior to 14.8.9",
+        "Prior to 14.8.9"
+    ],
+    "cves": [
+        "CVE-2026-65400"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
