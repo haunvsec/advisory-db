@@ -1,0 +1,32 @@
+{
+    "id": "jetbrains-security-advisory-av26-825",
+    "title": "JetBrains security advisory (AV26-825)",
+    "public_time": "2026-08-18T13:04:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-825",
+    "advisory_id": "AV26-825",
+    "type": "advisory",
+    "description": "As of August 17, 2026, JetBrains is affected by vulnerabilities in the following products:",
+    "products": [
+        "IntelliJ IDEA\n\tPrior to 2026.1.5\nPrior to 2026.2.1",
+        "Prior to 2026.1.5",
+        "Prior to 2026.2.1",
+        "Ktor\n\tPrior to 3.4.1",
+        "Prior to 3.4.1",
+        "PyCharm\n\tPrior to 2026.2.1",
+        "Prior to 2026.2.1",
+        "YouTrack\n\tPrior to 2025.3.156085\nPrior to 2026.1.13901\nPrior to 2026.1.13903\nPrior to 2026.1.13913\nPrior to 2026.1.13914\nPrior to 2026.2.17917\nPrior to 2026.2.17950\nPrior to 2026.2.18068\nPrior to 2026.2.18095\nPrior to 2026.2.18112",
+        "Prior to 2025.3.156085",
+        "Prior to 2026.1.13901",
+        "Prior to 2026.1.13903",
+        "Prior to 2026.1.13913",
+        "Prior to 2026.1.13914",
+        "Prior to 2026.2.17917",
+        "Prior to 2026.2.17950",
+        "Prior to 2026.2.18068",
+        "Prior to 2026.2.18095",
+        "Prior to 2026.2.18112"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
