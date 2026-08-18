@@ -1,0 +1,20 @@
+{
+    "id": "mattermost-security-advisory-av26-828",
+    "title": "Mattermost security advisory (AV26-828)",
+    "public_time": "2026-08-18T14:14:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-828",
+    "advisory_id": "AV26-828",
+    "type": "advisory",
+    "description": "As of August 17, 2026, Mattermost is affected by vulnerabilities in the following product:",
+    "products": [
+        "Mattermost\n\tPrior to or equal to 10.11.21\nPrior to or equal to 11.7.6\nPrior to or equal to 11.8.3",
+        "Prior to or equal to 10.11.21",
+        "Prior to or equal to 11.7.6",
+        "Prior to or equal to 11.8.3"
+    ],
+    "cves": [
+        "CVE-2026-9816"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
