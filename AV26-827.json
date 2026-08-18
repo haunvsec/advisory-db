@@ -1,0 +1,19 @@
+{
+    "id": "gitlab-security-advisory-av26-827",
+    "title": "GitLab security advisory (AV26-827)",
+    "public_time": "2026-08-18T14:00:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-827",
+    "advisory_id": "AV26-827",
+    "type": "advisory",
+    "description": "As of August 17, 2026, GitLab is affected by vulnerabilities in the following product:",
+    "products": [
+        "GitLab\n\tPrior to 18.11.11\nPrior to 19.0.8\nPrior to 19.1.6\nPrior to 19.2.4",
+        "Prior to 18.11.11",
+        "Prior to 19.0.8",
+        "Prior to 19.1.6",
+        "Prior to 19.2.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
