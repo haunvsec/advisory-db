@@ -1,0 +1,16 @@
+{
+    "id": "beyondtrust-security-advisory-av26-826",
+    "title": "BeyondTrust security advisory (AV26-826)",
+    "public_time": "2026-08-18T13:38:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-826",
+    "advisory_id": "AV26-826",
+    "type": "advisory",
+    "description": "As of August 17, 2026, BeyondTrust is affected by vulnerabilities in the following product:",
+    "products": [
+        "Endpoint Privilege Management (Windows deployment)\n\tPrior to 26.1.2",
+        "Prior to 26.1.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
