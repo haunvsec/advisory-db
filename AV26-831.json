@@ -1,0 +1,39 @@
+{
+    "id": "oracle-corporation-security-advisory-av26-831",
+    "title": "Oracle Corporation security advisory (AV26-831)",
+    "public_time": "2026-08-19T18:24:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-831",
+    "advisory_id": "AV26-831",
+    "type": "advisory",
+    "description": "As of August 18, 2026, Oracle Corporation is affected by vulnerabilities in the following products:",
+    "products": [
+        "Oracle Database Server",
+        "Oracle Autonomous Health Framework",
+        "Oracle Essbase",
+        "Oracle Application Testing Suite",
+        "Oracle Commerce",
+        "Oracle Communications",
+        "Oracle Construction and Engineering",
+        "Oracle E Business Suite",
+        "Oracle Enterprise Manager",
+        "Oracle Financial Services Applications",
+        "Oracle Food and Beverage Applications",
+        "Oracle Fusion Middleware",
+        "Oracle Analytics",
+        "Oracle Hospitality Applications",
+        "Oracle Hyperion",
+        "Oracle Java SE",
+        "Oracle JD Edwards",
+        "Oracle MySQL",
+        "Oracle MySQL",
+        "Oracle Retail Applications",
+        "Oracle Siebel CRM",
+        "Oracle Supply Chain",
+        "Oracle Virtualization"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://www.oracle.com/security-alerts/cspuaug2026.html"
+    ]
+}
