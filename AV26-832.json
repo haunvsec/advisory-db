@@ -1,0 +1,19 @@
+{
+    "id": "mlflow-security-advisory-av26-832",
+    "title": "MLflow security advisory (AV26-832)",
+    "public_time": "2026-08-19T18:28:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mlflow-security-advisory-av26-832",
+    "advisory_id": "AV26-832",
+    "type": "advisory",
+    "description": "As of August 17, 2026, MLflow is affected by vulnerabilities in the following product:",
+    "products": [
+        "MLflow\n\tPrior to 3.15.0",
+        "Prior to 3.15.0"
+    ],
+    "cves": [
+        "CVE-2026-64849",
+        "CVE-2026-64849"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
