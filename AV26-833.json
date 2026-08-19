@@ -1,0 +1,24 @@
+{
+    "id": "citrix-security-advisory-av26-833",
+    "title": "Citrix security advisory (AV26-833)",
+    "public_time": "2026-08-19T18:38:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-833",
+    "advisory_id": "AV26-833",
+    "type": "advisory",
+    "description": "As of August 19, 2026, NetScaler is affected by vulnerabilities in the following products:",
+    "products": [
+        "NetScaler ADC and NetScaler\n\tVersion 13.1 prior to or equal to 13.1-63.21\nVersion 14.1 prior to or equal to 14.1-73.32",
+        "Version 13.1 prior to or equal to 13.1-63.21",
+        "Version 14.1 prior to or equal to 14.1-73.32",
+        "NetScaler ADC FIPS\n\tPrior to 14.1-73.32 FIPS",
+        "Prior to 14.1-73.32 FIPS",
+        "NetScaler ADC FIPS and NDcPP\n\tPrior to 13.1-37.277",
+        "Prior to 13.1-37.277"
+    ],
+    "cves": [
+        "CVE-2026-19489",
+        "CVE-2026-19490"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
