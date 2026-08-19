@@ -1,0 +1,28 @@
+{
+    "id": "atlassian-security-advisory-av26-829",
+    "title": "Atlassian security advisory (AV26-829)",
+    "public_time": "2026-08-19T12:49:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-829",
+    "advisory_id": "AV26-829",
+    "type": "advisory",
+    "description": "As of August 18, 2026, Atlassian is affected by vulnerabilities in the following products:",
+    "products": [
+        "Bamboo Data Center and Server\n\tmultiple versions",
+        "multiple versions",
+        "Bitbucket Data Center and Server\n\tmultiple versions",
+        "multiple versions",
+        "Confluence Data Center and Server\n\tmultiple versions",
+        "multiple versions",
+        "Crowd Data Center and Server\n\tmultiple versions",
+        "multiple versions",
+        "Fisheye/Crucible\n\tall versions from 4.9.0 to 4.9.12",
+        "all versions from 4.9.0 to 4.9.12",
+        "Jira Data Center and Server\n\tmultiple versions",
+        "multiple versions",
+        "Jira Service Management Data Center and Server\n\tmultiple versions",
+        "multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
