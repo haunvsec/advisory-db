@@ -1,0 +1,20 @@
+{
+    "id": "nvidia-security-advisory-av26-830",
+    "title": "NVIDIA security advisory (AV26-830)",
+    "public_time": "2026-08-19T17:03:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-830",
+    "advisory_id": "AV26-830",
+    "type": "advisory",
+    "description": "As of August 18, 2026, NVIDIA is affected by vulnerabilities in the following products:",
+    "products": [
+        "Triton Inference Server\n\tVersions prior to 0.0-26.05",
+        "Versions prior to 0.0-26.05",
+        "Cumulus Linux GA/LTS\n\tMultiple versions",
+        "Multiple versions",
+        "NVOS\n\tVersions prior to 25.0.2.4438 and 25.0.2.6077",
+        "Versions prior to 25.0.2.4438 and 25.0.2.6077"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
