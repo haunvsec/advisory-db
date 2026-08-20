@@ -1,0 +1,26 @@
+{
+    "id": "control-systems-johnson-controls-security-advisory-av26-837",
+    "title": "[Control Systems] Johnson Controls security advisory (AV26-837)",
+    "public_time": "2026-08-20T19:53:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-837",
+    "advisory_id": "AV26-837",
+    "type": "advisory",
+    "description": "As of August 13, 2026, Johnson Controls is affected by vulnerabilities in the following products:",
+    "products": [
+        "Airwall\n\tPrior to 4.1.0",
+        "Prior to 4.1.0",
+        "Metasys 12\n\tall versions",
+        "all versions",
+        "Metasys 13\n\tall versions",
+        "all versions",
+        "Metasys 14\n\tall versions prior to v14.1.5",
+        "all versions prior to v14.1.5",
+        "Metasys 15\n\tall versions prior to v15.0.1",
+        "all versions prior to v15.0.1",
+        "TL280\n\tPrior to v5.62",
+        "Prior to v5.62"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
