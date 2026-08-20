@@ -1,0 +1,18 @@
+{
+    "id": "n8n-security-advisory-av26-836",
+    "title": "n8n security advisory (AV26-836)",
+    "public_time": "2026-08-20T19:42:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-836",
+    "advisory_id": "AV26-836",
+    "type": "advisory",
+    "description": "As of August 20, 2026, n8n is affected by vulnerabilities in the following product:",
+    "products": [
+        "n8n\n\tPrior to 1.123.69\nPrior to 2.33.4\nPrior to 2.34.1",
+        "Prior to 1.123.69",
+        "Prior to 2.33.4",
+        "Prior to 2.34.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
