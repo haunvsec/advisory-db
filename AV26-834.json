@@ -1,0 +1,31 @@
+{
+    "id": "cisco-security-advisory-av26-834",
+    "title": "Cisco security advisory (AV26-834)",
+    "public_time": "2026-08-20T13:22:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-834",
+    "advisory_id": "AV26-834",
+    "type": "advisory",
+    "description": "As of August 19, 2026, Cisco is affected by vulnerabilities in the following products:",
+    "products": [
+        "BroadWorks Application Delivery Platform\n\tPrior to RI.2026.07",
+        "Prior to RI.2026.07",
+        "BroadWorks Application Server\n\tPrior to RI.2026.07",
+        "Prior to RI.2026.07",
+        "BroadWorks Profile Server\n\tPrior to RI.2026.07",
+        "Prior to RI.2026.07",
+        "BroadWorks Xtended Services Platform\n\tPrior to RI.2026.07",
+        "Prior to RI.2026.07",
+        "Cisco Crosswork Planning\n\tPrior to 7.2.1-SP",
+        "Prior to 7.2.1-SP",
+        "Cisco Crosswork Data Gateway\n\tPrior to 7.2.1-SP",
+        "Prior to 7.2.1-SP",
+        "Cisco Crosswork Network Controller\n\tPrior to 7.2.1-SP",
+        "Prior to 7.2.1-SP",
+        "Cisco Secure Workload\n\tVersion 3.10 prior to 3.10.9.1\nVersion 4.0 prior to 4.0.4.16",
+        "Version 3.10 prior to 3.10.9.1",
+        "Version 4.0 prior to 4.0.4.16"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
