@@ -1,0 +1,20 @@
+{
+    "id": "spring-security-advisory-av26-842",
+    "title": "Spring security advisory (AV26-842)",
+    "public_time": "2026-08-21T20:52:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-842",
+    "advisory_id": "AV26-842",
+    "type": "advisory",
+    "description": "As of August 20, 2026, Spring is affected by vulnerabilities in the following products:",
+    "products": [
+        "Spring AI\n\tPrior to or equal to 2.0.0\nPrior to or equal to 1.0.9\nPrior to or equal to 1.1.8",
+        "Prior to or equal to 2.0.0",
+        "Prior to or equal to 1.0.9",
+        "Prior to or equal to 1.1.8",
+        "Spring Security\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
