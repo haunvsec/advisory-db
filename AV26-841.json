@@ -1,0 +1,25 @@
+{
+    "id": "control-systems-cisa-security-advisory-av26-841",
+    "title": "[Control Systems] CISA security advisory (AV26-841)",
+    "public_time": "2026-08-21T19:41:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-cisa-security-advisory-av26-841",
+    "advisory_id": "AV26-841",
+    "type": "advisory",
+    "description": "As of August 18, 2026, Malcolm is affected by vulnerabilities in the following product:",
+    "products": [
+        "Malcolm\n\tPrior to 26.06.1 (CVE-2026-55676)\nPrior to 26.07.0 (CVE-2026-63133, CVE-2026-63134, CVE-2026-63177)\nPrior to or equal to 26.07.1 (CVE-2026-19670, CVE-2026-19671)",
+        "Prior to 26.06.1 (CVE-2026-55676)",
+        "Prior to 26.07.0 (CVE-2026-63133, CVE-2026-63134, CVE-2026-63177)",
+        "Prior to or equal to 26.07.1 (CVE-2026-19670, CVE-2026-19671)"
+    ],
+    "cves": [
+        "CVE-2026-55676",
+        "CVE-2026-63133",
+        "CVE-2026-63134",
+        "CVE-2026-63177",
+        "CVE-2026-19670",
+        "CVE-2026-19671"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
