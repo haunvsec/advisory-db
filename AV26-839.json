@@ -1,0 +1,21 @@
+{
+    "id": "apple-security-advisory-av26-839",
+    "title": "Apple security advisory (AV26-839)",
+    "public_time": "2026-08-21T13:32:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-839",
+    "advisory_id": "AV26-839",
+    "type": "advisory",
+    "description": "As of August 18, 2026, Apple is affected by vulnerabilities in the following products:",
+    "products": [
+        "Safari\n\tPrior to 26.6.1",
+        "Prior to 26.6.1",
+        "iOS and iPadOS\n\tPrior to 18.7.10\nPrior to 26.6.1",
+        "Prior to 18.7.10",
+        "Prior to 26.6.1",
+        "MacOS Tahoe\n\tPrior to 26.6.2",
+        "Prior to 26.6.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
