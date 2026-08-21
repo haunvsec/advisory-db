@@ -1,0 +1,24 @@
+{
+    "id": "mozilla-security-advisory-av26-840",
+    "title": "Mozilla security advisory (AV26-840)",
+    "public_time": "2026-08-21T14:52:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-840",
+    "advisory_id": "AV26-840",
+    "type": "advisory",
+    "description": "As of August 18, 2026, Mozilla is affected by vulnerabilities in the following products:",
+    "products": [
+        "Firefox\n\tversions prior to 154",
+        "versions prior to 154",
+        "Firefox ESR\n\tversions prior to 115.39\nversions prior to 140.14\nversions prior to 153.1",
+        "versions prior to 115.39",
+        "versions prior to 140.14",
+        "versions prior to 153.1",
+        "Thunderbird\n\tversions prior to 140.14\nversions prior to 153.1\nversions prior to 154",
+        "versions prior to 140.14",
+        "versions prior to 153.1",
+        "versions prior to 154"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
