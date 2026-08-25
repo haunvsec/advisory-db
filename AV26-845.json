@@ -1,0 +1,19 @@
+{
+    "id": "gitea-security-advisory-av26-845",
+    "title": "Gitea security advisory (AV26-845)",
+    "public_time": "2026-08-25T18:29:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitea-security-advisory-av26-845",
+    "advisory_id": "AV26-845",
+    "type": "advisory",
+    "description": "As of August 14, 2026, Gitea is affected by vulnerabilities in the following product:",
+    "products": [
+        "Gitea\n\tPrior to 1.27.1",
+        "Prior to 1.27.1"
+    ],
+    "cves": [
+        "CVE-2026-60004",
+        "CVE-2026-60004"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
