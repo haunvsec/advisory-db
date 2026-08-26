@@ -1,0 +1,20 @@
+{
+    "id": "nvidia-security-advisory-av26-849",
+    "title": "NVIDIA security advisory (AV26-849)",
+    "public_time": "2026-08-26T14:17:01Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-849",
+    "advisory_id": "AV26-849",
+    "type": "advisory",
+    "description": "As of August 25, 2026, NVIDIA is affected by vulnerabilities in the following product:",
+    "products": [
+        "NVIDIA NemoClaw and OpenShell\nMultiple versions",
+        "Multiple versions",
+        "NVIDIA Unified Fabric Manager\nMultiple versions and models",
+        "Multiple versions and models",
+        "NVIDIA DGX Spark\nVersions prior to 1.110.13",
+        "Versions prior to 1.110.13"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
