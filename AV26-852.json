@@ -1,0 +1,22 @@
+{
+    "id": "teamviewer-security-advisory-av26-852",
+    "title": "TeamViewer security advisory (AV26-852)",
+    "public_time": "2026-08-26T17:33:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-852",
+    "advisory_id": "AV26-852",
+    "type": "advisory",
+    "description": "As of August 26, 2026, TeamViewer is affected by vulnerabilities in the following products:",
+    "products": [
+        "TeamViewer Full Client\n\tMultiple versions and platforms",
+        "Multiple versions and platforms",
+        "TeamViewer Host\n\tMultiple versions and platforms",
+        "Multiple versions and platforms",
+        "TeamViewer Portable\n\tPrior to version 15.64.7",
+        "Prior to version 15.64.7",
+        "TeamViewer QuickSupport\n\tMultiple versions and platforms",
+        "Multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
