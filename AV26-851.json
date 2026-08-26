@@ -1,0 +1,17 @@
+{
+    "id": "nextjs-security-advisory-av26-851",
+    "title": "Next.js security advisory (AV26-851)",
+    "public_time": "2026-08-26T15:34:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nextjs-security-advisory-av26-851",
+    "advisory_id": "AV26-851",
+    "type": "advisory",
+    "description": "As of August 25, 2026, Next.js is affected by critical vulnerabilities in the following product:",
+    "products": [
+        "js\n\tVersion 15.5 prior to 15.5.24\nVersion 16.3 prior to 16.3.3",
+        "Version 15.5 prior to 15.5.24",
+        "Version 16.3 prior to 16.3.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
