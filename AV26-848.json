@@ -1,0 +1,32 @@
+{
+    "id": "adobe-security-advisory-av26-848",
+    "title": "Adobe security advisory (AV26-848)",
+    "public_time": "2026-08-26T13:56:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-848",
+    "advisory_id": "AV26-848",
+    "type": "advisory",
+    "description": "As of August 25, 2026, Adobe is affected by vulnerabilities in the following products:",
+    "products": [
+        "Adobe Campaign Classic\n\tPrior to or equal to ACC v7: 7.4.4 build 9400",
+        "Prior to or equal to ACC v7: 7.4.4 build 9400",
+        "Adobe Substance 3D Designer\n\tPrior to or equal to 16.0.4",
+        "Prior to or equal to 16.0.4",
+        "Adobe Substance 3D Painter\n\tPrior to or equal to 12.1.2",
+        "Prior to or equal to 12.1.2",
+        "Adobe Substance 3D Sampler\n\tPrior to or equal to 6.0.1",
+        "Prior to or equal to 6.0.1",
+        "Adobe XD\n\tPrior to or equal to 60",
+        "Prior to or equal to 60",
+        "C2PA Tool\n\tPrior to or equal to c2patool-v0.26.70",
+        "Prior to or equal to c2patool-v0.26.70",
+        "Content Credentials Rust SDK\n\tPrior to or equal to c2pa-v0.89.0",
+        "Prior to or equal to c2pa-v0.89.0",
+        "Illustrator 2025\n\tPrior to or equal to 29.8.9",
+        "Prior to or equal to 29.8.9",
+        "Illustrator 2026\n\tPrior to or equal to 30.6",
+        "Prior to or equal to 30.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
