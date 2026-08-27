@@ -1,0 +1,16 @@
+{
+    "id": "sonicwall-security-advisory-av26-853",
+    "title": "SonicWall security advisory (AV26-853)",
+    "public_time": "2026-08-27T12:44:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-853",
+    "advisory_id": "AV26-853",
+    "type": "advisory",
+    "description": "As of August 25, 2026, SonicWall is affected by vulnerabilities in the following product:",
+    "products": [
+        "NetExtender Linux Client\n\t3.5 and earlier versions",
+        "3.5 and earlier versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
