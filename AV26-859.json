@@ -1,0 +1,21 @@
+{
+    "id": "redis-security-advisory-av26-859",
+    "title": "Redis security advisory (AV26-859)",
+    "public_time": "2026-08-28T14:34:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/redis-security-advisory-av26-859",
+    "advisory_id": "AV26-859",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Redis\n8.0\nAll except 8.10.1\nAll except 8.2.9\nAll except 8.4.6\nAll except 8.6.6\nAll except 8.8.2",
+        "8.0",
+        "All except 8.10.1",
+        "All except 8.2.9",
+        "All except 8.4.6",
+        "All except 8.6.6",
+        "All except 8.8.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
