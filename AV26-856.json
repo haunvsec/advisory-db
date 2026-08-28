@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-national-instruments-security-advisory-av26-856",
+    "title": "[Control Systems] National Instruments security advisory (AV26-856)",
+    "public_time": "2026-08-28T12:16:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-national-instruments-security-advisory-av26-856",
+    "advisory_id": "AV26-856",
+    "type": "advisory",
+    "description": "As of August 25, 2026, National Instruments is affected by vulnerabilities in the following product:",
+    "products": [
+        "LabVIEW\n\tPrior to 23.0.0\nPrior to 23.3.10\nPrior to 24.3.7\nPrior to 25.3.5\nPrior to 26.3.1",
+        "Prior to 23.0.0",
+        "Prior to 23.3.10",
+        "Prior to 24.3.7",
+        "Prior to 25.3.5",
+        "Prior to 26.3.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
