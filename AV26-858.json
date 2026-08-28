@@ -1,0 +1,22 @@
+{
+    "id": "papercut-security-advisory-av26-858",
+    "title": "PaperCut security advisory (AV26-858)",
+    "public_time": "2026-08-28T14:09:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/papercut-security-advisory-av26-858",
+    "advisory_id": "AV26-858",
+    "type": "advisory",
+    "description": "As of August 27, 2026, PaperCut is affected by vulnerabilities in the following products:",
+    "products": [
+        "PaperCut MF\n\tPrior to v24 Emergency Patch Release 2\nPrior to v25 Emergency Patch Release 2\nPrior to v26 Emergency Patch Release 2",
+        "Prior to v24 Emergency Patch Release 2",
+        "Prior to v25 Emergency Patch Release 2",
+        "Prior to v26 Emergency Patch Release 2",
+        "PaperCut NG\n\tPrior to v24 Emergency Patch Release 2\nPrior to v25 Emergency Patch Release 2\nPrior to v26 Emergency Patch Release 2",
+        "Prior to v24 Emergency Patch Release 2",
+        "Prior to v25 Emergency Patch Release 2",
+        "Prior to v26 Emergency Patch Release 2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
