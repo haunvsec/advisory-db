@@ -1,0 +1,23 @@
+{
+    "id": "servicenow-security-advisory-av26-857",
+    "title": "ServiceNow security advisory (AV26-857)",
+    "public_time": "2026-08-28T13:43:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-857",
+    "advisory_id": "AV26-857",
+    "type": "advisory",
+    "description": "As of August 27, 2026, ServiceNow is affected by vulnerabilities in the following products:",
+    "products": [
+        "Xanadu\n\tVersions prior to Patch 11 Hot Fix 7a",
+        "Versions prior to Patch 11 Hot Fix 7a",
+        "Yokohama\n\tVersions prior to Yokohama Patch 12 Hot Fix 3b\nVersions prior to Yokohama Patch 13 Hot Fix 4",
+        "Versions prior to Yokohama Patch 12 Hot Fix 3b",
+        "Versions prior to Yokohama Patch 13 Hot Fix 4",
+        "Zurich\n\tMultiple versions",
+        "Multiple versions",
+        "Australia\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
