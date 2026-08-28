@@ -1,0 +1,18 @@
+{
+    "id": "grafana-security-advisory-av26-860",
+    "title": "Grafana security advisory (AV26-860)",
+    "public_time": "2026-08-28T14:58:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-860",
+    "advisory_id": "AV26-860",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Alloy\n\tPrior to or equal to 1.18.1",
+        "Prior to or equal to 1.18.1"
+    ],
+    "cves": [
+        "CVE-2026-19516"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
