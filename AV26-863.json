@@ -1,0 +1,18 @@
+{
+    "id": "dell-security-advisory-av26-863",
+    "title": "Dell security advisory (AV26-863)",
+    "public_time": "2026-08-31T15:55:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-863",
+    "advisory_id": "AV26-863",
+    "type": "advisory",
+    "description": "As of August 28, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "Dell PowerEdge Server for Intel Processor Firmware\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "Dell AppSync\n\tPrior to or equal to 4.6.0.4 and 4.6.1.0",
+        "Prior to or equal to 4.6.0.4 and 4.6.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
