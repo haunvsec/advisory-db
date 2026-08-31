@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-864",
+    "title": "[Control Systems] Siemens security advisory (AV26-864)",
+    "public_time": "2026-08-31T15:59:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-864",
+    "advisory_id": "AV26-864",
+    "type": "advisory",
+    "description": "As of August 27, 2026, Siemens is affected by a vulnerability in the following products:",
+    "products": [
+        "Element maps-ng V47\n\tPrior to V47.12.3",
+        "Prior to V47.12.3",
+        "Element maps-ng V48\n\tPrior to V48.11.3",
+        "Prior to V48.11.3",
+        "Element maps-ng V49\n\tPrior to V49.16.1",
+        "Prior to V49.16.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
