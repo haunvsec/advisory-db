@@ -1,0 +1,19 @@
+{
+    "id": "webpros-security-advisory-av26-866",
+    "title": "WebPros security advisory (AV26-866)",
+    "public_time": "2026-09-01T13:34:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-866",
+    "advisory_id": "AV26-866",
+    "type": "advisory",
+    "description": "As of September 1, 2026, WebPros is affected by vulnerabilities in the following product:",
+    "products": [
+        "Plesk\n\tPrior to 18.0.79.9\nPrior to 18.0.80.5",
+        "Prior to 18.0.79.9",
+        "Prior to 18.0.80.5"
+    ],
+    "cves": [
+        "CVE-2026-67394"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
