@@ -1,0 +1,17 @@
+{
+    "id": "erlang-security-advisory-av26-870",
+    "title": "Erlang security advisory (AV26-870)",
+    "public_time": "2026-09-01T18:50:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-870",
+    "advisory_id": "AV26-870",
+    "type": "advisory",
+    "description": "As of September 1, 2026, Erlang is affected by vulnerabilities in the following product:",
+    "products": [
+        "OTP - Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": [
+        "https://github.com/erlang/otp/security/advisories/"
+    ]
+}
