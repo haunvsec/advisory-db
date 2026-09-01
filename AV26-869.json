@@ -1,0 +1,25 @@
+{
+    "id": "rockwell-automation-security-advisory-av26-869",
+    "title": "Rockwell Automation security advisory (AV26-869)",
+    "public_time": "2026-09-01T18:45:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/rockwell-automation-security-advisory-av26-869",
+    "advisory_id": "AV26-869",
+    "type": "advisory",
+    "description": "As of September 1, 2026, Rockwell Automation is affected by vulnerabilities in the following products:",
+    "products": [
+        "1756-ENBT Module\n\tAll versions",
+        "All versions",
+        "ArmorStart LT\n\tPrior to or equal to v2.001",
+        "Prior to or equal to v2.001",
+        "CompactLogix 5380 / ControlLogix 5580\n\tPrior to or equal to V33\nV34.011 to V34.014\nV35.011 to V35.013\nV36.011 to V36.012",
+        "Prior to or equal to V33",
+        "V34.011 to V34.014",
+        "V35.011 to V35.013",
+        "V36.011 to V36.012",
+        "RSLinx Classic\n\tPrior to or equal to V4.50",
+        "Prior to or equal to V4.50"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
