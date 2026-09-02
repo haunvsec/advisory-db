@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av26-873",
+    "title": "HPE security advisory (AV26-873)",
+    "public_time": "2026-09-02T13:38:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-873",
+    "advisory_id": "AV26-873",
+    "type": "advisory",
+    "description": "As of September 1, 2026, Hewlett Packard Enterprise (HPE) is affected by vulnerabilities in the following products:",
+    "products": [
+        "HPE Networking AOS-CX\n\tPrior to or equal to 10.10.1180\nPrior to or equal to 10.13.1180\nPrior to or equal to 10.16.1051\nPrior to or equal to 10.17.1021\nPrior to or equal to 10.18.0001",
+        "Prior to or equal to 10.10.1180",
+        "Prior to or equal to 10.13.1180",
+        "Prior to or equal to 10.16.1051",
+        "Prior to or equal to 10.17.1021",
+        "Prior to or equal to 10.18.0001"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
