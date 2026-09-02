@@ -1,0 +1,19 @@
+{
+    "id": "progress-software-security-advisory-av26-875",
+    "title": "Progress Software security advisory (AV26-875)",
+    "public_time": "2026-09-02T15:33:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-software-security-advisory-av26-875",
+    "advisory_id": "AV26-875",
+    "type": "advisory",
+    "description": "As of September 2, 2026, Progress Software is affected by vulnerabilities in the following product:",
+    "products": [
+        "Telerik UI for ASP.NET AJAX\n\tPrior to 2026.3.812",
+        "Prior to 2026.3.812"
+    ],
+    "cves": [
+        "CVE-2026-18672",
+        "CVE-2026-19219"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
