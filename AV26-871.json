@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av26-871",
+    "title": "[Control systems] Schneider Electric security advisory (AV26-871)",
+    "public_time": "2026-09-02T12:28:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-871",
+    "advisory_id": "AV26-871",
+    "type": "advisory",
+    "description": "As of September 1, 2026, Schneider Electric is affected by vulnerabilities in the following products:",
+    "products": [
+        "NetBotz 5 - 750/755\n\tVersions prior to or equal to 5.5.2",
+        "Versions prior to or equal to 5.5.2",
+        "PowerChute Serial Shutdown\n\tVersions prior to or equal to 1.5",
+        "Versions prior to or equal to 1.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
