@@ -1,0 +1,17 @@
+{
+    "id": "jenkins-security-advisory-av26-877",
+    "title": "Jenkins security advisory (AV26-877)",
+    "public_time": "2026-09-03T13:54:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-877",
+    "advisory_id": "AV26-877",
+    "type": "advisory",
+    "description": "As of September 2, 2026, Jenkins Project is affected by vulnerabilities in the following products:",
+    "products": [
+        "Jenkins\n\tALL except 2.568.3\nALL except 2.580",
+        "ALL except 2.568.3",
+        "ALL except 2.580"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
