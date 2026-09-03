@@ -1,0 +1,16 @@
+{
+    "id": "cisco-security-advisory-av26-876",
+    "title": "Cisco security advisory (AV26-876)",
+    "public_time": "2026-09-03T13:13:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-876",
+    "advisory_id": "AV26-876",
+    "type": "advisory",
+    "description": "As of September 2, 2026, Cisco is affected by vulnerabilities in the following products:",
+    "products": [
+        "Cisco IOS XR Software\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
