@@ -1,0 +1,20 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-881",
+    "title": "[Control Systems] Siemens security advisory (AV26-881)",
+    "public_time": "2026-09-03T19:32:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-881",
+    "advisory_id": "AV26-881",
+    "type": "advisory",
+    "description": "As of September 3, 2026, Siemens is affected by a vulnerability in the following products:",
+    "products": [
+        "Mendix SAML (Mendix 10 compatible)\n\tPrior to V4.2.3",
+        "Prior to V4.2.3",
+        "Mendix SAML (Mendix 11 compatible)\n\tPrior to V4.2.3",
+        "Prior to V4.2.3",
+        "Mendix SAML (Mendix 9.24 compatible)\n\tPrior to V3.6.27",
+        "Prior to V3.6.27"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
