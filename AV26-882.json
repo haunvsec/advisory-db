@@ -1,0 +1,16 @@
+{
+    "id": "suse-linux-security-advisory-av26-882",
+    "title": "SUSE Linux security advisory (AV26-882)",
+    "public_time": "2026-09-03T19:47:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-882",
+    "advisory_id": "AV26-882",
+    "type": "advisory",
+    "description": "As of September 3, 2026, SUSE is affected by vulnerabilities in the following product:",
+    "products": [
+        "Rancher\n\tPrior to 2.15.1",
+        "Prior to 2.15.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
