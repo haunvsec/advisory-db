@@ -1,0 +1,18 @@
+{
+    "id": "google-security-advisory-av26-883",
+    "title": "Google security advisory (AV26-883)",
+    "public_time": "2026-09-04T14:18:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-883",
+    "advisory_id": "AV26-883",
+    "type": "advisory",
+    "description": "As of September 3, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Chrome\n\tPrior to 152.0.7977.82",
+        "Prior to 152.0.7977.82"
+    ],
+    "cves": [
+        "CVE-2026-85046"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
