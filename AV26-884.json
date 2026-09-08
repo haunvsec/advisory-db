@@ -1,0 +1,16 @@
+{
+    "id": "sonicwall-security-advisory-av26-884",
+    "title": "SonicWall security advisory (AV26-884)",
+    "public_time": "2026-09-08T14:01:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-884",
+    "advisory_id": "AV26-884",
+    "type": "advisory",
+    "description": "As of September 4, 2026, SonicWall is affected by vulnerabilities in the following product:",
+    "products": [
+        "Network Security Manager (NSM) On-Prem (VMWare, Hyper-V, Azure and KVM)\n\t4.3.0 and earlier versions",
+        "4.3.0 and earlier versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
