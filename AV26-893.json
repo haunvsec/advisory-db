@@ -1,0 +1,16 @@
+{
+    "id": "hitachi-security-advisory-av26-893",
+    "title": "Hitachi security advisory (AV26-893)",
+    "public_time": "2026-09-08T17:29:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-893",
+    "advisory_id": "AV26-893",
+    "type": "advisory",
+    "description": "As of September 8, 2026, Hitachi is affected by vulnerabilities in the following product:",
+    "products": [
+        "Cosminexus Component Container\n\tMultiple versions and models",
+        "Multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
