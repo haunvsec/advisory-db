@@ -1,0 +1,28 @@
+{
+    "id": "control-systems-siemens-security-advisory-av26-890",
+    "title": "[Control Systems] Siemens security advisory (AV26-890)",
+    "public_time": "2026-09-08T17:27:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-890",
+    "advisory_id": "AV26-890",
+    "type": "advisory",
+    "description": "As of September 8, 2026, Siemens is affected by vulnerabilities in the following products:",
+    "products": [
+        "Reyrolle 7SR5\n\tVersions prior to V2.70",
+        "Versions prior to V2.70",
+        "Teamcenter\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "Siveillance Control\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "SIMATIC AX Runtime\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "Desigo CC Product Family\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "Industrial Edge Management\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "SIMOVE Fleetmanager and SIPLANT\n\tMultiple versions and models",
+        "Multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
