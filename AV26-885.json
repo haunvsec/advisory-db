@@ -1,0 +1,19 @@
+{
+    "id": "n-able-security-advisory-av26-885",
+    "title": "N-able security advisory (AV26-885)",
+    "public_time": "2026-09-08T14:06:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-885",
+    "advisory_id": "AV26-885",
+    "type": "advisory",
+    "description": "As of September 6, 2026, N-able is affected by vulnerabilities in the following product:",
+    "products": [
+        "N-central\n\tPrior to 2026.3.1.14",
+        "Prior to 2026.3.1.14"
+    ],
+    "cves": [
+        "CVE-2026-86218",
+        "CVE-2026-86218"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
