@@ -1,0 +1,23 @@
+{
+    "id": "mikrotik-security-advisory-av26-887",
+    "title": "Mikrotik security advisory (AV26-887)",
+    "public_time": "2026-09-08T14:08:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-887",
+    "advisory_id": "AV26-887",
+    "type": "advisory",
+    "description": "As of September 5, 2026, Mikrotik is affected by vulnerabilities in the following product:",
+    "products": [
+        "RouterOS\n\tPrior to 6.49.21\nPrior to 7.23.4\nPrior to 7.24.2\nPrior to 7.25 beta 3",
+        "Prior to 6.49.21",
+        "Prior to 7.23.4",
+        "Prior to 7.24.2",
+        "Prior to 7.25 beta 3"
+    ],
+    "cves": [
+        "CVE-2026-67276",
+        "CVE-2026-67277",
+        "CVE-2026-86060"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
