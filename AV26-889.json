@@ -1,0 +1,19 @@
+{
+    "id": "openvpn-security-advisory-av26-889",
+    "title": "OpenVPN security advisory (AV26-889)",
+    "public_time": "2026-09-08T15:19:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openvpn-security-advisory-av26-889",
+    "advisory_id": "AV26-889",
+    "type": "advisory",
+    "description": "As of September 7, 2026, OpenVPN is affected by vulnerabilities in the following product:",
+    "products": [
+        "OpenVPN\n\tPrior to or equal to 2.6.22\nPrior to or equal to 2.7.6",
+        "Prior to or equal to 2.6.22",
+        "Prior to or equal to 2.7.6"
+    ],
+    "cves": [
+        "CVE-2026-84732"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
