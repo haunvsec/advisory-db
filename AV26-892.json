@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-inductive-automation-security-advisory-av26-892",
+    "title": "[Control Systems] Inductive Automation security advisory (AV26-892)",
+    "public_time": "2026-09-08T17:28:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-inductive-automation-security-advisory-av26-892",
+    "advisory_id": "AV26-892",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Ignition\n\tPrior to or equal to 8.1.53",
+        "Prior to or equal to 8.1.53"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
