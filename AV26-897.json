@@ -1,0 +1,33 @@
+{
+    "id": "ivanti-security-advisory-av26-897",
+    "title": "Ivanti security advisory (AV26-897)",
+    "public_time": "2026-09-08T19:22:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-897",
+    "advisory_id": "AV26-897",
+    "type": "advisory",
+    "description": "As of September 8, 2026, Ivanti is affected by vulnerabilities in the following products:",
+    "products": [
+        "Endpoint Manager Mobile\n\tPrior to 12.10.0.0\nPrior to 12.9.0.2\nPrior to 12.8.0.4",
+        "Prior to 12.10.0.0",
+        "Prior to 12.9.0.2",
+        "Prior to 12.8.0.4",
+        "Neurons for ITSM (Cloud/SaaS)\n\tPrior to mo2026.2",
+        "Prior to mo2026.2",
+        "Neurons for ITSM On-Prem\n\tPrior to 2025.2 Sept 2026 Security Patch\nPrior to 2025.3 Sept 2026 Security Patch\nPrior to 2025.4 Sept 2026 Security Patch\nPrior to 2026.1 Sept 2026 Security Patch\nPrior to 2026.2",
+        "Prior to 2025.2 Sept 2026 Security Patch",
+        "Prior to 2025.3 Sept 2026 Security Patch",
+        "Prior to 2025.4 Sept 2026 Security Patch",
+        "Prior to 2026.1 Sept 2026 Security Patch",
+        "Prior to 2026.2",
+        "Sentry\n\tPrior to R10.8.2\nPrior to R10.7.3\nPrior to R10.6.4",
+        "Prior to R10.8.2",
+        "Prior to R10.7.3",
+        "Prior to R10.6.4"
+    ],
+    "cves": [
+        "CVE-2026-18851",
+        "CVE-2026-83527"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
