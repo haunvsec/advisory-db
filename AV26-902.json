@@ -1,0 +1,25 @@
+{
+    "id": "check-point-security-advisory-av26-902",
+    "title": "Check Point security advisory (AV26-902)",
+    "public_time": "2026-09-09T19:30:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-902",
+    "advisory_id": "AV26-902",
+    "type": "advisory",
+    "description": "As of September 9, 2026, Check Point is affected by vulnerabilities in the following products:",
+    "products": [
+        "Security Gateway\n\tMultiple versions",
+        "Multiple versions",
+        "Check Point Spark Firewall using Site to Site VPN or Remote Access VPN\n\tMultiple versions",
+        "Multiple versions",
+        "Security Management Server\n\tMultiple versions",
+        "Multiple versions",
+        "Check Point Spark Firewall\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-85102",
+        "CVE-2026-85103"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
