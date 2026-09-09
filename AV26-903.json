@@ -1,0 +1,18 @@
+{
+    "id": "connectwise-security-advisory-av26-903",
+    "title": "ConnectWise security advisory (AV26-903)",
+    "public_time": "2026-09-09T19:46:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av26-903",
+    "advisory_id": "AV26-903",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "ScreenConnect\n\tversions prior to 26.6.5",
+        "versions prior to 26.6.5"
+    ],
+    "cves": [
+        "CVE-2026-84869"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
