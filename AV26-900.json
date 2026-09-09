@@ -1,0 +1,17 @@
+{
+    "id": "nvidia-security-advisory-av26-900",
+    "title": "NVIDIA security advisory (AV26-900)",
+    "public_time": "2026-09-09T15:47:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-900",
+    "advisory_id": "AV26-900",
+    "type": "advisory",
+    "description": "As of September 8, 2026, NVIDIA is affected by vulnerabilities in the following product:",
+    "products": [
+        "Triton Inference Server\n\tVersions 0.0 to 26.03\nVersions 0.0 to 26.06",
+        "Versions 0.0 to 26.03",
+        "Versions 0.0 to 26.06"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
