@@ -1,0 +1,20 @@
+{
+    "id": "google-security-advisory-av26-904",
+    "title": "Google security advisory (AV26-904)",
+    "public_time": "2026-09-09T19:52:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-904",
+    "advisory_id": "AV26-904",
+    "type": "advisory",
+    "description": "As of September 8, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Chrome\n\tPrior to 153.0.8010.37",
+        "Prior to 153.0.8010.37"
+    ],
+    "cves": [
+        "CVE-2026-87491",
+        "CVE-2026-87491",
+        "CVE-2026-87491"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
