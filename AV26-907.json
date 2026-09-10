@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-advantech-security-advisory-av26-907",
+    "title": "[Control systems] Advantech security advisory (AV26-907)",
+    "public_time": "2026-09-10T13:50:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av26-907",
+    "advisory_id": "AV26-907",
+    "type": "advisory",
+    "description": "As of September 10, 2026, Advantech is affected by vulnerabilities in the following product:",
+    "products": [
+        "Advantech WISE-6610 industrial gateway\n\tMultiple versions and models",
+        "Multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
