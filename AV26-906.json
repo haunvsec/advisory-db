@@ -1,0 +1,16 @@
+{
+    "id": "fortra-security-advisory-av26-906",
+    "title": "Fortra security advisory (AV26-906)",
+    "public_time": "2026-09-10T12:38:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-906",
+    "advisory_id": "AV26-906",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "GoAnywhere MFT Endpoint\n\tPrior to 7.10.2",
+        "Prior to 7.10.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
