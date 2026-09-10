@@ -1,0 +1,24 @@
+{
+    "id": "palo-alto-networks-security-advisory-av26-905",
+    "title": "Palo Alto Networks security advisory (AV26-905)",
+    "public_time": "2026-09-10T12:10:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-905",
+    "advisory_id": "AV26-905",
+    "type": "advisory",
+    "description": "As of September 10, 2026, Palo Alto Networks is affected by vulnerabilities in the following products:",
+    "products": [
+        "Cloud NGFW\n\tAll on AWS*, All on Azure*",
+        "All on AWS*, All on Azure*",
+        "PAN-OS\n\tMultiple versions",
+        "Multiple versions",
+        "Prisma Access\n\tMultiple versions",
+        "Multiple versions",
+        "Prisma Browser\n\tPrior to 151.26.5.170",
+        "Prior to 151.26.5.170"
+    ],
+    "cves": [
+        "CVE-2026-0310"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
