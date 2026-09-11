@@ -1,0 +1,18 @@
+{
+    "id": "n8n-security-advisory-av26-916",
+    "title": "n8n security advisory (AV26-916)",
+    "public_time": "2026-09-11T19:32:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-916",
+    "advisory_id": "AV26-916",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "n8n\n\tPrior to 2.37.7\nPrior to 2.38.2\nPrior to 1.123.76",
+        "Prior to 2.37.7",
+        "Prior to 2.38.2",
+        "Prior to 1.123.76"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
