@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-geovision-security-advisory-av26-913",
+    "title": "[Control systems] GeoVision security advisory (AV26-913)",
+    "public_time": "2026-09-11T15:38:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av26-913",
+    "advisory_id": "AV26-913",
+    "type": "advisory",
+    "description": "As of September 10, 2026, GeoVision is affected by vulnerabilities in the following product::",
+    "products": [
+        "GV-LPC2011/LPC2211\n\tFirmware version 1.13",
+        "Firmware version 1.13"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
