@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-national-instruments-security-advisory-av26-914",
+    "title": "[Control Systems] National Instruments security advisory (AV26-914)",
+    "public_time": "2026-09-11T15:56:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-national-instruments-security-advisory-av26-914",
+    "advisory_id": "AV26-914",
+    "type": "advisory",
+    "description": "As of September 10, 2026, National Instruments is affected by vulnerabilities in the following products:",
+    "products": [
+        "SystemLink\n\tPrior to or equal to 2026 Q3 Patch 1",
+        "Prior to or equal to 2026 Q3 Patch 1",
+        "SystemLink Server\n\tPrior to or equal to 2026 Q3 Patch 1",
+        "Prior to or equal to 2026 Q3 Patch 1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
