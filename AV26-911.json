@@ -1,0 +1,18 @@
+{
+    "id": "mongodb-security-advisory-av26-911",
+    "title": "MongoDB security advisory (AV26-911)",
+    "public_time": "2026-09-11T13:38:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-911",
+    "advisory_id": "AV26-911",
+    "type": "advisory",
+    "description": "As of September 10, 2026, MongoDB is affected by vulnerabilities in the following products:",
+    "products": [
+        "Java Driver\n\tPrior to 5.11.1",
+        "Prior to 5.11.1",
+        "Laravel MongoDB (PHP)\n\tPrior to 5.11.0",
+        "Prior to 5.11.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
