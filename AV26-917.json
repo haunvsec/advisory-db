@@ -1,0 +1,21 @@
+{
+    "id": "gitlab-security-advisory-av26-917",
+    "title": "GitLab security advisory (AV26-917)",
+    "public_time": "2026-09-11T20:35:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-917",
+    "advisory_id": "AV26-917",
+    "type": "advisory",
+    "description": "As of September 10, 2026, GitLab is affected by vulnerabilities in the following product:",
+    "products": [
+        "GitLab\n\tPrior to 19.1.8\nPrior to 19.2.6\nPrior to 19.3.2",
+        "Prior to 19.1.8",
+        "Prior to 19.2.6",
+        "Prior to 19.3.2"
+    ],
+    "cves": [
+        "CVE-2026-85706",
+        "CVE-2026-85706"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
