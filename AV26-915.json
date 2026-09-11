@@ -1,0 +1,16 @@
+{
+    "id": "progress-security-advisory-av26-915",
+    "title": "Progress security advisory (AV26-915)",
+    "public_time": "2026-09-11T19:04:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-915",
+    "advisory_id": "AV26-915",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Chef Automate\n\tPrior to 4.13.520",
+        "Prior to 4.13.520"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
