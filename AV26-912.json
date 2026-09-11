@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av26-912",
+    "title": "[Control systems] Schneider Electric security advisory (AV26-912)",
+    "public_time": "2026-09-11T15:09:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-912",
+    "advisory_id": "AV26-912",
+    "type": "advisory",
+    "description": "As of September 9, 2026, Schneider Electric is affected by vulnerabilities in the following products:",
+    "products": [
+        "EcoStruxure  IT Data Center Expert (Formerly known as StruxureWare Data Center Expert)\n\tVersions 9.1.2 and prior",
+        "Versions 9.1.2 and prior",
+        "PowerLogic T300\n\tVersions 2.9.8-5620 and prior",
+        "Versions 2.9.8-5620 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
