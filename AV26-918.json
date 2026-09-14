@@ -1,0 +1,20 @@
+{
+    "id": "mongodb-security-advisory-av26-918",
+    "title": "MongoDB security advisory (AV26-918)",
+    "public_time": "2026-09-14T14:30:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-918",
+    "advisory_id": "AV26-918",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "MongoDB Server\n\tPrior to 7.0.43\nPrior to 8.0.32\nPrior to 8.3.11\nPrior to 9.1.0-rc0\nPrior to 9.0.1",
+        "Prior to 7.0.43",
+        "Prior to 8.0.32",
+        "Prior to 8.3.11",
+        "Prior to 9.1.0-rc0",
+        "Prior to 9.0.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
