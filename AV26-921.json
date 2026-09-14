@@ -1,0 +1,28 @@
+{
+    "id": "cisco-security-advisory-av26-921",
+    "title": "Cisco security advisory (AV26-921)",
+    "public_time": "2026-09-14T19:23:22Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-921",
+    "advisory_id": "AV26-921",
+    "type": "advisory",
+    "description": "As of September 14, 2026, Cisco is affected by vulnerabilities in the following products:",
+    "products": [
+        "Cisco AsyncOS for Cisco Secure Email Gateway\n\tPrior to 15.5.5-014\nPrior to 16.0.4-302\nPrior to 16.5.0-780",
+        "Prior to 15.5.5-014",
+        "Prior to 16.0.4-302",
+        "Prior to 16.5.0-780",
+        "Cisco Secure Email Gateway\n\tPrior to 15.5.5-014\nPrior to 16.5.0-780",
+        "Prior to 15.5.5-014",
+        "Prior to 16.5.0-780",
+        "Cisco Secure Email and Web Manager\n\tPrior to 15.5.5-006\nPrior to 16.5.0-429",
+        "Prior to 15.5.5-006",
+        "Prior to 16.5.0-429"
+    ],
+    "cves": [
+        "CVE-2026-76461",
+        "CVE-2026-76461",
+        "CVE-2026-76461"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
