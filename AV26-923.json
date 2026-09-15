@@ -1,0 +1,18 @@
+{
+    "id": "gnu-security-advisory-av26-923",
+    "title": "GNU security advisory (AV26-923)",
+    "public_time": "2026-09-15T15:10:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/gnu-security-advisory-av26-923",
+    "advisory_id": "AV26-923",
+    "type": "advisory",
+    "description": "As of September 15, 2026, GNU is affected by vulnerabilities in the following product:",
+    "products": [
+        "libextractor\n\tPrior to v1.15",
+        "Prior to v1.15"
+    ],
+    "cves": [
+        "CVE-2026-91752"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
