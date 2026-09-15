@@ -1,0 +1,16 @@
+{
+    "id": "docker-security-advisory-av26-925",
+    "title": "Docker security advisory (AV26-925)",
+    "public_time": "2026-09-15T18:59:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-925",
+    "advisory_id": "AV26-925",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Docker Sandboxes\n\tPrior to 0.43.0",
+        "Prior to 0.43.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
