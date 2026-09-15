@@ -1,0 +1,32 @@
+{
+    "id": "ibm-security-advisory-av26-922",
+    "title": "IBM security advisory (AV26-922)",
+    "public_time": "2026-09-15T14:29:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-922",
+    "advisory_id": "AV26-922",
+    "type": "advisory",
+    "description": "As of September 14, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "Langflow OSS\n\tPrior to or equal to 1.10.0\nPrior to or equal to 1.10.2\nPrior to or equal to 1.11.2\nPrior to or equal to 1.11.5",
+        "Prior to or equal to 1.10.0",
+        "Prior to or equal to 1.10.2",
+        "Prior to or equal to 1.11.2",
+        "Prior to or equal to 1.11.5",
+        "MQ\n\t10.0.0.0\nPrior to or equal to 9.1.0.37 LTS\nPrior to or equal to 9.2.0.43 LTS\nPrior to or equal to 9.3.0.41 LTS\nPrior to or equal to 9.3.5.1 CD\nPrior to or equal to 9.4.0.25 LTS\nPrior to or equal to 9.4.5.1 CD",
+        "10.0.0.0",
+        "Prior to or equal to 9.1.0.37 LTS",
+        "Prior to or equal to 9.2.0.43 LTS",
+        "Prior to or equal to 9.3.0.41 LTS",
+        "Prior to or equal to 9.3.5.1 CD",
+        "Prior to or equal to 9.4.0.25 LTS",
+        "Prior to or equal to 9.4.5.1 CD",
+        "Sterling File Gateway\n\tPrior to or equal to 6.2.0.6_1, 6.2.1.0 - 6.2.1.2, 6.2.2.0 - 6.2.2.1",
+        "Prior to or equal to 6.2.0.6_1, 6.2.1.0 - 6.2.1.2, 6.2.2.0 - 6.2.2.1"
+    ],
+    "cves": [
+        "CVE-2026-13293",
+        "CVE-2026-19290"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
