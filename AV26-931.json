@@ -1,0 +1,20 @@
+{
+    "id": "isc-bind-security-advisory-av26-931",
+    "title": "ISC BIND security advisory (AV26-931)",
+    "public_time": "2026-09-16T19:43:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-931",
+    "advisory_id": "AV26-931",
+    "type": "advisory",
+    "description": "As of September 16, 2026, ISC is affected by vulnerabilities in the following product:",
+    "products": [
+        "ISC BIND 9\n\tPrior to or equal to 9.18.50\nPrior to or equal to 9.18.50-S1\nPrior to or equal to 9.20.27\nPrior to or equal to 9.20.27-S1\nPrior to or equal to 9.21.25",
+        "Prior to or equal to 9.18.50",
+        "Prior to or equal to 9.18.50-S1",
+        "Prior to or equal to 9.20.27",
+        "Prior to or equal to 9.20.27-S1",
+        "Prior to or equal to 9.21.25"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
