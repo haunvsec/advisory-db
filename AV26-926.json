@@ -1,0 +1,16 @@
+{
+    "id": "google-security-advisory-av26-926",
+    "title": "Google security advisory (AV26-926)",
+    "public_time": "2026-09-16T17:13:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-926",
+    "advisory_id": "AV26-926",
+    "type": "advisory",
+    "description": "As of September 15, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Chrome\n\tPrior to 153.0.8010.48",
+        "Prior to 153.0.8010.48"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
