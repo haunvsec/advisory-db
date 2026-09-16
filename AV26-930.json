@@ -1,0 +1,33 @@
+{
+    "id": "apple-security-advisory-av26-930",
+    "title": "Apple security advisory (AV26-930)",
+    "public_time": "2026-09-16T19:42:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-930",
+    "advisory_id": "AV26-930",
+    "type": "advisory",
+    "description": "As of September 14, 2026, Apple is affected by vulnerabilities in the following products:",
+    "products": [
+        "iOS and iPadOS\n\tPrior to 27\nPrior to 26.7",
+        "Prior to 27",
+        "Prior to 26.7",
+        "macOS Golden Gate\n\tPrior to 27",
+        "Prior to 27",
+        "macOS Tahoe\n\tPrior to 26.7",
+        "Prior to 26.7",
+        "macOS Sequoia\n\tPrior to 15.8",
+        "Prior to 15.8",
+        "tvOS\n\tPrior to 27",
+        "Prior to 27",
+        "watchOS\n\tPrior to 27",
+        "Prior to 27",
+        "visionOS 27\n\tPrior to 27",
+        "Prior to 27",
+        "Safari\n\tPrior to 27",
+        "Prior to 27",
+        "Xcode\n\tPrior to 27",
+        "Prior to 27"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
