@@ -1,0 +1,18 @@
+{
+    "id": "hpe-security-advisory-av26-928",
+    "title": "HPE security advisory (AV26-928)",
+    "public_time": "2026-09-16T18:35:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-928",
+    "advisory_id": "AV26-928",
+    "type": "advisory",
+    "description": "As of September 15, 2026, Hewlett Packard Enterprise (HPE) is affected by vulnerabilities in the following products:",
+    "products": [
+        "HPE Networking EdgeConnect SD-WAN Gateways\n\tMultiple versions",
+        "Multiple versions",
+        "HPE Networking EdgeConnect SD-WAN Orchestrator\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
