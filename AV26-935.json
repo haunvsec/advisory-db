@@ -1,0 +1,18 @@
+{
+    "id": "tanium-security-advisory-av26-935",
+    "title": "Tanium security advisory (AV26-935)",
+    "public_time": "2026-09-17T19:52:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-935",
+    "advisory_id": "AV26-935",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Threat Response\n\tPrior to Update 15 (v4.12.317)\nPrior to Update 8 (v4.17.289)\nPrior to Update 25 (v4.9.447)",
+        "Prior to Update 15 (v4.12.317)",
+        "Prior to Update 8 (v4.17.289)",
+        "Prior to Update 25 (v4.9.447)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
