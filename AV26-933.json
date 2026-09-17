@@ -1,0 +1,21 @@
+{
+    "id": "check-point-security-advisory-av26-933",
+    "title": "Check Point security advisory (AV26-933)",
+    "public_time": "2026-09-17T18:21:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-933",
+    "advisory_id": "AV26-933",
+    "type": "advisory",
+    "description": "As of September 16, 2026, Check Point is affected by a vulnerability in the following products:",
+    "products": [
+        "Security Management Server, Multi-Domain Security Management Server, Log Server and Multi-Domain Log Server\n\tR81.20 with Jumbo Hotfix Take 166 and prior\nR82 with Jumbo Hotfix Take 126 and prior\nR82.10 with Jumbo Hotfix Take 44 and prior\nR82.20",
+        "R81.20 with Jumbo Hotfix Take 166 and prior",
+        "R82 with Jumbo Hotfix Take 126 and prior",
+        "R82.10 with Jumbo Hotfix Take 44 and prior",
+        "R82.20"
+    ],
+    "cves": [
+        "CVE-2026-91843"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
