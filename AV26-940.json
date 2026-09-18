@@ -1,0 +1,16 @@
+{
+    "id": "arista-networks-security-advisory-av26-940",
+    "title": "Arista Networks security advisory (AV26-940)",
+    "public_time": "2026-09-18T17:29:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/arista-networks-security-advisory-av26-940",
+    "advisory_id": "AV26-940",
+    "type": "advisory",
+    "description": "As of September 9, 2026, Arista Networks is affected by vulnerabilities in the following product:",
+    "products": [
+        "EOS\n\tMultiple versions and platforms",
+        "Multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
