@@ -1,0 +1,18 @@
+{
+    "id": "solarwinds-security-advisory-av26-941",
+    "title": "SolarWinds security advisory (AV26-941)",
+    "public_time": "2026-09-18T17:40:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-941",
+    "advisory_id": "AV26-941",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "SolarWinds Access Rights Manager\n\tPrior to 2026.2",
+        "Prior to 2026.2"
+    ],
+    "cves": [
+        "CVE-2026-28326"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
