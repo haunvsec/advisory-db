@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-abb-security-advisory-av26-942",
+    "title": "[Control systems] ABB security advisory (AV26-942)",
+    "public_time": "2026-09-18T17:52:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-942",
+    "advisory_id": "AV26-942",
+    "type": "advisory",
+    "description": "As of September 18, 2026, ABB published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Freelance Controller\n\tMultiple versions and models",
+        "Multiple versions and models"
+    ],
+    "cves": [
+        "CVE-2023-5778"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
