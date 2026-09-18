@@ -1,0 +1,19 @@
+{
+    "id": "grafana-security-advisory-av26-936",
+    "title": "Grafana security advisory (AV26-936)",
+    "public_time": "2026-09-18T13:46:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-936",
+    "advisory_id": "AV26-936",
+    "type": "advisory",
+    "description": "As of September 17, 2026, Grafana is affected by vulnerabilities in the following product:",
+    "products": [
+        "Grafana OSS\n\tVersion 12.3.0 to 12.4.10\nVersion 13.0.0 to 13.08\nVersion 13.1.0 to 13.1.5\nVersion 13.2.0 to 13.2.1",
+        "Version 12.3.0 to 12.4.10",
+        "Version 13.0.0 to 13.08",
+        "Version 13.1.0 to 13.1.5",
+        "Version 13.2.0 to 13.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
