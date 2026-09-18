@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-moxa-security-advisory-av26-938",
+    "title": "[Control Systems] Moxa security advisory (AV26-938)",
+    "public_time": "2026-09-18T15:24:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-938",
+    "advisory_id": "AV26-938",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "TN-4500B Series\n\tPrior to or equal to v2.0",
+        "Prior to or equal to v2.0"
+    ],
+    "cves": [
+        "CVE-2026-15579"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
