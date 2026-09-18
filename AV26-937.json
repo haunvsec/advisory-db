@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-advantech-security-advisory-av26-937",
+    "title": "[Control systems] Advantech security advisory (AV26-937)",
+    "public_time": "2026-09-18T14:09:49Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av26-937",
+    "advisory_id": "AV26-937",
+    "type": "advisory",
+    "description": "As of September 4, 2026, Advantech is affected by vulnerabilities in the following products:",
+    "products": [
+        "EKI-1242EIMS\n\tPrior to or equal to V2.00.01",
+        "Prior to or equal to V2.00.01",
+        "EKI-1242IEIMS\n\tPrior to or equal to V2.00.01",
+        "Prior to or equal to V2.00.01"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
