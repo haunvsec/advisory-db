@@ -1,0 +1,16 @@
+{
+    "id": "exim-security-advisory-av26-944",
+    "title": "Exim security advisory (AV26-944)",
+    "public_time": "2026-09-21T14:51:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/exim-security-advisory-av26-944",
+    "advisory_id": "AV26-944",
+    "type": "advisory",
+    "description": "As of September 18, 2026, Exim is affected by vulnerabilities in the following product:",
+    "products": [
+        "Exim\n\tPrior to 4.100.1",
+        "Prior to 4.100.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
