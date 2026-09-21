@@ -1,0 +1,30 @@
+{
+    "id": "ibm-security-advisory-av26-943",
+    "title": "IBM security advisory (AV26-943)",
+    "public_time": "2026-09-21T14:36:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-943",
+    "advisory_id": "AV26-943",
+    "type": "advisory",
+    "description": "As of September 18, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "CICS TX Advanced\n\tVersion 10.1",
+        "Version 10.1",
+        "Guardium Data Protection\n\tVersion 12.2",
+        "Version 12.2",
+        "IBM MQ\n\tMultiple versions",
+        "Multiple versions",
+        "IBM MQ for HPE NonStop\n\tVersions 8.1.0 to 8.1.0.40",
+        "Versions 8.1.0 to 8.1.0.40",
+        "Sterling File Gateway\n\tPrior to or equal to 6.2.0.6_1, 6.2.1.0 to 6.2.1.2 and 6.2.2.0 to 6.2.2.1",
+        "Prior to or equal to 6.2.0.6_1, 6.2.1.0 to 6.2.1.2 and 6.2.2.0 to 6.2.2.1",
+        "WebSphere Application Server\n\tVersions 8.5 and 9.0",
+        "Versions 8.5 and 9.0",
+        "IBM i\n\tVersions 7.3, 7.4, 7.5 and 7.6",
+        "Versions 7.3, 7.4, 7.5 and 7.6",
+        "spectrum-lsf IBM Platform RTM\n\tVersions 10.2.0.15 and 10.2.0.16",
+        "Versions 10.2.0.15 and 10.2.0.16"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
