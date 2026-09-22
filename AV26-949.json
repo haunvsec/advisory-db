@@ -1,0 +1,21 @@
+{
+    "id": "f5-security-advisory-av26-949",
+    "title": "F5 security advisory (AV26-949)",
+    "public_time": "2026-09-22T15:38:23Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-949",
+    "advisory_id": "AV26-949",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "BIG-IP\n\tVersions 21.1.0 to Hotfix-BIGIP-21.1.0.2.0.30.22-ENG\nVersions 17.5.0 to Hotfix-BIGIP-17.5.1.9.0.160.12-ENG\nVersions 17.1.0 to Hotfix-BIGIP-17.1.3.5.0.41.14-ENG",
+        "Versions 21.1.0 to Hotfix-BIGIP-21.1.0.2.0.30.22-ENG",
+        "Versions 17.5.0 to Hotfix-BIGIP-17.5.1.9.0.160.12-ENG",
+        "Versions 17.1.0 to Hotfix-BIGIP-17.1.3.5.0.41.14-ENG"
+    ],
+    "cves": [
+        "CVE-2026-94127",
+        "CVE-2026-94127"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
