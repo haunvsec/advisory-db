@@ -1,0 +1,24 @@
+{
+    "id": "erlang-security-advisory-av26-948",
+    "title": "Erlang security advisory (AV26-948)",
+    "public_time": "2026-09-22T15:30:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-948",
+    "advisory_id": "AV26-948",
+    "type": "advisory",
+    "description": "As of September 22, 2026, Erlang is affected by vulnerabilities in the following product:",
+    "products": [
+        "OTP\n\t17.0 Prior to 27.3.4.18\n21b8a1b Prior to afec515, 98c66c8 and fd1d9d0\n22.2 Prior to 27.3.4.18, 28.5.0.7 and 29.1.1\n4.1.1 Prior to 5.2.11.13, 5.5.2.6 and 6.0.6\n9.5 Prior to 11.2.12.13, 11.6.0.6 and 11.7.7\nVersions Prior to 84adefa",
+        "17.0 Prior to 27.3.4.18",
+        "21b8a1b Prior to afec515, 98c66c8 and fd1d9d0",
+        "22.2 Prior to 27.3.4.18, 28.5.0.7 and 29.1.1",
+        "4.1.1 Prior to 5.2.11.13, 5.5.2.6 and 6.0.6",
+        "9.5 Prior to 11.2.12.13, 11.6.0.6 and 11.7.7",
+        "Versions Prior to 84adefa"
+    ],
+    "cves": [
+        "CVE-2026-65634",
+        "CVE-2026-89422"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
