@@ -1,0 +1,30 @@
+{
+    "id": "ubiquiti-security-advisory-av26-954",
+    "title": "Ubiquiti security advisory (AV26-954)",
+    "public_time": "2026-09-23T17:46:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-954",
+    "advisory_id": "AV26-954",
+    "type": "advisory",
+    "description": "As of September 22, 2026, Ubiquiti Inc is affected by vulnerabilities in the following products:",
+    "products": [
+        "Cloud Gateways\n\tPrior to 5.1.31",
+        "Prior to 5.1.31",
+        "Dream Machines\n\tPrior to 5.1.31",
+        "Prior to 5.1.31",
+        "Dream Routers\n\tPrior to 5.1.31",
+        "Prior to 5.1.31",
+        "Dream Wall\n\tPrior to 5.1.31",
+        "Prior to 5.1.31",
+        "Enterprise Firewalls\n\tPrior to 5.1.31",
+        "Prior to 5.1.31",
+        "Express\n\tPrior to 4.0.21",
+        "Prior to 4.0.21",
+        "Express 7\n\tPrior to 5.1.31",
+        "Prior to 5.1.31",
+        "UniFi Gateways\n\tPrior to 5.1.26",
+        "Prior to 5.1.26"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
