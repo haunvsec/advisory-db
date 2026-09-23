@@ -1,0 +1,19 @@
+{
+    "id": "solarwinds-security-advisory-av26-950",
+    "title": "SolarWinds security advisory (AV26-950)",
+    "public_time": "2026-09-23T14:45:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-950",
+    "advisory_id": "AV26-950",
+    "type": "advisory",
+    "description": "As of September 22, 2026, SolarWinds is affected by vulnerabilities in the following product:",
+    "products": [
+        "SolarWinds Observability Self-Hosted\n\tPrior to 2026.2.3",
+        "Prior to 2026.2.3"
+    ],
+    "cves": [
+        "CVE-2026-28325",
+        "CVE-2026-28324"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
