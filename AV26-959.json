@@ -1,0 +1,20 @@
+{
+    "id": "dell-security-advisory-av26-959",
+    "title": "Dell security advisory (AV26-959)",
+    "public_time": "2026-09-23T19:10:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-959",
+    "advisory_id": "AV26-959",
+    "type": "advisory",
+    "description": "As of September 21, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "Dell Command Powershell Provider (DCPP)\n\tPrior to 2.10.2",
+        "Prior to 2.10.2",
+        "Dell Command Monitor (DCM)\n\tPrior to 10.13.2",
+        "Prior to 10.13.2",
+        "Dell Inventory Collector Client\n\tPrior to 15.0.0",
+        "Prior to 15.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
