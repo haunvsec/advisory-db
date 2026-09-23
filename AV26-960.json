@@ -1,0 +1,20 @@
+{
+    "id": "forcepoint-security-advisory-av26-960",
+    "title": "Forcepoint security advisory (AV26-960)",
+    "public_time": "2026-09-23T19:11:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/forcepoint-security-advisory-av26-960",
+    "advisory_id": "AV26-960",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Forcepoint Security Engine (NGFW)\n\tVersions 7.1.0 to 7.1.13\nVersions 7.3.0 to 7.3.1\nVersion 7.33\nVersion 7.4.0 to 7.4.1\nVersion 7.5.0",
+        "Versions 7.1.0 to 7.1.13",
+        "Versions 7.3.0 to 7.3.1",
+        "Version 7.33",
+        "Version 7.4.0 to 7.4.1",
+        "Version 7.5.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
