@@ -1,0 +1,16 @@
+{
+    "id": "mikrotik-security-advisory-av26-958",
+    "title": "MikroTik security advisory (AV26-958)",
+    "public_time": "2026-09-23T18:33:57Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-958",
+    "advisory_id": "AV26-958",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "RouterOS\n\tPrior to 7.25beta5",
+        "Prior to 7.25beta5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
