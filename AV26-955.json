@@ -1,0 +1,16 @@
+{
+    "id": "google-chrome-security-advisory-av26-955",
+    "title": "Google Chrome security advisory (AV26-955)",
+    "public_time": "2026-09-23T17:47:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-955",
+    "advisory_id": "AV26-955",
+    "type": "advisory",
+    "description": "As of September 22, 2026, Google published a security advisory to address vulnerabilities in the following product:",
+    "products": [
+        "Stable Channel Chrome for Desktop\n\tVersions prior to 154.0.8037.57/.58 (Windows/Mac), and 54.0.8037.57 (Linux)",
+        "Versions prior to 154.0.8037.57/.58 (Windows/Mac), and 54.0.8037.57 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
