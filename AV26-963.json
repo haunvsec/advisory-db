@@ -1,0 +1,22 @@
+{
+    "id": "servicenow-security-advisory-av26-963",
+    "title": "ServiceNow security advisory (AV26-963)",
+    "public_time": "2026-09-25T12:56:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-963",
+    "advisory_id": "AV26-963",
+    "type": "advisory",
+    "description": "As of September 24, 2026, ServiceNow is affected by vulnerabilities in the following product:",
+    "products": [
+        "ServiceNow AI Platform\n\tVersions prior to Australia Patch 2 Hot Fix 4b W32\nVersions prior to Australia Patch 4 Hot Fix 3\nVersions prior to Australia Patch 5\nVersions prior to Yokohama Patch 13 Hot Fix 5a\nVersions prior to Zurich Patch 10 Hot Fix 3b\nVersions prior to Zurich Patch 10 Hot Fix 4a W32\nVersions prior to Zurich Patch 11 Hot Fix 3",
+        "Versions prior to Australia Patch 2 Hot Fix 4b W32",
+        "Versions prior to Australia Patch 4 Hot Fix 3",
+        "Versions prior to Australia Patch 5",
+        "Versions prior to Yokohama Patch 13 Hot Fix 5a",
+        "Versions prior to Zurich Patch 10 Hot Fix 3b",
+        "Versions prior to Zurich Patch 10 Hot Fix 4a W32",
+        "Versions prior to Zurich Patch 11 Hot Fix 3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
