@@ -1,0 +1,16 @@
+{
+    "id": "zimbra-security-advisory-av26-964",
+    "title": "Zimbra security advisory (AV26-964)",
+    "public_time": "2026-09-25T18:40:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-964",
+    "advisory_id": "AV26-964",
+    "type": "advisory",
+    "description": "As of September 25, 2026, Zimbra is affected by vulnerabilities in the following product:",
+    "products": [
+        "Zimbra Collaboration Suite (ZCS) (Daffodil)\n\tPrior to 10.1.21",
+        "Prior to 10.1.21"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
