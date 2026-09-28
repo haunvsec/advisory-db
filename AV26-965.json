@@ -1,0 +1,35 @@
+{
+    "id": "citrix-security-advisory-av26-965",
+    "title": "Citrix security advisory (AV26-965)",
+    "public_time": "2026-09-28T12:16:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-965",
+    "advisory_id": "AV26-965",
+    "type": "advisory",
+    "description": "As of September 27, 2026, Citrix is affected by vulnerabilities in the following products:",
+    "products": [
+        "NetScaler ADC and NetScaler Gateway 14.1\n\tPrior to 14.1-73.37",
+        "Prior to 14.1-73.37",
+        "NetScaler ADC and NetScaler Gateway 13.1\n\tPrior to 13.1-63.23",
+        "Prior to 13.1-63.23",
+        "NetScaler ADC FIPS\n\tPrior to 14.1-73.37 FIPS",
+        "Prior to 14.1-73.37 FIPS",
+        "NetScaler ADC FIPS and NDcPP\n\tPrior to 13.1-37.279",
+        "Prior to 13.1-37.279"
+    ],
+    "cves": [
+        "CVE-2026-88771",
+        "CVE-2026-88772",
+        "CVE-2026-88771",
+        "CVE-2026-88772",
+        "CVE-2026-88773",
+        "CVE-2026-88774",
+        "CVE-2026-88775",
+        "CVE-2026-88776",
+        "CVE-2026-88777",
+        "CVE-2026-88778",
+        "CVE-2026-88771",
+        "CVE-2026-88772"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
