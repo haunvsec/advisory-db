@@ -1,0 +1,22 @@
+{
+    "id": "dell-security-advisory-av26-966",
+    "title": "Dell security advisory (AV26-966)",
+    "public_time": "2026-09-28T17:53:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-966",
+    "advisory_id": "AV26-966",
+    "type": "advisory",
+    "description": "As of September 24, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "Rugged Control Center (RCC)\n\tPrior to 5.2.206",
+        "Prior to 5.2.206",
+        "Secure Connect Gateway (SCG) Policy Manager\n\tPrior to 5.36.00.16",
+        "Prior to 5.36.00.16",
+        "ThinOS 10\n\tPrior to SecurityAddon_2605.10.2766_T10",
+        "Prior to SecurityAddon_2605.10.2766_T10",
+        "Dell Trusted Device Client\n\tPrior to 8.1.359.0",
+        "Prior to 8.1.359.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
