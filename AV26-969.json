@@ -1,0 +1,16 @@
+{
+    "id": "wolfssl-security-advisory-av26-969",
+    "title": "wolfSSL security advisory (AV26-969)",
+    "public_time": "2026-09-28T18:35:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-969",
+    "advisory_id": "AV26-969",
+    "type": "advisory",
+    "description": "As of September 25, 2026, wolfSSL is affected by vulnerabilities in the following product:",
+    "products": [
+        "wolfSSL\n\tPrior to or equal to 5.9.4",
+        "Prior to or equal to 5.9.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
