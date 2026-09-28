@@ -1,0 +1,18 @@
+{
+    "id": "suse-linux-security-advisory-av26-968",
+    "title": "SUSE Linux security advisory (AV26-968)",
+    "public_time": "2026-09-28T18:26:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-968",
+    "advisory_id": "AV26-968",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "NeuVector\n\tPrior to 5.4.11\nPrior to 5.5.4\nPrior to 5.6.2",
+        "Prior to 5.4.11",
+        "Prior to 5.5.4",
+        "Prior to 5.6.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
