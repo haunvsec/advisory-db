@@ -1,0 +1,31 @@
+{
+    "id": "freepbx-security-advisory-av26-973",
+    "title": "FreePBX security advisory (AV26-973)",
+    "public_time": "2026-09-29T13:35:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-973",
+    "advisory_id": "AV26-973",
+    "type": "advisory",
+    "description": "As of September 28, 2026, FreePBX is affected by vulnerabilities in the following products:",
+    "products": [
+        "music\n\tPrior to 16.0.4\nPrior to 17.0.6",
+        "Prior to 16.0.4",
+        "Prior to 17.0.6",
+        "ucp\n\tPrior to 16.0.39\nPrior to 17.0.6",
+        "Prior to 16.0.39",
+        "Prior to 17.0.6",
+        "soundlang\n\tPrior to 17.0.5\nPrior to 16.0.10",
+        "Prior to 17.0.5",
+        "Prior to 16.0.10",
+        "backup\n\tPrior to 16.0.72\nPrior to 17.0.7",
+        "Prior to 16.0.72",
+        "Prior to 17.0.7",
+        "superfecta\n\tPrior to 16.0.40\nPrior to 17.0.7",
+        "Prior to 16.0.40",
+        "Prior to 17.0.7",
+        "api\n\tPrior to 17.0.9",
+        "Prior to 17.0.9"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
