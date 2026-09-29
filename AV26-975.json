@@ -1,0 +1,16 @@
+{
+    "id": "hitachi-security-advisory-av26-975",
+    "title": "Hitachi security advisory (AV26-975)",
+    "public_time": "2026-09-29T15:49:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hitachi-security-advisory-av26-975",
+    "advisory_id": "AV26-975",
+    "type": "advisory",
+    "description": "As of September 29, 2026, Hitachi Energy is affected by vulnerabilities in the following product:",
+    "products": [
+        "RTU500 series CMU firmware\n\tPrior to 12.7.8, 13.9.1 or later",
+        "Prior to 12.7.8, 13.9.1 or later"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
