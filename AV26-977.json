@@ -1,0 +1,18 @@
+{
+    "id": "teamviewer-security-advisory-av26-977",
+    "title": "TeamViewer security advisory (AV26-977)",
+    "public_time": "2026-09-29T19:34:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-977",
+    "advisory_id": "AV26-977",
+    "type": "advisory",
+    "description": "As of September 29, 2026, TeamViewer is affected by vulnerabilities in the following products:",
+    "products": [
+        "TeamViewer Full Client (Windows/Linux/MacOS)\n\tMultiple versions and Platforms",
+        "Multiple versions and Platforms",
+        "TeamViewer Host (Windows/Linux/MacOS)\n\tMultiple versions and Platforms",
+        "Multiple versions and Platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
