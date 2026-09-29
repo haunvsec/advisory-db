@@ -1,0 +1,29 @@
+{
+    "id": "suse-linux-security-advisory-av26-974",
+    "title": "SUSE Linux security advisory (AV26-974)",
+    "public_time": "2026-09-29T14:33:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-974",
+    "advisory_id": "AV26-974",
+    "type": "advisory",
+    "description": "As of September 28, 2026, SUSE is affected by vulnerabilities in the following product:",
+    "products": [
+        "Rancher\n\tPrior to 0.12.19\nPrior to 0.13.15\nPrior to 0.13.16\nPrior to 0.14.10\nPrior to 0.14.10\nPrior to 0.15.6\nPrior to 0.15.7\nPrior to 0.16.1\nPrior to 0.16.2\nPrior to 2.11.18\nPrior to 2.12.14\nPrior to 2.13.10\nPrior to 2.14.6\nPrior to 2.15.2",
+        "Prior to 0.12.19",
+        "Prior to 0.13.15",
+        "Prior to 0.13.16",
+        "Prior to 0.14.10",
+        "Prior to 0.14.10",
+        "Prior to 0.15.6",
+        "Prior to 0.15.7",
+        "Prior to 0.16.1",
+        "Prior to 0.16.2",
+        "Prior to 2.11.18",
+        "Prior to 2.12.14",
+        "Prior to 2.13.10",
+        "Prior to 2.14.6",
+        "Prior to 2.15.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
