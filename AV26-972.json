@@ -1,0 +1,20 @@
+{
+    "id": "watchguard-security-advisory-av26-972",
+    "title": "WatchGuard security advisory (AV26-972)",
+    "public_time": "2026-09-29T12:52:20Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-972",
+    "advisory_id": "AV26-972",
+    "type": "advisory",
+    "description": "As of September 28, 2026, WatchGuard is affected by vulnerabilities in the following product:",
+    "products": [
+        "WatchGuard AP\n\tPrior to 3.4.8",
+        "Prior to 3.4.8"
+    ],
+    "cves": [
+        "CVE-2026-101891",
+        "CVE-2026-86102",
+        "CVE-2026-87969"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
