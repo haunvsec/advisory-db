@@ -1,0 +1,21 @@
+{
+    "id": "watchguard-security-advisory-av26-981",
+    "title": "WatchGuard security advisory (AV26-981)",
+    "public_time": "2026-10-01T14:29:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-981",
+    "advisory_id": "AV26-981",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Fireware OS\n\tPrior to 12.12.3\nPrior to 12.5.21\nPrior to 2026.2.3\nPrior to 2026.3.2",
+        "Prior to 12.12.3",
+        "Prior to 12.5.21",
+        "Prior to 2026.2.3",
+        "Prior to 2026.3.2"
+    ],
+    "cves": [
+        "CVE-2026-86134"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
