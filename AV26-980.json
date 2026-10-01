@@ -1,0 +1,22 @@
+{
+    "id": "openssl-security-advisory-av26-980",
+    "title": "OpenSSL security advisory (AV26-980)",
+    "public_time": "2026-10-01T14:07:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openssl-security-advisory-av26-980",
+    "advisory_id": "AV26-980",
+    "type": "advisory",
+    "description": "As of September 29, 2026, OpenSSL is affected by vulnerabilities in the following product:",
+    "products": [
+        "OpenSSL\n\tPrior to 1.0.2zs\nPrior to 1.1.1zj\nPrior to 3.0.23\nPrior to 3.4.8\nPrior to 3.5.9\nPrior to 3.6.5\nPrior to 4.0.3",
+        "Prior to 1.0.2zs",
+        "Prior to 1.1.1zj",
+        "Prior to 3.0.23",
+        "Prior to 3.4.8",
+        "Prior to 3.5.9",
+        "Prior to 3.6.5",
+        "Prior to 4.0.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
