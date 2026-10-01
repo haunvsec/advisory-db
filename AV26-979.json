@@ -1,0 +1,24 @@
+{
+    "id": "jetbrains-security-advisory-av26-979",
+    "title": "JetBrains security advisory (AV26-979)",
+    "public_time": "2026-10-01T13:42:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-979",
+    "advisory_id": "AV26-979",
+    "type": "advisory",
+    "description": "As of September 30, 2026, JetBrains is affected by vulnerabilities in the following products:",
+    "products": [
+        "Hub\n\tPrior to 2026.2.52366",
+        "Prior to 2026.2.52366",
+        "IntelliJ IDEA\n\tPrior to 2026.2.3",
+        "Prior to 2026.2.3",
+        "Rider\n\tPrior to 2026.2.1",
+        "Prior to 2026.2.1",
+        "TeamCity\n\tPrior to 2026.2, 2026.1.4 and 2025.11.8",
+        "Prior to 2026.2, 2026.1.4 and 2025.11.8",
+        "YouTrack\n\tPrior to 2026.2.18991 and 2026.2.19422",
+        "Prior to 2026.2.18991 and 2026.2.19422"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
