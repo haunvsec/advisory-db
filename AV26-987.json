@@ -1,0 +1,17 @@
+{
+    "id": "fortra-security-advisory-av26-987",
+    "title": "Fortra security advisory (AV26-987)",
+    "public_time": "2026-10-01T19:27:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-987",
+    "advisory_id": "AV26-987",
+    "type": "advisory",
+    "description": "As of October 1, 2026, Fortra is affected by a vulnerabilities in the following product:",
+    "products": [
+        "BoKS Manager boks-server\n\tPrior to 8.1.0.24\nPrior to 9.0.0.7",
+        "Prior to 8.1.0.24",
+        "Prior to 9.0.0.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
