@@ -1,0 +1,16 @@
+{
+    "id": "misp-security-advisory-av26-986",
+    "title": "MISP security advisory (AV26-986)",
+    "public_time": "2026-10-01T19:06:42Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-986",
+    "advisory_id": "AV26-986",
+    "type": "advisory",
+    "description": "As of October 1, 2026, MISP is affected by vulnerabilities in the following product:",
+    "products": [
+        "MISP\n\tPrior to 2.5.48",
+        "Prior to 2.5.48"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
