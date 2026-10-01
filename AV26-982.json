@@ -1,0 +1,28 @@
+{
+    "id": "hpe-security-advisory-av26-982",
+    "title": "HPE security advisory (AV26-982)",
+    "public_time": "2026-10-01T15:19:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-982",
+    "advisory_id": "AV26-982",
+    "type": "advisory",
+    "description": "As of September 29, 2026, Hewlett Packard Enterprise (HPE) is affected by vulnerabilities in the following products:",
+    "products": [
+        "Instant ON\n\tPrior to or equal to 3.4.1.0",
+        "Prior to or equal to 3.4.1.0",
+        "HPE Telco Service Orchestrator\n\tPrior to v5.7.1",
+        "Prior to v5.7.1",
+        "HPE Compute Scale-up Server 3200\n\tPrior to 1.77.30",
+        "Prior to 1.77.30",
+        "HPE Compute Scale-up Server 3250\n\tPrior to 1.03.38",
+        "Prior to 1.03.38",
+        "HPE Superdome Flex 280 Server\n\tPrior to 2.17.03",
+        "Prior to 2.17.03",
+        "HPE Superdome Flex Server\n\tPrior to 4.17.03",
+        "Prior to 4.17.03",
+        "HPE Unified OSS Console (UOC) UOC\n\tPrior to 3.1.22",
+        "Prior to 3.1.22"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
