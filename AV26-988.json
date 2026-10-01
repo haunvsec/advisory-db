@@ -1,0 +1,23 @@
+{
+    "id": "kiteworks-security-advisory-av26-988",
+    "title": "Kiteworks security advisory (AV26-988)",
+    "public_time": "2026-10-01T19:51:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/kiteworks-security-advisory-av26-988",
+    "advisory_id": "AV26-988",
+    "type": "advisory",
+    "description": "As of September 30, 2026, Kiteworks is affected by vulnerabilities in the following products:",
+    "products": [
+        "Kiteworks Core\n\tPrior to 9.5.0\nPrior to 9.5.1",
+        "Prior to 9.5.0",
+        "Prior to 9.5.1",
+        "Kiteworks Email Protection Gateway (EPG)\n\tPrior to 9.5.0\nPrior to 9.5.1",
+        "Prior to 9.5.0",
+        "Prior to 9.5.1",
+        "Kiteworks Secure Data Forms (SDF)\n\tPrior to 9.5.0\nPrior to 9.5.1",
+        "Prior to 9.5.0",
+        "Prior to 9.5.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
