@@ -1,0 +1,16 @@
+{
+    "id": "google-security-advisory-av26-984",
+    "title": "Google security advisory (AV26-984)",
+    "public_time": "2026-10-01T18:31:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-984",
+    "advisory_id": "AV26-984",
+    "type": "advisory",
+    "description": "As of September 29, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Stable Channel Chrome for Desktop\n\tVersions prior to 154.0.8037.92/.93 (Windows/Mac), and 54.0.8037.92 (Linux)",
+        "Versions prior to 154.0.8037.92/.93 (Windows/Mac), and 54.0.8037.92 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
