@@ -1,0 +1,26 @@
+{
+    "id": "fortinet-security-advisory-av26-989",
+    "title": "Fortinet security advisory (AV26-989)",
+    "public_time": "2026-10-02T11:37:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-989",
+    "advisory_id": "AV26-989",
+    "type": "advisory",
+    "description": "As of October 1, 2026, Fortinet is affected by vulnerabilities in the following products:",
+    "products": [
+        "FortiMail 8.0\n\tVersions prior to 8.0.2",
+        "Versions prior to 8.0.2",
+        "FortiMail 7.6\n\tVersions prior to 7.6.7",
+        "Versions prior to 7.6.7",
+        "FortiMail 7.4\n\tVersions prior to 7.4.9",
+        "Versions prior to 7.4.9",
+        "FortiMail 7.2\n\tUpgrade to branch 7.4 or above",
+        "Upgrade to branch 7.4 or above"
+    ],
+    "cves": [
+        "CVE-2026-104286",
+        "CVE-2026-104286",
+        "CVE-2026-104286"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
