@@ -1,0 +1,18 @@
+{
+    "id": "watchguard-security-advisory-av26-990",
+    "title": "WatchGuard security advisory (AV26-990)",
+    "public_time": "2026-10-02T13:00:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-990",
+    "advisory_id": "AV26-990",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Endpoint Security\n\tPrior to 8.00.26.0012",
+        "Prior to 8.00.26.0012"
+    ],
+    "cves": [
+        "CVE-2026-13043"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
