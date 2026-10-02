@@ -1,0 +1,18 @@
+{
+    "id": "mikrotik-security-advisory-av26-992",
+    "title": "MikroTik security advisory (AV26-992)",
+    "public_time": "2026-10-02T14:22:25Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-992",
+    "advisory_id": "AV26-992",
+    "type": "advisory",
+    "description": "As of September 29, 2026, MikroTik is affected by vulnerabilities in the following product:",
+    "products": [
+        "RouterOS\n\tPrior to 7.24",
+        "Prior to 7.24"
+    ],
+    "cves": [
+        "CVE-2026-84411"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
