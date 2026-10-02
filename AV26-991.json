@@ -1,0 +1,22 @@
+{
+    "id": "control-systems-johnson-controls-security-advisory-av26-991",
+    "title": "[Control Systems] Johnson Controls security advisory (AV26-991)",
+    "public_time": "2026-10-02T13:12:06Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-991",
+    "advisory_id": "AV26-991",
+    "type": "advisory",
+    "description": "As of October 1, 2026, Johnson Controls is affected by vulnerabilities in the following products:",
+    "products": [
+        "Easy IO FG\n\tPrior to 2.0b52",
+        "Prior to 2.0b52",
+        "Easy IO Neo\n\tPrior to 3.3b63\nPrior to 3.3b25",
+        "Prior to 3.3b63",
+        "Prior to 3.3b25",
+        "EasyIO FS32\n\tPrior to 3.0b63\nPrior to 3.3b63",
+        "Prior to 3.0b63",
+        "Prior to 3.3b63"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
