@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-hitachi-security-advisory-av26-993",
+    "title": "[Control systems] Hitachi security advisory (AV26-993)",
+    "public_time": "2026-10-02T17:37:58Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-993",
+    "advisory_id": "AV26-993",
+    "type": "advisory",
+    "description": "As of October 1, 2026, Hitachi is affected by vulnerabilities in the following product:",
+    "products": [
+        "Hitachi Coding Software Suite\n\tPrior to V4.0.0 or later",
+        "Prior to V4.0.0 or later"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
