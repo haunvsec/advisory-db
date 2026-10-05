@@ -1,0 +1,22 @@
+{
+    "id": "ibm-security-advisory-av26-997",
+    "title": "IBM security advisory (AV26-997)",
+    "public_time": "2026-10-05T13:11:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-997",
+    "advisory_id": "AV26-997",
+    "type": "advisory",
+    "description": "As of September 29, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "DataStage on Cloud Pak for Data\n\tVersion 5.4.0.0",
+        "Version 5.4.0.0",
+        "Guardium Data Protection\n\tVersion 12.2",
+        "Version 12.2",
+        "IBM i\n\tVersion 7.3, 7.4, 7.5 and 7.6",
+        "Version 7.3, 7.4, 7.5 and 7.6"
+    ],
+    "cves": [
+        "CVE-2026-84414"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
