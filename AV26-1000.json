@@ -1,0 +1,16 @@
+{
+    "id": "hpe-security-advisory-av26-1000",
+    "title": "HPE security advisory (AV26-1000)",
+    "public_time": "2026-10-05T18:16:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1000",
+    "advisory_id": "AV26-1000",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "HPE Integrated Lights-Out (iLO) 7\n\tPrior to 1.25.00",
+        "Prior to 1.25.00"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
