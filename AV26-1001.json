@@ -1,0 +1,24 @@
+{
+    "id": "microsoft-security-advisory-av26-1001",
+    "title": "Microsoft security advisory (AV26-1001)",
+    "public_time": "2026-10-05T18:53:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-1001",
+    "advisory_id": "AV26-1001",
+    "type": "advisory",
+    "description": "As of October 2, 2026, Microsoft is affected by a vulnerability in the following products:",
+    "products": [
+        "Microsoft Exchange Server 2016 Cumulative Update 23\n\tPrior to 15.01.2507.075",
+        "Prior to 15.01.2507.075",
+        "Microsoft Exchange Server 2019 Cumulative Update 14\n\tPrior to 15.02.1544.048",
+        "Prior to 15.02.1544.048",
+        "Microsoft Exchange Server 2019 Cumulative Update 15\n\tPrior to 15.02.1748.053",
+        "Prior to 15.02.1748.053",
+        "Microsoft Exchange Server Subscription Edition RTM\n\tPrior to 15.02.2562.053",
+        "Prior to 15.02.2562.053"
+    ],
+    "cves": [
+        "CVE-2026-96940"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
