@@ -1,0 +1,18 @@
+{
+    "id": "progress-security-advisory-av26-999",
+    "title": "Progress security advisory (AV26-999)",
+    "public_time": "2026-10-05T17:54:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-999",
+    "advisory_id": "AV26-999",
+    "type": "advisory",
+    "description": "As of October 5, 2026, Progress Software is affected by vulnerabilities in the following product:",
+    "products": [
+        "Progress Telerik Fiddler Classic\n\tPrior to 6.0.20262.10021",
+        "Prior to 6.0.20262.10021"
+    ],
+    "cves": [
+        "CVE-2026-77805"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
