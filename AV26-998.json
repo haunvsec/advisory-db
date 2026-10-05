@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-geovision-security-advisory-av26-998",
+    "title": "[Control systems] GeoVision security advisory (AV26-998)",
+    "public_time": "2026-10-05T17:47:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av26-998",
+    "advisory_id": "AV26-998",
+    "type": "advisory",
+    "description": "As of October 2, 2026, GeoVision Inc. is affected by vulnerabilities in the following product:",
+    "products": [
+        "GV-Eye\n\tVersions prior to V3.6.0 Android",
+        "Versions prior to V3.6.0 Android"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
