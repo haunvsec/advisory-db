@@ -1,0 +1,18 @@
+{
+    "id": "progress-security-advisory-av26-1005",
+    "title": "Progress security advisory (AV26-1005)",
+    "public_time": "2026-10-06T19:42:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1005",
+    "advisory_id": "AV26-1005",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Progress Software Autonomous REST Connector GenAI Agents ARCGenAI-Generator\n\tPrior to 2.1",
+        "Prior to 2.1"
+    ],
+    "cves": [
+        "CVE-2026-91140"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
