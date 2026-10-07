@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-johnson-controls-security-advisory-av26-1010",
+    "title": "[Control Systems] Johnson Controls security advisory (AV26-1010)",
+    "public_time": "2026-10-07T15:39:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1010",
+    "advisory_id": "AV26-1010",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Illustra Standard - L4L China\n\tPrior to 6.0.0.66394",
+        "Prior to 6.0.0.66394"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
