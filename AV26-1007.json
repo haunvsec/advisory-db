@@ -1,0 +1,20 @@
+{
+    "id": "github-security-advisory-av26-1007",
+    "title": "GitHub security advisory (AV26-1007)",
+    "public_time": "2026-10-07T14:31:40Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-1007",
+    "advisory_id": "AV26-1007",
+    "type": "advisory",
+    "description": "As of October 6, 2026, GitHub is affected by vulnerabilities in the following product:",
+    "products": [
+        "Enterprise Server\n\t3.18.0 Prior to 3.18.16\n3.19.0 Prior to 3.19.13\n3.20.0 Prior to 3.20.9\n3.21.0 Prior to 3.21.7\n3.22.0 Prior to 3.22.2",
+        "3.18.0 Prior to 3.18.16",
+        "3.19.0 Prior to 3.19.13",
+        "3.20.0 Prior to 3.20.9",
+        "3.21.0 Prior to 3.21.7",
+        "3.22.0 Prior to 3.22.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
