@@ -1,0 +1,32 @@
+{
+    "id": "amd-security-advisory-av26-1014",
+    "title": "AMD security advisory (AV26-1014)",
+    "public_time": "2026-10-07T17:48:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-1014",
+    "advisory_id": "AV26-1014",
+    "type": "advisory",
+    "description": "As of October 6, 2026, AMD is affected by a vulnerability in the following products:",
+    "products": [
+        "AMD Instinct MI210\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI250\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI250X\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI300A\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI300X\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI308X\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI325X\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI350X\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14",
+        "AMD Instinct MI355X\n\tVersions prior to ROCm 7.14",
+        "Versions prior to ROCm 7.14"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
