@@ -1,0 +1,15 @@
+{
+    "id": "qualcomm-security-advisory-av26-1013",
+    "title": "Qualcomm security advisory (AV26-1013)",
+    "public_time": "2026-10-07T17:24:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-av26-1013",
+    "advisory_id": "AV26-1013",
+    "type": "advisory",
+    "description": "As of October 5, 2026, Qualcomm published a security bulletin to address vulnerabilities affecting Qualcomm products",
+    "products": [
+        "October 2026 Security Bulletin"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": ""
+}
