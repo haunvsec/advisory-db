@@ -1,0 +1,17 @@
+{
+    "id": "jetbrains-security-advisory-av26-1012",
+    "title": "JetBrains security advisory (AV26-1012)",
+    "public_time": "2026-10-07T17:14:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1012",
+    "advisory_id": "AV26-1012",
+    "type": "advisory",
+    "description": "As of October 6, 2026, JetBrains is affected by vulnerabilities in the following product:",
+    "products": [
+        "TeamCity\n\tPrior to 2026.1.32025.11.7\nPrior to 2026.2.1",
+        "Prior to 2026.1.32025.11.7",
+        "Prior to 2026.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
