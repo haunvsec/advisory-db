@@ -1,0 +1,17 @@
+{
+    "id": "sonicwall-security-advisory-av26-1017",
+    "title": "SonicWall security advisory (AV26-1017)",
+    "public_time": "2026-10-07T19:07:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1017",
+    "advisory_id": "AV26-1017",
+    "type": "advisory",
+    "description": "As of October 6, 2026, SonicWall is affected by vulnerabilities in the following product:",
+    "products": [
+        "SMA1000 Models - 6210, 7210, 8200v\n\tVersion 12.4.3-03670 (platform-hotfix) and prior\nVersion 12.5.0-03082 (platform-hotfix) and prior",
+        "Version 12.4.3-03670 (platform-hotfix) and prior",
+        "Version 12.5.0-03082 (platform-hotfix) and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
