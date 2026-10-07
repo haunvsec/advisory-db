@@ -1,0 +1,21 @@
+{
+    "id": "broadcom-vmware-security-advisory-av26-1008",
+    "title": "Broadcom VMware security advisory (AV26-1008)",
+    "public_time": "2026-10-07T14:56:11Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-1008",
+    "advisory_id": "AV26-1008",
+    "type": "advisory",
+    "description": "As of October 7, 2026, VMware is affected by vulnerabilities in the following products:",
+    "products": [
+        "VMware Fusion MacOS\n\tPrior to 26H1u1",
+        "Prior to 26H1u1",
+        "VMware Workstation\n\tPrior to 26H1u1",
+        "Prior to 26H1u1"
+    ],
+    "cves": [
+        "CVE-2026-59346",
+        "CVE-2026-59347"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
