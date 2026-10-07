@@ -1,0 +1,19 @@
+{
+    "id": "arista-networks-security-advisory-av26-1015",
+    "title": "Arista Networks security advisory (AV26-1015)",
+    "public_time": "2026-10-07T18:18:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/arista-networks-security-advisory-av26-1015",
+    "advisory_id": "AV26-1015",
+    "type": "advisory",
+    "description": "As of October 6, 2026, Arista Networks is affected by vulnerabilities in the following product:",
+    "products": [
+        "CloudVision CUE\n\tVersion 2026.2.0 and prior\nVersion 2021.2.0 and prior\nVersion 2022.2.0 and prior\nVersion 2022.3.0 and prior",
+        "Version 2026.2.0 and prior",
+        "Version 2021.2.0 and prior",
+        "Version 2022.2.0 and prior",
+        "Version 2022.3.0 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
