@@ -1,0 +1,21 @@
+{
+    "id": "splunk-security-advisory-av26-1018",
+    "title": "Splunk security advisory (AV26-1018)",
+    "public_time": "2026-10-08T13:41:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1018",
+    "advisory_id": "AV26-1018",
+    "type": "advisory",
+    "description": "As of October 7, 2026, Splunk is affected by vulnerabilities in the following products:",
+    "products": [
+        "Splunk Enterprise\n\tPrior to 10.0.10\nPrior to 10.2.7\nPrior to 10.4.3\nPrior to 9.4.15",
+        "Prior to 10.0.10",
+        "Prior to 10.2.7",
+        "Prior to 10.4.3",
+        "Prior to 9.4.15",
+        "Splunk MCP Server\n\tPrior to 1.2.1",
+        "Prior to 1.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
