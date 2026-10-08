@@ -1,0 +1,26 @@
+{
+    "id": "ibm-security-advisory-av26-1022",
+    "title": "IBM security advisory (AV26-1022)",
+    "public_time": "2026-10-08T18:36:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1022",
+    "advisory_id": "AV26-1022",
+    "type": "advisory",
+    "description": "As of October 8, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "IBM DataPower Gateway 10.5.0\n\tPrior to or equal to 10.5.0.22",
+        "Prior to or equal to 10.5.0.22",
+        "IBM DataPower Gateway 10.6.0\n\tPrior to or equal to 10.6.0.10",
+        "Prior to or equal to 10.6.0.10",
+        "IBM DataPower Gateway 10.6CD\n\tPrior to or equal to 10.6.6",
+        "Prior to or equal to 10.6.6",
+        "IBM DataPower Gateway 11.0.0\n\tPrior to or equal to 11.0.0.2",
+        "Prior to or equal to 11.0.0.2",
+        "Langflow OSS\n\tVersion 1.0.0 to 1.12.2",
+        "Version 1.0.0 to 1.12.2"
+    ],
+    "cves": [
+        "CVE-2026-14990"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
