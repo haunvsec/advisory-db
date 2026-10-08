@@ -1,0 +1,22 @@
+{
+    "id": "elastic-security-advisory-av26-1021",
+    "title": "Elastic security advisory (AV26-1021)",
+    "public_time": "2026-10-08T15:21:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/elastic-security-advisory-av26-1021",
+    "advisory_id": "AV26-1021",
+    "type": "advisory",
+    "description": "As of October 6, 2026, Elastic is affected by vulnerabilities in the following products:",
+    "products": [
+        "Elasticsearch\n\tPrior to or equal to 8.19.23\nPrior to or equal to 9.4.8\nPrior to or equal to 9.5.5",
+        "Prior to or equal to 8.19.23",
+        "Prior to or equal to 9.4.8",
+        "Prior to or equal to 9.5.5",
+        "Kibana\n\tPrior to or equal to 8.19.22\nPrior to or equal to 9.4.7\nPrior to or equal to 9.5.4",
+        "Prior to or equal to 8.19.22",
+        "Prior to or equal to 9.4.7",
+        "Prior to or equal to 9.5.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
