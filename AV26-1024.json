@@ -1,0 +1,19 @@
+{
+    "id": "mongodb-security-advisory-av26-1024",
+    "title": "MongoDB security advisory (AV26-1024)",
+    "public_time": "2026-10-09T18:05:36Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1024",
+    "advisory_id": "AV26-1024",
+    "type": "advisory",
+    "description": "As of October 8, 2026, MongoDB is affected by vulnerabilities in the following products:",
+    "products": [
+        "Go Driver\n\tPrior to 2.9.0\nPrior to 2.9.2",
+        "Prior to 2.9.0",
+        "Prior to 2.9.2",
+        "libmongocrypt\n\tPrior to 1.20.5",
+        "Prior to 1.20.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
