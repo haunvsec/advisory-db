@@ -1,0 +1,16 @@
+{
+    "id": "smartertools-security-advisory-av26-1026",
+    "title": "SmarterTools security advisory (AV26-1026)",
+    "public_time": "2026-10-09T19:25:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1026",
+    "advisory_id": "AV26-1026",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "SmarterMail\n\tPrior to Build 9777",
+        "Prior to Build 9777"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
