@@ -1,0 +1,22 @@
+{
+    "id": "citrix-security-advisory-av26-1023",
+    "title": "Citrix security advisory (AV26-1023)",
+    "public_time": "2026-10-09T13:31:29Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1023",
+    "advisory_id": "AV26-1023",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "NetScaler ADC and NetScaler Gateway\n\tPrior to 13.1-64.29\nPrior to 14.1-73.46",
+        "Prior to 13.1-64.29",
+        "Prior to 14.1-73.46",
+        "NetScaler ADC FIPS\n\tPrior to 14.1-73.46 FIPS\nPrior to 13.1-37.283 FIPS & NDcPP",
+        "Prior to 14.1-73.46 FIPS",
+        "Prior to 13.1-37.283 FIPS & NDcPP"
+    ],
+    "cves": [
+        "CVE-2026-107406"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
