@@ -1,0 +1,16 @@
+{
+    "id": "mikrotik-security-advisory-av26-1029",
+    "title": "MikroTik security advisory (AV26-1029)",
+    "public_time": "2026-10-13T13:15:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-1029",
+    "advisory_id": "AV26-1029",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "RouterOS\n\tPrior to 7.24.5",
+        "Prior to 7.24.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
