@@ -1,0 +1,17 @@
+{
+    "id": "progress-security-advisory-av26-1031",
+    "title": "Progress security advisory (AV26-1031)",
+    "public_time": "2026-10-13T13:36:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1031",
+    "advisory_id": "AV26-1031",
+    "type": "advisory",
+    "description": "As of October 12, 2026, Progress is affected by vulnerabilities in the following product:",
+    "products": [
+        "MarkLogic Server\n\tPrior to 11.3.7\nPrior to 12.1.0",
+        "Prior to 11.3.7",
+        "Prior to 12.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
