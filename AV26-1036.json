@@ -1,0 +1,16 @@
+{
+    "id": "esri-security-advisory-av26-1036",
+    "title": "Esri security advisory (AV26-1036)",
+    "public_time": "2026-10-13T20:10:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/esri-security-advisory-av26-1036",
+    "advisory_id": "AV26-1036",
+    "type": "advisory",
+    "description": "As of October 13, 2026, Esri is affected by vulnerabilities in the following product:",
+    "products": [
+        "Portal for ArcGIS\n\tPrior to 12.2",
+        "Prior to 12.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
