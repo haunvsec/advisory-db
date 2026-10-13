@@ -1,0 +1,16 @@
+{
+    "id": "jetbrains-security-advisory-av26-1032",
+    "title": "JetBrains security advisory (AV26-1032)",
+    "public_time": "2026-10-13T13:43:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1032",
+    "advisory_id": "AV26-1032",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Exposed\n\tPrior to 1.5.1",
+        "Prior to 1.5.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
