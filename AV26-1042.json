@@ -1,0 +1,22 @@
+{
+    "id": "cisco-security-advisory-av26-1042",
+    "title": "Cisco security advisory (AV26-1042)",
+    "public_time": "2026-10-14T19:23:07Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1042",
+    "advisory_id": "AV26-1042",
+    "type": "advisory",
+    "description": "As of October 14, 2026, Cisco is affected by a vulnerability in the following products:",
+    "products": [
+        "Cisco AsyncOS Software for Cisco Secure Email Gateway Release\n\t15.5 version prior to 15.5.5-014\n16.5 versions prior to 16.5.0-780",
+        "15.5 version prior to 15.5.5-014",
+        "16.5 versions prior to 16.5.0-780",
+        "Cisco Secure Email and Web Manager Release\n\t15.5 version prior to 15.5.5-006\n16.5 versions prior to 16.5.0-429",
+        "15.5 version prior to 15.5.5-006",
+        "16.5 versions prior to 16.5.0-429"
+    ],
+    "cves": [
+        "CVE-2026-76519"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
