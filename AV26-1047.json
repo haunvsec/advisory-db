@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-1047",
+    "title": "Drupal security advisory (AV26-1047)",
+    "public_time": "2026-10-15T15:19:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1047",
+    "advisory_id": "AV26-1047",
+    "type": "advisory",
+    "description": "As of October 14, 2026, Drupal is affected by vulnerabilities in the following product:",
+    "products": [
+        "Drupal core\n\tPrior to 11.4.10\nPrior to 11.3.19\nPrior to 10.6.19",
+        "Prior to 11.4.10",
+        "Prior to 11.3.19",
+        "Prior to 10.6.19"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
