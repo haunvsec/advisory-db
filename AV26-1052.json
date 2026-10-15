@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-johnson-controls-security-advisory-av26-1052",
+    "title": "[Control systems] Johnson Controls security advisory (AV26-1052)",
+    "public_time": "2026-10-15T19:24:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1052",
+    "advisory_id": "AV26-1052",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "ADVMS\n\tPrior to 3.10",
+        "Prior to 3.10"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
