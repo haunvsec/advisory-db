@@ -1,0 +1,26 @@
+{
+    "id": "hpe-security-advisory-av26-1046",
+    "title": "HPE security advisory (AV26-1046)",
+    "public_time": "2026-10-15T15:09:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1046",
+    "advisory_id": "AV26-1046",
+    "type": "advisory",
+    "description": "As of October 15, 2026, Hewlett Packard Enterprise is affected by vulnerabilities in the following products:",
+    "products": [
+        "HPE NonStop HTTP WEBSERVER\n\tVersion T1144L24^AAL and prior",
+        "Version T1144L24^AAL and prior",
+        "HPE NonStop Servers\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "HPE Integrated Lights-Out 5 (iLO 5) for HPE Gen10 Servers\n\tVersions prior to 3.22",
+        "Versions prior to 3.22",
+        "HPE Integrated Lights-Out 6 (iLO 6)\n\tVersions prior to 1.79",
+        "Versions prior to 1.79",
+        "HPE Integrated Lights-Out 7 (iLO 7)\n\tVersion prior to 1.25.01",
+        "Version prior to 1.25.01",
+        "HPE Networking AOS-Switch (AOS-S)\n\tVersion AOS-S 16.11.0031 and prior",
+        "Version AOS-S 16.11.0031 and prior"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
