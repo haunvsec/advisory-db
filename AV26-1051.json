@@ -1,0 +1,22 @@
+{
+    "id": "control-systems-schneider-electric-security-advisory-av26-1051",
+    "title": "[Control systems] Schneider Electric security advisory (AV26-1051)",
+    "public_time": "2026-10-15T19:10:41Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-1051",
+    "advisory_id": "AV26-1051",
+    "type": "advisory",
+    "description": "As of October 13, 2026, Schneider Electric is affected by a vulnerability in the following products:",
+    "products": [
+        "Sage RTU 1410/1430/1450\n\tVersions prior to C3414-500-S02L0",
+        "Versions prior to C3414-500-S02L0",
+        "Sage RTU 2400\n\tVersions prior to C3414-500-S02L0",
+        "Versions prior to C3414-500-S02L0",
+        "Sage RTU 3030 Magnum\n\tVersions prior to C3414-500-S02L0",
+        "Versions prior to C3414-500-S02L0",
+        "Sage RTU 4400\n\tVersions prior to C3414-500-S02L0",
+        "Versions prior to C3414-500-S02L0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
