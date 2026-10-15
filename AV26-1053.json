@@ -1,0 +1,23 @@
+{
+    "id": "suse-linux-security-advisory-av26-1053",
+    "title": "SUSE Linux security advisory (AV26-1053)",
+    "public_time": "2026-10-15T19:35:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1053",
+    "advisory_id": "AV26-1053",
+    "type": "advisory",
+    "description": "As of October 15, 2026, SUSE is affected by vulnerabilities in the following products:",
+    "products": [
+        "Rancher\n\tPrior to 2.10.5\nPrior to 2.11.1\nPrior to 2.9.9",
+        "Prior to 2.10.5",
+        "Prior to 2.11.1",
+        "Prior to 2.9.9",
+        "Steve\n\tPrior to 0.2.1\nPrior to 0.3.3\nPrior to 0.4.4\nPrior to 0.5.13",
+        "Prior to 0.2.1",
+        "Prior to 0.3.3",
+        "Prior to 0.4.4",
+        "Prior to 0.5.13"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
