@@ -1,0 +1,33 @@
+{
+    "id": "juniper-networks-security-advisory-av26-1043",
+    "title": "Juniper Networks security advisory (AV26-1043)",
+    "public_time": "2026-10-15T13:44:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1043",
+    "advisory_id": "AV26-1043",
+    "type": "advisory",
+    "description": "As of October 14, 2026, Juniper Networks is affected by vulnerabilities in the following products:",
+    "products": [
+        "Junos OS\n\tVersions prior to 23.2R2-S7.7\nVersion 23.4 prior to 23.4R2-S8.13\nVersion 24.2 prior to 24.2R2-S5.5\nVersion 24.4 prior to 24.4R2-S5\nVersion 25.2 prior to 25.2R2-S2\nVersion 25.4 prior to 25.4R1-S3\nVersion 26.2 prior to 26.2R1-S2",
+        "Versions prior to 23.2R2-S7.7",
+        "Version 23.4 prior to 23.4R2-S8.13",
+        "Version 24.2 prior to 24.2R2-S5.5",
+        "Version 24.4 prior to 24.4R2-S5",
+        "Version 25.2 prior to 25.2R2-S2",
+        "Version 25.4 prior to 25.4R1-S3",
+        "Version 26.2 prior to 26.2R1-S2",
+        "Junos OS Evolved\n\tVersions prior to 23.2R2-S7.7-EVO\nVersion 23.4 prior to 23.4R2-S8.11-EVO\nVersion 24.2 prior to 24.2R2-S5.6-EVO\nVersion 24.4 prior to 24.4R2-S5-EVO\nVersion 25.2 prior to 25.2R2-S2-EVO\nVersion 25.4 prior to 25.4R1-S3-EVO\nVersion 26.2 prior to 26.2R1-S2-EVO\nVersion 23.4X100-EVO\nVersion 25.2X100 prior to 25.2X100-D35-EVO\nVersion 25.4X300 prior to 25.4X300-D40-EVO",
+        "Versions prior to 23.2R2-S7.7-EVO",
+        "Version 23.4 prior to 23.4R2-S8.11-EVO",
+        "Version 24.2 prior to 24.2R2-S5.6-EVO",
+        "Version 24.4 prior to 24.4R2-S5-EVO",
+        "Version 25.2 prior to 25.2R2-S2-EVO",
+        "Version 25.4 prior to 25.4R1-S3-EVO",
+        "Version 26.2 prior to 26.2R1-S2-EVO",
+        "Version 23.4X100-EVO",
+        "Version 25.2X100 prior to 25.2X100-D35-EVO",
+        "Version 25.4X300 prior to 25.4X300-D40-EVO"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
