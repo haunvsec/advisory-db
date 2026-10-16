@@ -1,0 +1,16 @@
+{
+    "id": "bmc-helix-security-advisory-av26-1059",
+    "title": "BMC Helix security advisory (AV26-1059)",
+    "public_time": "2026-10-16T18:45:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059",
+    "advisory_id": "AV26-1059",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "BMC Helix Network Management\n\tPrior to 26.3.01",
+        "Prior to 26.3.01"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
