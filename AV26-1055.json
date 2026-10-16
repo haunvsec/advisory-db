@@ -1,0 +1,19 @@
+{
+    "id": "control-systems-moxa-security-advisory-av26-1055",
+    "title": "[Control Systems] Moxa security advisory (AV26-1055)",
+    "public_time": "2026-10-16T13:16:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1055",
+    "advisory_id": "AV26-1055",
+    "type": "advisory",
+    "description": "As of October 16, 2026, Moxa is affected by vulnerabilities in the following product:",
+    "products": [
+        "AIG-302 Series\n\tPrior to or equal to v1.4.1",
+        "Prior to or equal to v1.4.1"
+    ],
+    "cves": [
+        "CVE-2026-109812",
+        "CVE-2026-109813"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
