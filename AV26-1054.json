@@ -1,0 +1,18 @@
+{
+    "id": "beyondtrust-security-advisory-av26-1054",
+    "title": "BeyondTrust security advisory (AV26-1054)",
+    "public_time": "2026-10-16T13:06:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054",
+    "advisory_id": "AV26-1054",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Remote Support\n\tPrior to or equal to 26.2.3",
+        "Prior to or equal to 26.2.3"
+    ],
+    "cves": [
+        "CVE-2026-102764"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
