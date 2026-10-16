@@ -1,0 +1,16 @@
+{
+    "id": "google-security-advisory-av26-1060",
+    "title": "Google security advisory (AV26-1060)",
+    "public_time": "2026-10-16T20:16:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060",
+    "advisory_id": "AV26-1060",
+    "type": "advisory",
+    "description": "As of October 15, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Chrome\n\tVersions prior to 155.0.8059.84/.85 (Windows/Mac) and 155.0.8059.84 (Linux)",
+        "Versions prior to 155.0.8059.84/.85 (Windows/Mac) and 155.0.8059.84 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
