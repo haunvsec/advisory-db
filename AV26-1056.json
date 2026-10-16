@@ -1,0 +1,16 @@
+{
+    "id": "palo-alto-networks-security-advisory-av26-1056",
+    "title": "Palo Alto Networks security advisory (AV26-1056)",
+    "public_time": "2026-10-16T13:29:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1056",
+    "advisory_id": "AV26-1056",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Idira Secrets Manager (Self-Hosted)\n\tPrior to v13.9.1",
+        "Prior to v13.9.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
