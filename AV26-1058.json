@@ -1,0 +1,17 @@
+{
+    "id": "progress-security-advisory-av26-1058",
+    "title": "Progress security advisory (AV26-1058)",
+    "public_time": "2026-10-16T17:50:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1058",
+    "advisory_id": "AV26-1058",
+    "type": "advisory",
+    "description": "As of October 14, 2026, Progress is affected by vulnerabilities in the following product:",
+    "products": [
+        "MOVEit Transfer\n\tPrior to 2025.1.6\nPrior to 2026.0.4",
+        "Prior to 2025.1.6",
+        "Prior to 2026.0.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
