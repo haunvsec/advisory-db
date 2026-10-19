@@ -1,0 +1,16 @@
+{
+    "id": "eptura-security-advisory-av26-1062",
+    "title": "Eptura security advisory (AV26-1062)",
+    "public_time": "2026-10-19T20:30:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/eptura-security-advisory-av26-1062",
+    "advisory_id": "AV26-1062",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Archibus\n\tPrior to 2025.02",
+        "Prior to 2025.02"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
