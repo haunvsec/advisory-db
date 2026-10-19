@@ -1,0 +1,19 @@
+{
+    "id": "siemens-security-advisory-av26-1063",
+    "title": "Siemens security advisory (AV26-1063)",
+    "public_time": "2026-10-19T20:37:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/siemens-security-advisory-av26-1063",
+    "advisory_id": "AV26-1063",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Siemens Software Center\n\tPrior to V4.0.9.8",
+        "Prior to V4.0.9.8"
+    ],
+    "cves": [
+        "CVE-2026-110936",
+        "CVE-2026-110936"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
