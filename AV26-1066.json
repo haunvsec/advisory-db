@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-geovision-security-advisory-av26-1066",
+    "title": "[Control systems] GeoVision security advisory (AV26-1066)",
+    "public_time": "2026-10-20T13:26:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av26-1066",
+    "advisory_id": "AV26-1066",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "GV-ASManager\n\tVersions prior to V6.3.0",
+        "Versions prior to V6.3.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
