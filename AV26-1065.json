@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-advantech-security-advisory-av26-1065",
+    "title": "[Control systems] Advantech security advisory (AV26-1065)",
+    "public_time": "2026-10-20T13:10:55Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av26-1065",
+    "advisory_id": "AV26-1065",
+    "type": "advisory",
+    "description": "As of October 20, 2026, Advantech is affected by vulnerabilities in the following product:",
+    "products": [
+        "ADAM-3600\n\tVersions prior to v2.8.5.0",
+        "Versions prior to v2.8.5.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
