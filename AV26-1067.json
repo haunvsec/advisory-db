@@ -1,0 +1,17 @@
+{
+    "id": "craft-cms-security-advisory-av26-1067",
+    "title": "Craft CMS security advisory (AV26-1067)",
+    "public_time": "2026-10-20T20:04:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/craft-cms-security-advisory-av26-1067",
+    "advisory_id": "AV26-1067",
+    "type": "advisory",
+    "description": "As of October 19, 2026, Craft CMS is affected by vulnerabilities in the following product:",
+    "products": [
+        "Craft CMS\n\tPrior to 4.18.8\nPrior to 5.11.0",
+        "Prior to 4.18.8",
+        "Prior to 5.11.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
