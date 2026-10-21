@@ -1,0 +1,18 @@
+{
+    "id": "solarwinds-security-advisory-av26-1068",
+    "title": "SolarWinds security advisory (AV26-1068)",
+    "public_time": "2026-10-21T13:03:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-1068",
+    "advisory_id": "AV26-1068",
+    "type": "advisory",
+    "description": "As of October 20, 2026, SolarWinds is affected by vulnerabilities in the following product:",
+    "products": [
+        "SolarWinds Observability Self-Hosted\n\tPrior to 2026.4",
+        "Prior to 2026.4"
+    ],
+    "cves": [
+        "CVE-2026-28328"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
