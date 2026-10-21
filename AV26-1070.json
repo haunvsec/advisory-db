@@ -1,0 +1,16 @@
+{
+    "id": "php-security-advisory-av26-1070",
+    "title": "PHP security advisory (AV26-1070)",
+    "public_time": "2026-10-21T13:27:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/php-security-advisory-av26-1070",
+    "advisory_id": "AV26-1070",
+    "type": "advisory",
+    "description": "PHP security advisory (AV26-1070)",
+    "products": [
+        "PHP\n\tVersions prior to 8.x",
+        "Versions prior to 8.x"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
