@@ -1,0 +1,28 @@
+{
+    "id": "cisco-security-advisory-av26-1073",
+    "title": "Cisco security advisory (AV26-1073)",
+    "public_time": "2026-10-21T19:09:38Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073",
+    "advisory_id": "AV26-1073",
+    "type": "advisory",
+    "description": "As of October 21, 2026, Cisco is affected by vulnerabilities in the following products:",
+    "products": [
+        "Cisco IOS XR Software Release\n\tMultiple versions",
+        "Multiple versions",
+        "Cisco Expressway Series Release\n\tPrior to X15.5.20",
+        "Prior to X15.5.20",
+        "Snort 3 Release\n\tPrior to 3.12.4.0",
+        "Prior to 3.12.4.0",
+        "Cisco Cyber Vision Release\n\tPrior to 5.6.0",
+        "Prior to 5.6.0",
+        "Cisco Secure FTD Software Release\n\tMultiple versions",
+        "Multiple versions",
+        "Cisco Secure Client Release\n\tPrior to 5.1.20.333",
+        "Prior to 5.1.20.333",
+        "Cisco Emergency Responder, Prime Collaboration Deployment, Unified CM, Unified CM IM&P, Unified CM SME, and Unity Connection Release\n\tPrior to 15SU5",
+        "Prior to 15SU5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
