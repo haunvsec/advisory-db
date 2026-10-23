@@ -1,0 +1,16 @@
+{
+    "id": "mongodb-security-advisory-av26-1078",
+    "title": "MongoDB security advisory (AV26-1078)",
+    "public_time": "2026-10-23T13:00:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1078",
+    "advisory_id": "AV26-1078",
+    "type": "advisory",
+    "description": "As of October 22, 2026, MongoDB is affected by vulnerabilities in the following product:",
+    "products": [
+        "C# Driver\n\tPrior to 3.13.0",
+        "Prior to 3.13.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
