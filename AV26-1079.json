@@ -1,0 +1,20 @@
+{
+    "id": "hpe-security-advisory-av26-1079",
+    "title": "HPE security advisory (AV26-1079)",
+    "public_time": "2026-10-23T13:19:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1079",
+    "advisory_id": "AV26-1079",
+    "type": "advisory",
+    "description": "As of October 22, 2026, Hewlett Packard Enterprise (HPE) is affected by vulnerabilities in the following product:",
+    "products": [
+        "HPE Networking Wireless Operating Systems - AOS\n\tVersions prior to 10.8.1.2\nVersions prior to 10.7.2.7\nVersions prior to 10.4.1.14\nVersions prior to 8.13.3.1\nVersions prior to 8.10.0.24",
+        "Versions prior to 10.8.1.2",
+        "Versions prior to 10.7.2.7",
+        "Versions prior to 10.4.1.14",
+        "Versions prior to 8.13.3.1",
+        "Versions prior to 8.10.0.24"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
