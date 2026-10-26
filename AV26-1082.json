@@ -1,0 +1,31 @@
+{
+    "id": "ibm-security-advisory-av26-1082",
+    "title": "IBM security advisory (AV26-1082)",
+    "public_time": "2026-10-26T13:29:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1082",
+    "advisory_id": "AV26-1082",
+    "type": "advisory",
+    "description": "As of October 20, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "IBM App Connect Enterprise\n\tVersions 13.0.1.0 to 13.0.8.2",
+        "Versions 13.0.1.0 to 13.0.8.2",
+        "IBM Guardium Data Protection\n\tVersion 12.1\nVersion 12.2",
+        "Version 12.1",
+        "Version 12.2",
+        "Planning Analytics\n\tVersion 2.0\nVersion 2.1",
+        "Version 2.0",
+        "Version 2.1",
+        "IBM QRadar\n\tVersions 7.5.0 to 7.5.0 Update Package 16 Interim Fix 001\nVersions 7.6.0.0 to 7.6.0.4",
+        "Versions 7.5.0 to 7.5.0 Update Package 16 Interim Fix 001",
+        "Versions 7.6.0.0 to 7.6.0.4",
+        "IBM QRadar Security Information and Event Management\n\tVersions 7.4-20210823144546 to 7.5-20260930064858\nVersions 7.6-20260330053257 to 7.6-20260930064910",
+        "Versions 7.4-20210823144546 to 7.5-20260930064858",
+        "Versions 7.6-20260330053257 to 7.6-20260930064910",
+        "IBM Sterling Connect Direct for Unix\n\tVersions 6.4.0.0 to 6.4.0.6\nVersions 6.3.0.0 to 6.3.0.7",
+        "Versions 6.4.0.0 to 6.4.0.6",
+        "Versions 6.3.0.0 to 6.3.0.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
