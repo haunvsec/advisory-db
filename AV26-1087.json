@@ -1,0 +1,19 @@
+{
+    "id": "hashicorp-security-advisory-av26-1087",
+    "title": "HashiCorp security advisory (AV26-1087)",
+    "public_time": "2026-10-26T19:04:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1087",
+    "advisory_id": "AV26-1087",
+    "type": "advisory",
+    "description": "As of October 26, 2026, HashiCorp is affected by a vulnerability in the following products:",
+    "products": [
+        "Consul\n\tPrior to 2.1.0",
+        "Prior to 2.1.0",
+        "Consul Enterprise\n\tPrior to 1.21.19\nPrior to 2.1.0",
+        "Prior to 1.21.19",
+        "Prior to 2.1.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
