@@ -1,0 +1,18 @@
+{
+    "id": "google-security-advisory-av26-1085",
+    "title": "Google security advisory (AV26-1085)",
+    "public_time": "2026-10-26T14:07:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1085",
+    "advisory_id": "AV26-1085",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Brotli\n\tVersions 1.0.3 to versions prior to v1.0.10\nVersions 1.1.0 to versions prior to v1.1.1\nVersions 1.2.0 to versions prior to v1.2.1",
+        "Versions 1.0.3 to versions prior to v1.0.10",
+        "Versions 1.1.0 to versions prior to v1.1.1",
+        "Versions 1.2.0 to versions prior to v1.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
