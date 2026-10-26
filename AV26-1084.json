@@ -1,0 +1,31 @@
+{
+    "id": "red-hat-security-advisory-av26-1084",
+    "title": "Red Hat security advisory (AV26-1084)",
+    "public_time": "2026-10-26T13:50:35Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1084",
+    "advisory_id": "AV26-1084",
+    "type": "advisory",
+    "description": "As of October 20, 2026, Red Hat is affected by vulnerabilities in the following products:",
+    "products": [
+        "Red Hat Enterprise Linux 10\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 6\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 7\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 8\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 9\n\tAll versions",
+        "All versions",
+        "StreamsHub Console for Apache Kafka\n\tPrior to 0.12.10\nPrior to 0.14.2",
+        "Prior to 0.12.10",
+        "Prior to 0.14.2",
+        "Streams for Apache Kafka 2\n\tAll versions",
+        "All versions",
+        "Streams for Apache Kafka 3\n\tAll versions",
+        "All versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
