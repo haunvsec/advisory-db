@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-johnson-controls-security-advisory-av26-1090",
+    "title": "[Control systems] Johnson Controls security advisory (AV26-1090)",
+    "public_time": "2026-10-27T14:02:18Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1090",
+    "advisory_id": "AV26-1090",
+    "type": "advisory",
+    "description": "As of October 26, 2026, Johnson Controls is affected by vulnerabilities in the following product:",
+    "products": [
+        "Kantech Entrapass\n\tPrior to 9.20",
+        "Prior to 9.20"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
