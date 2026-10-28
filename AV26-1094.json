@@ -1,0 +1,19 @@
+{
+    "id": "watchguard-security-advisory-av26-1094",
+    "title": "WatchGuard security advisory (AV26-1094)",
+    "public_time": "2026-10-28T14:41:15Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-1094",
+    "advisory_id": "AV26-1094",
+    "type": "advisory",
+    "description": "As of October 27, 2026, WatchGuard is affected by vulnerabilities in the following products:",
+    "products": [
+        "Fireware OS\n\tMultiple versions",
+        "Multiple versions",
+        "Mobile VPN with SSL Client\n\tPrior to 2026.4\nPrior to 12.0",
+        "Prior to 2026.4",
+        "Prior to 12.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
