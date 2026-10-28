@@ -1,0 +1,26 @@
+{
+    "id": "teamviewer-security-advisory-av26-1093",
+    "title": "TeamViewer security advisory (AV26-1093)",
+    "public_time": "2026-10-28T14:38:08Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-1093",
+    "advisory_id": "AV26-1093",
+    "type": "advisory",
+    "description": "As of October 27, 2026, TeamViewer is affected by vulnerabilities in the following products:",
+    "products": [
+        "TeamViewer Full Client & Host (Windows)\n\tPrior to 15.83",
+        "Prior to 15.83",
+        "TeamViewer Full Client & Host (Linux)\n\tPrior to 15.83",
+        "Prior to 15.83",
+        "TeamViewer Full Client & Host (macOS)\n\tPrior to 15.83",
+        "Prior to 15.83",
+        "TeamViewer Host (Windows, Linux, macOS)\n\tPrior to 15.83",
+        "Prior to 15.83",
+        "TeamViewer Portable (Windows)\n\tPrior to 15.83",
+        "Prior to 15.83",
+        "TeamViewer Remote Control App (Android)\n\tPrior to 15.8.3",
+        "Prior to 15.8.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
