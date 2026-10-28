@@ -1,0 +1,22 @@
+{
+    "id": "juniper-networks-security-advisory-av26-1101",
+    "title": "Juniper Networks security advisory (AV26-1101)",
+    "public_time": "2026-10-28T19:30:45Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1101",
+    "advisory_id": "AV26-1101",
+    "type": "advisory",
+    "description": "As of October 28, 2026, Juniper Networks is affected by vulnerabilities in the following products:",
+    "products": [
+        "Session Smart Conductor\n\tPrior to 7.0.5\nPrior to 7.1.7\nPrior to 7.2.3",
+        "Prior to 7.0.5",
+        "Prior to 7.1.7",
+        "Prior to 7.2.3",
+        "Session Smart Router\n\tPrior to 7.0.5\nPrior to 7.1.7\nPrior to 7.2.3",
+        "Prior to 7.0.5",
+        "Prior to 7.1.7",
+        "Prior to 7.2.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
