@@ -1,0 +1,18 @@
+{
+    "id": "progress-security-advisory-av26-1098",
+    "title": "Progress security advisory (AV26-1098)",
+    "public_time": "2026-10-28T17:29:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1098",
+    "advisory_id": "AV26-1098",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Telerik Document Processing Libraries\n\tPrior to 2026.3.1027",
+        "Prior to 2026.3.1027"
+    ],
+    "cves": [
+        "CVE-2026-118035"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
