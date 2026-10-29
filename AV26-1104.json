@@ -1,0 +1,19 @@
+{
+    "id": "mattermost-security-advisory-av26-1104",
+    "title": "Mattermost security advisory (AV26-1104)",
+    "public_time": "2026-10-29T14:04:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-1104",
+    "advisory_id": "AV26-1104",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Mattermost\n\tPrior to or equal to 11.10.0\nPrior to or equal to 11.9.2\nPrior to or equal to 11.8.6\nPrior to or equal to 11.7.11",
+        "Prior to or equal to 11.10.0",
+        "Prior to or equal to 11.9.2",
+        "Prior to or equal to 11.8.6",
+        "Prior to or equal to 11.7.11"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
