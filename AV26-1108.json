@@ -1,0 +1,26 @@
+{
+    "id": "linux-security-advisory-av26-1108",
+    "title": "Linux security advisory (AV26-1108)",
+    "public_time": "2026-10-30T21:34:05Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-1108",
+    "advisory_id": "AV26-1108",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Linux\n\tPrior to 5.10.272\nPrior 5.15.223\nPrior to 6.1.190\nPrior to 6.6.159\nPrior to 6.12.113\nPrior to 6.18.56\nPrior to 7.2.10\nPrior to 7.3",
+        "Prior to 5.10.272",
+        "Prior 5.15.223",
+        "Prior to 6.1.190",
+        "Prior to 6.6.159",
+        "Prior to 6.12.113",
+        "Prior to 6.18.56",
+        "Prior to 7.2.10",
+        "Prior to 7.3"
+    ],
+    "cves": [
+        "CVE-2026-98432",
+        "CVE-2026-98432"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
