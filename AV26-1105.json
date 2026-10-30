@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-1105",
+    "title": "Drupal security advisory (AV26-1105)",
+    "public_time": "2026-10-30T15:43:17Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1105",
+    "advisory_id": "AV26-1105",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Commerce Core\n\tVersions prior to 2.41 and 3.0.0 versions prior to 3.3.13",
+        "Versions prior to 2.41 and 3.0.0 versions prior to 3.3.13"
+    ],
+    "cves": [
+        "CVE-2026-118539"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
