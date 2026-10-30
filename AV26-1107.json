@@ -1,0 +1,16 @@
+{
+    "id": "mongodb-security-advisory-av26-1107",
+    "title": "MongoDB security advisory (AV26-1107)",
+    "public_time": "2026-10-30T15:53:31Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1107",
+    "advisory_id": "AV26-1107",
+    "type": "advisory",
+    "description": "As of October 28, 2026, MongoDB is affected by vulnerabilities in the following product:",
+    "products": [
+        "Laravel MongoDB\n\tPrior to 5.12.0",
+        "Prior to 5.12.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
