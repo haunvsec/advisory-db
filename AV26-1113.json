@@ -1,0 +1,20 @@
+{
+    "id": "suse-linux-security-advisory-av26-1113",
+    "title": "SUSE Linux security advisory (AV26-1113)",
+    "public_time": "2026-11-02T18:25:26Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1113",
+    "advisory_id": "AV26-1113",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Rancher\n\tPrior to 2.11.19\nPrior to 2.12.15\nPrior to 2.13.11\nPrior to 2.14.7\nPrior to 2.15.3",
+        "Prior to 2.11.19",
+        "Prior to 2.12.15",
+        "Prior to 2.13.11",
+        "Prior to 2.14.7",
+        "Prior to 2.15.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
