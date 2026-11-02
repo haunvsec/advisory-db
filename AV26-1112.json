@@ -1,0 +1,26 @@
+{
+    "id": "barracuda-networks-security-advisory-av26-1112",
+    "title": "Barracuda Networks security advisory (AV26-1112)",
+    "public_time": "2026-11-02T16:16:10Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/barracuda-networks-security-advisory-av26-1112",
+    "advisory_id": "AV26-1112",
+    "type": "advisory",
+    "description": "As of November 2, 2026, Barracuda Networks is affected by a vulnerability in the following products:",
+    "products": [
+        "Barracuda Email Security Gateway (ESG)\n\tPrior to 9.4.0.030",
+        "Prior to 9.4.0.030",
+        "Barracuda Load Balancer Application Delivery Controller (ADC)\n\tPrior to 6.4.0",
+        "Prior to 6.4.0",
+        "Barracuda Web Application Firewall (WAF)\n\tPrior to 11.0.1",
+        "Prior to 11.0.1",
+        "Barracuda Web Security Gateway (WSG)\n\tPrior to 16.1.100.100",
+        "Prior to 16.1.100.100",
+        "Barracuda Message Archiver (BMA)\n\tPrior to 5.5.4.0",
+        "Prior to 5.5.4.0",
+        "Barracuda WAF Control Center (WCC)\n\tPrior to 2.2.1",
+        "Prior to 2.2.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
