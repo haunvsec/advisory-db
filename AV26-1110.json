@@ -1,0 +1,31 @@
+{
+    "id": "dell-security-advisory-av26-1110",
+    "title": "Dell security advisory (AV26-1110)",
+    "public_time": "2026-11-02T14:23:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-1110",
+    "advisory_id": "AV26-1110",
+    "type": "advisory",
+    "description": "As of October 30, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "OpenManage Enterprise\n\tPrior to 4.8.0",
+        "Prior to 4.8.0",
+        "PowerProtect Data Domain\n\tPrior to 7.13.1.90\nPrior to 8.3.1.50\nPrior to 8.6.1.30\nPrior to 8.9.0.0",
+        "Prior to 7.13.1.90",
+        "Prior to 8.3.1.50",
+        "Prior to 8.6.1.30",
+        "Prior to 8.9.0.0",
+        "PowerProtect Data Domain Management Center\n\tPrior to 7.13.1.90\nPrior to 8.3.1.50\nPrior to 8.6.1.30\nPrior to 8.9.0.0",
+        "Prior to 7.13.1.90",
+        "Prior to 8.3.1.50",
+        "Prior to 8.6.1.30",
+        "Prior to 8.9.0.0",
+        "PowerProtect Data Domain Virtual Edition\n\tPrior to 7.13.1.90\nPrior to 8.3.1.50\nPrior to 8.6.1.30\nPrior to 8.9.0.0",
+        "Prior to 7.13.1.90",
+        "Prior to 8.3.1.50",
+        "Prior to 8.6.1.30",
+        "Prior to 8.9.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
