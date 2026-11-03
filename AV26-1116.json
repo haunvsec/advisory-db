@@ -1,0 +1,17 @@
+{
+    "id": "progress-software-security-advisory-av26-1116",
+    "title": "Progress Software security advisory (AV26-1116)",
+    "public_time": "2026-11-03T14:46:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-software-security-advisory-av26-1116",
+    "advisory_id": "AV26-1116",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "WS_FTP Server\n\tPrior to 2024.0.6\nPrior to 2025.0.3",
+        "Prior to 2024.0.6",
+        "Prior to 2025.0.3"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
