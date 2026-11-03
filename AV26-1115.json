@@ -1,0 +1,16 @@
+{
+    "id": "postgresql-security-advisory-av26-1115",
+    "title": "PostgreSQL security advisory (AV26-1115)",
+    "public_time": "2026-11-03T14:24:43Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-1115",
+    "advisory_id": "AV26-1115",
+    "type": "advisory",
+    "description": "As of November 2, 2026, PostgreSQL is affected by vulnerabilities in the following product:",
+    "products": [
+        "psqlODBC\n\tPrior to 18.00.0006",
+        "Prior to 18.00.0006"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
