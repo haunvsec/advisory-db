@@ -1,0 +1,18 @@
+{
+    "id": "zyxel-security-advisory-av26-1114",
+    "title": "Zyxel security advisory (AV26-1114)",
+    "public_time": "2026-11-03T14:16:02Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-1114",
+    "advisory_id": "AV26-1114",
+    "type": "advisory",
+    "description": "As of November 3, 2026, Zyxel is affected by vulnerabilities in the following products:",
+    "products": [
+        "Zyxel GS1900 series switches\n\tMultiple versions and models",
+        "Multiple versions and models",
+        "Zyxel APs, FWA7, and Security Routers\n\tMultiple versions and models",
+        "Multiple versions and models"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
