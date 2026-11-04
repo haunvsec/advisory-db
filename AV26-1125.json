@@ -1,0 +1,21 @@
+{
+    "id": "watchguard-security-advisory-av26-1125",
+    "title": "WatchGuard security advisory (AV26-1125)",
+    "public_time": "2026-11-04T19:39:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-1125",
+    "advisory_id": "AV26-1125",
+    "type": "advisory",
+    "description": "As of November 4, 2026, WatchGuard is affected by vulnerabilities in the following product:",
+    "products": [
+        "AuthPoint Authentication Gateway\n\tPrior to 7.6.0",
+        "Prior to 7.6.0"
+    ],
+    "cves": [
+        "CVE-2026-121637",
+        "CVE-2026-121638",
+        "CVE-2026-121639",
+        "CVE-2026-121640"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
