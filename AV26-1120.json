@@ -1,0 +1,18 @@
+{
+    "id": "tanium-security-advisory-av26-1120",
+    "title": "Tanium security advisory (AV26-1120)",
+    "public_time": "2026-11-04T19:12:46Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-1120",
+    "advisory_id": "AV26-1120",
+    "type": "advisory",
+    "description": "As of November 3, 2026, Tanium is affected by vulnerabilities in the following product:",
+    "products": [
+        "Threat Response\n\tPrior to 4.12.353\nPrior to 4.17.333\nPrior to 4.9.480",
+        "Prior to 4.12.353",
+        "Prior to 4.17.333",
+        "Prior to 4.9.480"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
