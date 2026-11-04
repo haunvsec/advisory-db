@@ -1,0 +1,16 @@
+{
+    "id": "cisco-security-advisory-av26-1127",
+    "title": "Cisco security advisory (AV26-1127)",
+    "public_time": "2026-11-04T19:57:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1127",
+    "advisory_id": "AV26-1127",
+    "type": "advisory",
+    "description": "As of November 4, 2026, Cisco is affected by vulnerabilities in the following product:",
+    "products": [
+        "Cisco Unified Computing System (USC) Central Software\n\tPrior to 2.1(2c)",
+        "Prior to 2.1(2c)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
