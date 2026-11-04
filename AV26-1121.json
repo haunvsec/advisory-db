@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-phoenix-contact-security-advisory-av26-1121",
+    "title": "[Control Systems] Phoenix Contact security advisory (AV26-1121)",
+    "public_time": "2026-11-04T15:03:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-1121",
+    "advisory_id": "AV26-1121",
+    "type": "advisory",
+    "description": "As of November 4, 2026, Phoenix Contact is affected by vulnerabilities in the following product:",
+    "products": [
+        "PLCnext Engineer\n\tPrior to 2026.6",
+        "Prior to 2026.6"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
