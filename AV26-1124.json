@@ -1,0 +1,16 @@
+{
+    "id": "solarwinds-security-advisory-av26-1124",
+    "title": "SolarWinds security advisory (AV26-1124)",
+    "public_time": "2026-11-04T19:38:21Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-1124",
+    "advisory_id": "AV26-1124",
+    "type": "advisory",
+    "description": "As of November 3, 2026, SolarWinds is affected by vulnerabilities in the following product:",
+    "products": [
+        "Dameware\n\tPrior to or equal to 2026.3.1",
+        "Prior to or equal to 2026.3.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
