@@ -1,0 +1,17 @@
+{
+    "id": "rubyonrails-security-advisory-av26-1129",
+    "title": "Rubyonrails security advisory (AV26-1129)",
+    "public_time": "2026-11-05T15:41:50Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/rubyonrails-security-advisory-av26-1129",
+    "advisory_id": "AV26-1129",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Active Storage\n\tPrior to 8.0.5.2\nPrior to 8.1.4.1",
+        "Prior to 8.0.5.2",
+        "Prior to 8.1.4.1"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
