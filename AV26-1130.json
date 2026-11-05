@@ -1,0 +1,16 @@
+{
+    "id": "openbsd-security-advisory-av26-1130",
+    "title": "OpenBSD security advisory (AV26-1130)",
+    "public_time": "2026-11-05T19:00:54Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130",
+    "advisory_id": "AV26-1130",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "OpenSSH\n\tPrior to 10.6p2",
+        "Prior to 10.6p2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
