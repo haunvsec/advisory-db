@@ -1,0 +1,28 @@
+{
+    "id": "jetbrains-security-advisory-av26-1132",
+    "title": "JetBrains security advisory (AV26-1132)",
+    "public_time": "2026-11-06T19:23:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1132",
+    "advisory_id": "AV26-1132",
+    "type": "advisory",
+    "description": "As of November 6, 2026, JetBrains is affected by vulnerabilities in the following products:",
+    "products": [
+        "CLion\n\tPrior to 2026.3\n\t\tPrior to 2026.2.4.1",
+        "Prior to 2026.3\n\t\tPrior to 2026.2.4.1",
+        "Datalore\n\tPrior to 2026.4\nPrior to 2026.2.4",
+        "Prior to 2026.4",
+        "Prior to 2026.2.4",
+        "Hub\n\tPrior to 2026.2.52519\nPrior to 2026.2.52556",
+        "Prior to 2026.2.52519",
+        "Prior to 2026.2.52556",
+        "IntelliJ IDEA\n\tMultiple versions",
+        "Multiple versions",
+        "Ktor\n\tPrior to 3.6.1",
+        "Prior to 3.6.1",
+        "YouTrack\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
