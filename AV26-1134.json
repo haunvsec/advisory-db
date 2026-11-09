@@ -1,0 +1,18 @@
+{
+    "id": "dell-security-advisory-av26-1134",
+    "title": "Dell security advisory (AV26-1134)",
+    "public_time": "2026-11-09T13:54:39Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-1134",
+    "advisory_id": "AV26-1134",
+    "type": "advisory",
+    "description": "As of November 2, 2026, Dell is affected by vulnerabilities in the following products:",
+    "products": [
+        "Alienware Command Center (AWCC)\n\tPrior to 6.14.54.0",
+        "Prior to 6.14.54.0",
+        "Wyse Management Suite\n\tPrior to 2609.0.0.155",
+        "Prior to 2609.0.0.155"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
