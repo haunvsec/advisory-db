@@ -1,0 +1,16 @@
+{
+    "id": "hpe-security-advisory-av26-1144",
+    "title": "HPE security advisory (AV26-1144)",
+    "public_time": "2026-11-12T15:04:28Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1144",
+    "advisory_id": "AV26-1144",
+    "type": "advisory",
+    "description": "As of November 10, 2026, Hewlett Packard Enterprise (HPE) is affected by vulnerabilities in the following product:",
+    "products": [
+        "HPE Networking Private 5G Core (P5G Core)\n\tPrior to or equal to 1.26.1.4",
+        "Prior to or equal to 1.26.1.4"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
