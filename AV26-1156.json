@@ -1,0 +1,18 @@
+{
+    "id": "nodejs-security-advisory-av26-1156",
+    "title": "Nodejs security advisory (AV26-1156)",
+    "public_time": "2026-11-12T20:35:04Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156",
+    "advisory_id": "AV26-1156",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "node\n\tPrior to v24.22.3\nPrior to v26.13.1\nPrior to v22.23.5",
+        "Prior to v24.22.3",
+        "Prior to v26.13.1",
+        "Prior to v22.23.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
