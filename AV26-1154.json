@@ -1,0 +1,26 @@
+{
+    "id": "check-point-security-advisory-av26-1154",
+    "title": "Check Point security advisory (AV26-1154)",
+    "public_time": "2026-11-12T19:08:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154",
+    "advisory_id": "AV26-1154",
+    "type": "advisory",
+    "description": "As of November 12, 2026, Check Point is affected by vulnerabilities in the following products:",
+    "products": [
+        "Check Point Force Firewalls\n\tMultiple versions",
+        "Multiple versions",
+        "Check Point Management and Log Servers\n\tMultiple versions",
+        "Multiple versions",
+        "Multi-Domain Security Management and Multi-Domain Log Server\n\tMultiple versions",
+        "Multiple versions",
+        "Maestro Orchestrator\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [
+        "CVE-2026-123039",
+        "CVE-2026-107484",
+        "CVE-2026-123039"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
