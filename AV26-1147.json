@@ -1,0 +1,18 @@
+{
+    "id": "watchguard-security-advisory-av26-1147",
+    "title": "WatchGuard security advisory (AV26-1147)",
+    "public_time": "2026-11-12T15:52:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-1147",
+    "advisory_id": "AV26-1147",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Endpoint Security\n\tPrior to 8.00.26.0011",
+        "Prior to 8.00.26.0011"
+    ],
+    "cves": [
+        "CVE-2026-57907"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
