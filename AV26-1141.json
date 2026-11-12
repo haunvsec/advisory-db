@@ -1,0 +1,20 @@
+{
+    "id": "ivanti-security-advisory-av26-1141",
+    "title": "Ivanti security advisory (AV26-1141)",
+    "public_time": "2026-11-10T16:56:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1141",
+    "advisory_id": "AV26-1141",
+    "type": "advisory",
+    "description": "As of November 10, 2026, Ivanti is affected by vulnerabilities in the following products:",
+    "products": [
+        "Endpoint Manager\n\tPrior or equal to version 2024 SU7",
+        "Prior or equal to version 2024 SU7",
+        "Cloud Services Application (CSA)\n\tVersion 5.0.8",
+        "Version 5.0.8"
+    ],
+    "cves": [
+        "CVE-2026-121683"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
