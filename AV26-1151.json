@@ -1,0 +1,22 @@
+{
+    "id": "mongodb-security-advisory-av26-1151",
+    "title": "MongoDB security advisory (AV26-1151)",
+    "public_time": "2026-11-12T18:43:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1151",
+    "advisory_id": "AV26-1151",
+    "type": "advisory",
+    "description": "As of November 10, 2026, MongoDB is affected by vulnerabilities in the following product:",
+    "products": [
+        "MongoDB Server\n\tPrior to 4.4.32\nPrior to 5.0.35\nPrior to 6.0.30\nPrior to 7.0.48\nPrior to 8.0.37\nPrior to 8.3.16\nPrior to 9.0.7",
+        "Prior to 4.4.32",
+        "Prior to 5.0.35",
+        "Prior to 6.0.30",
+        "Prior to 7.0.48",
+        "Prior to 8.0.37",
+        "Prior to 8.3.16",
+        "Prior to 9.0.7"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
