@@ -1,0 +1,18 @@
+{
+    "id": "n-able-security-advisory-av26-1143",
+    "title": "N-able security advisory (AV26-1143)",
+    "public_time": "2026-11-12T14:56:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-1143",
+    "advisory_id": "AV26-1143",
+    "type": "advisory",
+    "description": "As of November 10, 2026, N-able is affected by vulnerabilities in the following product:",
+    "products": [
+        "N-central\n\tPrior to 2026.4.1.26",
+        "Prior to 2026.4.1.26"
+    ],
+    "cves": [
+        "CVE-2026-125883"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
