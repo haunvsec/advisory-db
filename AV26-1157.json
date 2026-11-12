@@ -1,0 +1,16 @@
+{
+    "id": "google-security-advisory-av26-1157",
+    "title": "Google security advisory (AV26-1157)",
+    "public_time": "2026-11-12T20:39:53Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157",
+    "advisory_id": "AV26-1157",
+    "type": "advisory",
+    "description": "As of November 11, 2026, Google is affected by vulnerabilities in the following product:",
+    "products": [
+        "Stable Channel Chrome for Desktop\n\tVersions prior to 157.0.8103.78/.79 (Windows/Mac), and 157.0.8103.78 (Linux)",
+        "Versions prior to 157.0.8103.78/.79 (Windows/Mac), and 157.0.8103.78 (Linux)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
