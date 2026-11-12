@@ -1,0 +1,30 @@
+{
+    "id": "progress-software-security-advisory-av26-1148",
+    "title": "Progress Software security advisory (AV26-1148)",
+    "public_time": "2026-11-12T17:01:14Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/progress-software-security-advisory-av26-1148",
+    "advisory_id": "AV26-1148",
+    "type": "advisory",
+    "description": "As of November 12, 2026, Progress Software is affected by vulnerabilities in the following products:",
+    "products": [
+        "Telerik Report Server\n\tPrior to 12.3.26.1110",
+        "Prior to 12.3.26.1110",
+        "Telerik Reporting\n\tPrior to 20.3.26.1110",
+        "Prior to 20.3.26.1110",
+        "Telerik UI for ASP.NET Core\n\tPrior to 2026.3.1015",
+        "Prior to 2026.3.1015",
+        "Telerik UI for WPF\n\tPrior to 2026.4.1110",
+        "Prior to 2026.4.1110",
+        "Telerik UI for WinForms\n\tPrior to 2026.4.1111",
+        "Prior to 2026.4.1111"
+    ],
+    "cves": [
+        "CVE-2026-106137",
+        "CVE-2026-106140",
+        "CVE-2026-106152",
+        "CVE-2026-124699",
+        "CVE-2026-124703"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
