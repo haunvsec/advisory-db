@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-johnson-controls-security-advisory-av26-1158",
+    "title": "[Control systems] Johnson Controls security advisory (AV26-1158)",
+    "public_time": "2026-11-13T13:56:59Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1158",
+    "advisory_id": "AV26-1158",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "EasyIO FW\n\tPrior to or equal to V3.0b25",
+        "Prior to or equal to V3.0b25"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
