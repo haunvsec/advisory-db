@@ -1,0 +1,16 @@
+{
+    "id": "apache-security-advisory-av26-1159",
+    "title": "Apache security advisory (AV26-1159)",
+    "public_time": "2026-11-13T14:10:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1159",
+    "advisory_id": "AV26-1159",
+    "type": "advisory",
+    "description": "As of November 11, 2026, Apache is affected by vulnerabilities in the following product:",
+    "products": [
+        "Apache HTTP Server\n\tPrior to 2.4.71",
+        "Prior to 2.4.71"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
