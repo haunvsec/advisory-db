@@ -1,0 +1,27 @@
+{
+    "id": "ibm-security-advisory-av26-1162",
+    "title": "IBM security advisory (AV26-1162)",
+    "public_time": "2026-11-16T14:41:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1162",
+    "advisory_id": "AV26-1162",
+    "type": "advisory",
+    "description": "As of November 13, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "App Connect Operator\n\tPrior to or equal to 12.0.28\nPrior to or equal to 12.21.0\nPrior to or equal to 13.6.0",
+        "Prior to or equal to 12.0.28",
+        "Prior to or equal to 12.21.0",
+        "Prior to or equal to 13.6.0",
+        "ContextForge MCP Gateway\n\tPrior to or equal to 1.1.0",
+        "Prior to or equal to 1.1.0",
+        "Security QRadar EDR\n\tPrior to or equal to 3.12.26",
+        "Prior to or equal to 3.12.26",
+        "webMethods Integration Server\n\tPrior to or equal to 10.15_Core_Fix2\nPrior to or equal to 11.1_Core_Fix11",
+        "Prior to or equal to 10.15_Core_Fix2",
+        "Prior to or equal to 11.1_Core_Fix11"
+    ],
+    "cves": [
+        "CVE-2026-123628"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
