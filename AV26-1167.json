@@ -1,0 +1,20 @@
+{
+    "id": "zyxel-security-advisory-av26-1167",
+    "title": "Zyxel security advisory (AV26-1167)",
+    "public_time": "2026-11-17T16:20:00Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-1167",
+    "advisory_id": "AV26-1167",
+    "type": "advisory",
+    "description": "As of November 17, 2026, Zyxel is affected by vulnerabilities in the following products:",
+    "products": [
+        "DX3300-T0 firmware\n\tPrior to or equal to 5.50(ABVY.8.3)C0",
+        "Prior to or equal to 5.50(ABVY.8.3)C0",
+        "DX3301-T0 firmware\n\tPrior to or equal to 5.50(ABVY.8.3)C0",
+        "Prior to or equal to 5.50(ABVY.8.3)C0",
+        "EX3301-T0 firmware\n\tPrior to or equal to 5.50(ABVY.8.3)C0",
+        "Prior to or equal to 5.50(ABVY.8.3)C0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
