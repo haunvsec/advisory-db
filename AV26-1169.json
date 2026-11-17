@@ -1,0 +1,18 @@
+{
+    "id": "control-systems-codesys-security-advisory-av26-1169",
+    "title": "[Control systems] CODESYS security advisory (AV26-1169)",
+    "public_time": "2026-11-17T19:17:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-codesys-security-advisory-av26-1169",
+    "advisory_id": "AV26-1169",
+    "type": "advisory",
+    "description": "As of November 17, 2026, CODESYS is affected by vulnerabilities in the following products:",
+    "products": [
+        "CODESYS Automation Server Connector\n\tPrior to 1.40.0.0",
+        "Prior to 1.40.0.0",
+        "CODESYS Service Tool\n\tPrior to 1.40.0.0",
+        "Prior to 1.40.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
