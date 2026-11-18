@@ -1,0 +1,16 @@
+{
+    "id": "smartertools-security-advisory-av26-1177",
+    "title": "SmarterTools security advisory (AV26-1177)",
+    "public_time": "2026-11-18T21:06:13Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1177",
+    "advisory_id": "AV26-1177",
+    "type": "advisory",
+    "description": "As of November 17, 2026, SmarterTools is affected by vulnerabilities in the following product:",
+    "products": [
+        "SmarterMail\n\tPrior to Build 9817",
+        "Prior to Build 9817"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
