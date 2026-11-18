@@ -1,0 +1,25 @@
+{
+    "id": "f5-security-advisory-av26-1174",
+    "title": "F5 security advisory (AV26-1174)",
+    "public_time": "2026-11-18T19:02:27Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-1174",
+    "advisory_id": "AV26-1174",
+    "type": "advisory",
+    "description": "As of November 18, 2026, F5 is affected by vulnerabilities in the following products:",
+    "products": [
+        "NGINX Plus\n\tPrior to 37.3.0.1\nPrior to 37.0.8.1\nPrior to 37.2.0.1\nPrior to 37.0.7.1",
+        "Prior to 37.3.0.1",
+        "Prior to 37.0.8.1",
+        "Prior to 37.2.0.1",
+        "Prior to 37.0.7.1",
+        "NGINX Open Source\n\tPrior to 1.31.9\nPrior to 1.30.7",
+        "Prior to 1.31.9",
+        "Prior to 1.30.7"
+    ],
+    "cves": [
+        "CVE-2026-123007",
+        "CVE-2026-123633"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
