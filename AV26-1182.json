@@ -1,0 +1,16 @@
+{
+    "id": "ubiquiti-security-advisory-av26-1182",
+    "title": "Ubiquiti security advisory (AV26-1182)",
+    "public_time": "2026-11-19T18:28:56Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-1182",
+    "advisory_id": "AV26-1182",
+    "type": "advisory",
+    "description": "As of November 18, 2026, Ubiquiti is affected by vulnerabilities in the following product:",
+    "products": [
+        "UniFi Access Application\n\tPrior to 4.3.24",
+        "Prior to 4.3.24"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
