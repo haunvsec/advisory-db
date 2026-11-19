@@ -1,0 +1,20 @@
+{
+    "id": "php-group-security-advisory-av26-1183",
+    "title": "PHP Group security advisory (AV26-1183)",
+    "public_time": "2026-11-19T18:33:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-1183",
+    "advisory_id": "AV26-1183",
+    "type": "advisory",
+    "description": "As of November 19, 2026, PHP Group is affected by vulnerabilities in the following product:",
+    "products": [
+        "PHP\n\tPrior to 8.2.36\nPrior to 8.3.37\nPrior to 8.4.28\nPrior to 8.5.13\nPrior to 8.6.0",
+        "Prior to 8.2.36",
+        "Prior to 8.3.37",
+        "Prior to 8.4.28",
+        "Prior to 8.5.13",
+        "Prior to 8.6.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
