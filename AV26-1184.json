@@ -1,0 +1,16 @@
+{
+    "id": "mitel-security-advisory-av26-1184",
+    "title": "Mitel security advisory (AV26-1184)",
+    "public_time": "2026-11-19T18:51:37Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184",
+    "advisory_id": "AV26-1184",
+    "type": "advisory",
+    "description": "As of November 19, 2026, Mitel is affected by vulnerabilities in the following product:",
+    "products": [
+        "MiCollab\n\tPrior to or equal to 10.3 (10.3.0.18)",
+        "Prior to or equal to 10.3 (10.3.0.18)"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
