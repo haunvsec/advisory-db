@@ -1,0 +1,18 @@
+{
+    "id": "openvpn-security-advisory-av26-1179",
+    "title": "OpenVPN security advisory (AV26-1179)",
+    "public_time": "2026-11-19T15:39:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/openvpn-security-advisory-av26-1179",
+    "advisory_id": "AV26-1179",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "OpenVPN\n\tPrior to or equal to 2.7.8",
+        "Prior to or equal to 2.7.8"
+    ],
+    "cves": [
+        "CVE-2026-121720"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
