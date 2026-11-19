@@ -1,0 +1,18 @@
+{
+    "id": "drupal-security-advisory-av26-1186",
+    "title": "Drupal security advisory (AV26-1186)",
+    "public_time": "2026-11-19T19:29:19Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186",
+    "advisory_id": "AV26-1186",
+    "type": "advisory",
+    "description": "As of November 19, 2026, Drupal is affected by vulnerabilities in the following product:",
+    "products": [
+        "Drupal core\n\tPrior to 10.6.22\nPrior to 11.3.22\nPrior to 11.4.13",
+        "Prior to 10.6.22",
+        "Prior to 11.3.22",
+        "Prior to 11.4.13"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
