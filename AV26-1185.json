@@ -1,0 +1,33 @@
+{
+    "id": "vmware-security-advisory-av26-1185",
+    "title": "VMware security advisory (AV26-1185)",
+    "public_time": "2026-11-19T19:02:48Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185",
+    "advisory_id": "AV26-1185",
+    "type": "advisory",
+    "description": "As of November 19, 2026, VMware is affected by vulnerabilities in the following products:",
+    "products": [
+        "VMware Cloud Foundation / VMware vSphere Foundation - vCenter\n\t9.1.x.x Versions prior to 9.1.1.0200\n9.0.x.x Versions prior to 9.0.2.0200",
+        "9.1.x.x Versions prior to 9.1.1.0200",
+        "9.0.x.x Versions prior to 9.0.2.0200",
+        "VMware vCenter\n\t8.0 Versions prior to 8.0 U3m\nVersion 7.0",
+        "8.0 Versions prior to 8.0 U3m",
+        "Version 7.0",
+        "VMware Cloud Foundation vCenter\n\t5.x versions prior to 5.2.5",
+        "5.x versions prior to 5.2.5",
+        "VMware Telco Cloud Platform vCenter\n\tVersions 3.0, 4.x, 5.0.x, 5.1.x, 5.2",
+        "Versions 3.0, 4.x, 5.0.x, 5.1.x, 5.2",
+        "VMware Telco Cloud Infrastructure vCenter\n\tVersion 3.0",
+        "Version 3.0"
+    ],
+    "cves": [
+        "CVE-2026-123890",
+        "CVE-2026-123890",
+        "CVE-2026-123891",
+        "CVE-2026-123892",
+        "CVE-2026-123893",
+        "CVE-2026-123894"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
