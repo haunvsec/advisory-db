@@ -1,0 +1,20 @@
+{
+    "id": "apache-security-advisory-av26-1188",
+    "title": "Apache security advisory (AV26-1188)",
+    "public_time": "2026-11-21T13:17:12Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1188",
+    "advisory_id": "AV26-1188",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Apache Tomcat\n\tPrior to or equal to 10.1.62\nPrior or equal to 9.0.124\nPrior to or equal to 11.0.29",
+        "Prior to or equal to 10.1.62",
+        "Prior or equal to 9.0.124",
+        "Prior to or equal to 11.0.29"
+    ],
+    "cves": [
+        "CVE-2026-133325"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
