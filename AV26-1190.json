@@ -1,0 +1,28 @@
+{
+    "id": "red-hat-security-advisory-av26-1190",
+    "title": "Red Hat security advisory (AV26-1190)",
+    "public_time": "2026-11-23T14:40:09Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1190",
+    "advisory_id": "AV26-1190",
+    "type": "advisory",
+    "description": "As of November 23, 2026, Red Hat is affected by vulnerabilities in the following products:",
+    "products": [
+        "Red Hat Enterprise Linux 10\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 9\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 8\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 7\n\tAll versions",
+        "All versions",
+        "Red Hat Enterprise Linux 6\n\tAll versions",
+        "All versions",
+        "Red Hat Hardened Images\n\tAll versions",
+        "All versions",
+        "Red Hat OpenShift Container Platform 4 and 5\n\tAll versions",
+        "All versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
