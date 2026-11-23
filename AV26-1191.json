@@ -1,0 +1,16 @@
+{
+    "id": "n-able-security-advisory-av26-1191",
+    "title": "N-able security advisory (AV26-1191)",
+    "public_time": "2026-11-23T14:51:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-1191",
+    "advisory_id": "AV26-1191",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "MailAssure\n\tPrior to 20261121.1943",
+        "Prior to 20261121.1943"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
