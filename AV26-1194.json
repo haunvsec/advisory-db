@@ -1,0 +1,19 @@
+{
+    "id": "apache-security-advisory-av26-1194",
+    "title": "Apache security advisory (AV26-1194)",
+    "public_time": "2026-11-23T15:34:03Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1194",
+    "advisory_id": "AV26-1194",
+    "type": "advisory",
+    "description": "As of November 23, 2026, Apache Software Foundation is affected by vulnerabilities in the following product:",
+    "products": [
+        "Apache Solr\n\tPrior to 10.1.0\nPrior to 9.11.0",
+        "Prior to 10.1.0",
+        "Prior to 9.11.0"
+    ],
+    "cves": [
+        "CVE-2026-86312"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
