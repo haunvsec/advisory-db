@@ -1,0 +1,20 @@
+{
+    "id": "synology-security-advisory-av26-1193",
+    "title": "Synology security advisory (AV26-1193)",
+    "public_time": "2026-11-23T15:23:24Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/synology-security-advisory-av26-1193",
+    "advisory_id": "AV26-1193",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "DiskStation Manager (DSM)\n\tPrior to 7.1.1-42962-10\nPrior to 7.2.1-69057-14\nPrior to 7.2.2-72806-11\nPrior to 7.3.2-86009-6\nPrior to 7.4.1-90080-2",
+        "Prior to 7.1.1-42962-10",
+        "Prior to 7.2.1-69057-14",
+        "Prior to 7.2.2-72806-11",
+        "Prior to 7.3.2-86009-6",
+        "Prior to 7.4.1-90080-2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
