@@ -1,0 +1,26 @@
+{
+    "id": "splunk-security-advisory-av26-1196",
+    "title": "Splunk security advisory (AV26-1196)",
+    "public_time": "2026-11-23T15:52:16Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196",
+    "advisory_id": "AV26-1196",
+    "type": "advisory",
+    "description": "As of November 19, 2026, Splunk is affected by vulnerabilities in the following products:",
+    "products": [
+        "Splunk Enterprise\n\tPrior to 10.6.1\nPrior to 10.4.5\nPrior to 10.2.9\nPrior to 10.0.12\nPrior to 9.4.17",
+        "Prior to 10.6.1",
+        "Prior to 10.4.5",
+        "Prior to 10.2.9",
+        "Prior to 10.0.12",
+        "Prior to 9.4.17",
+        "Splunk Enterprise Security\n\tPrior to 8.7.0",
+        "Prior to 8.7.0",
+        "Splunk App for PCI Compliance\n\tPrior to 8.7.0",
+        "Prior to 8.7.0",
+        "Splunk SOAR\n\tPrior to 8.8.0",
+        "Prior to 8.8.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
