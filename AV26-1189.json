@@ -1,0 +1,22 @@
+{
+    "id": "ibm-security-advisory-av26-1189",
+    "title": "IBM security advisory (AV26-1189)",
+    "public_time": "2026-11-23T13:38:52Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1189",
+    "advisory_id": "AV26-1189",
+    "type": "advisory",
+    "description": "As of November 19, 2026, IBM is affected by vulnerabilities in the following products:",
+    "products": [
+        "Engineering AI Hub\n\tPrior to or equal to 1.0.0\nPrior to or equal to 1.1.0\nPrior to or equal to 1.2.0\nPrior to or equal to 1.3.0\nPrior to or equal to 1.4.0",
+        "Prior to or equal to 1.0.0",
+        "Prior to or equal to 1.1.0",
+        "Prior to or equal to 1.2.0",
+        "Prior to or equal to 1.3.0",
+        "Prior to or equal to 1.4.0",
+        "Guardium Data Protection\n\tPrior to or equal to 12.2",
+        "Prior to or equal to 12.2"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
