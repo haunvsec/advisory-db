@@ -1,0 +1,16 @@
+{
+    "id": "control-systems-codesys-security-advisory-av26-1199",
+    "title": "[Control systems] Codesys security advisory (AV26-1199)",
+    "public_time": "2026-11-24T13:23:33Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-codesys-security-advisory-av26-1199",
+    "advisory_id": "AV26-1199",
+    "type": "advisory",
+    "description": "As of November 24, 2026, Codesys is affected by vulnerabilities in the following product:",
+    "products": [
+        "Visualization\n\tPrior to 4.11.0.0",
+        "Prior to 4.11.0.0"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
