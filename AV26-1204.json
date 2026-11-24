@@ -1,0 +1,16 @@
+{
+    "id": "erlang-security-advisory-av26-1204",
+    "title": "Erlang security advisory (AV26-1204)",
+    "public_time": "2026-11-24T19:59:34Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-1204",
+    "advisory_id": "AV26-1204",
+    "type": "advisory",
+    "description": "As of November 24, 2026, Erlang is affected by vulnerabilities in the following product:",
+    "products": [
+        "OTP\n\tMultiple versions",
+        "Multiple versions"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
