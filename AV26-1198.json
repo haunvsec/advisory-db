@@ -1,0 +1,18 @@
+{
+    "id": "suse-linux-security-advisory-av26-1198",
+    "title": "SUSE Linux security advisory (AV26-1198)",
+    "public_time": "2026-11-24T12:59:47Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1198",
+    "advisory_id": "AV26-1198",
+    "type": "advisory",
+    "description": "As of November 24, 2026, SUSE is affected by vulnerabilities in the following product:",
+    "products": [
+        "NeuVector\n\tPrior to 5.7.0\nPrior to 5.5.6\nPrior to 5.6.5",
+        "Prior to 5.7.0",
+        "Prior to 5.5.6",
+        "Prior to 5.6.5"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
