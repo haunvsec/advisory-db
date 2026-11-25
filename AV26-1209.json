@@ -1,0 +1,20 @@
+{
+    "id": "drupal-security-advisory-av26-1209",
+    "title": "Drupal security advisory (AV26-1209)",
+    "public_time": "2026-11-25T19:21:44Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1209",
+    "advisory_id": "AV26-1209",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "Drupal core\n\tPrior to 10.6.23\nPrior to 11.3.23\nPrior to 11.4.14",
+        "Prior to 10.6.23",
+        "Prior to 11.3.23",
+        "Prior to 11.4.14"
+    ],
+    "cves": [
+        "CVE-2026-136716"
+    ],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
