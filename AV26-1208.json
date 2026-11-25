@@ -1,0 +1,23 @@
+{
+    "id": "control-systems-hitachi-security-advisory-av26-1208",
+    "title": "[Control systems] Hitachi security advisory (AV26-1208)",
+    "public_time": "2026-11-25T19:11:51Z",
+    "url": "https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-1208",
+    "advisory_id": "AV26-1208",
+    "type": "advisory",
+    "description": "",
+    "products": [
+        "RTU500 series CMU firmware\n\tPrior to or equal to 13.9.1\nPrior to or equal to 12.7.8\nPrior to or equal to 13.5.4\nPrior to or equal to 13.6.3\nPrior to or equal to 13.7.8\nPrior to or equal to 13.8.2",
+        "Prior to or equal to 13.9.1",
+        "Prior to or equal to 12.7.8",
+        "Prior to or equal to 13.5.4",
+        "Prior to or equal to 13.6.3",
+        "Prior to or equal to 13.7.8",
+        "Prior to or equal to 13.8.2",
+        "Cosminexus Component Container\n\tMultiple versions and platforms",
+        "Multiple versions and platforms"
+    ],
+    "cves": [],
+    "solution": "Review the references and apply the necessary updates.",
+    "references": []
+}
